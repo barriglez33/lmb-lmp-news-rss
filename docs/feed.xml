@@ -6,8 +6,23 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sat, 29 Aug 2026 08:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:33:17 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Cae Sultanes ante Toros]]></title>
+      <link>https://elporvenir.mx/deportes/cae-sultanes-ante-toros/1020504</link>
+      <guid isPermaLink="false">ec3e3fe54ebad6c551c6</guid>
+      <pubDate>Sat, 29 Aug 2026 08:33:00 +0000</pubDate>
+      <source><![CDATA[El Porvenir - Portada]]></source>
+      <dc:creator><![CDATA[Alberto Cant; Uacute]]></dc:creator>
+      <description><![CDATA[Cae Sultanes ante Toros
+Publicación:29-08-2026
+En un duelo defensivo y de pitcheo, los Sultanes comenzaron con el pie izquierdo la Final de la Zona Norte de la Liga Mexicana de Beisbol, todo esto al caer 2-0 en Tijuana ante los Toros.
+Las carreras de los Toros llegaron en la parte baja de cuarta entrada y en la octava, primero con un jonrón de Justin Turner y después con esa misma fórmula, pero ahora a cargo de Franchy Cordero.
+En la jornada mont…]]></description>
+      <content:encoded><![CDATA[<p>Cae Sultanes ante Toros<br>Publicación:29-08-2026<br>En un duelo defensivo y de pitcheo, los Sultanes comenzaron con el pie izquierdo la Final de la Zona Norte de la Liga Mexicana de Beisbol, todo esto al caer 2-0 en Tijuana ante los Toros.<br>Las carreras de los Toros llegaron en la parte baja de cuarta entrada y en la octava, primero con un jonrón de Justin Turner y después con esa misma fórmula, pero ahora a cargo de Franchy Cordero.<br>En la jornada monticular vieron acción seis brazos de Tijuana que influyeron para guardar el cero, siendo estos el dominicano Adonis Medina como abridor, seguido por los relevistas Brady Feigl, Adbert Alzolay, Jonathan Aro, Roel Ramírez y el cerrador Brett de Geus.<br>Todos ellos se combinaron para nueve hits, dos bases por bolas y siete ponches.<br>El segundo de la serie entre Sultanes y Toros va a ser este sábado en Tijuana, arrancando el mismo a las 20:35 horas.<br>« El Porvenir/ Alberto Cantú »</p>]]></content:encoded>
+      <category>Toros de Tijuana</category>
+    </item>
     <item>
       <title><![CDATA[Toros de Tijuana vencen a los Sultanes de MTY y se llevan el 1er juego de la serie de campeonato de la Zona Norte - Diario Tijuana]]></title>
       <link>https://diariotijuana.info/2026/08/toros-de-tijuana-vencen-a-los-sultanes-de-mty-y-se-llevan-el-1er-juego-de-la-serie-de-campeonato-de-la-zona-norte</link>
@@ -504,6 +519,7 @@ La novena choca se impuso 5-3 en un dramático séptimo encuentro que tuvo que d
       <category>Liga Mexicana de Béisbol</category>
       <category>Guerreros de Oaxaca</category>
       <category>LMB</category>
+      <category>Olmecas de Tabasco</category>
     </item>
     <item>
       <title><![CDATA[Toros-vs Sultanes: Dónde-ver juego-1 de la-Final Zona-Norte LMB-2026]]></title>
@@ -2078,18 +2094,6 @@ Los Sultanes de Monterrey definieron su rotación abridora de cara a la Final de
       <content:encoded><![CDATA[<p>Sultanes enfrenta a Toros de Tijuana en la Serie de Campeonato de la Zona Norte, donde Javier Salazar, infielder de la novena regia, recordó la serie anual contra los fronterizos que perdieron en la LMB, pero sabe que sacarán su mejor versión en el momento adecuado.<br>“Para mí fueron series muy buenas contra Tijuana. Para mí jugamos de la mejor manera. Para mí fue un Sultanes que jugó muy intensamente las series que tuvimos contra ellos. Yo creo que va a ser igual, una serie muy buena, muy fuerte, va a sacar chispas. Y yo creo que en el mejor momento los Sultanes van a sacar su mejor versión”<br>Roberto Kelly, un viejo conocido de Sultanes<br>Los Toros tiene como manager a Roberto Kelly, alguien muy conocido por los Fantasmas Grises, pero Salazar considera que no deben enfocarse en su figura ni buscar cambiar su estilo de juego durante la serie.<br>“Nosotros tenemos que jugarle como lo hemos venido haciendo, no tenemos que cambiar nada porque sea un rival, porque sea el otro. Yo creo que tenemos que venir jugando intensamente, como lo venimos haciendo desde la primer serie de playoff. Y bueno, yo creo que ese va a ser el método para poder salir con la victoria”<br>Javi es oriundo de Guadalupe, Nuevo León, un pelotero regio que tendrá una final especial por estar jugando con Sultanes y que sabe que se están encontrando la mejor versión en los Playoffs.<br>“Es un momento muy grande el que estamos viviendo, estamos teniendo una muy buena racha. Yo creo que todo esto se está reflejando hasta estos momentos, el trabajo de toda la temporada, sufrimos por cosas buenas, pasamos por cosas malas también. Y hasta ahorita estamos encontrándonos, digamos, al cien por ciento lo que es el verdadero Sultanes de Monterrey. Nosotros encontramos la química, encontramos la armonía de poder jugar de esta manera y saber sacar los resultados a la hora que se tienen que dar”.</p>]]></content:encoded>
       <category>Sultanes de Monterrey</category>
       <category>LMB</category>
-    </item>
-    <item>
-      <title><![CDATA[Junior Fernández: Ambiente en Walmart Park es similar a Grandes Ligas]]></title>
-      <link>https://www.mediotiempo.com/lmb/sultanes/junior-fernandez-compara-ambiente-walmart-ligas-similar</link>
-      <guid isPermaLink="false">567fd2ec647f69eba8fe</guid>
-      <pubDate>Wed, 26 Aug 2026 21:27:30 +0000</pubDate>
-      <source><![CDATA[Mediotiempo]]></source>
-      <dc:creator><![CDATA[Jorge Rosales]]></dc:creator>
-      <description><![CDATA[Los Sultanes de Monterrey se preparan para la Serie de Campeonato de la Zona Norte ante Toros de Tijuana, donde Walmart Park estará lleno, un ambiente que gusta al relevista Junior Fernández, quien dijo es similar a lo que se vive en las Grandes Ligas de Estados Unidos.
-“Ah, se siente bien. Es lo que me gusta cuando el estadio está lleno. Es algo similar a las Grandes Ligas allá en los Estados Unidos y me gusta, no hay nada que no haya vivido ant…]]></description>
-      <content:encoded><![CDATA[<p>Los Sultanes de Monterrey se preparan para la Serie de Campeonato de la Zona Norte ante Toros de Tijuana, donde Walmart Park estará lleno, un ambiente que gusta al relevista Junior Fernández, quien dijo es similar a lo que se vive en las Grandes Ligas de Estados Unidos.<br>“Ah, se siente bien. Es lo que me gusta cuando el estadio está lleno. Es algo similar a las Grandes Ligas allá en los Estados Unidos y me gusta, no hay nada que no haya vivido antes, pero es mejor cuando el estadio está así full, te da ánimo, te da adrenalina y ese es el ambiente de playoff”.<br>El pitcher dominicano mandó un mensaje a los aficionados de los Fantasmas Grises para que los apoyen en la serie contra los fronterizos, donde se dijo listo para dar un gran espectáculo en el diamante.<br>“Bueno, que vengan a apoyarnos y que nosotros vamos a estar listos todos los días para dar el mejor espectáculo para ustedes los fanáticos y lo más importante para ganar el juego y que no se rindan, que vengan a apoyar”.<br>¡Equipo y afición, juntos por el campeonato de la Zona Norte! ????<br>¡Nos vemos en casa el 31 de agosto y uno y dos* de septiembre! ¡PREVENTA ABONADOS YA DISPONIBLES! ???? https://t.co/SDKqjvbgp9 pic.twitter.com/gU3vwxaBt2<br>Junior llegó a Sultanes apenas en agosto de este 2026 para apuntalar el bullpen de cara a la recta final de la temporada y de los Playoffs, y se dijo contento por la oportunidad que recibió en la novena regia.<br>“Para mí es un orgullo estar aquí, gracias a los Sultanes por la oportunidad que me han dado de venir aquí a representar al equipo. Y me siento muy bien desde el primer día me han tratado muy bien y siempre listo, ready, para salir a jugar y dar lo mejor de mí”.</p>]]></content:encoded>
-      <category>Sultanes de Monterrey</category>
     </item>
   </channel>
 </rss>

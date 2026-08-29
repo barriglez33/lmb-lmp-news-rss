@@ -1,5 +1,21 @@
 [
   {
+    "id": "ec3e3fe54ebad6c551c6",
+    "title": "Cae Sultanes ante Toros",
+    "source": "El Porvenir - Portada",
+    "author": "Alberto Cant; Uacute",
+    "published_iso": "2026-08-29T08:33:00+00:00",
+    "published_rfc2822": "Sat, 29 Aug 2026 08:33:00 +0000",
+    "published_display": "2026-08-29 08:33 UTC",
+    "url": "https://elporvenir.mx/deportes/cae-sultanes-ante-toros/1020504",
+    "google_news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBicGZDVnkxYUJNNXlrdy0xRWdqTk5EZWNmbmN4aFU2bE9mcEJsSlQ2UGExaTFYeUhjZUFwRDFvUmFZNVlxYjdlSllUX2FvSHF0NlZpUHBCZGZjVTJUZmVYZkFBQkxoMkF2eVptb1NpOA?oc=5",
+    "body": "Cae Sultanes ante Toros\nPublicación:29-08-2026\nEn un duelo defensivo y de pitcheo, los Sultanes comenzaron con el pie izquierdo la Final de la Zona Norte de la Liga Mexicana de Beisbol, todo esto al caer 2-0 en Tijuana ante los Toros.\nLas carreras de los Toros llegaron en la parte baja de cuarta entrada y en la octava, primero con un jonrón de Justin Turner y después con esa misma fórmula, pero ahora a cargo de Franchy Cordero.\nEn la jornada monticular vieron acción seis brazos de Tijuana que influyeron para guardar el cero, siendo estos el dominicano Adonis Medina como abridor, seguido por los relevistas Brady Feigl, Adbert Alzolay, Jonathan Aro, Roel Ramírez y el cerrador Brett de Geus.\nTodos ellos se combinaron para nueve hits, dos bases por bolas y siete ponches.\nEl segundo de la serie entre Sultanes y Toros va a ser este sábado en Tijuana, arrancando el mismo a las 20:35 horas.\n« El Porvenir/ Alberto Cantú »",
+    "matched_queries": [
+      "Toros de Tijuana"
+    ],
+    "collected_iso": "2026-08-29T09:30:54.752046+00:00"
+  },
+  {
     "id": "0f45f0fd7eec1449c66d",
     "title": "Toros de Tijuana vencen a los Sultanes de MTY y se llevan el 1er juego de la serie de campeonato de la Zona Norte - Diario Tijuana",
     "source": "Diario Tijuana",
@@ -599,7 +615,8 @@
     "matched_queries": [
       "Liga Mexicana de Béisbol",
       "Guerreros de Oaxaca",
-      "LMB"
+      "LMB",
+      "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-08-28T21:51:20.850569+00:00"
   },
