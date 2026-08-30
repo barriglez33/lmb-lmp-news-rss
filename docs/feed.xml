@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sun, 30 Aug 2026 08:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 09:30:49 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Sultanes derrota a Toros juego 2 Final Zona Norte LMB 2026 | Resumen]]></title>
@@ -171,6 +171,19 @@ Los dirigidos por Facundo Müller reaccionaron durante el segundo ep…]]></desc
       <category>Dorados de Chihuahua</category>
     </item>
     <item>
+      <title><![CDATA[#Cuauhtemoc | Manzaneros se corona campeón en la casa de Dorados]]></title>
+      <link>https://arnoticias.com.mx/pub/70278</link>
+      <guid isPermaLink="false">c611e885d147b7adecc2</guid>
+      <pubDate>Sun, 30 Aug 2026 04:38:34 +0000</pubDate>
+      <source><![CDATA[AR Noticias]]></source>
+      <dc:creator><![CDATA[AR Noticias]]></dc:creator>
+      <description><![CDATA[Cuauhtémoc, Chih. -Se acabó la espera! Después de más de ocho años, los Manzaneros de Cuauhtémoc volvieron a coronarse campeones del Estatal de Béisbol, derrotando este sábado a los Dorados de Chihuahua en su propia casa.
+El triunfo desató una gran celebración entre la afición manzanera, que durante años esperó volver a levantar el trofeo.
+La historia de este torneo fue diferente para la Sexta Zona. Bajo la dirección de Luis Pérez, el equipo most…]]></description>
+      <content:encoded><![CDATA[<p>Cuauhtémoc, Chih. -Se acabó la espera! Después de más de ocho años, los Manzaneros de Cuauhtémoc volvieron a coronarse campeones del Estatal de Béisbol, derrotando este sábado a los Dorados de Chihuahua en su propia casa.<br>El triunfo desató una gran celebración entre la afición manzanera, que durante años esperó volver a levantar el trofeo.<br>La historia de este torneo fue diferente para la Sexta Zona. Bajo la dirección de Luis Pérez, el equipo mostró solidez desde el inicio, ganando series tanto en casa como fuera y dejando atrás temporadas en las que incluso se habían quedado fuera de las finales.<br>Este sábado, todo ese esfuerzo tuvo recompensa, Manzaneros conquistó el campeonato estatal y lo hizo en territorio de los Dorados.<br>Cuauhtémoc vuelve a celebrar y la Sexta Zona vuelve a escribir su nombre en lo más alto del béisbol de Chihuahua.</p>]]></content:encoded>
+      <category>Dorados de Chihuahua</category>
+    </item>
+    <item>
       <title><![CDATA[Dorados supera por 24 puntos a Mineros - NTR Zacatecas]]></title>
       <link>https://ntrzacatecas.com/2026/08/dorados-supera-por-24-puntos-a-mineros/</link>
       <guid isPermaLink="false">4869e4465858c3ec08ad</guid>
@@ -203,6 +216,28 @@ Anyelo Cisneros encabezó la ofensiva de Mineros con…]]></description>
 | Tecos | 36…]]></description>
       <content:encoded><![CDATA[<p>Conspiradores fortalece su estructura deportiva con Roberto Vizcarra y Oscar Romero<br>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
       <category>Conspiradores de Querétaro</category>
+    </item>
+    <item>
+      <title><![CDATA[Abraham Favela, un sueño que comenzó en ligas pequeñas de Tijuana]]></title>
+      <link>https://lmb.com.mx/noticias/abraham-favela-un-sueno-que-comenzo-en-ligas-pequenas-de-tijuana</link>
+      <guid isPermaLink="false">2baba706b47e6fde5f1b</guid>
+      <pubDate>Sun, 30 Aug 2026 02:32:20 +0000</pubDate>
+      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
+      <description><![CDATA[Últimas Noticias
+| Equipo | G | P | % | GB | 
+|---|---|---|---|---|
+| Toros | 60 | 31 | .659 | - | 
+| Caliente  | 51 | 42 | .548 | 10.0 | 
+| Sultanes | 49 | 44 | .527 | 12.0 | 
+| Charros | 48 | 45 | .516 | 13.0 | 
+| Acereros | 48 | 45 | .516 | 13.0 | 
+| Algodoneros | 46 | 47 | .495 | 15.0 | 
+| Rieleros | 42 | 47 | .472 | 17.0 | 
+| Saraperos | 38 | 55 | .409 | 23.0 | 
+| Tecos | 36 | 57 | .387 | 25.0 | 
+| Dorados | 35 | 58 | .376 | 26.0 |]]></description>
+      <content:encoded><![CDATA[<p>Últimas Noticias<br>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
+      <category>Toros de Tijuana</category>
     </item>
     <item>
       <title><![CDATA[Pericos y Olmecas, por el título sureño de la LMB Banorte]]></title>
@@ -2107,34 +2142,6 @@ Los Fantasmas Grises llegaron…]]></description>
 La batalla comenzará este viernes 28 de agosto, cuando los Fantasmas Grises visiten el Estadio de Toros…]]></description>
       <content:encoded><![CDATA[<p>Tijuana.- Los Sultanes de Monterrey están nuevamente a cuatro victorias de disputar la Serie del Rey. El equipo regiomontano se instaló en la Serie de Campeonato de la Zona Norte después de superar en cinco juegos a los Generales de Durango y ahora se medirá ante los Toros de Tijuana por el boleto a la gran Final de la Liga Mexicana de Beisbol.<br>La batalla comenzará este viernes 28 de agosto, cuando los Fantasmas Grises visiten el Estadio de Toros para disputar el Juego 1, programado para las 20:35 horas, tiempo del centro de México.<br>Sultanes avanzó a la Final de Zona después de imponerse a Durango en una serie en la que sus lanzadores lograron controlar a una ofensiva que había sido una de las más peligrosas durante la temporada.<br>Los brazos de Manny Bañuelos, Daniel Cruz y Daniel Mengden fueron fundamentales para el avance regiomontano, mientras que la ofensiva respondió en los momentos importantes. Monterrey ganó los tres encuentros disputados en casa y terminó llevándose la serie por 4-1.<br>Los resultados fueron:<br>•    Juego 1: Sultanes 6-2 Durango<br> •    Juego 2: Sultanes 5-17 Durango<br> •    Juego 3: Durango 5-6 Sultanes<br> •    Juego 4: Durango 0-3 Sultanes<br> •    Juego 5: Durango 6-8 Sultanes<br>Ahora, los dirigidos por Henry Blanco tendrán enfrente a unos Toros que también necesitaron cinco encuentros para avanzar. Tijuana derrotó a los Charros de Jalisco y consiguió su pase a la Serie de Campeonato del Norte, instancia que no disputaba desde 2021.<br>El antecedente inmediato favorece a los fronterizos. Durante la temporada regular 2026, Sultanes y Toros se enfrentaron en nueve ocasiones, con saldo de seis triunfos para Tijuana y tres para Monterrey. Sin embargo, los enfrentamientos dejaron ver la calidad de ambos rosters, por lo que se espera una serie cerrada.<br>Sultanes, la mejor ofensiva de los playoffs<br>La ofensiva regiomontana llega encendida a esta instancia. Sultanes presume el mejor promedio colectivo de bateo de la postemporada con .326, además de liderar los playoffs con 122 imparables, 29 dobles y un porcentaje de embasado de .386.<br>En lo individual, Josh Lester encabeza la postemporada con seis dobles, José Cardona suma cuatro bases robadas, Maikel Franco ocupa el segundo puesto en cuadrangulares con tres y Omar Narváez aparece entre los mejores bateadores con promedio de .441.<br>Rotaciones para el inicio de la serie<br>Sultanes<br> •    Juego 1: Manny Bañuelos<br> •    Juego 2: Daniel Mengden<br> •    Juego 3: Daniel Cruz<br> •    Juego 4: Jared Wetherbee<br> Toros de Tijuana<br> •    Juego 1: Adonis Medina<br> •    Juego 2: Noah Skirrow<br> •    Juego 3: Daniel Martínez<br> •    Juego 4: David Reyes <br>Ficha del Juego 1<br>Serie: Final de la Zona Norte<br> Partido: Toros de Tijuana vs. Sultanes de Monterrey<br> Fecha: Viernes 28 de agosto<br> Estadio: Toros <br> Hora: 20:35 horas <br>Los demás juegos de la serie<br>•    Juego 2: sábado 29 de agosto | Toros Mobil Park | 20:35 horas<br> •    Juego 3: lunes 31 de agosto | Walmart Park | 19:30 horas<br> •    Juego 4: martes 1 de septiembre | Walmart Park | 19:30 horas<br> •    Juego 5: miércoles 2 de septiembre | Walmart Park | 19:30 horas*<br> •    Juego 6: viernes 4 de septiembre | Toros Mobil Park |  8:05 pm de Tijuana - 9:05 de Monterrey *<br> •    Juego 7: sábado 5 de septiembre | Toros Mobil Park | 7:35 pm de Tijuana - 8:35 pm de Monterrey*<br> *En caso de ser necesarios.</p>]]></content:encoded>
       <category>Serie del Rey</category>
-    </item>
-    <item>
-      <title><![CDATA[Costo de boletos para Pericos de Puebla en la Final de la Zona Sur]]></title>
-      <link>https://www.milenio.com/beisbol/lmb/costo-boletos-pericos-puebla-zona-sur</link>
-      <guid isPermaLink="false">9bb9e9ab1148b62d1a7e</guid>
-      <pubDate>Thu, 27 Aug 2026 19:33:59 +0000</pubDate>
-      <source><![CDATA[MILENIO]]></source>
-      <dc:creator><![CDATA[Jaime Zambrano]]></dc:creator>
-      <description><![CDATA[El Club Pericos de Puebla conquistó su boleto a la Final de la Zona Sur de la Liga Mexicana de Beisbol (LMB), instancia a la que no llegaba desde la temporada 2023, año en el que conquistó el campeonato.
-La novena verde, tras superar a los Diablos Rojos del México en la Serie de Zona por cuatro juegos a dos, se mantiene en la lucha por conquistar su séptimo título en el Rey de los Deportes.
-Hace tres temporadas, en 2023, el escuadrón emplumado co…]]></description>
-      <content:encoded><![CDATA[<p>El Club Pericos de Puebla conquistó su boleto a la Final de la Zona Sur de la Liga Mexicana de Beisbol (LMB), instancia a la que no llegaba desde la temporada 2023, año en el que conquistó el campeonato.<br>La novena verde, tras superar a los Diablos Rojos del México en la Serie de Zona por cuatro juegos a dos, se mantiene en la lucha por conquistar su séptimo título en el Rey de los Deportes.<br>Hace tres temporadas, en 2023, el escuadrón emplumado conquistó su más reciente campeonato de la LMB luego de superar a los pingos en la semifinal, a los Leones de Yucatán en la Final de Zona y a los Algodoneros de Unión Laguna en la Serie del Rey.<br>Pericos llega a la Final de Zona tras vencer a tercer lugar y a líder<br>El Club Pericos de Puebla se instaló en la Final de la Zona Sur de la Liga Mexicana de Beisbol (LMB) tras vencer en el Primer Playoff cuatro juegos a uno a los Piratas de Campeche, conjunto que clasificó como el tercer lugar del contingente sureño; y luego de superar cuatro juegos a dos, en la Serie de Zona, la semifinal, a los Diablos Rojos del México, líder general.<br>La novena verde clasificó a la postemporada luego de colocarse en el cuarto lugar de la Zona Sur con 51 partidos ganados por 42 perdidos. Por sexto año consecutivo, el escuadrón emplumado conquistó su pase a los playoffs por sexto año de forma consecutiva.<br>A lo largo de la fase regular, el Club Pericos de Puebla fue líder de robos de base en la Liga Mexicana de Béisbol, con un total de 139, este es el mejor registro de los emplumados en esta última etapa de la franquicia.<br>De manera adicional, solo cinco novenas batearon arriba de .300, entre ellas está Pericos de Puebla, con .301. Los emplumados fueron la novena con la tercera cantidad más baja de ponches recibidos, con 646.<br>En lo individual, Antonio Santos, serpentinero del escuadrón emplumado, se quedó como líder de triunfos de la LMB, al igual fue quien más aperturas tuvo; por su parte, Vladimir Gutiérrez se quedó con el tercer puesto de ponches con 95 y en innings lanzados con 100; Emailin Montilla fue quien más apariciones tuvo en el centro del diamante con 57 y fue seguido por Liarvis Breto con 54.<br>Un total de tres peloteros emplumados superaron la barrera de los 100 imparables, entre ellos, Cristhian Adames con 112; Herlis Rodríguez con 102; y Luis Castro con 102. Cristhian Adames, pelotero dominicano, fue el caballo de hierro de los emplumados, al disputar todos los encuentros de la campaña.<br>Costo de boletos para la Serie de Campeonato<br>El Club Pericos de Puebla informó que, a partir de este viernes 28 de agosto, comenzará la venta de boletos para la Serie de Campeonato de la Zona Sur en las taquillas del Nido Verde, el estadio Hermanos Serdán.<br>Las localidades oscilan entre los 240 y los 480 pesos y la venta estará limitada a cuatro boletos por persona. Las localidades en<br>- Central: 480 pesos<br>- Preferente Primera: 410 pesos<br>- Lateral Primera: 390 pesos<br>- Preferente Tercera: 390 pesos<br>- Lateral Tercera: 360 pesos<br>- Bleachers: 240 pesos<br>CHM</p>]]></content:encoded>
-      <category>Liga Mexicana de Béisbol</category>
-      <category>Pericos de Puebla</category>
-      <category>LMB</category>
-    </item>
-    <item>
-      <title><![CDATA[Costo de boletos para Pericos de Puebla en la Final de la Zona Sur]]></title>
-      <link>https://amp.milenio.com/beisbol/lmb/costo-boletos-pericos-puebla-zona-sur</link>
-      <guid isPermaLink="false">b7eabfd4bfb2b1b46051</guid>
-      <pubDate>Thu, 27 Aug 2026 19:33:59 +0000</pubDate>
-      <source><![CDATA[MILENIO]]></source>
-      <dc:creator><![CDATA[Jaime Zambrano]]></dc:creator>
-      <description><![CDATA[El Club Pericos de Puebla conquistó su boleto a la Final de la Zona Sur de la Liga Mexicana de Beisbol (LMB), instancia a la que no llegaba desde la temporada 2023, año en el que conquistó el campeonato.
-La novena verde, tras superar a los Diablos Rojos del México en la Serie de Zona por cuatro juegos a dos, se mantiene en la lucha por conquistar su séptimo título en el Rey de los Deportes.
-Hace tres temporadas, en 2023, el escuadrón emplumado co…]]></description>
-      <content:encoded><![CDATA[<p>El Club Pericos de Puebla conquistó su boleto a la Final de la Zona Sur de la Liga Mexicana de Beisbol (LMB), instancia a la que no llegaba desde la temporada 2023, año en el que conquistó el campeonato.<br>La novena verde, tras superar a los Diablos Rojos del México en la Serie de Zona por cuatro juegos a dos, se mantiene en la lucha por conquistar su séptimo título en el Rey de los Deportes.<br>Hace tres temporadas, en 2023, el escuadrón emplumado conquistó su más reciente campeonato de la LMB luego de superar a los pingos en la semifinal, a los Leones de Yucatán en la Final de Zona y a los Algodoneros de Unión Laguna en la Serie del Rey.<br>Pericos llega a la Final de Zona tras vencer a tercer lugar y a líder<br>El Club Pericos de Puebla se instaló en la Final de la Zona Sur de la Liga Mexicana de Beisbol (LMB) tras vencer en el Primer Playoff cuatro juegos a uno a los Piratas de Campeche, conjunto que clasificó como el tercer lugar del contingente sureño; y luego de superar cuatro juegos a dos, en la Serie de Zona, la semifinal, a los Diablos Rojos del México, líder general.<br>La novena verde clasificó a la postemporada luego de colocarse en el cuarto lugar de la Zona Sur con 51 partidos ganados por 42 perdidos. Por sexto año consecutivo, el escuadrón emplumado conquistó su pase a los playoffs por sexto año de forma consecutiva.<br>A lo largo de la fase regular, el Club Pericos de Puebla fue líder de robos de base en la Liga Mexicana de Béisbol, con un total de 139, este es el mejor registro de los emplumados en esta última etapa de la franquicia.<br>De manera adicional, solo cinco novenas batearon arriba de .300, entre ellas está Pericos de Puebla, con .301. Los emplumados fueron la novena con la tercera cantidad más baja de ponches recibidos, con 646.<br>En lo individual, Antonio Santos, serpentinero del escuadrón emplumado, se quedó como líder de triunfos de la LMB, al igual fue quien más aperturas tuvo; por su parte, Vladimir Gutiérrez se quedó con el tercer puesto de ponches con 95 y en innings lanzados con 100; Emailin Montilla fue quien más apariciones tuvo en el centro del diamante con 57 y fue seguido por Liarvis Breto con 54.<br>Un total de tres peloteros emplumados superaron la barrera de los 100 imparables, entre ellos, Cristhian Adames con 112; Herlis Rodríguez con 102; y Luis Castro con 102. Cristhian Adames, pelotero dominicano, fue el caballo de hierro de los emplumados, al disputar todos los encuentros de la campaña.<br>Costo de boletos para la Serie de Campeonato<br>El Club Pericos de Puebla informó que, a partir de este viernes 28 de agosto, comenzará la venta de boletos para la Serie de Campeonato de la Zona Sur en las taquillas del Nido Verde, el estadio Hermanos Serdán.<br>Las localidades oscilan entre los 240 y los 480 pesos y la venta estará limitada a cuatro boletos por persona. Las localidades en<br>- Central: 480 pesos<br>- Preferente Primera: 410 pesos<br>- Lateral Primera: 390 pesos<br>- Preferente Tercera: 390 pesos<br>- Lateral Tercera: 360 pesos<br>- Bleachers: 240 pesos<br>CHM</p>]]></content:encoded>
-      <category>Pericos de Puebla</category>
     </item>
   </channel>
 </rss>
