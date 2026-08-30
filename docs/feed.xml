@@ -6,8 +6,42 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:32:40 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Dorados supera por 24 puntos a Mineros - NTR Zacatecas]]></title>
+      <link>https://ntrzacatecas.com/2026/08/dorados-supera-por-24-puntos-a-mineros/</link>
+      <guid isPermaLink="false">4869e4465858c3ec08ad</guid>
+      <pubDate>Sun, 30 Aug 2026 02:46:34 +0000</pubDate>
+      <source><![CDATA[NTR Zacatecas]]></source>
+      <dc:creator><![CDATA[Alonso Rodriguez; ABRAHAM FLORES; NTRZACATECAS COM]]></dc:creator>
+      <description><![CDATA[CHIHUAHUA.— Mineros de Zacatecas cayó 95-71 ante Dorados de Chihuahua en el primer encuentro de la serie correspondiente a la Liga Nacional de Baloncesto Profesional (LNBP).
+La quinteta zacatecana fue superada durante los cuatro periodos y no encontró la respuesta ofensiva para mantenerse en el encuentro, ante un conjunto local que tomó el control del marcador y terminó con ventaja de 24 puntos.
+Anyelo Cisneros encabezó la ofensiva de Mineros con…]]></description>
+      <content:encoded><![CDATA[<p>CHIHUAHUA.— Mineros de Zacatecas cayó 95-71 ante Dorados de Chihuahua en el primer encuentro de la serie correspondiente a la Liga Nacional de Baloncesto Profesional (LNBP).<br>La quinteta zacatecana fue superada durante los cuatro periodos y no encontró la respuesta ofensiva para mantenerse en el encuentro, ante un conjunto local que tomó el control del marcador y terminó con ventaja de 24 puntos.<br>Anyelo Cisneros encabezó la ofensiva de Mineros con 18 puntos en 25 minutos de participación. R. Ferguson aportó 12 unidades, seis rebotes y cuatro asistencias, mientras que Saunders consiguió 13 puntos.<br>Por Dorados, W. Cherry fue el principal anotador del encuentro con 27 puntos, seis asistencias, cinco rebotes y tres robos.<br>Mineros buscará una reacción en el segundo partido de la serie ante Dorados, con el objetivo de corregir los aspectos que le impidieron competir por el resultado en el primer compromiso.</p>]]></content:encoded>
+      <category>Dorados de Chihuahua</category>
+    </item>
+    <item>
+      <title><![CDATA[Conspiradores fortalece su estructura deportiva con Roberto Vizcarra y Oscar Romero]]></title>
+      <link>https://lmb.com.mx/noticias/conspiradores-fortalece-su-estructura-deportiva-con-roberto-vizcarra-y-oscar-romero</link>
+      <guid isPermaLink="false">976a9479348b22e8a547</guid>
+      <pubDate>Sun, 30 Aug 2026 02:45:40 +0000</pubDate>
+      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
+      <description><![CDATA[Conspiradores fortalece su estructura deportiva con Roberto Vizcarra y Oscar Romero
+| Equipo | G | P | % | GB | 
+|---|---|---|---|---|
+| Toros | 60 | 31 | .659 | - | 
+| Caliente  | 51 | 42 | .548 | 10.0 | 
+| Sultanes | 49 | 44 | .527 | 12.0 | 
+| Charros | 48 | 45 | .516 | 13.0 | 
+| Acereros | 48 | 45 | .516 | 13.0 | 
+| Algodoneros | 46 | 47 | .495 | 15.0 | 
+| Rieleros | 42 | 47 | .472 | 17.0 | 
+| Saraperos | 38 | 55 | .409 | 23.0 | 
+| Tecos | 36…]]></description>
+      <content:encoded><![CDATA[<p>Conspiradores fortalece su estructura deportiva con Roberto Vizcarra y Oscar Romero<br>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
+      <category>Conspiradores de Querétaro</category>
+    </item>
     <item>
       <title><![CDATA[Dónde ver Pericos vs. Olmecas EN VIVO Juego 1 HOY Playoffs LMB 2026]]></title>
       <link>https://www.mediotiempo.com/beisbol/lmb/pericos-vs-olmecas-en-vivo-donde-ver-juego-1-hoy-playoffs-lmb-2026</link>
@@ -38,6 +72,7 @@ La Zona Sur busca nuevo campeón y los Pericos llegan al Estadio Parque Centenar
       <category>Liga Mexicana de Béisbol</category>
       <category>Pericos de Puebla</category>
       <category>Olmecas de Tabasco</category>
+      <category>LMB</category>
     </item>
     <item>
       <title><![CDATA[¿Dónde ver Sultanes vs Toros? Juego 2 Serie de Campeonato LMB 2026 HOY]]></title>
@@ -270,6 +305,9 @@ Por un lado, los Toros de Tijuana y los Sultanes de Monterrey disputan la Serie 
       <category>LMB</category>
       <category>Dónde ver LMB</category>
       <category>Sultanes de Monterrey</category>
+      <category>Liga Mexicana de Béisbol</category>
+      <category>Calendario LMB 2026</category>
+      <category>Olmecas de Tabasco</category>
     </item>
     <item>
       <title><![CDATA[Entorno Informativo]]></title>
@@ -2063,33 +2101,6 @@ Se vive la parte final de las Series de Zona en la postemporada de la LMB y en l
 En…]]></description>
       <content:encoded><![CDATA[<p>Habrá juego 7; Olmecas extienden la serie ante Guerreros<br>La última Serie de Zona se definirá en séptimo y definitivo juego<br>Se vive la parte final de las Series de Zona en la postemporada de la LMB y en la Zona Sur, el último boleto a la Serie de Campeonato se definirá en el séptimo y definitivo juego. Los Olmecas de Tabasco hacen valer la localía y superan 8-1 a los Guerreros de Oaxaca, empatando la serie 3-3, llevándola a la última instancia.<br>En el partido el equipo local tomó la batuta de la pizarra en su primera oportunidad al bat, ya que en la parte baja de la primera, con doble productor de Seth Beer y jonrón de dos carreras por parte de Agustín Ruiz, se colocan 3-0 en el marcador<br>Posteriormente en la parte alta de la tercera, Guerreros, parece despertar gracias al vuelacercas en solitario de Luis Barrera, descontando en la pizarra 3-1 por parte de la visita.<br>Sin embargo en el cierre del partido los locales amarraron el resultado. En la séptima Olmecas, con hits de Oscar González, Seth Beer y Calvin Estrada, producen tres rayitas más y finalmente, en la novena, el doble por parte del propio González coloca la pizarra final 8-1 a favor de Olmecas de Tabasco.<br>Tras este resultado hoy a las 19:30 hrs desde el Parque de Pelota Centenario de Villahermosa, arranca el séptimo juego de la serie entre ambas novenas, en donde el equipo que avance entre Olmecas y Guerreros avanzará a la Serie de Campeonato en la Zona Sur, donde ya aguardan los Pericos de Puebla.<br>¡GANAMOS Y MAÑANA VAMOS POR TODO EN EL CENTENARIO! 🗿🔥#SiempreOlmecas pic.twitter.com/e8dlVrDnYN<br>— Olmecas Tabasco (@OlmecasTabasco) August 27, 2026<br>Ahora puedes decir en voz alta &quot;Alexa, reproduce Radio BI&quot; y también escucharnos en Spotify.<br>Síguenos en Facebook, Instagram, WhatsApp, X, TikTok y YouTube. Mantente informado en tiempo real.</p>]]></content:encoded>
       <category>Olmecas de Tabasco</category>
-    </item>
-    <item>
-      <title><![CDATA[¡El Chico Maravilla!]]></title>
-      <link>https://laopinion.net/https-laopinion-net-el-chico-maravilla/</link>
-      <guid isPermaLink="false">aa6758b354353ab75922</guid>
-      <pubDate>Thu, 27 Aug 2026 15:24:16 +0000</pubDate>
-      <source><![CDATA[La Opinión De Poza Rica]]></source>
-      <dc:creator><![CDATA[Redactor1]]></dc:creator>
-      <description><![CDATA[VÍCTOR MANUEL MÁRQUEZ AGUILAR
-Por Javier Iván Marín Miranda
-Víctor Manuel Márquez Aguilar firmó una destacada temporada 2026 con Caliente de Durango y confirmó su crecimiento dentro de la Liga Mexicana de Beisbol, donde se consolidó como uno de los campocortos más completos de la campaña.
-El pelotero nacido en Poza Rica tuvo participación en 86 encuentros y respondió de manera importante a la ofensiva. En 257 turnos oficiales conectó 86 imparable…]]></description>
-      <content:encoded><![CDATA[<p>VÍCTOR MANUEL MÁRQUEZ AGUILAR<br>Por Javier Iván Marín Miranda<br>Víctor Manuel Márquez Aguilar firmó una destacada temporada 2026 con Caliente de Durango y confirmó su crecimiento dentro de la Liga Mexicana de Beisbol, donde se consolidó como uno de los campocortos más completos de la campaña.<br>El pelotero nacido en Poza Rica tuvo participación en 86 encuentros y respondió de manera importante a la ofensiva. En 257 turnos oficiales conectó 86 imparables para finalizar con promedio de bateo de .335, además de registrar 47 carreras anotadas y 33 producidas.<br>A sus números agregó cuatro dobles, cinco triples, dos cuadrangulares y siete bases robadas, estadísticas que lo colocaron entre los mejores bateadores de su posición durante la temporada.<br>Márquez terminó como el tercer mejor bateador entre los paradores en corto de la LMB, solamente por debajo de Juan Carlos “Haper” Gamboa y Albert Lara, demostrando que puede competir al más alto nivel dentro del circuito veraniego.<br>Su actuación no se limitó al aspecto ofensivo. A la defensiva también tuvo una campaña sobresaliente, destacando por su seguridad, alcance y capacidad para resolver jugadas complicadas en las paradas cortas.<br>Durante junio, al momento de recibir la convocatoria al Juego de Estrellas 2026, el pozarricense registraba un porcentaje de fildeo de .988, con únicamente tres errores cometidos en 46 partidos y 370 entradas disputadas.<br>Ese rendimiento le permitió ser considerado entre los mejores defensores de su posición y fortaleció su candidatura para pelear por los reconocimientos individuales de la temporada.<br>Uno de los momentos más importantes del año llegó precisamente con su llamado al Juego de Estrellas, reconocimiento que confirmó el nivel mostrado durante la primera parte de la campaña y lo colocó entre los jugadores más destacados del beisbol mexicano.<br>Al finalizar la temporada, Márquez agradeció públicamente a Caliente de Durango por la oportunidad y la confianza recibida, así como a sus compañeros, cuerpo técnico y aficionados.<br>“Gracias Durango, somos el equipo que hizo historia. Este solo es el principio, iremos por más”, expresó el jugador después de concluir su participación.<br>La temporada realizada por Víctor Márquez también representa una noticia importante para el deporte de Poza Rica, ciudad que a lo largo de su historia ha aportado peloteros al beisbol profesional.<br>Con apenas 24 años, el campocorto continúa construyendo su trayectoria dentro de la Liga Mexicana de Beisbol y sus actuaciones en 2026 lo colocan como uno de los jugadores veracruzanos a seguir en las próximas campañas.<br>Víctor Manuel Márquez Aguilar cerró así uno de los mejores años de su carrera profesional, respaldado por números importantes con el bat, seguridad defensiva y una convocatoria al Juego de Estrellas que confirmó su consolidación en la LMB.</p>]]></content:encoded>
-      <category>Caliente de Durango</category>
-    </item>
-    <item>
-      <title><![CDATA[Toros define abridores para serie final del Norte]]></title>
-      <link>https://psn.si/toros-define-abridores-rm/2026/08/27/</link>
-      <guid isPermaLink="false">7bd1a7427d1d529361b7</guid>
-      <pubDate>Thu, 27 Aug 2026 15:10:22 +0000</pubDate>
-      <source><![CDATA[PSN Noticias]]></source>
-      <dc:creator><![CDATA[Rene Mora]]></dc:creator>
-      <description><![CDATA[MONTERREY, Nuevo León.- El manejador de los Toros de Tijuana, Roberto Kelly, tiene claro a sus cuatro lanzadores abridores para la serie final de la Zona Norte contra Sultanes de Monterrey que inicia mañana viernes en el estadio del Cerro Colorado.
-Para el primer juego de la serie que inicia a las 7:35, el dominicano Adonis Medina (0-0, 2.35) subirá al centro del diamante por los Toros y enfrentará a Manny Bañuelos (2-0, 1.42).
-Para el segundo du…]]></description>
-      <content:encoded><![CDATA[<p>MONTERREY, Nuevo León.- El manejador de los Toros de Tijuana, Roberto Kelly, tiene claro a sus cuatro lanzadores abridores para la serie final de la Zona Norte contra Sultanes de Monterrey que inicia mañana viernes en el estadio del Cerro Colorado.<br>Para el primer juego de la serie que inicia a las 7:35, el dominicano Adonis Medina (0-0, 2.35) subirá al centro del diamante por los Toros y enfrentará a Manny Bañuelos (2-0, 1.42).<br>Para el segundo duelo que se celebra el sábado a las 7:35, Noah Skirrow (1-1, 4.66) fu eel pitcher anunciado por Tijuana y Daniel Mengden (1-0, 2.76) lo hará por Monterrey.<br>En Monterrey juegan el lunes por la noche y Kelly se fue por el líder de efectividad de la LMB, Daniel Martínez (3-0, 2.40) será el encargado de subir a la lomita para medirse a Daniel Cruz (1-1, 2.25).<br>Será el martes en el Palacio Sultán donde David Reyes (2-0, 1.80) sea el iniciador por Toros, su rival será Jared Wetherbee (1-1, 8.59).<br>Si es necesario un quinto Partido, abrirá nuevamente Adonis Medina por Tijuana en Monterrey.<br>Un sexto y séptimo partido si son necesarios, se juegan en Tijuana.<br>RM/PSN.SI</p>]]></content:encoded>
-      <category>Toros de Tijuana</category>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,37 @@
 [
   {
+    "id": "4869e4465858c3ec08ad",
+    "title": "Dorados supera por 24 puntos a Mineros - NTR Zacatecas",
+    "source": "NTR Zacatecas",
+    "author": "Alonso Rodriguez; ABRAHAM FLORES; NTRZACATECAS COM",
+    "published_iso": "2026-08-30T02:46:34+00:00",
+    "published_rfc2822": "Sun, 30 Aug 2026 02:46:34 +0000",
+    "published_display": "2026-08-30 02:46 UTC",
+    "url": "https://ntrzacatecas.com/2026/08/dorados-supera-por-24-puntos-a-mineros/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhVW1wR1gwcFc0UEVzNU8wVDFaX1AyMkVNekRTaUpiSVpjcjdrRVJHbmVvR0U5Y2ZuMU8yVE4zSzFjanNoWDdwcmQ5QUx2OS1qUHo4QzBuR1BaMVl6Z0hJMzIyVHFYanBwT19wRVo0dVoxOWU2b2txYURselI?oc=5",
+    "body": "CHIHUAHUA.— Mineros de Zacatecas cayó 95-71 ante Dorados de Chihuahua en el primer encuentro de la serie correspondiente a la Liga Nacional de Baloncesto Profesional (LNBP).\nLa quinteta zacatecana fue superada durante los cuatro periodos y no encontró la respuesta ofensiva para mantenerse en el encuentro, ante un conjunto local que tomó el control del marcador y terminó con ventaja de 24 puntos.\nAnyelo Cisneros encabezó la ofensiva de Mineros con 18 puntos en 25 minutos de participación. R. Ferguson aportó 12 unidades, seis rebotes y cuatro asistencias, mientras que Saunders consiguió 13 puntos.\nPor Dorados, W. Cherry fue el principal anotador del encuentro con 27 puntos, seis asistencias, cinco rebotes y tres robos.\nMineros buscará una reacción en el segundo partido de la serie ante Dorados, con el objetivo de corregir los aspectos que le impidieron competir por el resultado en el primer compromiso.",
+    "matched_queries": [
+      "Dorados de Chihuahua"
+    ],
+    "collected_iso": "2026-08-30T03:30:48.113445+00:00"
+  },
+  {
+    "id": "976a9479348b22e8a547",
+    "title": "Conspiradores fortalece su estructura deportiva con Roberto Vizcarra y Oscar Romero",
+    "source": "Liga Mexicana de Beisbol",
+    "author": "",
+    "published_iso": "2026-08-30T02:45:40+00:00",
+    "published_rfc2822": "Sun, 30 Aug 2026 02:45:40 +0000",
+    "published_display": "2026-08-30 02:45 UTC",
+    "url": "https://lmb.com.mx/noticias/conspiradores-fortalece-su-estructura-deportiva-con-roberto-vizcarra-y-oscar-romero",
+    "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzF0SHRUYTNtUFlIc09KdjZDVDZQZ2R1YVloam1aVHdXUU9jMzNQeVlZQjh6d01oM2MwTzBrSTFxazVaN0RoeUVqcURLbGEwdVktUlM1TzRMNWxaZTBsZ0NRbjFLV1I1UnQ3dVNYNmpDUkEyZ2puUWdDUzY0bi0ya1EyVmtVMnNmRFBXXzV6MC12NTJpM25vb1BtanlkQVJkMDhTZWF2WkFoWUNsci1zcA?oc=5",
+    "body": "Conspiradores fortalece su estructura deportiva con Roberto Vizcarra y Oscar Romero\n| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
+    "matched_queries": [
+      "Conspiradores de Querétaro"
+    ],
+    "collected_iso": "2026-08-30T03:31:53.877596+00:00"
+  },
+  {
     "id": "723221391f54d4d9b104",
     "title": "Dónde ver Pericos vs. Olmecas EN VIVO Juego 1 HOY Playoffs LMB 2026",
     "source": "Mediotiempo",
@@ -33,7 +65,8 @@
     "matched_queries": [
       "Liga Mexicana de Béisbol",
       "Pericos de Puebla",
-      "Olmecas de Tabasco"
+      "Olmecas de Tabasco",
+      "LMB"
     ],
     "collected_iso": "2026-08-30T01:18:15.517834+00:00"
   },
@@ -322,7 +355,10 @@
     "matched_queries": [
       "LMB",
       "Dónde ver LMB",
-      "Sultanes de Monterrey"
+      "Sultanes de Monterrey",
+      "Liga Mexicana de Béisbol",
+      "Calendario LMB 2026",
+      "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-08-29T17:18:42.336995+00:00"
   },
