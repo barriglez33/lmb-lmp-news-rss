@@ -365,7 +365,8 @@
       "Dónde ver LMB",
       "Serie del Rey",
       "Sultanes de Monterrey",
-      "Toros de Tijuana"
+      "Toros de Tijuana",
+      "LMB"
     ],
     "collected_iso": "2026-09-01T00:40:35.426128+00:00"
   },
@@ -572,6 +573,22 @@
       "Serie del Rey"
     ],
     "collected_iso": "2026-08-31T21:28:42.122192+00:00"
+  },
+  {
+    "id": "39b1b47fdb8a14a35b8f",
+    "title": "Estos son los precios para el quinto juego de Pericos vs Olmecas en el Hermanos Serdán",
+    "source": "Diario Cambio",
+    "author": "Mara González",
+    "published_iso": "2026-08-31T21:09:44+00:00",
+    "published_rfc2822": "Mon, 31 Aug 2026 21:09:44 +0000",
+    "published_display": "2026-08-31 21:09 UTC",
+    "url": "https://www.diariocambio.com.mx/2026/deportes/estos-son-los-precios-para-el-quinto-juego-de-pericos-vs-olmecas-en-el-hermanos-serdan/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmlsMEM4b2d1Q1Ntck1DcE1ITHhlSjFSbUlGUENrZ1k0cG9iYU5HNnRWX0lDYWpfSWVnZVFqZHp4MWJmNy1XUTI1R0dXdVhWTjVjWFgzNUtnMmVpSmJJaUFyeVRXdFpXRkZlMUJldlpmNEtnQXVkTHNCOUp0X0o1RWpxTTVWUTlSbV9OV1ViV0ZzX1JWRnlEOU01WVUzMWJPcVJjM096VmpvZG15YlBjdXhFUHB3WTN4Wm8yQ1Q1eVNadnhDaXBMUDJvVlA2QQ?oc=5",
+    "body": "Tras empatar 1-1 la Serie de Campeonato de la Zona Sur ante los Olmecas de Tabasco, los Pericos de Puebla se preparan para regresar al Estadio Hermanos Serdán, donde ya se reporta agotada la venta de boletos para los Juegos 3 y 4, mientras que, este martes, comenzará la comercialización de entradas para el quinto compromiso.\nLos accesos para los encuentros que se disputarán este martes 1 y miércoles 2 de septiembre, salieron a la venta el pasado viernes 28 de agosto a las 10:00 horas. La respuesta de los aficionados llevó a que ambas fechas quedaran con localidades agotadas a través de la plataforma Fanki.\n“Juego 5 de la Serie de Campeonato en la Ciudad y queremos verte ahí en #ModoPericos”, publicó el equipo emplumado en sus cuentas oficiales para anunciar el compromiso que podría celebrarse en Puebla.\nPor ello, este martes 1 de septiembre, a partir de las 10:00 horas, comenzará la venta de boletos para el Juego 5, programado para el jueves 3 de septiembre a las 19:00 horas en el Estadio Hermanos Serdán, en caso de que la serie requiera un quinto encuentro. Las localidades estarán disponibles tanto en las taquillas del inmueble como mediante Fanki.\nLos precios se mantienen entre los 240 y 480 pesos, dependiendo de la zona: Bleachers, 240 pesos; Lateral Tercera, 360; Lateral Primera y Preferente Tercera, 390; Preferente Primera, 410, y Central, 480 pesos. La compra en taquillas tendrá un límite de cuatro boletos por persona.\nPericos llega a Puebla con la serie igualada después de que venció 5-1 a Olmecas en el primer encuentro, mientras que Tabasco respondió en el segundo al imponerse 4-3 en 11 entradas. El tercer partido se jugará este martes y el cuarto está programado para el miércoles, ambos a las 19:00 horas en el Hermanos Serdán.\nEl Juego 5 se disputará el jueves 3 de septiembre en territorio poblano, por lo que los aficionados todavía tendrán la oportunidad de adquirir localidades a partir de este martes.",
+    "matched_queries": [
+      "Olmecas de Tabasco"
+    ],
+    "collected_iso": "2026-09-01T12:37:00.139286+00:00"
   },
   {
     "id": "60accdd77b57b42d4a0d",
