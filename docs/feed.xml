@@ -6,8 +6,66 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Tue, 01 Sep 2026 19:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:37:32 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Las claves del gran 2026 de Esteban Quiroz con los Bravos de León]]></title>
+      <link>https://lmb.com.mx/noticias/las-claves-del-gran-2026-de-esteban-quiroz-con-los-bravos-de-leon</link>
+      <guid isPermaLink="false">9989a4e5d10713bda267</guid>
+      <pubDate>Tue, 01 Sep 2026 20:02:32 +0000</pubDate>
+      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
+      <description><![CDATA[| Equipo | G | P | % | GB | 
+|---|---|---|---|---|
+| Toros | 60 | 31 | .659 | - | 
+| Caliente  | 51 | 42 | .548 | 10.0 | 
+| Sultanes | 49 | 44 | .527 | 12.0 | 
+| Charros | 48 | 45 | .516 | 13.0 | 
+| Acereros | 48 | 45 | .516 | 13.0 | 
+| Algodoneros | 46 | 47 | .495 | 15.0 | 
+| Rieleros | 42 | 47 | .472 | 17.0 | 
+| Saraperos | 38 | 55 | .409 | 23.0 | 
+| Tecos | 36 | 57 | .387 | 25.0 | 
+| Dorados | 35 | 58 | .376 | 26.0 |]]></description>
+      <content:encoded><![CDATA[<p>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
+      <category>Liga Mexicana de Béisbol</category>
+      <category>Bravos de León</category>
+    </item>
+    <item>
+      <title><![CDATA[Jonathan Guzmán, un sueño que sigue vivo en el diamante con los Toros]]></title>
+      <link>https://lmb.com.mx/noticias/jonathan-guzman-un-sueno-que-sigue-vivo-en-el-diamante-con-los-toros</link>
+      <guid isPermaLink="false">9d8d7c38f66dc7a3a891</guid>
+      <pubDate>Tue, 01 Sep 2026 19:57:32 +0000</pubDate>
+      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
+      <description><![CDATA[Últimas Noticias
+| Equipo | G | P | % | GB | 
+|---|---|---|---|---|
+| Toros | 60 | 31 | .659 | - | 
+| Caliente  | 51 | 42 | .548 | 10.0 | 
+| Sultanes | 49 | 44 | .527 | 12.0 | 
+| Charros | 48 | 45 | .516 | 13.0 | 
+| Acereros | 48 | 45 | .516 | 13.0 | 
+| Algodoneros | 46 | 47 | .495 | 15.0 | 
+| Rieleros | 42 | 47 | .472 | 17.0 | 
+| Saraperos | 38 | 55 | .409 | 23.0 | 
+| Tecos | 36 | 57 | .387 | 25.0 | 
+| Dorados | 35 | 58 | .376 | 26.0 |]]></description>
+      <content:encoded><![CDATA[<p>Últimas Noticias<br>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
+      <category>Liga Mexicana de Béisbol</category>
+    </item>
+    <item>
+      <title><![CDATA[LMP: Algodoneros de Guasave instalará una de las pantallas más grandes de Latinoamérica en el Kuroda Park]]></title>
+      <link>https://www.luznoticias.mx/2026-09-01/deportes/lmp-algodoneros-de-guasave-instalara-una-de-las-pantallas-mas-grandes-de-latinoamerica-en-el-kuroda-park/303262</link>
+      <guid isPermaLink="false">7cc3b3b4849416195789</guid>
+      <pubDate>Tue, 01 Sep 2026 19:24:00 +0000</pubDate>
+      <source><![CDATA[Luz Noticias]]></source>
+      <dc:creator><![CDATA[Eduardo B; Oacute; Rquez]]></dc:creator>
+      <description><![CDATA[Deportes
+LMP: Algodoneros de Guasave instalará una de las pantallas más grandes de Latinoamérica en el Kuroda Park
+El equipo anunció que la pantalla estará lista para la próxima temporada de la Liga Mexicana del Pacífico.
+Con el objetivo de ofrecer una experiencia más inmersiva a los aficionados que asistan al estadio Kuroda Park, la directiva del club Algodoneros de Guasave hizo oficial que para la temporada 2026-2027 de la Liga Mexicana del Pac…]]></description>
+      <content:encoded><![CDATA[<p>Deportes<br>LMP: Algodoneros de Guasave instalará una de las pantallas más grandes de Latinoamérica en el Kuroda Park<br>El equipo anunció que la pantalla estará lista para la próxima temporada de la Liga Mexicana del Pacífico.<br>Con el objetivo de ofrecer una experiencia más inmersiva a los aficionados que asistan al estadio Kuroda Park, la directiva del club Algodoneros de Guasave hizo oficial que para la temporada 2026-2027 de la Liga Mexicana del Pacífico, se contará con una pantalla gigante nueva, la cual será una de las más grandes en Latinoamérica, en la que los fans podrán seguir las incidencias del juego en tiempo real y en resolución 4K.<br>Será el próximo 5 de octubre cuando se empiece a colocar esta pantalla de 409 metros cuadrados, la cual tiene 14 metros de alto por 27 de ancho, lo que permitirá que los aficionados puedan estar al pendiente de las estadísticas de jugadores y vivir las repeticiones de las jugadas más espectaculares, pues la idea es que la gente que asista al parque de pelota no se pierda ninguna parte del encuentro, ya que sin importar en qué zona del estadio estén ubicados, podrán ver con la mayor claridad cada detalle del cotejo.<br>Innovación en la Experiencia del Aficionado<br>&quot;Estamos muy contentos porque esta nueva pantalla va a cambiar muchisimo la experiencia dentro del Kuroda Park&quot;, aseguró Fernando García Magallán, director general del club Algodoneros.<br>Resaltó que desde que empezamos a trabajar en ese proyecto, la idea nunca fue simplemente comprar una pantalla más grande; querían algo que realmente se sintiera diferente cuando entras al estadio, que les permita hacer más cosas durante el juego y conectar mucho más con la gente.<br>&quot;Hoy el béisbol también es entretenimiento. Queremos repeticiones, estadísticas, dinámicas con los aficionados, contenido de nuestros jugadores, música, patrocinadores... queremos que estén pasando cosas todo el tiempo. Y algo que para mí es muy importante: queremos que la gente de Guasave sienta orgullo de su estadio. Que llegue al Kuroda Park y diga: qué bien se ve nuestra casa&quot;, recalcó.<br>Compromiso con la Comunidad de Guasave<br>Declaró que esta pantalla es otro paso de todo lo que quieren hacer con el estadio, pues no quieren quedarse quietos, ya que la idea es la de cada año poder mejorar algo y darle una razón más a la gente para ir al parque.<br>&quot;Al final, de eso se trata, que venir a ver a los Algodoneros sea toda una experiencia, que vengas por el béisbol, pero que desde que entras hasta que sales, la pases bien. Y todavía vienen más cosas&quot;, finalizó García Magallán.<br>Con la instalación de esta nueva pantalla gigante, la organización de Algodoneros pretende ofrecer una experiencia de entretenimiento familiar más completa, la cual vaya más allá de las acciones que se viven en el diamante, ya que el uso de estos recursos tecnológicos solo vuelve más atractivo al rey de los deportes.<br>Te puede interesar:<br>MÁS NOTICIAS DE Deportes</p>]]></content:encoded>
+      <category>Algodoneros de Guasave</category>
+    </item>
     <item>
       <title><![CDATA[Los Sultanes, a empatar la final de la Zona Norte tras caer dramáticamente]]></title>
       <link>https://www.lajornadamaya.mx/nacional/267717/los-sultanes-a-empatar-la-final-de-la-zona-norte-tras-caer-dramaticamente</link>
@@ -71,6 +129,22 @@ Los astados pegaron primero y abrieron el marcador desde el primer episodio. Ini
 Santo Domingo, RD (José Cáceres – Prensa CBPC).– Con la llegada de septiembre aumenta la actividad alrededor de las ligas que integran la Confederación de Béisbol Profesional del Caribe (CBPC), con organizaciones que trabajan en la co…]]></description>
       <content:encoded><![CDATA[<p>Clubes de República Dominicana, México, Venezuela y Puerto Rico avanzan en entrenamientos, contrataciones y movimientos de roster cuando septiembre marca la entrada en la recta de preparación para una nueva campaña.<br>Santo Domingo, RD (José Cáceres – Prensa CBPC).– Con la llegada de septiembre aumenta la actividad alrededor de las ligas que integran la Confederación de Béisbol Profesional del Caribe (CBPC), con organizaciones que trabajan en la conformación de sus planteles para la temporada 2026-2027.<br>En República Dominicana, los seis clubes de la Liga de Béisbol Profesional de la República Dominicana (LIDOM) avanzan en sus contrataciones, movimientos de roster y preparación de los entrenamientos de pretemporada.<br>Las Estrellas Orientales anunciaron que comenzarán sus trabajos el próximo 14 de septiembre con un minicampamento, principalmente para lanzadores y receptores, en el complejo de los Tigres de Detroit en Ramón Santana. Una semana después, el día 21, iniciarán las prácticas con el equipo completo en el Estadio Tetelo Vargas, de San Pedro de Macorís.<br>El conjunto oriental también confirmó el regreso de dos jugadores importados que estuvieron con el club la pasada temporada: el jardinero nicaragüense Ismael Munguía y el lanzador derecho Patrick Weigel.<br>Los Toros del Este, por su parte, anunciaron el regreso del relevista Joe Corbett y la contratación del abridor Noah Skirrow como sus primeros importados. La organización romanense también incorporó vía agencia libre al experimentado bateador Zoilo Almonte, además de otros jugadores durante la temporada baja.<br>El mercado de cambios igualmente ha mantenido activos a los equipos dominicanos, mientras Gigantes del Cibao, Águilas Cibaeñas, Tigres del Licey y Leones del Escogido continúan estructurando sus nóminas de cara al campeonato que comenzará el 16 de octubre. El Escogido llegará a la campaña con la misión de defender la corona conquistada la pasada temporada.<br>En México también aumenta el ritmo de preparación para el torneo de la Liga Mexicana del Pacífico (LAMP), cuyo calendario comenzará el 13 de octubre con el enfrentamiento entre Charros de Jalisco y Jaguares de Nayarit en Zapopan.<br>Los Tomateros de Culiacán, por ejemplo, abrirán su pretemporada el 11 de septiembre con 65 jugadores invitados, entre ellos 39 lanzadores. Posteriormente desarrollarán un calendario de partidos de preparación antes de su debut en la campaña.<br>El conjunto guinda también anunció recientemente la contratación del lanzador cubano Norge Ruiz. El derecho de 32 años, con experiencia en Grandes Ligas y en diferentes circuitos del Caribe, se incorpora al cuerpo de lanzadores de Culiacán para la próxima temporada.<br>Mientras tanto, en Venezuela los ocho clubes de la Liga Venezolana de Béisbol Profesional (LVBP) continúan realizando movimientos a pocos días de la celebración de la Convención Anual del circuito, programada del 4 al 6 de septiembre en la Isla de Margarita.<br>La reunión servirá para discutir y establecer aspectos relacionados con la próxima temporada, entre ellos el calendario y las condiciones del campeonato.<br>Entre los movimientos recientes figura el cambio realizado por Navegantes del Magallanes y Leones del Caracas. Los actuales campeones recibieron a los lanzadores Jhonathan Díaz y José Mujica, mientras los capitalinos adquirieron a Luarbert Arias y Ángel Bastardo.<br>Puerto Rico también trabaja en la organización de su próximo torneo. La Liga de Béisbol Profesional Roberto Clemente (LBPRC) informó que sus seis franquicias reservaron 246 jugadores nativos para la temporada 2026-2027, mientras otros 19 quedaron disponibles para el proceso de agencia libre.<br>Los Cangrejeros de Santurce, campeones de la pasada temporada y representantes de Puerto Rico en la Serie del Caribe 2026, encabezaron el proceso con 47 jugadores reservados.<br>Con septiembre ya en marcha, las contrataciones, cambios y aperturas de campos de entrenamiento comienzan a marcar el pulso de las ligas del Caribe, mientras los clubes definen las piezas con las que intentarán conquistar sus respectivos campeonatos y avanzar posteriormente hacia la Serie del Caribe Hermosillo 2027.</p>]]></content:encoded>
       <category>Serie del Caribe 2026</category>
+    </item>
+    <item>
+      <title><![CDATA[Olmecas de Tabasco y Pericos de Puebla se enfrentan en la final de la Zona Sur]]></title>
+      <link>https://www.diariopresente.mx/elsoldelsureste/estadio-hermanos-serdan-final-zona-sur-olmecas-tabasco/465671</link>
+      <guid isPermaLink="false">2d511180e41be060ea2e</guid>
+      <pubDate>Tue, 01 Sep 2026 15:00:00 +0000</pubDate>
+      <source><![CDATA[Diario Presente]]></source>
+      <description><![CDATA[Villahermosa, Tabasco.-
+- Hermanos Serdán
+VAN AL NIDO
+Olmecas de Tabasco está listo para reanudar este martes la final de la Zona Sur ante Pericos de Puebla
+Olmecas de Tabasco está listo para reanudar este martes la final de la Zona Sur ante Pericos de Puebla en el Estadio Hermanos Serdán.
+La novena dirigida por Luis Carlos Rivero buscará a todo costa hacer un buen papel en los tres juegos programados en La Angelópolis para tratar de lograr el ce…]]></description>
+      <content:encoded><![CDATA[<p>Villahermosa, Tabasco.-<br>- Hermanos Serdán<br>VAN AL NIDO<br>Olmecas de Tabasco está listo para reanudar este martes la final de la Zona Sur ante Pericos de Puebla<br>Olmecas de Tabasco está listo para reanudar este martes la final de la Zona Sur ante Pericos de Puebla en el Estadio Hermanos Serdán.<br>La novena dirigida por Luis Carlos Rivero buscará a todo costa hacer un buen papel en los tres juegos programados en La Angelópolis para tratar de lograr el cetro o en su defecto obligar a que regrese la serie al Parque Centenario 27 de Febrero.<br>Los duelos del 1 al 3 de septiembre en Puebla comenzarán a partir de las 19:00 horas.<br>Durante el rol regular los cabezones tuvieron números positivos ante los emplumados, al ganar en seis ocasiones y solo perder tres veces.<br>Cabe señalar que, el equipo tabasqueño eliminó en la primera ronda de play offs 4-1 a Puebla en 2022.<br>Se estima que el norteamericano Ronnie Williams será el abridor por Olmecas de Tabasco este martes.</p>]]></content:encoded>
+      <category>Pericos de Puebla</category>
+      <category>Olmecas de Tabasco</category>
     </item>
     <item>
       <title><![CDATA[¡Otro juego drámatico en extra innings! Toros de Tijuana se pone con ventaja en la serie sobre los Sultanes de Monterrey]]></title>
@@ -675,6 +749,7 @@ La final de la Zona Sur se encuentra empatada a un juego por bando y el primer e
       <content:encoded><![CDATA[<p>El Club Pericos de Puebla buscará ganar los tres partidos de la Serie de Campeonato de la Zona Sur a los Olmecas de Tabasco, enfrentamientos que se disputarán a partir de este martes 1 de septiembre en el Nido Verde, el Estadio Hermanos Serdán, con el objetivo de conseguir su pase a la Serie del Rey 2026 de la Liga Mexicana de Beisbol (LMB).<br>La final de la Zona Sur se encuentra empatada a un juego por bando y el primer equipo que gane cuarto partidos conseguirá el boleto para luchar el título del rey de los deportes en México ante el ganador de la Serie de Campeonato de la Zona Norte.<br>Desde este martes 1 y hasta el jueves 3 de septiembre, los partidos correspondientes a los juegos 3, 4 y 5 de la Serie de Campeonato de la Zona Sur, se disputarán en el Estadio Hermanos Serdán a partir de las 19:00 horas. Si ninguna de las novenas llega a cuatro victorias, a partir del sábado 7 de septiembre, el sexto juego la serie se disputará en Tabasco y si se requiere de un séptimo encuentro, el duelo será en la misma sede.<br>Pericos de Puebla, con cinco finales de la Zona Sur ganadas<br>El Club Pericos de Puebla desde su regreso a la Liga Mexicana de Beisbol (LMB) en la temporada 2000 suma cinco finales disputadas. La única final de zona que perdió fue en el 2004, pero en esa ocasión fue del Norte y contra los Saraperos de Saltillo.<br>La novena verde llegó a la Final de Campeonato de la Zona Sur 2026 tras eliminar en seis juegos a los Diablos Rojos del México, mientras que, los Olmecas de Tabasco derrotaron en siete cotejos a los Guerreros de Oaxaca.<br>La marca de enfrentamientos entre los Pericos de Puebla y los Olmecas de Tabasco en la presente temporada fue de 6-3 a favor de Olmecas en calendario regular. Los mejores maderos de Pericos contra Olmecas fueron Lorenzo Cedrola (.357, 15 H, 8 CP, 4 SB), Samar Leyva (.314, 11 H, 5 CP) y Michael De la Cruz (.588, 1 HR, 8 CP). Los mejores toletes de Tabasco ante Pericos en este 2026 fueron Seth Beer (.484, 2 HR, 11 CP), Yamaico Navarro (.464, 3 HR, 10 CP), Domingo Leyba (.314, 3 HR, 7 CP) y Agustín Ruíz (.438, 14 H, 1 HR, 6 CP).<br>El 21 de julio del presente año, en apenas su quinto juego como emplumado, Henry Ramos bateó el ciclo ante los Olmecas de Puebla y se convirtió en apenas el segundo jugador en hacerlo en la historia de los Pericos de Puebla.<br>En la presente Serie de Campeonato de la Zona Sur, un ataque de cuatro carreras en el séptimo inning, marcó el rumbo del juego y los Pericos de Puebla se llevaron el triunfo por pizarra de 5-1 sobre los Olmecas en el primer juego. Para el segundo enfrentamiento, un imparable al central de Carlos Arellano con la casa llena en el episodio número once, le dio el triunfo a los tabasqueños por pizarra de 4-3 sobre los Pericos de Puebla y la serie se empató a un juego por bando.<br>CHM</p>]]></content:encoded>
       <category>Serie del Rey</category>
       <category>Pericos de Puebla</category>
+      <category>Olmecas de Tabasco</category>
     </item>
     <item>
       <title><![CDATA[Pericos de Puebla va por tres victorias para ir a Serie del Rey 2026]]></title>
@@ -2127,59 +2202,6 @@ Las palabras del segunda base llega después de una temporada marcada por la bú
       <category>Pericos de Puebla</category>
       <category>LMB</category>
       <category>Liga Mexicana de Béisbol</category>
-    </item>
-    <item>
-      <title><![CDATA[Dónde ver Sultanes vs. Toros EN VIVO Juego 2 HOY Playoffs LMB 2026]]></title>
-      <link>https://www.mediotiempo.com/beisbol/lmb/sultanes-vs-toros-en-vivo-donde-ver-juego-2-hoy-playoffs-lmb-2026</link>
-      <guid isPermaLink="false">467924f35979789002cf</guid>
-      <pubDate>Sat, 29 Aug 2026 23:52:00 +0000</pubDate>
-      <source><![CDATA[Mediotiempo]]></source>
-      <dc:creator><![CDATA[Irving Furlong]]></dc:creator>
-      <description><![CDATA[Los Playoffs 2026 de la Liga Mexicana de Beisbol (LMB) viven el segundo round en la Serie de Campeonato de la Zona Norte cuando los Sultanes de Monterrey se enfrenten a los Toros de Tijuana este sábado 29 de agosto durante el Juego 2 en el Toros Mobil Park, partido en el que los Fantasmas Grises querrán empatar la serie e impedir que los astados se pongan a medio camino de la Serie del Rey. Aquí te decimos dónde ver el juego de hoy EN VIVO.
-Harol…]]></description>
-      <content:encoded><![CDATA[<p>Los Playoffs 2026 de la Liga Mexicana de Beisbol (LMB) viven el segundo round en la Serie de Campeonato de la Zona Norte cuando los Sultanes de Monterrey se enfrenten a los Toros de Tijuana este sábado 29 de agosto durante el Juego 2 en el Toros Mobil Park, partido en el que los Fantasmas Grises querrán empatar la serie e impedir que los astados se pongan a medio camino de la Serie del Rey. Aquí te decimos dónde ver el juego de hoy EN VIVO.<br>Harold Ramírez y los Sultanes intentan despertar a la ofensiva después de ser dominados la noche del viernes por unos Toros que solo necesitan una victoria más para colocarse a medio camino de reclamar el título de la Zona Norte y el boleto a la Serie del Rey.<br>Los Sultanes de Monterrey vuelven al parque fronterizo con la misma alineación tratando de sacudirse el letargo ofensivo con el que comenzaron la serie. Pese a la derrota por 2-0, Maikel Franco fue uno de los bateadores más destacados al conectar de 4-2, mientras que José Cardona se fue de 4-3 con un doble.<br>Los Toros de Tijuana le ganaron un juego de playoffs a los Sultanes por primera vez desde 2018.2 gracias al pitcheo de Adonis Medina y un relevo que se fajó en momentos particulares del desafío. Si bien los Toros tiraron su tercera blanqueada de la temporada, Justin Turner es el jugador a seguir tras brillar con luz propia conectando de 4-3 con el jonrón que marcó la diferencia.<br>Utilizamos cookies para darte la mejor experiencia de usuario y entrega de publicidad, entre otras cosas. Si continúas navegando el sitio, das tu consentimiento para utilizar dicha tecnología, según nuestra Política de cookies. Puedes cambiar la configuración en tu navegador cuando gustes.</p>]]></content:encoded>
-      <category>Liga Mexicana de Béisbol</category>
-      <category>Dónde ver LMB</category>
-      <category>LMB</category>
-      <category>Toros de Tijuana</category>
-      <category>Sultanes de Monterrey</category>
-    </item>
-    <item>
-      <title><![CDATA[Dónde ver Sultanes vs. Toros EN VIVO Juego 2 HOY Playoffs LMB 2026]]></title>
-      <link>https://amp.mediotiempo.com/beisbol/lmb/sultanes-vs-toros-en-vivo-donde-ver-juego-2-hoy-playoffs-lmb-2026</link>
-      <guid isPermaLink="false">6546a13cc7ce57c27fff</guid>
-      <pubDate>Sat, 29 Aug 2026 23:52:00 +0000</pubDate>
-      <source><![CDATA[Mediotiempo]]></source>
-      <dc:creator><![CDATA[Irving Furlong]]></dc:creator>
-      <description><![CDATA[Sultanes vs. Toros EN VIVO: ¿A qué hora y dónde ver Juego 2 HOY Playoffs LMB 2026?
-Sultanes intenta nivelar el compromiso y Toros quiere irse arriba 2-0 en el segundo juego de la Serie de Campeonato de la Zona Norte.
-Los Playoffs 2026 de la Liga Mexicana de Beisbol (LMB) viven el segundo round en la Serie de Campeonato de la Zona Norte cuando los Sultanes de Monterrey se enfrenten a los Toros de Tijuana este sábado 29 de agosto durante el Juego 2…]]></description>
-      <content:encoded><![CDATA[<p>Sultanes vs. Toros EN VIVO: ¿A qué hora y dónde ver Juego 2 HOY Playoffs LMB 2026?<br>Sultanes intenta nivelar el compromiso y Toros quiere irse arriba 2-0 en el segundo juego de la Serie de Campeonato de la Zona Norte.<br>Los Playoffs 2026 de la Liga Mexicana de Beisbol (LMB) viven el segundo round en la Serie de Campeonato de la Zona Norte cuando los Sultanes de Monterrey se enfrenten a los Toros de Tijuana este sábado 29 de agosto durante el Juego 2 en el Toros Mobil Park, partido en el que los Fantasmas Grises querrán empatar la serie e impedir que los astados se pongan a medio camino de la Serie del Rey. Aquí te decimos dónde ver el juego de hoy EN VIVO.<br>Harold Ramírez y los Sultanes intentan despertar a la ofensiva después de ser dominados la noche del viernes por unos Toros que solo necesitan una victoria más para colocarse a medio camino de reclamar el título de la Zona Norte y el boleto a la Serie del Rey.<br>¿Cómo llegan al juego Sultanes y Toros HOY?<br>Los Sultanes de Monterrey vuelven al parque fronterizo con la misma alineación tratando de sacudirse el letargo ofensivo con el que comenzaron la serie. Pese a la derrota por 2-0, Maikel Franco fue uno de los bateadores más destacados al conectar de 4-2, mientras que José Cardona se fue de 4-3 con un doble.<br>Los Toros de Tijuana le ganaron un juego de playoffs a los Sultanes por primera vez desde 2018.2 gracias al pitcheo de Adonis Medina y un relevo que se fajó en momentos particulares del desafío. Si bien los Toros tiraron su tercera blanqueada de la temporada, Justin Turner es el jugador a seguir tras brillar con luz propia conectando de 4-3 con el jonrón que marcó la diferencia.<br>Resultados anteriores<br>- 10 de julio: Toros 11-6 Sultanes<br>- 11 de julio: Toros 3-1 Sultanes<br>- 12 de julio: Toros 4-2 Sultanes<br>- Juego 1, Serie de Campeonato: Sultanes 0-2 Toros<br>Te recomendamos: Sultanes tropieza ante Toros en el Juego 1 de la Final de Zona Norte<br>¿A qué hora juega Sultanes vs. Toros HOY?<br>- Fecha: Sábado 29 de agosto de 2026<br>- Horario: 7:35 PM en el Pacífico, 8:35 PM en el Centro de México<br>- Sede: Toros Mobil Park<br>¿Dónde ver el juego de hoy Sultanes vs. Toros EN VIVO?<br>- Televisión: ESPN 2<br>- Streaming: LMB.TV, Disney Plus</p>]]></content:encoded>
-      <category>Dónde ver LMB</category>
-    </item>
-    <item>
-      <title><![CDATA[Estadio en Guadalajara será remodelado, tendrá una inversión de 500 millones de pesos, estrenará pasto de última generación y una nueva pantalla gigante]]></title>
-      <link>https://www.tvazteca.com/aztecadeportes/estadio-en-guadalajara-sera-remodelado-tendra-una-inversion-500-millones-pesos/</link>
-      <guid isPermaLink="false">f73f730929da03df24e0</guid>
-      <pubDate>Sat, 29 Aug 2026 22:43:06 +0000</pubDate>
-      <source><![CDATA[TV Azteca]]></source>
-      <dc:creator><![CDATA[Sebastian Cortés]]></dc:creator>
-      <description><![CDATA[El Estadio Panamericano, casa de los Charros de Jalisco, se prepara para una transformación histórica. Con una inversión conjunta que ronda los 500 millones de pesos entre la directiva del equipo y el Gobierno del Estado, el inmueble buscará ponerse a la altura de los mejores recintos a nivel internacional.
-El objetivo central de esta remodelación es posicionar a Guadalajara como un referente absoluto del beisbol y convertir al estadio en un esce…]]></description>
-      <content:encoded><![CDATA[<p>El Estadio Panamericano, casa de los Charros de Jalisco, se prepara para una transformación histórica. Con una inversión conjunta que ronda los 500 millones de pesos entre la directiva del equipo y el Gobierno del Estado, el inmueble buscará ponerse a la altura de los mejores recintos a nivel internacional.<br>El objetivo central de esta remodelación es posicionar a Guadalajara como un referente absoluto del beisbol y convertir al estadio en un escenario capaz de recibir juegos de las Grandes Ligas (MLB) y futuras Series del Caribe.<br>Te puede interesar: Cruz Azul vence 3-1 a Necaxa en partido de la Jornada 6 del Apertura 2026<br>Los cambios que tendrá el Estadio Panamericano<br>En el diamante, la superficie actual será reemplazada por un pasto sintético de última generación, utilizando tecnología similar a la de los estadios de la MLB. Además, el jardín central lucirá una nueva pantalla gigante de alta definición de casi 400 metros cuadrados.<br>Las estructuras laterales provisionales que actualmente son de andamios en primera y tercera base serán sustituidas por gradas definitivas de concreto. Esto no solo acercará más al público al terreno de juego, sino que elevará la capacidad del estadio de 15,500 a 20,000 espectadores, sumado a la construcción y rediseño de nuevas suites corporativas en la parte alta.<br>A la par de lo visible, también se hará una modernización profunda de toda la infraestructura oculta, incluyendo instalaciones eléctricas, sanitarias y de drenaje pluvial.<br>Te puede interesar: Pachuca vs Chivas: Ver EN VIVO y GRATIS el resultado de la transmisión HOY sábado 29 de agosto, partido de la Jornada 6 del Apertura 2026 de la Liga BBVA MX; marcador online<br>Para no afectar el calendario deportivo, las obras están planificadas en distintas fases<br>Entre agosto y octubre de 2026 se realizará el cambio del césped sintético y el montaje de la pantalla gigante, listos para el arranque de la temporada invernal de la Liga Mexicana del Pacífico. Las adecuaciones hidráulicas y eléctricas continuarán hasta diciembre. Posteriormente, a partir de febrero y durante la primavera de 2027, arrancará la construcción de las nuevas suites y las gradas fijas para estrenarlas de cara a la campaña de la Liga Mexicana de Beisbol.<br>Se mantendrá una política de boletaje con precios accesibles y promociones constantes, buscando cuidar el bolsillo de la afición y preservar el ambiente completamente familiar que caracteriza a la plaza jalisciense.<br>Te puede interesar: CONFIRMADO: El América vs Puebla de la jornada 6 del Apertura 2026 NO se jugará en el Estadio Banorte</p>]]></content:encoded>
-      <category>Charros de Jalisco</category>
-    </item>
-    <item>
-      <title><![CDATA[Así era Yucatán, México y el mundo hace 20 años: Calderón vence a AMLO; los Leones, campeones en béisbol]]></title>
-      <link>https://www.yucatan.com.mx/central-9/2026/08/29/asi-era-yucatan-mexico-y-el-mundo-hace-20-anos-calderon-vence-a-amlo-los-leones-campeones-en-beisbol.html</link>
-      <guid isPermaLink="false">ecfe1f655a6cb8c6ce74</guid>
-      <pubDate>Sat, 29 Aug 2026 22:30:00 +0000</pubDate>
-      <source><![CDATA[Diario de Yucatán]]></source>
-      <dc:creator><![CDATA[Aarón Montero B]]></dc:creator>
-      <description><![CDATA[Hace 20 años, Yucatán, México y el mundo vivían una jornada que hoy permite asomarse a otra época. En las páginas de Diario de Yucatán del 29 de agosto de 2006 quedaron registrados algunos de los temas que marcaban la conversación pública.
-La cerrada elección presidencial que terminó con el triunfo de Felipe Calderón, la preocupación por los derechos de los adolescentes y la amenaza de los huracanes en una temporada que entraba en su etapa más pe…]]></description>
-      <content:encoded><![CDATA[<p>Hace 20 años, Yucatán, México y el mundo vivían una jornada que hoy permite asomarse a otra época. En las páginas de Diario de Yucatán del 29 de agosto de 2006 quedaron registrados algunos de los temas que marcaban la conversación pública.<br>La cerrada elección presidencial que terminó con el triunfo de Felipe Calderón, la preocupación por los derechos de los adolescentes y la amenaza de los huracanes en una temporada que entraba en su etapa más peligrosa.<br>Este contenido es exclusivo para suscriptores<br>Leer es solo el comienzo<br>Ser lector es informarte, entender lo que pasa y seguir conectado. Pero ser suscriptor es ir más allá: acceder, descubrir y formar parte.<br>💬 Si ya tienes una suscripción, solo inicia sesión aquí.<br>Plan de 12 meses digital<br>20% de descuento<br>$549<br>$439<br>y obtén una gorra DY<br>Acceso ilimitado sin anuncios + beneficios del Club DY.<br>Este contenido es exclusivo para suscriptores<br>Para leer esta nota, tenemos un plan especial para ti.<br>Vive los beneficios de ser suscriptor.<br>Infórmate con calidad.<br>Hasta 40% de descuento en tu suscripción.<br>Por tiempo limitado: Edición de aniversario.<br>Si ya tienes una suscripción, solo inicia sesión aquí.<br>Semestral digital + Club<br>$349<br>349 cada 6 meses<br>¿Que obtienes?<br>- Edición impresa en digital<br>- Acceso ilimitado en sitio web<br>- Navegación sin publicidad<br>¿Que obtienes?<br>- Edición impresa en digital<br>- Acceso ilimitado en sitio web<br>- Navegación sin publicidad<br>Puedes cancelar en cualquier momento</p>]]></content:encoded>
-      <category>Leones de Yucatán</category>
     </item>
   </channel>
 </rss>
