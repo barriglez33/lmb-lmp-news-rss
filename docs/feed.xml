@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Tue, 01 Sep 2026 04:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:34:49 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Olmecas y Pericos van por el tercero de la Serie de Campeonato en Puebla]]></title>
@@ -143,6 +143,7 @@ Toros de Tijuana tomó ventaja en la serie el viernes 28…]]></description>
       <category>Dónde ver LMB</category>
       <category>Serie del Rey</category>
       <category>Sultanes de Monterrey</category>
+      <category>Toros de Tijuana</category>
     </item>
     <item>
       <title><![CDATA[Ryan Cermak se suma a Venados de Mazatlán]]></title>
