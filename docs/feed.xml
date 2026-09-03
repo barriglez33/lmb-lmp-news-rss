@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Thu, 03 Sep 2026 08:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:33:19 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Olmecas pega primero en Puebla y toma ventaja en la Serie del Sur]]></title>
@@ -139,6 +139,18 @@ Los visitantes…]]></description>
       <category>Olmecas de Tabasco</category>
     </item>
     <item>
+      <title><![CDATA[Toros campeones del Norte y regresan a la Serie del Rey]]></title>
+      <link>https://zetatijuana.com/2026/09/toros-campeones-del-norte-y-regresan-a-la-serie-del-rey/</link>
+      <guid isPermaLink="false">d6e1a8aba4d585e8602f</guid>
+      <pubDate>Thu, 03 Sep 2026 05:25:51 +0000</pubDate>
+      <source><![CDATA[Semanario ZETA]]></source>
+      <dc:creator><![CDATA[Por Rafael S González Martínez]]></dc:creator>
+      <description><![CDATA[Los tijuanenses han estado en cuatro ocasiones en la Serie del Rey, de las cuales en dos han logrado el título en 2017 y 2021. Esperan rival y fecha para dar comienzo a las hostilidades.
+Lo que comenzó con grand slam de Hernán Pérez en el primer episodio, por segunda noche consecutiva, terminó con el triunfo de los Toros de Tijuana, 10 carreras a 1 sobre los Sultanes de Monterrey, y la conquista de la Zona Norte que marca el regreso a la Serie de…]]></description>
+      <content:encoded><![CDATA[<p>Los tijuanenses han estado en cuatro ocasiones en la Serie del Rey, de las cuales en dos han logrado el título en 2017 y 2021. Esperan rival y fecha para dar comienzo a las hostilidades.<br>Lo que comenzó con grand slam de Hernán Pérez en el primer episodio, por segunda noche consecutiva, terminó con el triunfo de los Toros de Tijuana, 10 carreras a 1 sobre los Sultanes de Monterrey, y la conquista de la Zona Norte que marca el regreso a la Serie del Rey por cuarta ocasión en la historia de la organización.<br>Los regios reaccionaron con una rayita en el cierre de la primera entrada, pero Toros anotó la quinta carrera cuando Jonathan Guzmán llegó a la registradora. A partir de ahí, el pitcheo de ambas novenas se encargó de colgar el cero durante tres entradas consecutivas, hasta que los tijuanenses volvieron a anotar en el sexto rollo.<br>Celestino continuó con su gran ofensiva e impulsó su cuarta carrera de la noche en el octavo inning. Con un batazo que pasó por encima del patrullero central, envió a dos corredores más al pentágono y los bureles aumentaron la ventaja sobre los locales 8-1. Lanzamiento descontrolado del relevista Alejandro Castro permitió que Franchy Cordero llevara la novena carrera de los fronterizos al plato para poner 9-1 y Tomás Telis conectó una rola al cuadro en la que anotó Phillip Evans para sellar la victoria y coronarse como Campeones del Norte con pizarra final de 10-1 ante Sultanes de Monterrey y regresar a la Serie del Rey esperando rival.<br>Adonis Medina abrió por Toros de Tijuana y trabajó cinco episodios de cuatro imparables y una sola anotación, además de abanicar a tres bateadores. Adbert Alzolay relevó el sexto capítulo y colgó el cero. Jonathan Aro lanzó una entrada en blanco de par de ponches. Roel Ramírez retiró en orden el octavo rollo con scone de ponches para que finalmente, Brett de Geus completara el noveno acto sellando la victoria para Tijuana.<br>Manny Bañuelos subió al montículo por Sultanes y permaneció cinco entradas y dos tercios en las que permitió seis carreras en siete inatrapables con cinco chocolates recetados. Oliver Ortega, Jake Higginbotham, Ronaldo Alessandro, Alejandro Castro y Juan Gámez completaron el trabajo monticular por Monterrey.<br>Publicidad<br>Los tijuanenses han estado en cuatro ocasiones en la Serie del Rey, de las cuales en dos han logrado el título. En 2016 y 2017 llegaron en ambas ante los Pericos de Puebla, de la cuál fue 1-1 en cuanto a títulos. Posteriormente, en 2021, los astados volvieron para ser campeones ante Leones de Yucatán y ahora, en 2026 vuelven para intentar su tercer título.<br>La Serie del Rey iniciará en Tijuana en fecha y rival por definir, la final del Sur la disputan los Olmecas de Tabasco y los Pericos de Puebla.</p>]]></content:encoded>
+      <category>Toros de Tijuana</category>
+    </item>
+    <item>
       <title><![CDATA[Olmecas vence a Pericos en el Juego 3 de los Playoffs LMB 2026]]></title>
       <link>https://www.mediotiempo.com/beisbol/lmb/olmecas-gana-a-pericos-juego-3-playoffs-lmb-2026</link>
       <guid isPermaLink="false">df88b8a60465b19a3533</guid>
@@ -152,6 +164,7 @@ Olmecas…]]></description>
       <category>LMB</category>
       <category>Olmecas de Tabasco</category>
       <category>Serie del Rey</category>
+      <category>Pericos de Puebla</category>
     </item>
     <item>
       <title><![CDATA[Toros de Tijuana vs Sultanes de Monterrey: Resumen del juego, carreras y resultado]]></title>
@@ -277,6 +290,7 @@ La ofensiva tijuanense comenzó a construir la victoria desde el primer episodio
       <category>LMB</category>
       <category>Serie del Rey</category>
       <category>Sultanes de Monterrey</category>
+      <category>Toros de Tijuana</category>
     </item>
     <item>
       <title><![CDATA[Los Toros de Tijuana son Campeones de la Zona Norte y aguardan por su rival en la Serie del Rey]]></title>
@@ -2183,22 +2197,6 @@ Los Toros de Tijuana se impusieron 6-5 a los Sultanes de Monterrey en el Juego 3
 La novena regiomontana estuvo a un paso de quedarse con la victoria, pero no pudo aprovechar una casa llena en extrainnings y los fronterizos encontraron la carrera definitiva en la undécima entra…]]></description>
       <content:encoded><![CDATA[<p>Monterrey.- Los Sultanes de Monterrey dejaron escapar una oportunidad de oro y terminaron cayendo 6-5 ante los Toros de Tijuana en un dramático Juego 3 de la Serie de Campeonato de la Zona Norte, que se extendió hasta 11 entradas en el &quot;Palacio Sultán&quot;.<br>La novena regiomontana estuvo a un paso de quedarse con la victoria, pero no pudo aprovechar una casa llena en extrainnings y los fronterizos encontraron la carrera definitiva en la undécima entrada para tomar ventaja de 2-1 en la serie.<br>Tijuana fue el primero en golpear en el encuentro. Gilberto Celestino abrió con doblete y avanzó hasta tercera, desde donde Phillip Evans lo llevó al plato con un rodado para poner el 1-0 en la primera entrada.<br>Sultanes respondió rápidamente. En el cierre del segundo episodio, Maikel Franco se puso en circulación y Omar Narváez conectó un sencillo al jardín derecho que permitió al dominicano llegar al home con la carrera del empate.<br>Monterrey consiguió darle la vuelta en la quinta entrada. Con la casa llena, Josh Lester bateó para doble matanza, pero Gustavo “Pichito” Núñez alcanzó a cruzar el plato antes de completarse la jugada. Poco después, Víctor Mendoza aprovechó un wild pitch de Brady Fiegl para anotar desde tercera y colocar el 3-1.<br>Daniel Cruz se encargó de mantener la ventaja desde la lomita. El abridor de los Fantasmas Grises trabajó cinco entradas, permitió solamente dos imparables y una carrera.<br>Sin embargo, los Toros comenzaron a reaccionar. Tijuana descontó en la sexta y en la séptima Tomás Telis conectó un cuadrangular solitario que igualó nuevamente el encuentro.<br>La respuesta de Monterrey volvió a ser inmediata. En el cierre del séptimo capítulo, Núñez llegó a las bases y Mendoza conectó un doblete. El “Pichito” recorrió todo el camino desde primera hasta home para devolverle la ventaja a los locales, 4-3.<br>El encuentro volvió a cambiar de dueño en la octava. Tijuana llenó las bases y Wilmer Flores puso la pelota en juego, mientras un error de la defensiva regiomontana permitió que dos carreras cruzaran el plato. Los Toros tomaron entonces la ventaja 5-4.<br>Con tres outs de vida en la novena, Sultanes encontró la manera de extender el partido. Carlos Soto conectó imparable y Johan López ingresó como corredor emergente. López se robó la segunda, avanzó a tercera y aprovechó un wild pitch para lanzarse al home y conseguir el empate 5-5.<br>El juego se fue a extrainnings y Monterrey volvió a tener una oportunidad inmejorable en la décima. Los locales llenaron las bases con un out y tuvieron la carrera del triunfo a 90 pies del plato. Ramiro Peña conectó una línea, pero Tijuana convirtió la jugada en doble matanza y escapó de la amenaza.<br>Después de sobrevivir al peligro, los Toros encontraron la definición en la undécima entrada. Edson García anotó la sexta carrera de Tijuana para poner nuevamente a los fronterizos arriba 6-5.<br>Sultanes ya no pudo responder en el cierre del episodio y terminó sufriendo una dolorosa derrota en casa.<br>Brett de Geus se apuntó la victoria para los Toros, mientras que Jake Higginbotham cargó con la derrota por Monterrey. El salvamento fue para Adbert Alzolay.<br>Con el resultado, Tijuana se coloca 2-1 arriba en la Serie de Campeonato de la Zona Norte y pone presión sobre los Fantasmas Grises, que deberán responder de inmediato para evitar que los fronterizos amplíen la ventaja.<br>El Juego 4 se disputará este martes en el &quot;Palacio Sultán&quot; a las 19:30 horas. Jared Wetherbee será el abridor de Sultanes, mientras que David Reyes subirá a la lomita por los Toros de Tijuana.</p>]]></content:encoded>
       <category>Sultanes de Monterrey</category>
-    </item>
-    <item>
-      <title><![CDATA[Olmecas y Pericos van por el tercero de la Serie de Campeonato en Puebla]]></title>
-      <link>https://www.xevt.com/deportes/olmecas-y-pericos-van-por-el-tercero-de-la-serie-de-campeonato-en-puebla/440476</link>
-      <guid isPermaLink="false">2e0f4d3601de50e2c8cc</guid>
-      <pubDate>Tue, 01 Sep 2026 02:54:00 +0000</pubDate>
-      <source><![CDATA[XEVT]]></source>
-      <dc:creator><![CDATA[Juan Pablo Sibilla]]></dc:creator>
-      <description><![CDATA[Olmecas y Pericos van por el tercero de la Serie de Campeonato en Puebla
-La novena tabasqueña enviará al montículo al estadounidense Jeremy Rhoades
-- Juan Pablo Sibilla
-- Agosto 31, 2026 - 08:54 p.m.
-- DEPORTES
-La Serie de Campeonato de la Zona Sur cambiará de escenario este martes, cuando los Olmecas de Tabasco y los Pericos de Puebla disputen el tercer juego en el Estadio Hermanos Serdán, con la serie empatada 1-1 tras los primeros dos encuentr…]]></description>
-      <content:encoded><![CDATA[<p>Olmecas y Pericos van por el tercero de la Serie de Campeonato en Puebla<br>La novena tabasqueña enviará al montículo al estadounidense Jeremy Rhoades<br>- Juan Pablo Sibilla<br>- Agosto 31, 2026 - 08:54 p.m.<br>- DEPORTES<br>La Serie de Campeonato de la Zona Sur cambiará de escenario este martes, cuando los Olmecas de Tabasco y los Pericos de Puebla disputen el tercer juego en el Estadio Hermanos Serdán, con la serie empatada 1-1 tras los primeros dos encuentros celebrados en Villahermosa.<br>Tabasco llegará con la motivación de haber conseguido una victoria agónica por 4-3 en 11 entradas durante el segundo duelo.<br>Ahora, la batalla se trasladará a Puebla, donde están programados los juegos 3, 4 y 5. Ambos equipos buscarán tomar ventaja antes de regresar a Villahermosa, en caso de que la serie llegue a un sexto encuentro.<br>Para el tercer compromiso, los Olmecas enviarán al montículo al estadounidense Jeremy Rhoades, mientras que los Pericos tendrán como abridor al dominicano Antonio Santos.<br>Por otra parte, la directiva de los Pericos emitió un comunicado dirigido a su afición para desmentir la existencia de algún canal de atención destinado a la venta de boletos para la Serie de Campeonato. El equipo aclaró que las entradas se comercializan exclusivamente en las taquillas del Estadio Hermanos Serdán y a través de la plataforma digital Fanki, por lo que se deslindó de cualquier número telefónico o entidad externa que se ostente como intermediaria de la franquicia.</p>]]></content:encoded>
-      <category>Pericos de Puebla</category>
     </item>
   </channel>
 </rss>

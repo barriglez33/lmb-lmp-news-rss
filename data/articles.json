@@ -150,6 +150,22 @@
     "collected_iso": "2026-09-03T05:51:16.990980+00:00"
   },
   {
+    "id": "d6e1a8aba4d585e8602f",
+    "title": "Toros campeones del Norte y regresan a la Serie del Rey",
+    "source": "Semanario ZETA",
+    "author": "Por Rafael S González Martínez",
+    "published_iso": "2026-09-03T05:25:51+00:00",
+    "published_rfc2822": "Thu, 03 Sep 2026 05:25:51 +0000",
+    "published_display": "2026-09-03 05:25 UTC",
+    "url": "https://zetatijuana.com/2026/09/toros-campeones-del-norte-y-regresan-a-la-serie-del-rey/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb20teE82SGw0SDRrcGZWN0hBbFM0N2NZczR0MFVlM1ZSeGNKTlFhaWlfaHRGa3BLZTVVa2pNTGpUNFJjamNPcXFibFBUYjNXbk5wTGEweERjRXdTTlpEdzUwNnVleFBOczZGSU5UQUVzcmpXQUdxUUIxQVp3TV9VR3NieHJ0SEdWUzJFeFktRHhIdw?oc=5",
+    "body": "Los tijuanenses han estado en cuatro ocasiones en la Serie del Rey, de las cuales en dos han logrado el título en 2017 y 2021. Esperan rival y fecha para dar comienzo a las hostilidades.\nLo que comenzó con grand slam de Hernán Pérez en el primer episodio, por segunda noche consecutiva, terminó con el triunfo de los Toros de Tijuana, 10 carreras a 1 sobre los Sultanes de Monterrey, y la conquista de la Zona Norte que marca el regreso a la Serie del Rey por cuarta ocasión en la historia de la organización.\nLos regios reaccionaron con una rayita en el cierre de la primera entrada, pero Toros anotó la quinta carrera cuando Jonathan Guzmán llegó a la registradora. A partir de ahí, el pitcheo de ambas novenas se encargó de colgar el cero durante tres entradas consecutivas, hasta que los tijuanenses volvieron a anotar en el sexto rollo.\nCelestino continuó con su gran ofensiva e impulsó su cuarta carrera de la noche en el octavo inning. Con un batazo que pasó por encima del patrullero central, envió a dos corredores más al pentágono y los bureles aumentaron la ventaja sobre los locales 8-1. Lanzamiento descontrolado del relevista Alejandro Castro permitió que Franchy Cordero llevara la novena carrera de los fronterizos al plato para poner 9-1 y Tomás Telis conectó una rola al cuadro en la que anotó Phillip Evans para sellar la victoria y coronarse como Campeones del Norte con pizarra final de 10-1 ante Sultanes de Monterrey y regresar a la Serie del Rey esperando rival.\nAdonis Medina abrió por Toros de Tijuana y trabajó cinco episodios de cuatro imparables y una sola anotación, además de abanicar a tres bateadores. Adbert Alzolay relevó el sexto capítulo y colgó el cero. Jonathan Aro lanzó una entrada en blanco de par de ponches. Roel Ramírez retiró en orden el octavo rollo con scone de ponches para que finalmente, Brett de Geus completara el noveno acto sellando la victoria para Tijuana.\nManny Bañuelos subió al montículo por Sultanes y permaneció cinco entradas y dos tercios en las que permitió seis carreras en siete inatrapables con cinco chocolates recetados. Oliver Ortega, Jake Higginbotham, Ronaldo Alessandro, Alejandro Castro y Juan Gámez completaron el trabajo monticular por Monterrey.\nPublicidad\nLos tijuanenses han estado en cuatro ocasiones en la Serie del Rey, de las cuales en dos han logrado el título. En 2016 y 2017 llegaron en ambas ante los Pericos de Puebla, de la cuál fue 1-1 en cuanto a títulos. Posteriormente, en 2021, los astados volvieron para ser campeones ante Leones de Yucatán y ahora, en 2026 vuelven para intentar su tercer título.\nLa Serie del Rey iniciará en Tijuana en fecha y rival por definir, la final del Sur la disputan los Olmecas de Tabasco y los Pericos de Puebla.",
+    "matched_queries": [
+      "Toros de Tijuana"
+    ],
+    "collected_iso": "2026-09-03T09:31:31.623620+00:00"
+  },
+  {
     "id": "df88b8a60465b19a3533",
     "title": "Olmecas vence a Pericos en el Juego 3 de los Playoffs LMB 2026",
     "source": "Mediotiempo",
@@ -163,7 +179,8 @@
     "matched_queries": [
       "LMB",
       "Olmecas de Tabasco",
-      "Serie del Rey"
+      "Serie del Rey",
+      "Pericos de Puebla"
     ],
     "collected_iso": "2026-09-03T05:42:36.535199+00:00"
   },
@@ -295,7 +312,8 @@
     "matched_queries": [
       "LMB",
       "Serie del Rey",
-      "Sultanes de Monterrey"
+      "Sultanes de Monterrey",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-03T05:07:36.923573+00:00"
   },
