@@ -66,4 +66,37 @@ Esta versión ya viene configurada con 52 búsquedas para LMB, LMP, equipos, jug
 - Hasta 1,000 artículos almacenados
 - Hasta 150 artículos en el RSS
 
-Se corrigió `Trevor Baue` a `Trevor Bauer` para mejorar los resultados.
+# Monitor de Noticias LMB y LMP — v2
+
+Cambios principales:
+
+- Detecta noticias repetidas de forma conservadora.
+- Si dos notas parecen contar la misma noticia, conserva la que tenga el cuerpo extraído más largo.
+- Une las búsquedas que encontraron la misma noticia.
+- Conserva una lista interna de fuentes duplicadas.
+- El título del RSS ahora usa: `Titular | Fuente`.
+- Ejemplo: `Trevor Bauer habla de su futuro | ESPN`.
+
+## Archivos que normalmente necesitas reemplazar en GitHub
+
+Si ya tienes el proyecto funcionando, reemplaza:
+- `main.py`
+
+No necesitas cambiar `config.json` ni `update.yml` para obtener estas dos mejoras.
+
+## Si estás subiendo el proyecto completo
+
+Asegúrate de que estos archivos estén en la raíz:
+- `main.py`
+- `config.json`
+- `requirements.txt`
+
+Y que el workflow esté exactamente en:
+- `.github/workflows/update.yml`
+
+
+## Version 3: exclude albat.com
+
+- Articles from `albat.com` are completely excluded.
+- Any `*.albat.com` subdomain is also excluded.
+- Existing Al Bat articles already stored in `data/articles.json` are automatically removed on the next run.
