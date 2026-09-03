@@ -1,5 +1,21 @@
 [
   {
+    "id": "2f47d51fc897ff943d56",
+    "title": "Sinaloenses David Reyes y Mario Meza disputarán la Serie del Rey con Toros de Tijuana",
+    "source": "lineadirectaportal.com",
+    "author": "Manuel Mancilla",
+    "published_iso": "2026-09-03T20:57:49+00:00",
+    "published_rfc2822": "Thu, 03 Sep 2026 20:57:49 +0000",
+    "published_display": "2026-09-03 20:57 UTC",
+    "url": "https://lineadirectaportal.com/deportes/sinaloenses-david-reyes-y-mario-meza-disputaran-la-serie-del-rey-con-toros-de-tijuana-2026-09-03__1695154",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEM5M2dRSnhPWjRwNE5wY0xXTnBjbmhXeXF6bzZwTDA4eUVHWnJib0J3Z3pPV0c2WlNVRG8xZE9INlZKRVZEZzJsQXhuVlBKNHNTVUNvT1hBMEJFdkdYdFdYTzRUNExDenJpVWQzYmVmdm44X2NYbHFzUkFIeFhUSEE2V1JxcW1QSUhKUjJrN3IxQ1JNVXBheEVRSU5NamZBVmhVU1FIdHgwa2tra2I2Yy1CQUJER2dFdnNUelhnTTk3YmljU2I3X1RlenI5Z1I3RzMzbEhNVS1BazRjemc?oc=5",
+    "body": "Tijuana, Baja California. Los Toros de Tijuana están listos para encarar la Serie del Rey dentro de la Liga Mexicana de Beisbol, pero están esperando a Pericos de Puebla u Olmecas de Tabasco para arrancar el campeonato absoluto en esta temporada 2026.\nLos sinaloenses David Reyes y Mario Meza forman parte del roster tijuanense que está al mando del estratega Roberto Kelly, que se impuso a Sultanes de Monterrey en la final de la Zona Norte.\nReyes es uno de los lanzadores estelares en la rotación abridora de Kelly, donde tuvo un récord de 5-4 en 15 apariciones, con una efectividad de 3.98.\nPara el mochitense, este es su segundo ciclo con Toros después de haber llegado procedente de El Rojo Águila de Veracruz.\nDebes leer: Toros de Tijuana apalea a Sultanes, se corona en Zona Norte y avanza a Serie del Rey 2026\nVive su primera campaña Mario Meza con Tijuana\nPor su parte, el lanzador culiacanense Mario Meza (1-1, 3.86) tiene 35 años de edad y vive su primera campaña con la novena bajacaliforniana tras haber jugado con Saraperos de Saltillo, Tigres de Quintana Roo y Leones de Yucatán, mientras que en invierno forma parte de los Yaquis de Ciudad Obregón y Charros de Jalisco.\nEn el sur, sinaloenses pelean por llegar a la Serie del Rey\nLa lucha entre Pericos de Puebla y Olmecas de Tabasco involucra a algunos sinaloenses como el ahomense Samar Leyva por el conjunto emplumado, mientras que Antonio Almeida y Jasson Atondo por los del sureste del país. Esta serie se encuentra 2-1 a favor de Tabasco.",
+    "matched_queries": [
+      "Serie del Rey"
+    ],
+    "collected_iso": "2026-09-03T21:26:21.217053+00:00"
+  },
+  {
     "id": "f9911bc98b54279a5490",
     "title": "Toros de Tijuana vence a Sultanes de Monterrey coronándose campeones de la Zona Norte",
     "source": "Periódico Central",
@@ -50,6 +66,7 @@
     ],
     "collected_iso": "2026-09-03T18:32:23.108361+00:00",
     "duplicate_sources": [
+      "El Imparcial",
       "elimparcial.com"
     ]
   },
@@ -208,20 +225,25 @@
     "collected_iso": "2026-09-03T20:28:44.503255+00:00"
   },
   {
-    "id": "9b19ecfc58bb270683e6",
-    "title": "Olmecas vencen a Pericos y toman ventaja en la final del Sur",
+    "id": "30e908a07cba0bd370c0",
+    "title": "Olmecas de Tabasco vence a Pericos de Puebla y toma ventaja en la final del Sur",
     "source": "XEVA",
     "author": "Juan Carlos García",
-    "published_iso": "2026-09-03T13:09:49+00:00",
-    "published_rfc2822": "Thu, 03 Sep 2026 13:09:49 +0000",
-    "published_display": "2026-09-03 13:09 UTC",
-    "url": "https://xeva.com.mx/deportes/293858/olmecas-vencen-a-pericos-y-toman-ventaja-en-la-final-del-sur",
-    "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYVNISDNVZEFobmVxalNLaWdvUjItOVhieW1zbUtSZnZKblNTcFlyaE11Q2FNeUxJdHVXME54ZXhYUWIyM1ZkamdMSXg1U2ZDT2cwcGV1bVltSzZjYzdfUVpGaGZCdks3cmxnT0U2aXhqVnVJQkg2blZoczkzY3FXUGpSOG1tVjIyQThETlFGcGtMNXBRR3MwTzRSTHg?oc=5",
+    "published_iso": "2026-09-03T13:11:00+00:00",
+    "published_rfc2822": "Thu, 03 Sep 2026 13:11:00 +0000",
+    "published_display": "2026-09-03 13:11 UTC",
+    "url": "https://xeva.com.mx/deportes/293858/olmecas-de-tabasco-vence-a-pericos-de-puebla-y-toma-ventaja-en-la-final-del-sur",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGY1b2VxY1ExV0EtQ3R0QjNFNFNiRjhiWnc2VUxwc0tLMkNGbHRwTDJMb0k0bWRQQ196VmRwNXU4SGJkejBlTWlsSEZjdXpMWU05aG1tS3JUT0RVenU0S1NYbXIxTHhXZXlQLVN1WGJyS1p3Sy1hNzRwSGt5cXdJbEhPdktGRmJhZHlZd1ZId2tLZTF6Tmk5VXY1d1lLU0JCeXQtQmdNNkVTeHNKUGZPcFVacEdYdw?oc=5",
     "body": "Los Olmecas de Tabasco se impusieron 6-5 a los Pericos de Puebla en el Juego 3 de la Serie de Campeonato de la Zona Sur y se pusieron arriba 2-1.\nEl Estadio Hermanos Serdán vivió un final insólito este miércoles. Con Sergio Alcántara representando la carrera del empate, el corredor fue atrapado entre segunda y tercera antes de que el cerrador Clayton Andrews hiciera su pitcheo. La jugada sentenció el triunfo tabasqueño.\nLos Olmecas pegaron primero en el Nido Verde. En la misma primera entrada, Marco Hernández castigó a Antonio Santos con cuadrangular por el jardín derecho para abrir la pizarra.\nTabasco armó una ofensiva poderosa con jonrones de Hernández y José Godoy, además de un doble de Jasson Atondo y un triple de Calvin Estrada, batazos que terminaron marcando la diferencia.\nLa serie continúa en Puebla. Este jueves 3 de septiembre, a partir de las 19:00 horas, se jugará el cuarto duelo en el Hermanos Serdán, y el viernes 5 está programado el quinto juego a la misma hora y en la misma sede.\nSi Pericos rescata al menos uno en casa, la final del Sur volverá a Villahermosa el domingo 6 de septiembre. De ser necesario un séptimo y definitivo encuentro, se disputará el lunes 7 de septiembre.\nFuente: mediotiempo/jcgm/Foto: FB Olmecas de Tabasco\nPaseo Usumacinta s/n Esq Ayuntamiento. Col Gil y Sáenz, Villahermosa, Tabasco",
     "matched_queries": [
+      "Olmecas de Tabasco",
       "Pericos de Puebla"
     ],
-    "collected_iso": "2026-09-03T15:35:31.123627+00:00"
+    "collected_iso": "2026-09-03T21:32:31.512800+00:00",
+    "duplicate_sources": [
+      "Diario Presente",
+      "XEVA"
+    ]
   },
   {
     "id": "24d5511941bfc03a4708",
@@ -805,6 +827,22 @@
     "collected_iso": "2026-09-03T05:14:15.570005+00:00"
   },
   {
+    "id": "76f7d85e0b96239f61ed",
+    "title": "Charros Pretemporada 2026-2027: Ornelas, Osuna y Serna al frente",
+    "source": "Telediario",
+    "author": "Telediario; Carlos Meza",
+    "published_iso": "2026-09-03T03:06:00+00:00",
+    "published_rfc2822": "Thu, 03 Sep 2026 03:06:00 +0000",
+    "published_display": "2026-09-03 03:06 UTC",
+    "url": "https://amp.telediario.mx/deportes/beisbol/charros-pretemporada-2026-2027-ornelas-osuna-y-serna-al-frente",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0hyR1hDSEpzRGhTNHdHWktybUVIZDQ2SUxjbnAtSWMyZ09nYTVZclpSbm10YWpIdDE2MWJldzNMM2REOUpsN3VyZTBnSzhWbngxTllYNjJjMlV3X2xqRXEzeGs5emt3OFhfYXJZbGVSelpQVkk3NjhIWWlyZTAyU0oybVctVTdvU2ZITVd5XzR5dUN5Vnp6ZGhUVjlmeG10QXhXd3ZCTmTSAagBQVVfeXFMT09IckdYQ0hKc0RoUzR3R1pLcm1FSGQ0NklMY25wLUljMmdPZ2E1WXJaUm5tdGFqSHQxNjFiZXczTDNkRDlKbDd1cmUwZ0s4Vm54MU5ZWDYyYzJVd19sakVxM3hrOXprdzhYX2FyWWxlUnpaUFZJNzY4SFlpcmUwMlNKMm1XLVU3b1NmSE1XeV80eXVDeVZ6emRoVFY5ZnhtdEF4V3d2Qk5k?oc=5",
+    "body": "Los Ornelas, Osuna y Serna lideran la lista de pretemporada de Charros de Jalisco rumbo a la LMP 2026-2027\nLa novena jalisciense dio a conocer su lista de 58 convocados mexicanos para iniciar la pretemporada 2026-2027 de la Liga Mexicana de Béisbol.\nLa base mexicana de Charros de Jalisco se reporta lista para encarar la próxima temporada 2026-2027 de la Liga Mexicana del Pacífico (LMP).\nLa directiva jalisciense ha estructurado un grupo de poder, experiencia y talento de Grandes Ligas para defender su bicampeonato en la liga invernal.\n¿Quiénes son las figuras que destacan en el roster de Charros de Jalisco para la LMP?\nLa novena albiazul contempla 58 peloteros aztecas repartidos en 37 lanzadores, 7 receptores, 8 jugadores de cuadro y 6 jardineros.\nEl outfield combina dinamismo y solidez con los hermanos Julián y Tirso Ornelas, acompañados por el prospecto de los Texas Rangers, Alejandro Osuna, y la veteranía de José Juan Aguilar.\nEn el cuadro interior, las miradas están sobre Jared Serna, quien llega tras haber hecho su debut oficial en las Grandes Ligas con Miami Marlins.\nSerna compartirá el infield con piezas clave como Mateo Gil y Daniel Castro. Por su parte, la receptoría de Charros de Jalisco estará resguardada por catchers de amplia trayectoria como Francisco Córdoba y Carlos Mendivil.\nEl cuerpo de pitcheo está comandado por los experimentados brazos de Manny Bañuelos, Luis Payán y Luis Iván Rodríguez, respaldados por relevistas con experiencia ligamayorista como Gerardo Reyes.\n¿Cuándo inician los entrenamientos y el debut de la temporada 2026-2027?\nBajo la gestión del director general Luis Alberto González y el mando técnico de Benjamín Gil, la novena jalisciense arrancará sus entrenamientos de pretemporada el próximo 13 de septiembre en las instalaciones del Estadio Panamericano.\nEl esperado debut de los bicampeones en la Liga Mexicana del Pacífico rumbo a la temporada 2026-2027, será el 13 de octubre ante los Jaguares de Nayarit.\nEn los próximos días la directiva hará pública la lista de refuerzos extranjeros, donde se contempla el retorno de piezas clave como Michael Wielansky y Reynaldo Rodríguez.\n- ¡Doble cartelera en el Akron! Chivas cambia partidos de local para el Apertura 2026\n- \"Nadie tiene su lugar asegurado\": Alfonso González está consciente de la competencia de alto nivel en Atlas\n- Atlas: el indiscutible líder de la indisciplina en la Liga MX\n- Septiembre en Jalisco: agenda llena de futbol, tenis, lucha libre y más\nJS\nQueda prohibida la reproducción total o parcial del contenido de esta página, mismo que es propiedad de TELEDIARIO; su reproducción no autorizada constituye una infracción y un delito de conformidad con las leyes aplicables.",
+    "matched_queries": [
+      "Julián Ornelas"
+    ],
+    "collected_iso": "2026-09-03T21:34:25.472978+00:00"
+  },
+  {
     "id": "783841608866e91e1be4",
     "title": "Naranjeros inmortalizan a Kalimán Robles en un bobblehead",
     "source": "expreso.com.mx",
@@ -920,7 +958,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeEgybzd0Yloyald0R2NOeF9McXBmdngwQzBLMHpJNjJPSExieGFTckdZZmFVcHZxRXh4LXRZcGxYQ01VX0tpLTloSW1UYUcyT2V6OTRDaDV0bEFhRXM3bWtmblcya2JTWWF4S2lBT2F6dzZ3WHczTHdySlROS2phNzRQMkhFZ2h4NnlmVUlCbXZzblJaaVBvakt0bWRzUzVmMWNyTGxUY2lYWU1kZ1dMUld4bW9zMS0xLW9CSTRTSmFLNnNrQWdOLUhqQ0RZcG1ySmp3cnRuaFlqUWZMal93NG1pUFgyaVJCczlV0gHwAUFVX3lxTE9FRnRDcmRGNnZUZkltbUJzVmdncFc4UUR4cWpBWHFvd2Z4eS1NUFBHaDczcjhVQzFQczZ4U05NVnYzcTJ3WW0xZWIyX19zRURjVjNfYlZPbWYzZ3lQa1dTaTNRclhsanNGcXFmMUNVTW9hWHh5OWFhMWFPOHVYS0FMSGxicWlLamJQRFd6TGdDUXpQZmg4eXRTTG9WV1FrVTlkcDNTZTh1RXBpRHZGUVBRdXhRc0JfUXVpVVcxV294ZnNjRGp5cG1vc2lON2wyWE45d2YzY1JFZkVjZHBZQndDd3RQNU9aZmx4WnRJYmlTOA?oc=5",
     "body": "Venados de Mazatlán alista su pretemporada con 80 convocados rumbo a la campaña 2026-2027 de la LMP\nMAZATLÁN._ La organización de los Venados de Mazatlán afianza los preparativos para encarar la temporada 2026-2027 de la Liga Mexicana del Pacífico (LMP), convocando a un contingente de 80 peloteros para arrancar formalmente su campo de entrenamiento este próximo jueves 10 de septiembre.\nEn la lista de invitados destaca la presencia del lanzador ligamayorista mazatleco José Luis Urquidy, además del joven pítcher Jonatan Bernal.\nLa plantilla convocada combina a elementos de experiencia como Ramón Ríos, Andrés Álvarez, Juan Mora, Carlos Tirado y Óscar Jiménez, junto a jóvenes promesas del beisbol nacional como Alex Toloza, José Lavagnino y Máximo Rodríguez.\nCalendario de preparación e inauguración\nLa pretemporada del cuadro rojo proyecta un ritmo intenso para definir el roster definitivo:\nPartidos de preparación: Se disputarán 14 juegos de exhibición para evaluar a los peloteros antes de la voz de playball.\nJuego Inaugural en casa: Venados abrirá la temporada regular en el Estadio Teodoro Mariscal el próximo 14 de octubre recibiendo a los Tomateros de Culiacán.\nCelebración institucional: La franquicia mazatleca celebrará 81 años de historia dentro del beisbol profesional mexicano durante la presente edición invernal.",
     "matched_queries": [
-      "LMP"
+      "LMP",
+      "Venados de Mazatlán"
     ],
     "collected_iso": "2026-09-03T20:24:10.958748+00:00"
   },
@@ -973,7 +1012,10 @@
     "matched_queries": [
       "Venados de Mazatlán"
     ],
-    "collected_iso": "2026-09-03T05:15:18.862845+00:00"
+    "collected_iso": "2026-09-03T05:15:18.862845+00:00",
+    "duplicate_sources": [
+      "Punto MX"
+    ]
   },
   {
     "id": "524afadfb018c2e59ad8",
@@ -1152,6 +1194,22 @@
       "Naranjeros de Hermosillo"
     ],
     "collected_iso": "2026-09-03T00:43:58.834838+00:00"
+  },
+  {
+    "id": "2a888d784195a92fd1a4",
+    "title": "Venados de Mazatlán pone en marcha el camino hacia una nueva historia - Venados de Mazatlán",
+    "source": "venados.com",
+    "author": "Prensa",
+    "published_iso": "2026-09-02T17:10:51+00:00",
+    "published_rfc2822": "Wed, 02 Sep 2026 17:10:51 +0000",
+    "published_display": "2026-09-02 17:10 UTC",
+    "url": "https://www.venados.com/venados-de-mazatlan-pone-en-marcha-el-camino-hacia-una-nueva-historia/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNem9zZnFxQ2s5WlAyQW5aYUZwcU9JMWh0WDU1MkNNQkY5VnQtTUJ0OE1WNUVDSjFSS2dQTGs3V3hWMlBrc1djWkdhTlFUM2tCRmpLTWZHV0Uzb3d3anhUTFJUMEo5UVVkMjZydFIweUxZVEppb1h6WjA2UzJ1b0w0azNybGZSUXRwdFBJSWRuVmtEVktVNWlTdjFn?oc=5",
+    "body": "MAZATLÁN._ La espera está por terminar. Venados de Mazatlán tiene todo listo para comenzar una nueva etapa rumbo a la temporada 2026-2027 de la Liga Mexicana del Pacífico, con la mira puesta en construir un equipo competitivo y escribir una nueva historia ante su afición.\nEl próximo jueves 10 de septiembre los rojos abrirán oficialmente las puertas de su campo de entrenamiento, al que fueron convocados 80 jugadores, quienes iniciarán la lucha por formar parte del roster que representará a Mazatlán durante la próxima campaña.\nEntre los nombres que destacan en esta lista se encuentra el lanzador mazatleco José Luis Urquidy, quien vuelve a generar expectativa entre la afición porteña, además del joven talento Jonatan Bernal, dos brazos que buscarán aportar su experiencia y calidad al proyecto de los rojos.\nTambién se encuentran los nombres de Ramón Ríos, Andrés Álvarez, Juan Mora, Carlos Tirado, Óscar Jímenez y nuevos rostros jóvenes del beisbol mexicano, como Alex Toloza, José Lavagnino y Máximo Rodríguez.\nEl trabajo de pretemporada será intenso. Venados tendrá programados 14 encuentros de preparación, una etapa fundamental para que el cuerpo técnico evalúe a los jugadores, defina roles y llegue con el equipo en las mejores condiciones al inicio de la campaña.\nY el calendario no pudo preparar un mejor escenario para el arranque en casa.\nEl 14 de octubre, Venados de Mazatlán abrirá oficialmente la temporada como local ante uno de sus grandes rivales: Tomateros de Culiacán, en un duelo que promete encender desde el primer lanzamiento la pasión por el beisbol en el puerto.\nSerá el comienzo de una nueva temporada, pero también de un año especial para la organización, que celebra 81 años de historia.\nOcho décadas de grandes jugadores, noches inolvidables, campeonatos, tradición y una afición que ha convertido al Estadio Teodoro Mariscal en uno de los escenarios más emblemáticos del beisbol mexicano.\nAhora, los Venados vuelven al trabajo con un objetivo claro: competir, representar con orgullo a Mazatlán y construir una historia que vuelva a hacer vibrar a toda su afición.\nEl camino comienza este jueves 10 de septiembre.",
+    "matched_queries": [
+      "Venados de Mazatlán"
+    ],
+    "collected_iso": "2026-09-03T21:33:46.957929+00:00"
   },
   {
     "id": "4c4ad38fe4d2e2b7ca6b",
@@ -2197,23 +2255,6 @@
       "Sultanes de Monterrey"
     ],
     "collected_iso": "2026-09-02T00:39:54.330759+00:00"
-  },
-  {
-    "id": "2d511180e41be060ea2e",
-    "title": "Olmecas de Tabasco y Pericos de Puebla se enfrentan en la final de la Zona Sur",
-    "source": "Diario Presente",
-    "author": "",
-    "published_iso": "2026-09-01T15:00:00+00:00",
-    "published_rfc2822": "Tue, 01 Sep 2026 15:00:00 +0000",
-    "published_display": "2026-09-01 15:00 UTC",
-    "url": "https://www.diariopresente.mx/elsoldelsureste/estadio-hermanos-serdan-final-zona-sur-olmecas-tabasco/465671",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanVpTFRiTEpfUWFma0Rfa0xqNjFoaHFxeG9VU0lJTW1kR3BsQktodDZ1aFV0MWNrVWJIY1NMUFVycUZEWkpBUDk1RkQzcFBYcHZ0Sm1palA1OU5VamZaLXdrc1ZtOEhSVWlGMFV6S3I0dlJuZzNGV1ZWUGU5b3M4NDZJbVkwTDVaVE1LQzJGTElGRnhoZzlRemZMdi1xcTlYTXJsaTFBZkFIckE?oc=5",
-    "body": "Villahermosa, Tabasco.-\n- Hermanos Serdán\nVAN AL NIDO\nOlmecas de Tabasco está listo para reanudar este martes la final de la Zona Sur ante Pericos de Puebla\nOlmecas de Tabasco está listo para reanudar este martes la final de la Zona Sur ante Pericos de Puebla en el Estadio Hermanos Serdán.\nLa novena dirigida por Luis Carlos Rivero buscará a todo costa hacer un buen papel en los tres juegos programados en La Angelópolis para tratar de lograr el cetro o en su defecto obligar a que regrese la serie al Parque Centenario 27 de Febrero.\nLos duelos del 1 al 3 de septiembre en Puebla comenzarán a partir de las 19:00 horas.\nDurante el rol regular los cabezones tuvieron números positivos ante los emplumados, al ganar en seis ocasiones y solo perder tres veces.\nCabe señalar que, el equipo tabasqueño eliminó en la primera ronda de play offs 4-1 a Puebla en 2022.\nSe estima que el norteamericano Ronnie Williams será el abridor por Olmecas de Tabasco este martes.",
-    "matched_queries": [
-      "Pericos de Puebla",
-      "Olmecas de Tabasco"
-    ],
-    "collected_iso": "2026-09-01T20:36:11.956937+00:00"
   },
   {
     "id": "c05460eb9caeb87c624d",
