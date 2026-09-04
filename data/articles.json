@@ -12,7 +12,8 @@
     "body": "Los Olmecas de Tabasco se encuentran a una sola victoria de regresar a la Serie del Rey de la Liga Mexicana de Beisbol (LMB), luego de imponerse 2-1 a los Pericos de Puebla en el cuarto juego de la Serie de Campeonato de la Zona Sur.\nCon el triunfo conseguido en el estadio Hermanos Serdán, la novena tabasqueña tomó ventaja de 3-1 en la serie y quedó a un solo resultado positivo de asegurar su clasificación a la gran final del béisbol mexicano. El equipo dirigido por su cuerpo técnico buscará aprovechar la ventaja obtenida para cerrar la serie y volver a disputar el campeonato de la LMB.\nEl resultado también coloca a los Olmecas ante la posibilidad de poner fin a una espera de 33 años. La última ocasión en la que la franquicia llegó a la Serie del Rey fue en 1993, temporada en la que consiguió el único campeonato de su historia tras superar a los Tecolotes de los Dos Laredos.\nUn duelo de pitcheo mantuvo el marcador cerrado\nDesde los primeros episodios, el cuarto compromiso de la Serie se desarrolló como un enfrentamiento entre los abridores Jeremy Rhoades, por los Olmecas, y Vladimir Gutiérrez, por los Pericos.\nLos lanzadores limitaron las oportunidades de las ofensivas y mantuvieron el encuentro con una diferencia mínima durante buena parte del partido. Puebla no logró capitalizar sus oportunidades en los primeros capítulos, mientras que Tabasco tuvo que esperar hasta la cuarta entrada para romper el empate.\nEn ese episodio llegó la primera carrera del encuentro. Randy Romero conectó un batazo que terminó en un error defensivo de Sergio Alcántara, situación que permitió que el jugador de Tabasco se embasara.\nPosteriormente, Marco Hernández apareció con un doblete para llevar a Romero hasta el plato y producir la primera anotación de los Olmecas. La carrera permitió a Rhoades trabajar con ventaja en el marcador dentro de un partido en el que las ofensivas tuvieron dificultades para generar oportunidades.\nTabasco consiguió mantener su ventaja durante los siguientes episodios y llegó a la parte final del compromiso con la posibilidad de asegurar un triunfo más en la serie.\nLa novena tabasqueña terminó por imponerse 2-1 a los Pericos, resultado que modificó la situación de la Serie de Campeonato de la Zona Sur y dejó a los Olmecas con una ventaja de 3-1.\nCon esta diferencia, Tabasco necesita solamente una victoria más para convertirse en el representante de la Zona Sur en la Serie del Rey. Puebla, por su parte, tendrá que ganar los siguientes encuentros para mantenerse con vida en la pelea por el campeonato.",
     "matched_queries": [
       "Liga Mexicana de Béisbol",
-      "Serie del Rey"
+      "Serie del Rey",
+      "Pericos de Puebla"
     ],
     "collected_iso": "2026-09-04T07:24:17.272924+00:00"
   },
@@ -36,22 +37,6 @@
     "duplicate_sources": [
       "MILENIO"
     ]
-  },
-  {
-    "id": "5e523e714284f1414e0f",
-    "title": "Olmecas derrotó 2-1 a Pericos y se pone a un triunfo de llegar a la Serie del Rey",
-    "source": "si.com",
-    "author": "Redacción SI México",
-    "published_iso": "2026-09-04T04:43:07+00:00",
-    "published_rfc2822": "Fri, 04 Sep 2026 04:43:07 +0000",
-    "published_display": "2026-09-04 04:43 UTC",
-    "url": "https://www.si.com/mx/lmb/olmecas-derroto-2-1-a-pericos-y-se-pone-a-un-triunfo-de-llegar-a-la-serie-del-rey",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVpCbHVFVzVVU2JoZTBTYVJaaG5lX1NsbmpkUjl0SV9aNWFncVFyZWRKS1BxMkh6dVRXaGxoM08wbmE3dHlCekdsMndKWk5mLXgwLS1FQlpSQ1pfSEhtS0QzNlB4U3V1M2oxdEdNRHJSYms1cTB2cTRVUDhnV1EwczNjUTJUUjlVZlhOOW1VUnZXUENIaFdZVFdxaHFjbGk4MjkxVFBwLV94VlE?oc=5",
-    "body": "Olmecas de Tabasco derrotó 2-1 a Pericos de Puebla y se pone a un triunfo de avanzar a la Serie del Rey en la Liga Mexicana de Béisbol.\nTabasco lidera 3-1 la Serie de Campeonato de la Zona Sur, por lo que está a un pasito de convertirse en el rival de Toros de Tijuana en la lucha por el título de la LMB.\nTe puede interesar: Toros de Tijuana son Campeones de la Zona Norte y aguardan rival en la Serie del Rey\nEl quinto juego de la serie será el viernes 4 de septiembre, cuando ya no hay margen de error para los poblanos, quienes están obligados a ganar para seguir con vida.\nLa victoria se la llevó Jeremy Rhoades con labor de siete entradas y un tercio, aceptó cinco hits una carrera, dio un pasaporte y ponchó a tres enemigos.\nLa derrota fue para Vladimir Gutiérrez. El duelo para el quinto juego de la Serie de Campeonato de la Zona Sur será entre Fernando Lozano y Daniel Camarena.",
-    "matched_queries": [
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-09-04T07:34:23.333446+00:00"
   },
   {
     "id": "dbbc7663205ecfceca0d",
@@ -116,12 +101,14 @@
     "matched_queries": [
       "Olmecas de Tabasco",
       "Pericos de Puebla",
-      "Serie del Rey"
+      "Serie del Rey",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-04T06:37:29.076225+00:00",
     "duplicate_sources": [
       "El Horizonte",
-      "elhorizonte.mx"
+      "elhorizonte.mx",
+      "si.com"
     ]
   },
   {
@@ -482,6 +469,22 @@
     ]
   },
   {
+    "id": "b493bc30cf9112a8ae91",
+    "title": "Los Tomateros acabaron con el invicto de Dominicana y se enfrentarán de nuevo en la semifinal",
+    "source": "AGP Noticias",
+    "author": "AGP Noticias",
+    "published_iso": "2026-09-03T19:32:38+00:00",
+    "published_rfc2822": "Thu, 03 Sep 2026 19:32:38 +0000",
+    "published_display": "2026-09-03 19:32 UTC",
+    "url": "https://agpnoticias.com/news/los-tomateros-acabaron-con-el-invicto-de-dominicana/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVldKREtPSi16M1hxRTF0SWhaUUxBSnZiNnk4TXJPVGxiajBfSVp4Z1ZUajRLbFJRY2VVTVYwbFVlNDgxZ29kdEtVRU02eHQ4SDEyMmxhd2s2MU0tRzdwRGkwWUg4VXFGQWNzMDRZeURpNFdwX09SanVwSDBQbDl0WXZ2ZzIzMUFv?oc=5",
+    "body": "Zapopan, Jalisco (Prensa CBPC).- Los Tomateros de Culiacán protagonizaron una espectacular remontada al fabricar un rally de seis carreras en el octavo episodio para imponerse 10-7 a los Leones del Escogido, que de esta manera perdieron su invicto y quedaron con récord de 3-1, en el partido que cerró la quinta jornada de la 68ª Serie del Caribe Guadalajara 2026.\nLa ofensiva decisiva incluyó un jonrón de dos carreras de Estevan Florial, que coronó la rebelión mexicana y selló el triunfo.\nEl episodio lo abrió Sepúlveda con triple; Córdova fue golpeado y Amador conectó sencillo al jardín central para remolcar a Sepúlveda. Drake pegó hit al centro y, tras un error en tiro, anotaron dos carreras más. Meneses impulsó otra con elevado de sacrificio, Mendoza falló con elevado al derecho, Vergudo conectó sencillo y, acto seguido, Florial disparó su cuadrangular por el prado derecho para completar el rally.\nEste viernes, a las 4:00 de la tarde (hora dominicana), Leones del Escogido y Tomateros de Culiacán volverán a enfrentarse en la primera semifinal. El ganador avanzará a la final, mientras que el perdedor quedará eliminado.\nLa victoria fue Anthony Gose, hubo salvado de Lupe Chávez y Conner Greeen cargó con la derrota.\nEn la ofensiva mexicana se destacaron Allen Córdoba y Esteban Florial con sendos cuadrangulares y Luis Verdugo se fue con 3 hits en 5 oportunidades, mientras que la de Leones fue encabezada por Franchy Cordero, quien bateó de 3-2, con dos jonrones, dos carreras anotadas y dos remolcadas. El capitán rojo, Jimmy Paredes, también tuvo una destacada actuación al irse de 4-2, incluyendo un cuadrangular.\nPor los Leones del Escogido abrió el veterano Radhames Liz, quien trabajó cuatro entradas, permitió cinco hits, dos carreras, otorgó dos boletos y ponchó a cuatro.\nFue relevado por Phillips Valdez, quien lanzó el quinto y sexto episodio.\nPor México Verde, abrió Manny Barreda, quien lanzó cinco entradas, permitió cinco hits y cinco carreras, otorgó cuatro boletos y ponchó a tres.\nLos Leones tomaron ventaja temprano cuando en el primer episodio Gustavo Núñez se embasó por error del segunda base, Marcos Hernández recibió boleto y Sócrates Brito conectó doble al jardín central para remolcar a ambos. Junior Lake avanzó a Brito con rodado por primera y Cristian Adames impulsó otra con rodado similar.\nLos Tomateros respondieron en el tercer inning ante Liz con dos anotaciones gracias a un jonrón de Sepúlveda con un corredor en circulación. Otra carrera mexicana llegó en el sexto episodio, también impulsada por Sepúlveda, quien tuvo una gran noche con el madero.\nEn el cuarto, Franchy Cordero conectó cuadrangular por el jardín derecho. En el sexto, Cordero volvió a sacar la bola del parque, su segundo de la noche, para poner el juego 5-2, y posteriormente Jimmy Paredes disparó jonrón para la sexta carrera dominicana.\nEn el séptimo, Sócrates Brito conectó sencillo, se robó segunda y tercera base y anotó la séptima carrera tras un error en tiro del receptor. México descontó una carrera en ese mismo episodio ante el relevista Teller.",
+    "matched_queries": [
+      "Tomateros de Culiacán"
+    ],
+    "collected_iso": "2026-09-04T09:38:07.239300+00:00"
+  },
+  {
     "id": "de99b5332348f6fbe6cc",
     "title": "Pericos de Puebla cae ante Olmecas y pierde ventaja en la Serie de Campeonato del Sur | Exclusivas Puebla",
     "source": "Exclusivas Puebla",
@@ -624,23 +627,6 @@
       "LMB"
     ],
     "collected_iso": "2026-09-03T15:35:22.299119+00:00"
-  },
-  {
-    "id": "e0fbd69fb5b18a7a6933",
-    "title": "Toros de Tijuana clasifica a la Serie del Rey tras vencer a los Sultanes de Monterrey",
-    "source": "Infobae",
-    "author": "Luis Mote Nava",
-    "published_iso": "2026-09-03T14:22:00+00:00",
-    "published_rfc2822": "Thu, 03 Sep 2026 14:22:00 +0000",
-    "published_display": "2026-09-03 14:22 UTC",
-    "url": "https://www.infobae.com/mexico/deportes/2026/09/03/toros-de-tijuana-clasifica-a-la-serie-del-rey-tras-vencer-a-los-sultanes-de-monterrey/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakRfOVJjYWhIeDFRcU8xMWd0UlprWXlpbTNCUkp3UUZORURjMFMwTjhWQUtmN1FacS1kQkhUb19hVEd2TUh1Q0l3aUhxWExJMEQtdG5hYUtkLTRGa01XdjBiODVid2tLd2dJVktKWXVwdHhnQzlXLUJRUVp6UnpRWXdmMTJpbDZQN0NRQVFuUW92dmVTdzkzd1UtSVhyY0FOZVlydU8xVFE0OUF6NkJlV3V6b25oTldEYVNMakdEU0dFUnRscllvR2tpTjkxSEFLTFR30gHuAUFVX3lxTE01WW90Q21jTVdwUHJuQloyeXF6REFxZUV4V2N2eDB4SGNwUnlkS1lPMnVvMWRhOW8tSVhlNERyRXdXZXIzX1cyWmVSZy1OWWQ1Nm13RE9iRHVDTjlnS3AzVVhCTW4yb19ub0RVRm9zUmg3OHR3NG56MkxFSUpIOEk1aUNLMEkwTjZCVUVrX1ZfeWt5U0VrUExnbmZDRzJCaFB2OXVtdUNWZ3BPZHp3WHI4MEx2QXU5RFQ4bm02S3F4ZG5oc2h2bmh5b0pPN1JiMWpyQlVOdFhDVEltR1NTc05HaFp2aWNKUlVCakczOWc?oc=5",
-    "body": "Los Toros de Tijuana se convierten en el primer equipo clasificado a la Serie del Rey de la Liga Mexicana de Beisbol, luego de vencer 4-1 a los Sultanes de Monterrey en la Final de la Zona Norte.\nA lo largo de la temporada, el equipo fronterizo se consolidó como uno de los equipos más sólidos de la liga, respaldado por una de las ofensivas más productivas.\nPUBLICIDAD\nEse nivel se reflejó en la eliminatoria ante los Fantasmas Grises, a quienes superaron con autoridad en cinco para asegurar su lugar en el juego por el título.\nQué ocurrió en el Juego 5\nLa ofensiva de los Toros de Tijuana apareció desde el inicio del juego y castigó a Manny Bañuelos. En la primera entrada, el equipo fronterizo anotó cuatro carreras y tomó una ventaja que ya no perdió en el resto del encuentro.\nHernán Pérez abrió el camino con un Grand Slam por segundo día consecutivo, el cual colocó momentáneamente la pizarra 4-0 a favor de los Toros.\nAunque Bañuelos corrigió en los siguientes episodios, el daño ya estaba hecho.\nDesde el montículo, Adonis Medina controló a la ofensiva de los Sultanes de Monterrey tras lanzar cinco entradas, permitir cuatro hits sin admitir carreras.\nEl relevo fronterizo mantuvo la ventaja y no concedió anotaciones durante el resto del encuentro. Con el bat, Gilberto Celestino fue una de las figuras al producir cuatro carreras, con tres hits en seis turnos.\nPUBLICIDAD\nLos Toros regresan a una Serie del Rey\nLos Toros de Tijuana disputarán por cuarta ocasión la Serie del Rey, donde en dos de sus tres apariciones anteriores levantaron el título de la Liga Mexicana de Beisbol.\nEn 2016, los Toros de Tijuana disputaron por primera vez la Serie del Rey, pero cayeron ante los Pericos de Puebla en seis juegos. Un año después, los fronterizos volvieron a medirse con la novena emplumada en la final y conquistaron su primer campeonato de la Liga Mexicana de Beisbol.\nEn 2021, los fronterizos regresaron a la instancia definitiva y conquistaron su segundo campeonato tras imponerse a los Leones de Yucatán.\nAhora, en 2026, buscan sumar una tercera corona a su historia.\nTijuana parte como uno de los principales favoritos luego de firmar el mejor récord de la Zona Norte durante la temporada regular. Además, termina como el segundo mejor equipo de toda la Liga Mexicana de Beisbol.\nPUBLICIDAD\nEl reto para los astados será mantener el ritmo en la postemporada y evitar una sorpresa. Olmecas de Tabasco y Pericos de Puebla llegan con actuaciones sólidas en los playoffs y se perfilan como rivales capaces de complicar el camino de los fronterizos.\nPUBLICIDAD\nPUBLICIDAD",
-    "matched_queries": [
-      "Serie del Rey",
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-09-03T23:26:12.150825+00:00"
   },
   {
     "id": "7bc55574b3efc36cc7f9",
@@ -1169,6 +1155,27 @@
       "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-09-03T05:14:22.077567+00:00"
+  },
+  {
+    "id": "b9f662349119fe2dee51",
+    "title": "Toros de Tijuana avanza a la Serie del Rey al vencer a Sultanes",
+    "source": "MILENIO",
+    "author": "Tomás López",
+    "published_iso": "2026-09-03T04:36:00+00:00",
+    "published_rfc2822": "Thu, 03 Sep 2026 04:36:00 +0000",
+    "published_display": "2026-09-03 04:36 UTC",
+    "url": "https://www.milenio.com/beisbol/sultanes/toros-de-tijuana-avanza-a-la-serie-del-rey-al-vencer-a-sultanes",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMElFMTk1b2RTazFud01xSFZOX0hhbFRUWXVwd0wzdkx0dVhxVkdqV1NrMktTX0R1TjNQd0ljb2xGU0lPd1k2RHRNb2c3WVkxR0VWeExYWHA5S1plRDFqMExEWGFHT0RsMVFCeVNUNUdBSmNpck9QM0hVQ1cwZk5tQ0dYOUE5OEpfMXNwSW9samFxb0hIdG5pLUhfaEdySjR3NlZTWVdDWdIBpwFBVV95cUxOb0xvb1I1eTR1czZrVGhxcVEzaTdQQUwtQmswQXNEMmt3bXRoSUIxVUlra20zelNTSUZLNFZyVmVzbmVWZDhtWGZnNWVfWHF6M0hwLTRpVFA5OE9UY3hGWkpYdjVLZWRyeHhOeWxuRm5NQzctYWpQb3puOFMyR0tvTHdYTDJxOE1HSUlRWlFtOWJmN3lIYl83cFlRdTdQdXNtNlBILUhPaw?oc=5",
+    "body": "Hernán Pérez conectó Grand Slam en la primera entrada por segundo día consecutivo para encaminar a los Toros de Tijuana a un triunfo de 10-1 sobre los Sultanes y a conquistar el título de la Zona Norte.\nEl equipo de Baja California eliminó al Monterrey en cinco juegos para avanzar a la Serie del Rey de la Liga Mexicana de Beisbol.\nPérez disparó otra vez cuadrangular con la casa llena en el amanecer del juego para sumar 11 carreras impulsadas en los dos últimos partidos. Igual que Hernán, Gilberto Celestino también produjo este miércoles cuatro carreras para el equipo fronterizo.\nAnte 18 mil 892 aficionados, Adonis Medina fue el pitcher ganador con labor de cuatro hits y una carrera en cinco entradas. Perdió el zurdo, Manny Bañuelos.\nDespués de que Gustavo Núñez conectó hit en la tercera entrada, el pitcheo combinado de Tijuana retiró en fila a 17 bateadores hasta que Pichito abrió con imparable la novena.\nLos Toros llegaron a nueve victorias consecutivas en calidad de visitantes en play-offs, luego de ganar tres partidos al Unión Laguna en Torreón; tres juegos a Charros en Guadalajara, y tres en fila a los Sultanes en la capital de Nuevo León.\nEn su primer año al frente de Tijuana, el panameño Roberto Kelly conquistó como manager su quinto banderín de la división del Norte.\nTerminó el juego y nuestra participación en la temporada 2026 de la LMB. pic.twitter.com/IkhbRaCkRv\n— Sultanes de Monterrey (@SultanesOficial) September 3, 2026\nEn seis años con los Sultanes, Kelly dominó el Norte en los dos torneos del 2018, en 2022 y 2024, y ganó el campeonato en el 2018.2\nEn la repetición de la historia vivida en la primera entrada del juego del martes, Hernán Pérez encontró la casa llena con dos outs.\nIsaac Rodríguez y Franchy cordero se embasaron con toque de bola; Justin Turner recibió pelotazo para llenar los senderos y Pérez pegó jonrón por el jardín izquierdo para poner adelante en la pizarra a los Toros 4-0 en el amanecer del partido.\nEl Monterrey contestó con una carrera en el cierre del primer capítulo. Gustavo Núñez abrió con doble, avanzó a tercera en pisa y corre con elevado de Víctor Mendoza y anotó con rola por segunda de Harold Ramírez.\nTijuana aumentó la delantera a 5-1 en el segundo episodio. Luego de un out, Jonathan Guzmán disparó doble, avanzó a tercera con wild pitch y anotó con rola por tercera de Gilberto Celestino.\nLa ventaja se incrementó a 6-1 en el sexto capítulo. Con dos outs, Gilberto Celestino conectó hit que mandó a home a Tomás Telis.\nEn la octava Toros agregó un par de carreras, impulsadas con doble de Gilberto Celestino para poner el score 8-1.\nLa cuenta se cerró en la novena al tener el equipo fronterizo la casa llena sin out. Franchy Cordero anotó con wild picth, y Phillip Evans llegó a home con rola al cuadro de Tomás Telis para el 10-1.\nAbajo en el score por cuatro carreras, los Fantasmas Grises tuvieron en la tercera entrada corredores en tercera y segunda base con un out, pero Adonis Medina salió del problema al dominar a Víctor Mendoza y Harold Ramírez.Como sucedió el año pasado, los Sultanes vieron terminada su campaña en la Final de la Zona Norte.\nTras caer el out 27, los Toros recibieron el Trofeo Aro del Juego de Pelota que los acredita como monarcas de la división y representantes del Norte en la Serie del Rey.\nLuego de ganar 60 juegos en la temporada regular, el equipo fronterizo abrirá en Tijuana la Serie del Rey, en espera de que se defina la final del Sur entre Olmecas de Tabasco y Pericos de Puebla.",
+    "matched_queries": [
+      "Serie del Rey",
+      "Sultanes de Monterrey",
+      "Toros de Tijuana"
+    ],
+    "collected_iso": "2026-09-04T09:36:53.334633+00:00",
+    "duplicate_sources": [
+      "Infobae"
+    ]
   },
   {
     "id": "51aa9dd264aa1331a6a6",
