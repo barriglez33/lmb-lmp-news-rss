@@ -69,6 +69,22 @@
     "collected_iso": "2026-09-04T14:37:12.610140+00:00"
   },
   {
+    "id": "3ba35ab819f701067f34",
+    "title": "Olmecas a un triunfo de llegar a la final de la LMB",
+    "source": "Notisistema",
+    "author": "",
+    "published_iso": "2026-09-04T13:14:00+00:00",
+    "published_rfc2822": "Fri, 04 Sep 2026 13:14:00 +0000",
+    "published_display": "2026-09-04 13:14 UTC",
+    "url": "https://www.notisistema.com/noticias/olmecas-a-un-triunfo-de-llegar-a-la-final-de-la-lmb/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXpnNTlvazBSOFF3aWZCTWJmc1JEWFpxbkpLQnlZWE1vUTBWbXVhZWVoZXF0MlFlTGJtZ1NBS2VKTDZUWktuQW94SVBrUXR2djFockVJZXpBenROWGFEOXhmLTZiZHB0c2dacXhoSnY0RDJTUU9JQ0MxUFllSTJtbHJjVWV3ZWUwT0s4SHdaLWV2UW8?oc=5",
+    "body": "En la Liga Mexicana de Beisbol los Olmecas vencieron 2 carreras por 1 a los Pericos de Puebla en el cuarto juego de la Serie de Campeonato de la Zona Sur, con esto la serie se coloca 3-1 a favor de los de Tabasco.\nFue un gran duelo de picheo por mas de 7 entradas entre Vladimir Gutiérrez y Jeremy Rhoades. Olmecas ganó con carreras en la cuarto y octava entrada.\nJeremy brilló con labor de siete entradas y un tercio, aceptó cinco hits una carrera, dio un pasaporte y ponchó a tres enemigos para apuntarse el triunfo. La derrota fue para Vladimir.\nHoy se juega el quinto de la serie donde si ganan Olmecas se medirá en la final de la Liga Mexicana a Tijuana. (Por Martín Navarro Vásquez)",
+    "matched_queries": [
+      "LMB"
+    ],
+    "collected_iso": "2026-09-04T17:22:43.779368+00:00"
+  },
+  {
     "id": "6537efde81cc3099ed27",
     "title": "¡A uno de la Serie del Rey! Olmecas se impone a Puebla y ponen la serie 3-1",
     "source": "XEVA",
@@ -778,10 +794,14 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00cVhMV0FLa1JKdUZQNkxUTHkyUTZXZ0I3Q0d0UFZMeDlHYk9pai0tRjJnR1lRZUVtbGhQTkZ2LTF2Y0ExZGk0N1N6djhtTFR0VnhBUGluWE1pN2x2OVVJ?oc=5",
     "body": "TIJUANA, Baja California.- En la Liga Mexicana de Beisbol (LMB), los Toros de Tijuana ya son campeones del Norte y esperan rival para la Serie del Rey que inicia la semana próxima en Tijuana.\nToros enfrentará al ganador de Olmecas que tiene ventaja de 2-1 en la serie sobre Pericos de Puebla.\nPOSICIONES\nZONA NORTE\nTijuana 60-31\nDurango 51-42\nMonterrey 49-44\nJalisco 48-45\nMonclova 48-45\nUnión Laguna 46-47\nAguascalientes 42-47\nSaltillo 38-55\nNuevo Laredo 36-57\nChihuahua 35-58\nZONA SUR\nMéxico 64-29\nTabasco 54-38\nCampeche 52-41\nPuebla 50-42\nLeón 50-43\nOaxaca 48-45\nVeracruz 43-50\nQuintana Roo 43-50\nConspiradores 35-58\nYucatán 33-58\nASI VAN\nPLAY OFF 1\n*Toros 4\nAlgodoneros 1\n*Durango 4\nMonclova 1\nSultanes 4\nCharros 1\nDiablos 4\nGuerreros 3\n*Tabasco 4\nBravos 2\n*Pericos 4\nPiratas 1\nSEGUNDO PLAY OFF\nZONA NORTE\nTijuana 4\nCharros 1\nCaliente 1\nSultanes 4\nZONA SUR\nPericos 4\nDiablos 2\nGuerreros 3\nOlmecas 4\nJUEGOS DE AYER\nToros 10-1 Sultanes\nOlmecas 6-5 Puebla\nFINALES DE ZONA\nJUEGOS PARA HOY\nOlmecas en Puebla\nSERIE FINALES\nNORTE\nToros Tj. 4\nSultanes 1\nSUR\nPericos 1\nOlmecas 2\nCon información LMB",
     "matched_queries": [
-      "Pericos de Puebla",
-      "LMB"
+      "LMB",
+      "Olmecas de Tabasco",
+      "Pericos de Puebla"
     ],
-    "collected_iso": "2026-09-03T15:35:22.299119+00:00"
+    "collected_iso": "2026-09-03T15:35:22.299119+00:00",
+    "duplicate_sources": [
+      "PSN Noticias"
+    ]
   },
   {
     "id": "7bc55574b3efc36cc7f9",
