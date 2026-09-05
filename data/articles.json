@@ -1,5 +1,21 @@
 [
   {
+    "id": "fbda91aaf9e5ffb2195e",
+    "title": "¡Final inédita! Olmecas elimina a Pericos y enfrentará a Toros por la Serie del Rey 2026",
+    "source": "vanguardia.com.mx",
+    "author": "Alejandro Morteo",
+    "published_iso": "2026-09-05T21:17:59+00:00",
+    "published_rfc2822": "Sat, 05 Sep 2026 21:17:59 +0000",
+    "published_display": "2026-09-05 21:17 UTC",
+    "url": "https://vanguardia.com.mx/deportes/beisbol/final-inedita-olmecas-elimina-a-pericos-y-enfrentara-a-toros-por-la-serie-del-rey-2026-CC23301434",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZW9wTDZ1dHY4V1diUWZpNTl2dE10dkFRamNURU85RTBmV2RQOUVmSjFSUW02UjIzSWJHN0lpOEFVbDhXYURpZy1XZlh3UVp5MUlFVGQ2eFRaaS1PVkk2OTVVXzJzY3RjR0RmR0FSTFVfdXl0VFMtNWpmNWZaLUZJejJqNHF5V0FZZmtFUjZreDRFRjhYLWpxaFZXdkNCZlI2VVNMYWJjbDg3c3dmbklZVzZ6aERPNWZMSXZhbEJtMFVRMWltTzJhS3ZXYmhMWHZwYm5mQ0lqYw?oc=5",
+    "body": "¡Final inédita! Olmecas elimina a Pericos y enfrentará a Toros por la Serie del Rey 2026\nTras 33 años de espera, la novena tabasqueña vuelve a disputar el campeonato de la LMB luego de conquistar la Zona Sur\nOlmecas de Tabasco está de regreso en la pelea por la corona. La novena choca vino de atrás, derrotó 10-8 a los Pericos de Puebla en el quinto juego de la Serie de Campeonato de la Zona Sur y selló el cruce ante Toros de Tijuana en la Serie del Rey 2026 de la Liga Mexicana de Beisbol.\nPuebla parecía encaminado a prolongar la eliminatoria después de tomar ventaja de 4-1, respaldado por cuadrangulares de Henry Ramos y Michael de la Cruz.\nSin embargo, Tabasco desató una rebelión de ocho carreras en la séptima entrada que cambió la historia en el Estadio Hermanos Serdán.\nÓscar González igualó la pizarra con un doblete, mientras Calvin Estrada conectó el imparable que produjo dos anotaciones y puso al frente a los Olmecas.\nUn pasaporte a Phil Ervin con las bases llenas y un error defensivo ampliaron la diferencia. González agregó un jonrón en el octavo capítulo para colocar el 10-4.\nLos Pericos reaccionaron y se acercaron, pero Jack Cushing dominó a Miguel Guzmán para conseguir el out 27.\nAlexandro Tovalín se acreditó la victoria y Emailin Montilla cargó con la derrota. El triunfo cerró la serie 4-1 y convirtió a Olmecas en campeón del Sur.\nLlega una final inédita. Tabasco, que no disputaba la Serie del Rey desde su campeonato de 1993, chocará con Toros que eliminaron 4-1 a Sultanes de Monterrey.\nLa batalla por la Copa Zaachila comenzará el martes 8 de septiembre en el Toros Mobil Park; los primeros dos juegos se celebrarán en Tijuana y después la serie viajará a Villahermosa.",
+    "matched_queries": [
+      "Olmecas de Tabasco"
+    ],
+    "collected_iso": "2026-09-05T21:32:12.692499+00:00"
+  },
+  {
     "id": "f511a4b66fb40764dfeb",
     "title": "Presencia chihuahuense en la Serie del Rey",
     "source": "diario.mx",
@@ -345,7 +361,8 @@
     ],
     "collected_iso": "2026-09-05T09:34:11.745429+00:00",
     "duplicate_sources": [
-      "BI Noticias"
+      "BI Noticias",
+      "binoticias.com"
     ]
   },
   {
@@ -396,11 +413,14 @@
     "body": "Definida la Serie del Rey 2026 presentada por G500: Olmecas de Tabasco vs Toros de Tijuana\nÚltimas Noticias\n| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
     "matched_queries": [
       "Liga Mexicana de Béisbol",
-      "Serie del Rey",
       "Olmecas de Tabasco",
+      "Serie del Rey",
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-05T06:26:54.673921+00:00"
+    "collected_iso": "2026-09-05T06:26:54.673921+00:00",
+    "duplicate_sources": [
+      "Liga Mexicana de Beisbol"
+    ]
   },
   {
     "id": "2e23c5f352b03bdf23c7",
