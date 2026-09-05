@@ -6,18 +6,19 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:33:43 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
-      <title><![CDATA[Presencia chihuahuense en la Serie del Rey | eldiariodechihuahua.mx]]></title>
-      <link>https://www.eldiariodechihuahua.mx/deportes/2026/sep/05/presencia-chihuahuense-en-la-serie-del-rey-834640.html</link>
-      <guid isPermaLink="false">a63d9ab6541a8f4c323a</guid>
-      <pubDate>Sat, 05 Sep 2026 17:35:00 +0000</pubDate>
-      <source><![CDATA[eldiariodechihuahua.mx]]></source>
+      <title><![CDATA[Presencia chihuahuense en la Serie del Rey | diario.mx]]></title>
+      <link>https://diario.mx/deportes/2026/sep/05/presencia-chihuahuense-en-la-serie-del-rey-1136816.html</link>
+      <guid isPermaLink="false">f511a4b66fb40764dfeb</guid>
+      <pubDate>Sat, 05 Sep 2026 17:58:00 +0000</pubDate>
+      <source><![CDATA[diario.mx]]></source>
       <dc:creator><![CDATA[Álex Carrión Velo; El Diario]]></dc:creator>
       <description><![CDATA[Chihuahua, Chih.- Dos chihuahuenses, en sus respectivos puestos, han guiado los destinos de los dos equipos que a partir de este martes se enfrentarán en la Serie del Rey, para definir al campeón de la Liga Mexicana de Beisbol: Luis Carlos Rivera en Tabasco y Guillermo Armenta en Tijuana.
 Rivera es el mánager que ha regresado a los Olmecas a una serie final por primera vez desde 1993 y por apenas segunda ocasión en la historia del cuadro “cabezón…]]></description>
       <content:encoded><![CDATA[<p>Chihuahua, Chih.- Dos chihuahuenses, en sus respectivos puestos, han guiado los destinos de los dos equipos que a partir de este martes se enfrentarán en la Serie del Rey, para definir al campeón de la Liga Mexicana de Beisbol: Luis Carlos Rivera en Tabasco y Guillermo Armenta en Tijuana.<br>Rivera es el mánager que ha regresado a los Olmecas a una serie final por primera vez desde 1993 y por apenas segunda ocasión en la historia del cuadro “cabezón”, que ganó el campeonato en aquel año, cuando los dirigía Juan Navarrete..<br>Por su parte, Armenta tiene la posibilidad de ganar su segundo campeonato como directivo de los Toros de Tijuana, ya que en 2021 los astados se coronaron teniendo al chihuahuense como su gerente deportivo.<br>En su segunda etapa en la directiva de Tijuana, ahora con el puesto de director deportivo, Armenta ha demostrado que sabe construir equipos ganadores basados en una filosofía que combina la sabermetría con el conocimiento empírico y práctico en el terreno de juego.<br>Cuando regresó en el 2025 a la organización fronteriza, su primer movimiento fue contratar al manager Roberto Kelly, quien había sido cesado por los Sultanes de Monterrey. Esta temporada, irónicamente, Kelly y los Toros eliminaron a Monterrey en la Serie de Campeonato de la Zona Norte.<br>Por su parte, Luis Carlos Rivera debutó como mánager en el 2017, después de haber sido coach de pitcheo en varios equipos de México y de otras ligas como Venezuela. Poco a poco se ha hecho de prestigio como timonel y es serio candidato a manager del año, tras su temporada con Tabasco.<br>Rivera, quien lanzó en las Grandes Ligas en el año 2000 con Baltimore y Atlanta, estuvo a cargo de los Dorados de Chihuahua en la parte final de la temporada 2025, y ya como manejador oficialmente, tuvo una marca de 13 victorias y 12 derrotas, que dejó una temporada completa con marca de 43-49 y un séptimo lugar de la zona Norte.<br>Sin embargo, no hubo acuerdo entre la directiva de Chihuahua y Rivera para continuar en el cargo para el 2026 y por ello Luis Carlos llegó a Tabasco, donde se recuperó de un inicio complicado para terminar como sublíder de la Zona Sur y llevarlos a la Serie del Rey, la cual comienza este martes en Tijuana.</p>]]></content:encoded>
+      <category>Dorados de Chihuahua</category>
       <category>Serie del Rey</category>
     </item>
     <item>
@@ -60,6 +61,7 @@ El camino hacia la gloria de la Liga Mexicana de Beisbol (LMB) vivirá un capít
       <category>LMB</category>
       <category>Toros de Tijuana</category>
       <category>Olmecas de Tabasco</category>
+      <category>Liga Mexicana de Béisbol</category>
     </item>
     <item>
       <title><![CDATA[Olmecas de Tabasco se enfrentará a los Toros de Tijuana en la Serie del Rey - José Cárdenas | josecardenas.com]]></title>
