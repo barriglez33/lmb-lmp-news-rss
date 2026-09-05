@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sat, 05 Sep 2026 19:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:35:57 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Presencia chihuahuense en la Serie del Rey | diario.mx]]></title>
@@ -62,6 +62,7 @@ El camino hacia la gloria de la Liga Mexicana de Beisbol (LMB) vivirá un capít
       <category>Toros de Tijuana</category>
       <category>Olmecas de Tabasco</category>
       <category>Liga Mexicana de Béisbol</category>
+      <category>Serie del Rey</category>
     </item>
     <item>
       <title><![CDATA[Olmecas de Tabasco se enfrentará a los Toros de Tijuana en la Serie del Rey - José Cárdenas | josecardenas.com]]></title>
