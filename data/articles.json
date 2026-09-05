@@ -11,9 +11,13 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnJBSUVvOEdZcEZWQ2hEMm5oZGNMRFlnNUp1M055V01yNlU5Vlhtd0doN1VEdC1mRFVVcG1aWm5LM25MUjFOT3Jqd3FEQzd0SEwzSGRBU3BDUy1YWk9ucmlVek1qVEVvOWdTbVZmZWN2RURPUFotMFNrSkE3a0RLTmRjN2x0X2gtRGFwTWVpWllSZnZEdG5HRk53?oc=5",
     "body": "Tiene Charros nuevo cerrador: llega Dan Kubiuk a Jalisco\n01 MIN 30 SEG\nRaúl Luna\nGuadalajara, México (04 septiembre 2026) .-19:16 hrs\nDan Kubiuk llega a los Charros de Jalisco para reforzar el bullpen de los Bicampeones de la Liga Mexicana del Pacífico (LMP). Crédito: Cortesía\nLos Charros buscarán asegurar las victorias con un nuevo brazo en el noveno inning. Dan Kubiuk llega a Jalisco para reforzar el bullpen de los Bicampeones de la Liga Mexicana del Pacífico (LMP).",
     "matched_queries": [
-      "Charros de Jalisco"
+      "Charros de Jalisco",
+      "LMP"
     ],
-    "collected_iso": "2026-09-05T01:35:07.964876+00:00"
+    "collected_iso": "2026-09-05T01:35:07.964876+00:00",
+    "duplicate_sources": [
+      "MURAL | Periodismo independiente"
+    ]
   },
   {
     "id": "b06f9af9cf66ed402992",
@@ -84,7 +88,8 @@
       "Dónde ver LMB",
       "Liga Mexicana de Béisbol",
       "Olmecas de Tabasco",
-      "Pericos de Puebla"
+      "Pericos de Puebla",
+      "LMB"
     ],
     "collected_iso": "2026-09-05T00:42:12.251693+00:00",
     "duplicate_sources": [

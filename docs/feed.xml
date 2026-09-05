@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sat, 05 Sep 2026 01:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:35:22 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Tiene Charros nuevo cerrador: llega Dan Kubiuk a Jalisco | MURAL | Periodismo independiente]]></title>
@@ -23,6 +23,7 @@ Dan Kubiuk llega a los Charros de Jalisco para reforzar el bullpen de los Bicamp
 Los Charros buscarán asegurar las victorias con un nuevo brazo en el noveno inning. Dan Kubiuk llega a Jalisco para reforzar el bullpen de los Bicampeones de la Liga Mexica…]]></description>
       <content:encoded><![CDATA[<p>Tiene Charros nuevo cerrador: llega Dan Kubiuk a Jalisco<br>01 MIN 30 SEG<br>Raúl Luna<br>Guadalajara, México (04 septiembre 2026) .-19:16 hrs<br>Dan Kubiuk llega a los Charros de Jalisco para reforzar el bullpen de los Bicampeones de la Liga Mexicana del Pacífico (LMP). Crédito: Cortesía<br>Los Charros buscarán asegurar las victorias con un nuevo brazo en el noveno inning. Dan Kubiuk llega a Jalisco para reforzar el bullpen de los Bicampeones de la Liga Mexicana del Pacífico (LMP).</p>]]></content:encoded>
       <category>Charros de Jalisco</category>
+      <category>LMP</category>
     </item>
     <item>
       <title><![CDATA[Olmecas de Tabasco vs Pericos de Puebla en vivo: transmisión Playoffs de la Liga Mexicana de Béisbol 2026; Juego 5, Zona Sur | Claro Sports]]></title>
@@ -83,6 +84,7 @@ La novena tabasqueña se colocó a una victoria de obtener el boleto a la Serie 
       <category>Liga Mexicana de Béisbol</category>
       <category>Olmecas de Tabasco</category>
       <category>Pericos de Puebla</category>
+      <category>LMB</category>
     </item>
     <item>
       <title><![CDATA[Charros se blinda en el noveno inning: llega Dan Kubiuk | mediotiempo.com]]></title>
