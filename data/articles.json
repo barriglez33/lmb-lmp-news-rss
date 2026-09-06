@@ -29,11 +29,13 @@
     "matched_queries": [
       "LMB",
       "Liga Mexicana de Béisbol",
-      "Serie del Rey"
+      "Serie del Rey",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-06T03:23:55.184161+00:00",
     "duplicate_sources": [
-      "MILENIO"
+      "MILENIO",
+      "Mediotiempo"
     ]
   },
   {
@@ -429,6 +431,24 @@
       "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-09-05T15:33:25.105313+00:00"
+  },
+  {
+    "id": "d4a1090ca8b3ff54bf80",
+    "title": "Pericos y Olmecas protagonizan batalla campal en los playoffs de la Liga Mexicana de Beisbol",
+    "source": "Récord",
+    "author": "REDACCIÓN RÉCORD",
+    "published_iso": "2026-09-05T13:38:00+00:00",
+    "published_rfc2822": "Sat, 05 Sep 2026 13:38:00 +0000",
+    "published_display": "2026-09-05 13:38 UTC",
+    "url": "https://www.record.com.mx/historia/pericos-y-olmecas-protagonizan-batalla-campal-en-los-playoffs-de-la-liga-mexicana-de-beisbol-2026090513384373414",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTjBOUGJPbVp1bkl1ZWp2SThBbjBGQzQtcG9SOVhOQ2luaHZIYTVENXlPN09BZFF4WERteFRZcDhfZ1h2dV9fT3YtRXU0MUhDU0tSanRnX19sNkJmYzhDQjNsa0FyOEtwSHNaakJVZENfT0gyNXhsTWttejAtRTlGUjJFdzRtbGFON3pFMXZfTDVkSDIyM1daUllycHlOU19vWk5YbTdlYUpfd2ZTcUVKRlZGUEZ1XzJXT1RleHZBaUdtS3BSa3Z0WXdNZF94X1pkSVUzNHBxNHU1bXJGM0YxZQ?oc=5",
+    "body": "Los Olmecas de Tabasco se proclamaron campeones de la Zona Sur de la Liga Mexicana de Beisbol (LMB) al derrotar 10-8 a los Pericos de Puebla en el quinto juego de la serie, sin embargo, el encuentro quedó marcado por una batalla campal que provocó la expulsión de nueve jugadores.\n¿Qué inició la pelea entre Pericos y Olmecas?\nLa bronca se desató durante la octava entrada, cuando el lanzador de los Olmecas, Clayton Andrews, golpeó con su primer lanzamiento a Herlis Rodríguez, quien recibió el pelotazo en la espalda. El jugador de Pericos llegó a primera base, pero no ocultó su molestia hacia el pitcher tabasqueño.\nRodríguez reclamó a Andrews con un gesto y, después de que integrantes del staff intentaron contenerlo, terminó lanzando su casco contra el terreno para posteriormente irse a los golpes con el pitcher de Tabasco. La reacción provocó que las bancas de ambos equipos se vaciaran de inmediato.\nLa pelea se trasladó rápidamente hacia el montículo, donde jugadores y miembros de los cuerpos técnicos de ambas novenas intentaron separar a los involucrados, aunque la tensión continuó durante varios momentos. Incluso, cuando parecía que los ánimos se habían calmado, la trifulca volvió a presentarse cerca de las gradas.\nLos umpires tuvieron que intervenir para poner orden y comenzaron a identificar a los peloteros involucrados en la batalla campal. El incidente terminó con nueve expulsiones, cinco correspondientes a los Pericos y cuatro a los Olmecas.\n¿Quiénes fueron expulsados por Pericos y Olmecas?\nPor parte de los Pericos de Puebla fueron expulsados Rogelio Cobos, Luis Maza, Matías Carrillo, Cristhian Adames y Luis Castro, mientras que los Olmecas de Tabasco perdieron a Clayton Andrews, Fernando Salas, Agustín Murillo y Keone Kela.\nLa bronca ocurrió cuando los Olmecas tenían una ventaja de 10-4 sobre los Pericos, en un partido que terminó convirtiéndose en una auténtica batalla por el campeonato sureño.\nA pesar del conato de bronca, el encuentro continuó hasta su desenlace y Tabasco consiguió imponerse 10-8 para quedarse con la Serie de Campeonato de la Zona Sur. De esta manera, los Olmecas avanzaron a la Serie del Rey, donde buscarán conquistar el campeonato de la LMB.",
+    "matched_queries": [
+      "Liga Mexicana de Béisbol",
+      "Pericos de Puebla",
+      "Olmecas de Tabasco"
+    ],
+    "collected_iso": "2026-09-06T06:27:56.092759+00:00"
   },
   {
     "id": "6dcb12d1cb6edfcddabf",
