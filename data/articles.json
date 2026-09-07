@@ -80,6 +80,22 @@
     "collected_iso": "2026-09-07T06:33:09.056516+00:00"
   },
   {
+    "id": "abb94a5ccb3c96e3a2f1",
+    "title": "Juan Santana",
+    "source": "Diablos Rojos del México",
+    "author": "",
+    "published_iso": "2026-09-07T05:09:03+00:00",
+    "published_rfc2822": "Mon, 07 Sep 2026 05:09:03 +0000",
+    "published_display": "2026-09-07 05:09 UTC",
+    "url": "https://www.diablos.com.mx/jugador/juan-santana-600971",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZR0tMcHU1WmcxWjNadzVzZEZ3d3V1UEpLMmV1M2RaMUhXTU91WHAwUU1pUkh1VE1WV1ltZVhEYV83VHlLeWphTWVPOW5iaHRCMEpwcF9vZWxvZ3BZclF0WXVBVFU?oc=5",
+    "body": "Juan Santana #27\nSS | B/T: R/R\n185 cm / 80 kg | Edad: 32\nEstadísticas en LMB\n| TEMP | EQUIPO | AB | AVG | H | 2B | 3B | HR | RBI | SB | OPS | OBP | SLG | \n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| 2021 | MVA | 10 | .100 | 1 | 0 | 0 | 0 | 0 | 0 | .282 | .182 | .100 | \n| 2025 | PUE | 329 | .313 | 103 | 21 | 5 | 14 | 73 | 4 | .888 | .353 | .535 | \n| 2026 | OAX | 335 | .346 | 116 | 17 | 5 | 15 | 71 | 2 | .941 | .380 | .561 | \n| - | TOTAL | 674 | .326 | 220 | 38 | 10 | 29 | 144 | 6 | .906 | .364 | .542 | \nPremios\nMEX Mid-Season All-Star\n| Año | Equipo | Liga | \n|---|---|---|\n| 2026 | Oaxaca |  | \nTransacciones recientes\n27 de junio de 2026:\nSS Juan Santana asignado a LMB All-Stars.\n17 de abril de 2026:\nSS Juan Santana asignado a Guerreros de Oaxaca.\n14 de octubre de 2025:\nSS Juan Santana asignado a Bravos de Margarita.\n17 de abril de 2025:\nPericos de Puebla activan a SS Juan Santana.\n17 de abril de 2025:\nPericos de Puebla agente libre firmado SS Juan Santana.\n11 de octubre de 2024:\nSS Juan Santana asignado a Bravos de Margarita.\n25 de junio de 2021:\nAcereros del Norte liberan a SS Juan Santana.\n22 de junio de 2021:\nAcereros del Norte agente libre firmado SS Juan Santana.\n31 de octubre de 2014:\nTri-City ValleyCats liberan a 2B Juan Santana.\n10 de septiembre de 2014:\nTri-City ValleyCats activan a 2B Juan Santana.",
+    "matched_queries": [
+      "Guerreros de Oaxaca"
+    ],
+    "collected_iso": "2026-09-07T14:26:50.446371+00:00"
+  },
+  {
     "id": "4514ad21ac45b2781626",
     "title": "Castigan a Pericos y Olmecas por trifulca durante partido - Crónica Puebla",
     "source": "Crónica Puebla",
@@ -227,7 +243,8 @@
     "matched_queries": [
       "Liga Mexicana de Béisbol",
       "Olmecas de Tabasco",
-      "Toros de Tijuana"
+      "Toros de Tijuana",
+      "Serie del Rey"
     ],
     "collected_iso": "2026-09-06T21:21:36.263379+00:00"
   },
