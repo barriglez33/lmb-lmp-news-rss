@@ -32,22 +32,6 @@
     "collected_iso": "2026-09-07T03:33:02.300679+00:00"
   },
   {
-    "id": "999a0c4dfbfe27ced895",
-    "title": "Toros elige pitchers para Serie del Rey",
-    "source": "PSN Noticias",
-    "author": "Rene Mora",
-    "published_iso": "2026-09-07T02:13:17+00:00",
-    "published_rfc2822": "Mon, 07 Sep 2026 02:13:17 +0000",
-    "published_display": "2026-09-07 02:13 UTC",
-    "url": "https://psn.si/toros-elige-pitcher-rm/2026/09/06/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02bzRlYjRBODNMYWlSdEJwQW55cERsUXRrMERCVERxT1NBM25XdXppMEhLQV9hOFBfcjNSZ3JneTlTRjA3LXFBYXVhVEtqOUNoU1IyTTJFY2lEODdzSXc?oc=5",
-    "body": "TIJUANA, Baja California.- De vuelta en Tijuana y con el campeonato de la Zona Norte recién conquistado, Toros de Tijuana regresó este sábado al terreno de juego para comenzar su preparación rumbo a la Serie del Rey, donde se medirá a Olmecas de Tabasco a partir de este martes en casa.\nLos lanzadores realizaron sesiones de bullpen, mientras que los bateadores tomaron turnos para mantenerse en óptimas condiciones previo al inicio de la batalla por el campeonato de la Liga Mexicana de Beisbol Banorte (LMBB).\nPara el primer juego de la serie, el líder de efectividad de la LMBB, Daniel Martínez (3-0, 2.84) subirá al centro del diamante por Toros. El segundo duelo en casa será protagonizado por Adonis Medina (1-0, 1.56).\nEn Tabasco, “El Rey” David Reyes (3-0, 1.69) subirá al montículo por los astados en el tercer encuentro. Mientras que, para el cuarto compromiso, Noah Skirrow (1-2, 5.27) será el abridor por los bureles.\nEl playball de los dos primeros duelos de la Serie del Rey se cantarán este martes y miércoles a las 19:35 horas (Tiempo de Tijuana) en el Toros Mobil Park.\nCon información LMB",
-    "matched_queries": [
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-09-07T03:33:08.603501+00:00"
-  },
-  {
     "id": "0e4c5ccb202e2848ba6a",
     "title": "LMB anuncia sanciones de hasta 20 juegos a jugadores de Pericos y Olmecas",
     "source": "El Universal",
@@ -143,7 +127,8 @@
     "matched_queries": [
       "Liga Mexicana de Béisbol",
       "LMB",
-      "Olmecas de Tabasco"
+      "Olmecas de Tabasco",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-06T22:22:41.840878+00:00"
   },
@@ -160,7 +145,8 @@
     "body": "La espera terminó y el último paso por la gloria eterna de la Liga Mexicana de Béisbol está por comenzar. Luego de una emocionante temporada regular y una cardiaca etapa de Playoffs, el mejor beisbol de México finalmente tiene a sus dos mejores franquicias para disputar la Serie del Rey 2026, donde los Olmecas de Tabasco y los Toros de Tijuana serán los protagonistas.\n¿Cómo llegan las novenas?\nEl ganador de la Zona Sur, Olmecas de Tabasco, sorprendió a propios y extraños, pues contrario a lo esperado, la novena se impuso de manera contundente a los Pericos de Puebla, franquicia que antes había eliminado al Bicampeón, los Diablos Rojos del México.\nLos de Tabasco se fueron abajo en el tablero en el Juego 1, pues Puebla mostró un ritmo fantástico y se llevó el primero. Sin embargo, los pupilos de Luis Carlos Rivera fueron superiores el resto de los juegos y se llevaron la serie 4-1.\nAl norte, las franquicias de Toros de Tijuana y Sultanes de Monterrey tenían su propia batalla. El juego 1 fue todo para los de Justin Turner, finiquitando la serie en un 4-1 a favor de la frontera, quien rompió una sequía de cinco años sin acceder hasta la gran Serie del Rey.\n¿Cuándo inicia la Serie del Rey?\nLos últimos cuatro o hasta siete juegos que definen al mejor equipo de béisbol de México tendrán su inicio el martes 8 de septiembre, arrancando en el Mobil Park de Tijuana. Posteriormente el Juego 2 será también en la zona fronteriza el miércoles 9; será hasta el 11 de septiembre en el Estadio del Centenario.\n- Juego 1 - Martes 8 de septiembre - 20:35 (hora centro de México)\n- Juego 2 - Miércoles 9 de septiembre - 20:35 (hora centro de México)\n- Juego 3 - Viernes 11 de septiembre - 19:30 (hora centro de México)\n- Juego 4 - Sábado 12 de septiembre - 19:00 (hora centro de México)",
     "matched_queries": [
       "Liga Mexicana de Béisbol",
-      "Olmecas de Tabasco"
+      "Olmecas de Tabasco",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-06T21:21:36.263379+00:00"
   },
@@ -553,6 +539,7 @@
     "collected_iso": "2026-09-06T04:31:31.405334+00:00",
     "duplicate_sources": [
       "Liga Mexicana de Beisbol",
+      "PSN Noticias",
       "Semanario ZETA"
     ]
   },
@@ -716,7 +703,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1p5cUZzNm5NRXBrcnpCZm1lQkN2UjRidjh5VDF3LWpIYXZ3VlkxS05CZXFFSzZkQ1VTUDA3YkJuWXhOMUtMN2lEUEp5WnhiZ0dudzFQd25FdVRhYlV6MWdJV0p2RmdSY2N5UUN6c2YxQnJzM1pvMlRmUFVGOHhDdXdnM3FZNDlXSVcxRmJpOENhNk5wOUxOMG9icUV2RXE5TTJ0SWUteDJ3UXZEOE80elBVQi1rMFY5ZkhqYV9KZjhEdw?oc=5",
     "body": "Olmecas arriba a Villahermosa y se preparan para disputar la Serie del Rey ante Tijuana\nAficionados recibieron con aplausos al plantel choco en el Aeropuerto de Villahermosa\n- Alexis Santamaría\n- Septiembre 05, 2026 - 02:42 p.m.\n- DEPORTES\n¡Tabasco no duerme! Y menos ahora que los Olmecas se alistan para disputar el último objetivo de esta Temporada 2026 de la Liga Mexicana de Beisbol (LMB): ganar la Serie del Rey.\nTras conseguir el campeonato de la Zona Sur en cinco juegos ante los Pericos de Puebla, la tropa tabasqueña llegó al edén mexicano para tomar unos momentos de descanso e iniciar su preparación de cara al enfrentamiento contra Toros de Tijuana.\nEn su arribo a la capital tabasqueña, los jugadores y el cuerpo técnico del equipo fueron bien recibidos entre aplausos, cánticos y muestras de cariño por la afición que los estaba esperando en el Aeropuerto de Villahermosa.\nLos peloteros convivieron por un momento con los seguidores tabasqueños firmando autógrafos y tomándose la foto del recuerdo.\nSe espera que, en las próximas horas, la organización choca emprenda el vuelo hacia la frontera norte de México para concentrarse de cara al duelo más importante de la campaña frente a los astados.\nLa Serie del Rey dará inicio este martes 8 de septiembre y continuará el día miércoles con el segundo partido, ambos a las 20:35 horas en el Estadio Mobil Park de Tijuana.\nLos juegos 3, 4 y de ser necesario un quinto duelo, se llevarán a cabo del 11 al 13 de septiembre en el Estadio Centenario 27 de Febrero.\nDe alargarse la serie entre ambas novenas, las acciones regresarán de nueva cuenta a Tijuana con el sexto y séptimo juego, donde se definiría al campeón 2026 del circuito veraniego.",
     "matched_queries": [
-      "Serie del Rey"
+      "Serie del Rey",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-05T23:28:34.636806+00:00",
     "duplicate_sources": [
