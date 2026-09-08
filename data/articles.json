@@ -80,7 +80,10 @@
       "Serie del Rey",
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-08T05:25:25.193892+00:00"
+    "collected_iso": "2026-09-08T05:25:25.193892+00:00",
+    "duplicate_sources": [
+      "elimparcial.com"
+    ]
   },
   {
     "id": "4b7ffbf73e0844d42aa1",
