@@ -220,7 +220,8 @@
       "Olmecas de Tabasco",
       "Serie del Rey",
       "LMB",
-      "Toros de Tijuana"
+      "Toros de Tijuana",
+      "Liga Mexicana de Béisbol"
     ],
     "collected_iso": "2026-09-09T02:35:28.731900+00:00"
   },
@@ -410,7 +411,8 @@
     ],
     "collected_iso": "2026-09-08T23:30:42.850147+00:00",
     "duplicate_sources": [
-      "El Imparcial"
+      "El Imparcial",
+      "elimparcial.com"
     ]
   },
   {
@@ -462,7 +464,8 @@
     ],
     "collected_iso": "2026-09-08T22:32:22.822453+00:00",
     "duplicate_sources": [
-      "El Imparcial"
+      "El Imparcial",
+      "elimparcial.com"
     ]
   },
   {
@@ -568,7 +571,8 @@
     ],
     "collected_iso": "2026-09-08T20:29:49.433149+00:00",
     "duplicate_sources": [
-      "El Imparcial"
+      "El Imparcial",
+      "elimparcial.com"
     ]
   },
   {
@@ -1559,9 +1563,13 @@
     "body": "La Liga Mexicana de Béisbol inicia su serie por el título en la frontera, con el primer partido entre Tabasco y Tijuana que podrás seguir por Claro Sports\nLa Serie del Rey 2026 ya está aquí. Un total de 20 equipos comenzaron la temporada regular de la Liga Mexicana de Béisbol, pero solo Olmecas de Tabasco y Toros de Tijuana sueñan con el título de la campaña 101 de la pelota mexicana de verano.\nEn Claro Sports podrás seguir la totalidad de la Serie del Rey, que enfrenta a dos de los tres mejores equipos de la fase regular. Toros fue el mejor de la Zona Norte, con registro de 60-31, y en la postemporada arrollaron, ganando sus tres series por marcador de 4-1, con un detalle curioso: contra Algodoneros, Charros y Sultanes, perdieron el Juego 2 en casa, pero han ganado nueve partidos consecutivos de visitantes. Una extraña fortaleza fuera de la frontera que les tiene en busca del tercer título de su historia.\nSu rival serán los Olmecas de Tabasco, que desde 1993 no llegaban siquiera a una final de zona. Los de Villahermosa terminaron la campaña con marca de 54-38, segundos en la Zona Sur, y su postemporada ha tenido más complicaciones. En las tres series han llegado a ir abajo, pero despacharon a Bravos de León en seis partidos, a Guerreros de Oaxaca en extra innings del Juego 7 y a Pericos de Puebla en cinco compromisos. No tuvieron que enfrentarse a los Diablos Rojos del México, que sucumbieron en busca del tricampeonato ante la novena emplumada, y van por el segundo título de su historia.\nMÁS INFORMACIÓN: Tres jugadores de Tabasco, suspendidos para la Serie del Rey por la bronca ante Pericos\nOlmecas de Tabasco vs Toros de Tijuana: ¿A qué hora juegan y dónde ver en vivo el Juego 1, de la Serie del Rey?\nComo Toros terminó con mejor marca en temporada regular que Olmecas, tienen ventaja de casa. Al jugarse en la frontera, los primeros dos partidos de la Serie del Rey iniciarán un poco más tarde que lo habitual para las ciudades del centro del país.\nEl playball del Juego 1 entre Olmecas y Toros está programado para este martes 8 de septiembre, en punto de las 20:35 horas tiempo del centro de México (19:35 de Tijuana) y lo podrás seguir en vivo por la multiplataforma de Claro Sports.\nMÁS INFORMACIÓN: Calendario y resultados de los Playoffs LMB 2026\nLMB 2026: ¿Dónde ver la Serie del Rey en vivo? Calendario completo de juegos\nLa Serie del Rey 2026 dará inicio el martes 8 de septiembre. Si las condiciones climáticas lo permiten, en caso de irse hasta un Juego 7, Tabasco y Tijuana terminarían la serie ocho días después, el miércoles 15 de septiembre. Estos son los días, horarios y sedes de los partidos entre Olmecas y Toros:\n- Juego 1 | Martes 8 de septiembre | Olmecas de Tabasco en Toros de Tijuana | Toros Mobil Park | 20:35 horas CDMX (19:35 Tijuana) | EN VIVO POR CLARO SPORTS\n- Juego 2 | Miércoles 9 de septiembre | Olmecas de Tabasco en Toros de Tijuana | Toros Mobil Park | 20:35 horas CDMX (19:35 Tijuana) | EN VIVO POR CLARO SPORTS\n- Juego 3 | Viernes 11 de septiembre | Toros de Tijuana en Olmecas de Tabasco | Centenario 27 de Febrero | 19:30 horas CDMX (18:30 Tijuana) | EN VIVO POR CLARO SPORTS\n- Juego 4 | Sábado 12 de septiembre | Toros de Tijuana en Olmecas de Tabasco | Centenario 27 de Febrero | 19:00 horas CDMX (18:00 Tijuana) | EN VIVO POR CLARO SPORTS\n- Juego 5 | Domingo 13 de septiembre | Toros de Tijuana en Olmecas de Tabasco (de ser necesario) | Centenario 27 de Febrero | 18:00 horas (17:00 Tijuana) | EN VIVO POR CLARO SPORTS\n- Juego 6 | Martes 15 de septiembre | Toros de Tijuana en Olmecas de Tabasco (de ser necesario) | Toros Mobil Park | 20:35 horas CDMX (19:35 Tijuana) | EN VIVO POR CLARO SPORTS\n- Juego 7 | Miércoles 16 de septiembre | Toros de Tijuana en Olmecas de Tabasco (de ser necesario) | Toros Mobil Park | 20:35 horas CDMX (19:35 Tijuana) | EN VIVO POR CLARO SPORTS",
     "matched_queries": [
       "Dónde ver LMB",
+      "Serie del Rey",
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-07T19:23:38.978739+00:00"
+    "collected_iso": "2026-09-07T19:23:38.978739+00:00",
+    "duplicate_sources": [
+      "Claro Sports"
+    ]
   },
   {
     "id": "b563928dd816c8be14ba",
