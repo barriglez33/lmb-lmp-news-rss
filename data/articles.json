@@ -113,6 +113,22 @@
     "collected_iso": "2026-09-09T13:34:25.965916+00:00"
   },
   {
+    "id": "a0b9c86b2b9fd896a6f0",
+    "title": "Serie del Rey: Diablos Rojos del México lideran el listado histórico de campeones de la LMB con 15 títulos",
+    "source": "tribuna.com.mx",
+    "author": "Jorge Mendivil",
+    "published_iso": "2026-09-09T11:00:23+00:00",
+    "published_rfc2822": "Wed, 09 Sep 2026 11:00:23 +0000",
+    "published_display": "2026-09-09 11:00 UTC",
+    "url": "https://tribuna.com.mx/deportes/2026/09/09/serie-del-rey-diablos-rojos-del-mexico-lideran-el-listado-historico-de-campeones-de-la-lmb-con-15-titulos_681782/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb1p4TUVVSWo3aTBmTXdYanI0eDdQdWZYVmNFSEx4dV9mcjBLc1JOdVFxdWszMlo4NGhNcFltYzd3TTlsQnE1TDE3M2J4bWNqRnpuTThrdTV4eTExdnF3SXNSYUdaN2Q5NTRadmNsaXpWbEEtVllaY2lJWVZOSi03TjBoalU4TmlrT2wwb0RBYzAtSUJMU014MG5YeUNMekM3cnF0WHNMNXpNenRNODhncXBZblg3ZnJvRDd6THdIOGFQdEJMbk8xRElOU0lOZHJZRnN5bzU2OFZ4NndhYkQ1eDNJYUowOURfOXRfcQ?oc=5",
+    "body": "Ciudad de México.- Desde que la Liga Mexicana de Beisbol instauró las rondas eliminatorias en 1970, la pelota veraniega ha tenido un claro dominador. Diablos Rojos del México encabeza el listado histórico de campeones con 15 títulos de Serie del Rey, seguido por Tigres de Quintana Roo y Sultanes de Monterrey, aunque todavía a una considerable distancia.\n¿Qué equipo ha ganado más Series del Rey?\nActualmente, Diablos Rojos de México es la franquicia de la LMB que más títulos absolutos ha conseguido. La novena escarlata suma 24 apariciones en la Serie del Rey, instancia en la que ha levantado el trofeo en 15 ocasiones, consolidándose como uno de los equipos más ganadores del deporte mexicano.\nAdemás, los Diablos Rojos son los actuales bicampeones de la LMB después de coronarse en la temporada 2024 al barrer a los Sultanes de Monterrey y repetir la dosis en 2025 frente a los Charros de Jalisco. Sin embargo, el equipo dirigido por Lorenzo Bundy no pudo convertirse en el primer tricampeón de la historia de la LMB tras ser eliminado por los Pericos de Puebla en la Serie de Zona.\n¿Qué franquicias siguen a Diablos Rojos como las más ganadoras de la LMB?\nAunque todavía están lejos de los 15 campeonatos de la novena escarlata, los Tigres de Quintana Roo ocupan el segundo lugar histórico con ocho títulos en el circuito veraniego. Su campeonato más reciente llegó en 2015, mientras que los Sultanes de Monterrey aparecen en el tercer puesto con cinco coronas.\nEl listado continúa con los Leones de Yucatán, que cuentan con cuatro campeonatos en el formato de Serie del Rey. Detrás de ellos aparecen cinco franquicias que han conseguido dos títulos cada una, una diferencia que refleja el dominio que Diablos Rojos, Tigres y Sultanes han mantenido a lo largo de la historia de la Liga Mexicana de Beisbol.\n¿Qué equipos se enfrentarán en la Serie del Rey 2026?\nLos Toros de Tijuana fueron los primeros en conseguir su boleto a la definición por el campeonato tras conquistar la Zona Norte, donde dejaron en el camino a los Sultanes de Monterrey. Por la Zona Sur, los Olmecas de Tabasco aseguraron su lugar después de eliminar a los Pericos de Puebla.\nLa Serie del Rey 2026 representa un enfrentamiento inédito, ya que Toros y Olmecas nunca se han encontrado en esta instancia. La batalla por el campeonato podría extenderse hasta el 16 de septiembre, fecha en la que se conocerá al nuevo monarca de la LMB.\nFuente: Tribuna del Yaqui",
+    "matched_queries": [
+      "LMB"
+    ],
+    "collected_iso": "2026-09-09T17:26:21.663311+00:00"
+  },
+  {
     "id": "26e85209c41d459be771",
     "title": "Olmecas de Tabasco Da el Primer 'Batazo' de la Serie y Vence a Toros de Tijuana",
     "source": "N+",
@@ -1008,7 +1024,8 @@
     ],
     "collected_iso": "2026-09-08T17:33:07.738989+00:00",
     "duplicate_sources": [
-      "Entorno Informativo"
+      "Entorno Informativo",
+      "entornoinformativo.com.mx"
     ]
   },
   {
@@ -1079,7 +1096,8 @@
       "LMP",
       "Tomateros de Culiacán",
       "Venados de Mazatlán",
-      "Cañeros de Los Mochis"
+      "Cañeros de Los Mochis",
+      "Algodoneros de Guasave"
     ],
     "collected_iso": "2026-09-08T15:28:04.116451+00:00"
   },
