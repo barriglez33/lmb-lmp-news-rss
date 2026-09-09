@@ -6,8 +6,35 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Wed, 09 Sep 2026 21:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:36:48 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[¡A ganarse el puesto! Venados pone en marcha su pretemporada rumbo a la LMP - El Sol de Mazatlán | El Sol de México]]></title>
+      <link>https://oem.com.mx/elsoldemazatlan/deportes/a-ganarse-el-puesto-venados-pone-en-marcha-su-pretemporada-rumbo-a-la-lmp-31986571</link>
+      <guid isPermaLink="false">29b15829ce27aed3c327</guid>
+      <pubDate>Wed, 09 Sep 2026 21:46:12 +0000</pubDate>
+      <source><![CDATA[El Sol de México]]></source>
+      <dc:creator><![CDATA[Isac Chávez]]></dc:creator>
+      <description><![CDATA[¡A ganarse el puesto! Venados pone en marcha su pretemporada rumbo a la LMP
+La novena mazatleca reunirá a 70 jugadores en el Teodoro Mariscal para iniciar una pretemporada con 14 juegos de preparación rumbo a la campaña 2026-2027
+El sinaloense enfrentará este 12 de septiembre a Jaison Troncoso en Puebla, en una pelea que puede marcar el rumbo de su intento por disputar nuevamente un campeonato mundial
+El mazatleco ya presume ocho medallas naciona…]]></description>
+      <content:encoded><![CDATA[<p>¡A ganarse el puesto! Venados pone en marcha su pretemporada rumbo a la LMP<br>La novena mazatleca reunirá a 70 jugadores en el Teodoro Mariscal para iniciar una pretemporada con 14 juegos de preparación rumbo a la campaña 2026-2027<br>El sinaloense enfrentará este 12 de septiembre a Jaison Troncoso en Puebla, en una pelea que puede marcar el rumbo de su intento por disputar nuevamente un campeonato mundial<br>El mazatleco ya presume ocho medallas nacionales y ahora enfrenta el proceso que puede llevarlo a los Juegos Panamericanos Lima 2027 y, después, al gran sueño olímpico<br>El sinaloense conquista la Leagues Cup con Toluca y a sus 29 años presume un palmarés que incluye títulos de clubes, selecciones y una medalla olímpica<br>Desde una secundaria de Mazatlán hasta un podio internacional, Naomi “Maggy” Ríos Cruz y Rubén Zataráin González han construido, junto a su entrenador Juan Castellanos, una historia de esfuerzo, adaptación y perseverancia que hoy los coloca entre los jóvenes atletas sordos más destacados de México<br>Con 23 atletas en el agua, el puerto comenzó la búsqueda de la nueva generación que tomará la estafeta de los medallistas mazatlecos en la Olimpiada Nacional</p>]]></content:encoded>
+      <category>Venados de Mazatlán</category>
+    </item>
+    <item>
+      <title><![CDATA[¡La Asociación Charros de Jalisco está de fiesta! | Notisistema]]></title>
+      <link>https://www.notisistema.com/noticias/la-asociacion-charros-de-jalisco-esta-de-fiesta/</link>
+      <guid isPermaLink="false">04dbc5040e078097df65</guid>
+      <pubDate>Wed, 09 Sep 2026 21:32:00 +0000</pubDate>
+      <source><![CDATA[Notisistema]]></source>
+      <description><![CDATA[La Asociación Charros de Jalisco está de fiesta al celebrar 106 años de historia y tradición, y lo hará con una serie de actividades.
+Este jueves las 12 del día, en el Lienzo Charro del Agua Azul, se realizará el Campeonato Nacional de Pialadero.
+Sábado, domingo y lunes habrá un Nacional Charro, que reunirá a los 25 mejores equipos del país.
+Para el lunes 14 de septiembre, a las 9 de la mañana una misa de acción de gracias en el Santuario de Guad…]]></description>
+      <content:encoded><![CDATA[<p>La Asociación Charros de Jalisco está de fiesta al celebrar 106 años de historia y tradición, y lo hará con una serie de actividades.<br>Este jueves las 12 del día, en el Lienzo Charro del Agua Azul, se realizará el Campeonato Nacional de Pialadero.<br>Sábado, domingo y lunes habrá un Nacional Charro, que reunirá a los 25 mejores equipos del país.<br>Para el lunes 14 de septiembre, a las 9 de la mañana una misa de acción de gracias en el Santuario de Guadalupe.<br>Posteriormente se realizará un desfile por la zona Centro de Guadalajara y, más tarde, la gran charreada estelar.<br>Así lo explica Javier Sahagún, dirigente de la Asociación Charros de Jalisco.<br>“Saliendo de misa en el Santuario, nos montamos para hacer un desfile por las principales calles de la ciudad rumbo a palacio de Gobierno, que pasamos 11:30 y nos vamos al Lienzo Charro Jalisco para hacer el acto protocolario, que son honorares a las bandera y la toma de protesta del consejo directivo y la Charreada de gala donde vienen la Nacional de México, RG2 los campeones nacionales y Charros de Jalisco”.<br>La Asociación de Charros de Jalisco es una de las organizaciones de charrería más antiguas, tradicionales y representativas de México, fundada el 14 de septiembre de 1920 en Guadalajara, justo el día en que se celebra el Día del Charro. (Por Martín Navarro Vásquez)</p>]]></content:encoded>
+      <category>Charros de Jalisco</category>
+    </item>
     <item>
       <title><![CDATA[Desea Wílmer Ríos disputar Serie del Caribe con Naranjeros en Hermosillo | El Imparcial]]></title>
       <link>https://www.elimparcial.com/deporte/2026/09/09/desea-wilmer-rios-disputar-serie-del-caribe-con-naranjeros-en-hermosillo/</link>
@@ -90,6 +117,20 @@ Este esperado e…]]></description>
 Orantes Rodarte viene de concluir su participación como mánager en la Liga Mexicana de Beisbol con los Pericos de Puebla y a menos de una semana de terminar su compromiso en verano se unió a la t…]]></description>
       <content:encoded><![CDATA[<p>Guasave, Sin. Algodoneros de Guasave continúa con su preparación rumbo a la Temporada 2026-2027 de la Liga Mexicana del Pacífico, y en su tercer día de pretemporada, solo contó con una novedad, uniéndose al cuerpo técnico el coach de banca Ramón Orantes.<br>Orantes Rodarte viene de concluir su participación como mánager en la Liga Mexicana de Beisbol con los Pericos de Puebla y a menos de una semana de terminar su compromiso en verano se unió a la tropa guasavense para acompañar a Óscar Robles en el banquillo.<br>Algodoneros no presenta novedades en su pelotón de jugadores<br>Este 9 de septiembre de 2026, Algodoneros de Guasave no tuvo novedades en cuanto a peloteros se refiere, manteniéndose los mismos 32 integrantes que reportaron desde el día uno.<br>Podría interesarte: Xorge Carrillo reportará a mediados de septiembre con Algodoneros de Guasave<br>Bajo el intenso calor de Guasave, los lanzadores trabajaron el fildeo de los rodados de frente y los toques de pelota, así como también las asistencias a primera base, viendo en acción al guasavense Iván Alejandro Izaguirre, Jeff Ibarra, Jesús Huerta y Rafael Córdova, por mencionar algunos.<br>Algodoneros se alista para los primeros juegos de pretemporada en El Fuerte<br>Algodoneros tendrá sus primeros juegos de pretemporada la próxima semana en el Clásico Mágico del Pacífico, el cual se desarrollará del 17 al 20 de septiembre en el estadio Gabriel Lugo Morales.<br>Guasave enfrentará a Cañeros de Los Mochis en el horario estelar el 17 de septiembre, mientras que el 18 medirá fuerzas ante Mágicos de El Fuerte y para el día sábado 19 cerrará el round robin contra Mayos de Navojoa.<br>Te sugerimos: Algodoneros de Guasave tiene “Plan B” en caso de que Tyler Ivey no reporte</p>]]></content:encoded>
       <category>Algodoneros de Guasave</category>
+    </item>
+    <item>
+      <title><![CDATA[¿Cuántos títulos de la LMB tienen los Olmecas de Tabasco? Lista completa de campeonatos | marca.com]]></title>
+      <link>https://www.marca.com/mx/beisbol/mx/2026/09/09/cuantos-titulos-lmb-olmecas-tabasco-lista-completa-campeonatos.html</link>
+      <guid isPermaLink="false">c9f5bfecc92cee114a50</guid>
+      <pubDate>Wed, 09 Sep 2026 19:08:17 +0000</pubDate>
+      <source><![CDATA[marca.com]]></source>
+      <dc:creator><![CDATA[Dan Fridman]]></dc:creator>
+      <description><![CDATA[- Liga Mexicana de béisbol (LMB). Serie del Rey Premio 2026: ¿Cuánto se lleva el campeón de la Liga Mexicana de Béisbol?
+- Liga Mexicana de béisbol (LMB). Toros de Tijuana vs Olmecas de Tabasco: Calendario y horarios de la Serie del Rey 2026
+- Liga Mexicana de béisbol (LMB). Jugadores de Pericos y Olmecas, con hasta 20 juegos de sanción
+La Serie del Rey de la Liga Mexicana de Béisbol (LMB) ha quedado con un enfrentamiento no necesariamente entre…]]></description>
+      <content:encoded><![CDATA[<p>- Liga Mexicana de béisbol (LMB). Serie del Rey Premio 2026: ¿Cuánto se lleva el campeón de la Liga Mexicana de Béisbol?<br>- Liga Mexicana de béisbol (LMB). Toros de Tijuana vs Olmecas de Tabasco: Calendario y horarios de la Serie del Rey 2026<br>- Liga Mexicana de béisbol (LMB). Jugadores de Pericos y Olmecas, con hasta 20 juegos de sanción<br>La Serie del Rey de la Liga Mexicana de Béisbol (LMB) ha quedado con un enfrentamiento no necesariamente entre los dos clubes mas laureados de la historia en la Liga Mexicana de Béisbol ya que por la Zona Norte tenemos como representante a los Toros de Tijuana, mientras que por el Sur, el honor ha sido para los Olmecas de Tabasco, representando claramente ambas franquicias a los puntos cardinales de nuestro territorio de manera más que fidedigna en uno de los cruces con más distancia entre los estadios, alrededor de 3,742 kilómetros que serían a velocidad estándar como 38 horas y 40 minutos.<br>Pero mas allá de ese dato anecdótico nos toca en esta ocasión repasar el único campeonato a nivel nacional que tienen los del Estado que se dice que es un Eden, hay que recordar, antes de hacer ese repaso que están en esta instancia del duelo por el gallardete principal tras quedar en segundo puesto de la Zona Sur con una marca en temporada regular de 54-38 (.587) 9.5 juegos atrás de los líderes Diablos Rojos del México.<br>El único campeonato de Olmecas de Tabasco: 1993<br>En este recuento hay que decir que los Olmecas de Tabasco han llegado a la Serie Final, ahora llamada Serie del Rey, por segunda ocasión en toda su historia, la única otra fue en el lejano año de 1993, cuando en campaña regular quedaron terceros en la Zona Sur, por detrás de los ya citados Diablos y también de los Tigres Capitalinos: luego en los playoffs sucedió la siguiente:<br>- Primer Playoff de Zona: Olmecas de Tabasco 4-3 Tigres Capitalinos.<br>- Campeonato Zona Sur: Olmecas de Tabas 4-1 Diablos Rojos del México.<br>- Serie Final: Olmecas de Tabasco 4-1 Tecolotes de los Dos Laredos.<br>Line Up<br>- 1.- Rafael de Lima – Jardinero Central.<br>- 2.- Alexis Infante – Parador en Corto.<br>- 3.- Leo Valenzuela – Jardinero Derecho.<br>- 4.- Todd Brown – Bateador Designado.<br>- 5.- Horacio Valenzuela – Primera Base.<br>- 6.- Rusty Tillman – Jardinero Izquierdo.<br>- 7.- Julián Wong – Segunda Base.<br>- 8.- Eliseo Garzón - Catcher.<br>- 9.- Herminio Sáiz – Tercera Base.<br>- Pitchers destacados: Cecilio Ruiz, Emigdio López, Ricardo Osuna, Ramón Serna, Salvador<br>- Mánager: Juan Navarrete.<br>¿Cómo llegaron los Olmecas de Tabasco a la Serie del Rey 2026?<br>Pasaron entonces largos 33 años para volver a ver a esta franquicia fundada en 1975 y que juega como local en el Estadio Centenario 27 de Febrero con capacidad para 6,800 espectadores de volverlos a ver en la máxima instancia a la que llegaron de la siguiente manera:<br>- Primer Playoff: Olmecas de Tabas 4-2 Bravos de León.<br>- Serie de Zona: Olmecas de Tabasco 4-3 Guerreros de Oaxaca.<br>- Serie de Campeonato: Olmecas de Tabasco 4-1 Pericos de Puebla.</p>]]></content:encoded>
+      <category>Olmecas de Tabasco</category>
     </item>
     <item>
       <title><![CDATA[Ver Toros de Tijuana vs. Sultanes de Monterrey (Juego #5) | Disney+ | Disney Plus]]></title>
@@ -188,6 +229,21 @@ Así, los Olmecas de Tabasco van en búsqueda de su segundo títul…]]></descri
       <content:encoded><![CDATA[<p>Los Olmecas de Tabasco toman ventaja en la Serie del Rey de la Liga Mexicana de Beisbol tras imponerse 7-1 a los Toros de Tijuana en el Juego 1, disputado en territorio fronterizo.<br>Con este resultado, los Astados buscarán redimirse ante su afición este miércoles cuando se dispute el segundo encuentro a las 20:35 (tiempo del centro de México) en el Estadio Toros Mobil Park.<br>PUBLICIDAD<br>Así, los Olmecas de Tabasco van en búsqueda de su segundo título de la historia y el primero desde 1993 en una campaña que ya es histórica, mientras que Toros de Tijuana aspira a su tercer campeonato en la Liga Mexicana de Beisbol.<br>Desarrollo del Juego 1<br>El gran protagonista de la noche fue el pitcher de los Olmecas de Tabasco Austin Warner, quien anuló a una de las ofensivas más peligrosas de toda la Liga Mexicana de Beisbol al solamente permitir tres hits en seis entradas sin recibir carrera con cinco ponches.<br>A la ofensiva, la gran clave fue el rally de cuatro carreras de la tercera entrada cuando Jasson Atondo impulsó las primeras carreras del encuentro.<br>PUBLICIDAD<br>La única anotación de los Toros llegó en la séptima entrada mediante un elevado de sacrificio, pero no fue suficiente para acercarse en la pizarra.<br>En la novena entrada. los Olmecas sentenciaron el duelo con tres carreras más, destacando un triple productor de Calvin Estrada y un cuadrangular de dos anotaciones de José Godoy para colocar el definitivo 7-1.<br>Fechas, horarios y canales para ver el resto de la serie<br>A continuación, te presentamos el calendario completo de encuentros para no perder detalle de lo que ocurra en la Serie del Rey:<br>- Juego 1: Olmecas de Tabasco 7-1 Toros de Tijuana<br>- Juego 2: Miércoles 9 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana).<br>- Juego 3: Viernes 11 de septiembre | 19:30 horas | Estadio Centenario del 27 de Febrero (Villahermosa).<br>- Juego 4: Sábado 12 de septiembre | 19:00 horas | Estadio Centenario del 27 de Febrero (Villahermosa).<br>- Juego 5 (de ser necesario): Domingo 13 de septiembre | 18:00 horas | Estadio Centenario del 27 de Febrero (Villahermosa).<br>- Juego 6 (de ser necesario): Martes 15 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana).<br>- Juego 7 (de ser necesario): Miércoles 16 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana)<br>Los canales para seguir la transmisión de los encuentros son: Claro Sports, AYM Sports, TVC Deportes, TV Azteca Deportes, FOX, ESPN, Imagen Televisión y LMB TV.<br>PUBLICIDAD<br>Qué esperar del segundo encuentro entre Olmecas y Toros<br>Los Toros de Tijuana buscan igualar la Serie del Rey ante Olmecas de Tabasco con tras caer 7-1 en el primer juego disputado en casa.<br>Ahora, la novena fronteriza busca retomar el nivel que los llevó a ser el segundo mejor equipo de la temporada regular por detrás de los Diablos Rojos del México, por lo que buscan que el impulso de la afición juegue a su favor para empatar la eliminatoria.<br>La novena fronteriza necesita responder ante su afición y evitar que el conjunto tabasqueño aumente la ventaja antes de que la confrontación cambie de sede.<br>Adonis Medina será el encargado de abrir en la lomita por los Astados y tendrá la responsabilidad de contener a una alineación de Olmecas que viene inspirada.<br>PUBLICIDAD<br>Por el lado del equipo de Tabasco, el pitcher abridor será Jeremy Rhoades, quien buscará tener una actuación similar a la de Austin para irse con una ventaja de dos juegos a territorio fronterizo, la cual representaría un golpe moral durísimo para Tijuana.<br>PUBLICIDAD<br>PUBLICIDAD</p>]]></content:encoded>
       <category>Serie del Rey</category>
       <category>Toros de Tijuana</category>
+    </item>
+    <item>
+      <title><![CDATA[Abren Olmecas de Tabasco con victoria en la Serie del Rey 2026 | El Porvenir - Portada]]></title>
+      <link>https://elporvenir.mx/deportes/abren-olmecas-de-tabasco-con-victoria-en-la-serie-del-rey-2026/1023801</link>
+      <guid isPermaLink="false">4d79edb89339f4505a79</guid>
+      <pubDate>Wed, 09 Sep 2026 14:50:00 +0000</pubDate>
+      <source><![CDATA[El Porvenir - Portada]]></source>
+      <dc:creator><![CDATA[Redacci; Oacute; N]]></dc:creator>
+      <description><![CDATA[Abren Olmecas de Tabasco con victoria en la Serie del Rey 2026
+Publicación:09-09-2026
+Los Olmecas de Tabasco vencieron 7-1 a los Toros de Tijuana en el primer juego de la Serie del Rey.
+MÉXICO.- Los Olmecas de Tabasco comenzaron con el pie derecho la Serie del Rey 2026, luego de imponerse 7-1 a los Toros de Tijuana en el primer juego de la serie.
+El conjunto tabasqueño aprovechó un rally de cuatro carreras para tomar el control del encuentro y co…]]></description>
+      <content:encoded><![CDATA[<p>Abren Olmecas de Tabasco con victoria en la Serie del Rey 2026<br>Publicación:09-09-2026<br>Los Olmecas de Tabasco vencieron 7-1 a los Toros de Tijuana en el primer juego de la Serie del Rey.<br>MÉXICO.- Los Olmecas de Tabasco comenzaron con el pie derecho la Serie del Rey 2026, luego de imponerse 7-1 a los Toros de Tijuana en el primer juego de la serie.<br>El conjunto tabasqueño aprovechó un rally de cuatro carreras para tomar el control del encuentro y contó con una destacada actuación del lanzador Austin Warner, quien mantuvo en blanco a la ofensiva fronteriza durante seis entradas.<br>El zurdo permitió únicamente tres imparables, otorgó una base por bolas y consiguió cinco ponches frente a la ofensiva de los Toros.<br>Con este resultado, los Olmecas se colocaron 1-0 arriba en la serie por el campeonato de la Liga Mexicana de Béisbol (LMB), mientras que los Toros de Tijuana buscarán igualar el compromiso en el siguiente encuentro que ser llevará acabo hoy en el estadio de los Toros de Tijuana para después jugar en Tabasco.<br>Te podría interesar - Se complica pase del tri femenil en el Mundial Sub-20<br>« Redacción / El Porvenir »</p>]]></content:encoded>
+      <category>Olmecas de Tabasco</category>
     </item>
     <item>
       <title><![CDATA[Los Olmecas vencen a los Toros y toman ventaja en la final del béisbol mexicano | Aristegui Noticias]]></title>
@@ -666,18 +722,21 @@ Durante la mayor parte de su carrera en la Gran Carpa, el “Barba Roja” form�
       <category>Toros de Tijuana</category>
     </item>
     <item>
-      <title><![CDATA[Watch Olmecas de Tabasco vs. Toros de Tijuana (Juego #2) | Disney+ | Disney Plus]]></title>
-      <link>https://www.disneyplus.com/en-ag/browse/entity-241dab3a-74d7-491b-8bf0-01567e417b81</link>
-      <guid isPermaLink="false">92e8f62c81165e4c87ee</guid>
+      <title><![CDATA[Watch Olmecas de Tabasco vs. Toros de Tijuana (Juego #1) | Disney+ | Disney Plus]]></title>
+      <link>https://www.disneyplus.com/en-ag/browse/entity-02458b81-de6b-4d80-9419-db448dd57e8b</link>
+      <guid isPermaLink="false">607a62f3620ed6329d17</guid>
       <pubDate>Wed, 09 Sep 2026 00:32:35 +0000</pubDate>
       <source><![CDATA[Disney Plus]]></source>
-      <description><![CDATA[The world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.
-Olmecas de Tabasco vs. Toros de Tijuana (Juego #2)
+      <description><![CDATA[Olmecas de Tabasco vs. Toros de Tijuana (Juego #1)
+The world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.
+Olmecas de Tabasco vs. Toros de Tijuana (Juego #1)
 DETAILS
-The world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.]]></description>
-      <content:encoded><![CDATA[<p>The world&#x27;s top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner&#x27;s Trophy.<br>Olmecas de Tabasco vs. Toros de Tijuana (Juego #2)<br>DETAILS<br>The world&#x27;s top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner&#x27;s Trophy.</p>]]></content:encoded>
-      <category>Toros de Tijuana</category>
+The world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.
+- Duration:
+- 3h 28m]]></description>
+      <content:encoded><![CDATA[<p>Olmecas de Tabasco vs. Toros de Tijuana (Juego #1)<br>The world&#x27;s top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner&#x27;s Trophy.<br>Olmecas de Tabasco vs. Toros de Tijuana (Juego #1)<br>DETAILS<br>The world&#x27;s top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner&#x27;s Trophy.<br>- Duration:<br>- 3h 28m</p>]]></content:encoded>
       <category>Olmecas de Tabasco</category>
+      <category>Toros de Tijuana</category>
     </item>
     <item>
       <title><![CDATA[¡Play Ball! TV Azteca Deportes transmitirá EN VIVO y GRATIS: Juego 1 Serie del Rey 2026 LMB, Olmecas de Tabasco vs Toros de Tijuana | TV Azteca]]></title>
@@ -2072,67 +2131,6 @@ La Serie del Rey 2026 de la Liga Mexicana de Béisbol (LMB) está lista para com
       <category>Olmecas de Tabasco</category>
       <category>Toros de Tijuana</category>
       <category>Serie del Rey</category>
-    </item>
-    <item>
-      <title><![CDATA[Serie del Rey: ¿Quiénes, cuándo y dónde juegan? | Récord]]></title>
-      <link>https://www.record.com.mx/historia/serie-del-rey-cuando-y-donde-ver-2026090620483064228</link>
-      <guid isPermaLink="false">0541a6587d41a9d88a27</guid>
-      <pubDate>Sun, 06 Sep 2026 20:48:00 +0000</pubDate>
-      <source><![CDATA[Récord]]></source>
-      <dc:creator><![CDATA[Aldo Martínez]]></dc:creator>
-      <description><![CDATA[La espera terminó y el último paso por la gloria eterna de la Liga Mexicana de Béisbol está por comenzar. Luego de una emocionante temporada regular y una cardiaca etapa de Playoffs, el mejor beisbol de México finalmente tiene a sus dos mejores franquicias para disputar la Serie del Rey 2026, donde los Olmecas de Tabasco y los Toros de Tijuana serán los protagonistas.
-¿Cómo llegan las novenas?
-El ganador de la Zona Sur, Olmecas de Tabasco, sorpre…]]></description>
-      <content:encoded><![CDATA[<p>La espera terminó y el último paso por la gloria eterna de la Liga Mexicana de Béisbol está por comenzar. Luego de una emocionante temporada regular y una cardiaca etapa de Playoffs, el mejor beisbol de México finalmente tiene a sus dos mejores franquicias para disputar la Serie del Rey 2026, donde los Olmecas de Tabasco y los Toros de Tijuana serán los protagonistas.<br>¿Cómo llegan las novenas?<br>El ganador de la Zona Sur, Olmecas de Tabasco, sorprendió a propios y extraños, pues contrario a lo esperado, la novena se impuso de manera contundente a los Pericos de Puebla, franquicia que antes había eliminado al Bicampeón, los Diablos Rojos del México.<br>Los de Tabasco se fueron abajo en el tablero en el Juego 1, pues Puebla mostró un ritmo fantástico y se llevó el primero. Sin embargo, los pupilos de Luis Carlos Rivera fueron superiores el resto de los juegos y se llevaron la serie 4-1.<br>Al norte, las franquicias de Toros de Tijuana y Sultanes de Monterrey tenían su propia batalla. El juego 1 fue todo para los de Justin Turner, finiquitando la serie en un 4-1 a favor de la frontera, quien rompió una sequía de cinco años sin acceder hasta la gran Serie del Rey.<br>¿Cuándo inicia la Serie del Rey?<br>Los últimos cuatro o hasta siete juegos que definen al mejor equipo de béisbol de México tendrán su inicio el martes 8 de septiembre, arrancando en el Mobil Park de Tijuana. Posteriormente el Juego 2 será también en la zona fronteriza el miércoles 9; será hasta el 11 de septiembre en el Estadio del Centenario.<br>- Juego 1 - Martes 8 de septiembre - 20:35 (hora centro de México)<br>- Juego 2 - Miércoles 9 de septiembre - 20:35 (hora centro de México)<br>- Juego 3 - Viernes 11 de septiembre - 19:30 (hora centro de México)<br>- Juego 4 - Sábado 12 de septiembre - 19:00 (hora centro de México)</p>]]></content:encoded>
-      <category>Liga Mexicana de Béisbol</category>
-      <category>Olmecas de Tabasco</category>
-      <category>Toros de Tijuana</category>
-      <category>Serie del Rey</category>
-      <category>LMB</category>
-    </item>
-    <item>
-      <title><![CDATA[Naranjeros iniciará su pretemporada este lunes en Hermosillo | el reportero de la comunidad]]></title>
-      <link>https://elreporterodelacomunidad.com/index.php/2026/09/06/naranjeros-iniciara-su-pretemporada-este-lunes-en-hermosillo/</link>
-      <guid isPermaLink="false">c4df309adaa6f65fdb12</guid>
-      <pubDate>Sun, 06 Sep 2026 20:46:55 +0000</pubDate>
-      <source><![CDATA[el reportero de la comunidad]]></source>
-      <dc:creator><![CDATA[Carlos Alberto Gutierrez Celaya]]></dc:creator>
-      <description><![CDATA[Este lunes 7 de septiembre iniciará la pretemporada de los Naranjeros de Hermosillo en el estadio “Fernando Valenzuela”
-Hermosillo, Sonora a 06 de septiembre de 2026.- Naranjeros de Hermosillo iniciará este lunes por la mañana sus entrenamientos de pretemporada en el estadio “Fernando Valenzuela” con miras al arranque de la temporada 2026-2027 de la Liga Mexicana del Pacifico.
-Serán diez días de prácticas las que la Escuadra Naranja realice en He…]]></description>
-      <content:encoded><![CDATA[<p>Este lunes 7 de septiembre iniciará la pretemporada de los Naranjeros de Hermosillo en el estadio “Fernando Valenzuela”<br>Hermosillo, Sonora a 06 de septiembre de 2026.- Naranjeros de Hermosillo iniciará este lunes por la mañana sus entrenamientos de pretemporada en el estadio “Fernando Valenzuela” con miras al arranque de la temporada 2026-2027 de la Liga Mexicana del Pacifico.<br>Serán diez días de prácticas las que la Escuadra Naranja realice en Hermosillo previo a emprender la gira por Arizona el próximo 16 de septiembre, para sostener sus duelos de pretemporada como parte de la Mexican Baseball Fiesta en Ontario, California, así como en Arizona en el área de Phoenix, Douglas y Tucson y en Nogales, Sonora.<br>Se esperará que durante estos primeros días de prácticas reporten jóvenes prospectos, así como jugadores que terminaron ya su participación en la Liga Mexicana de Beisbol y elementos invitados fuera de roster.<br>Durante los siguientes días se irán sumando más jugadores que aún se mantienen en actividad en LMB, así como en Estados Unidos y los elementos extranjeros que reforzarán al equipo.<br>Los entrenamientos serán dirigidos desde el primer día por el cuerpo técnico del equipo donde estarán presentes coaches como Jesús Arredondo, Carlos Gastélum, Giovanni Carrara, Isidro Márquez y Ricardo Solís.<br>Las prácticas se llevarán a cabo por las mañanas y se trabajarán los aspectos físicos y de fundamentos del rey de los deportes.<br>Naranjeros se preparará así para estar listos para la temporada 2026-2027 de la LMP que iniciará el próximo 14 de octubre cuando la Escuadra Naranja visite el “Nido” de los Águilas de Mexicali.</p>]]></content:encoded>
-      <category>Naranjeros de Hermosillo</category>
-    </item>
-    <item>
-      <title><![CDATA[Olmecas de Tabasco vs Toros de Tijuana: fechas y horarios para ver la Serie del Rey | infobae.com]]></title>
-      <link>https://www.infobae.com/mexico/deportes/2026/09/06/olmecas-de-tabasco-vs-toros-de-tijuana-fechas-y-horarios-para-ver-la-serie-del-rey/</link>
-      <guid isPermaLink="false">486d6f69dc435772b993</guid>
-      <pubDate>Sun, 06 Sep 2026 20:16:18 +0000</pubDate>
-      <source><![CDATA[infobae.com]]></source>
-      <dc:creator><![CDATA[Luis Mote Nava]]></dc:creator>
-      <description><![CDATA[Olmecas de Tabasco y Toros de Tijuana se verán las caras en la Serie del Rey, donde definirán al nuevo campeón de la Liga Mexicana de Beisbol.
-Calendario de juegos Serie del Rey 2026
-A continuación, te presentamos las fechas con horarios para que no pierdas detalle de los juegos que definen al campeón de la Liga Mexicana de Beisbol:
-PUBLICIDAD
-- Juego 1: Martes 8 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana).
-- Juego 2: Miércoles 9 de…]]></description>
-      <content:encoded><![CDATA[<p>Olmecas de Tabasco y Toros de Tijuana se verán las caras en la Serie del Rey, donde definirán al nuevo campeón de la Liga Mexicana de Beisbol.<br>Calendario de juegos Serie del Rey 2026<br>A continuación, te presentamos las fechas con horarios para que no pierdas detalle de los juegos que definen al campeón de la Liga Mexicana de Beisbol:<br>PUBLICIDAD<br>- Juego 1: Martes 8 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana).<br>- Juego 2: Miércoles 9 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana).<br>- Juego 3: Viernes 11 de septiembre | 19:30 horas | Estadio Centenario del 27 de Febrero (Villahermosa).<br>- Juego 4: Sábado 12 de septiembre | 19:00 horas | Estadio Centenario del 27 de Febrero (Villahermosa).<br>- Juego 5 (de ser necesario): Domingo 13 de septiembre | 18:00 horas | Estadio Centenario del 27 de Febrero (Villahermosa).<br>- Juego 6 (de ser necesario): Martes 15 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana).<br>- Juego 7 (de ser necesario): Miércoles 16 de septiembre | 20:35 horas | Toros Mobil Park (Tijuana)<br>Los canales para seguir la transmisión de los encuentros son: Claro Sports, AYM Sports, TVC Deportes, TV Azteca Deportes, FOX, ESPN, Imagen Televisión y LMB TV.<br>Cómo llegan los Olmecas de Tabasco a este encuentros<br>Los Olmecas de Tabasco llegaron a la Serie del Rey por primera vez en 33 años. El equipo buscaba extender una postemporada que ya representaba un hecho poco habitual para una franquicia con escasas apariciones en la disputa por el campeonato de la Liga Mexicana de Beisbol.<br>Una de las cualidades del conjunto tabasqueño fue su capacidad para responder en escenarios adversos. Olmecas afrontó series complicadas y resolvió juegos cerrados durante su camino como campeón de la Zona Sur.<br>PUBLICIDAD<br>En la primera ronda de playoffs, Tabasco venció a los Bravos de León en seis juegos. El resultado le dio el pase a las Series de Zona, donde disputó la eliminatoria más dramática de su postemporada frente a los Guerreros de Oaxaca.<br>Durante esta eliminatoria, Olmecas iba abajo 3-2 en la serie frente al conjunto bélico. El equipo regresó a casa con la obligación de ganar dos partidos para evitar la eliminación y consiguió darle la vuelta a la eliminatoria.<br>La remontada ante Oaxaca mostró la capacidad de los tabasqueños para sobreponerse a la presión.<br>El siguiente rival fue Pericos de Puebla, que llegó a esa ronda después de eliminar a los Diablos Rojos del México, uno de los equipos señalados como favoritos para avanzar a la Serie del Rey.<br>PUBLICIDAD<br>La eliminatoria ante Puebla también tuvo momentos de tensión. El segundo juego, disputado en el Estadio Centenario, se definió en entradas extras y puso a prueba la resistencia del equipo nuevamente.<br>Pese a los encuentros cerrados, Olmecas resolvió la Serie de Campeonato de la Zona Sur en cinco juegos, lo cual les permitió asegurar el pase a la Serie del Rey.<br>Toros de Tijuana sigue como el favorito a campeón<br>Toros de Tijuana llegaron a la Serie del Rey como el equipo que confirmó en postemporada el rendimiento que los colocó como el segundo mejor club de la temporada regular, solo por debajo de los Diablos Rojos del México.<br>PUBLICIDAD<br>El conjunto fronterizo fue campeón de la Zona Norte tras superar cada una de sus series de playoffs en cinco juegos., recorrido que respaldó la etiqueta de favorito que tenía desde antes del inicio de la postemporada.<br>El primer obstáculo para Toros fue Algodoneros de Unión Laguna, la cual se definió en cinco encuentros y permitió a los tijuanenses avanzar a la siguiente ronda sin extender la eliminatoria a un sexto juego.<br>Para la Serie de Zona, los Astados enfrentaron a los Charros de Jalisco, a quienes vencieron de nueva cuenta en cinco juegos.<br>Durante la Serie de Campeonato de la Zona Norte, el trámite de la eliminatoria fue el mismo a pesar de que se esperaba más resistencia en los pronósticos de los Sultanes de Monterrey.<br>PUBLICIDAD<br>Este dominio que han venido reflejando desde la temporada regular y confirmado en los playoffs, los tiene hasta el momento como los favoritos en las casas de apuestas, pero enfrente tendrán a unos Olmecas de Tabasco que buscarán dar la sorpresa.<br>PUBLICIDAD<br>PUBLICIDAD</p>]]></content:encoded>
-      <category>Toros de Tijuana</category>
-    </item>
-    <item>
-      <title><![CDATA[Luis Carlos Rivera: Clave del éxito en Olmecas de Tabasco | Diario Presente]]></title>
-      <link>https://www.diariopresente.mx/elsoldelsureste/entrevista-con-luis-carlos-rivera-camino-a-la-serie-del-rey/466235</link>
-      <guid isPermaLink="false">e7625541121f57432f79</guid>
-      <pubDate>Sun, 06 Sep 2026 20:00:00 +0000</pubDate>
-      <source><![CDATA[Diario Presente]]></source>
-      <description><![CDATA[Villahermosa Tabasco.-
-DEDICATORIA ESPECIAL
-- Van por Toros.
-El manager Luis Carlos Rivera explicó lo emotivo que fue la obtención del título de Zona Sur de Olmecas de Tabasco.
-"Sí estamos muy contentos y feliz de haber dado ese paso tan importante y estar cada vez más cerca del objetivo final que es la Serie del Rey", dijo durante su llegada a Villahermosa.
-El timonel explicó la clave del éxito de los cabezones para coronarse campeones de zona,…]]></description>
-      <content:encoded><![CDATA[<p>Villahermosa Tabasco.-<br>DEDICATORIA ESPECIAL<br>- Van por Toros.<br>El manager Luis Carlos Rivera explicó lo emotivo que fue la obtención del título de Zona Sur de Olmecas de Tabasco.<br>&quot;Sí estamos muy contentos y feliz de haber dado ese paso tan importante y estar cada vez más cerca del objetivo final que es la Serie del Rey&quot;, dijo durante su llegada a Villahermosa.<br>El timonel explicó la clave del éxito de los cabezones para coronarse campeones de zona, &quot;yo creo que una de las partes más importantes es controlar las emociones y estar conscientes de los que está sucediendo, continuar trabajando para ganar los juegos&quot;.<br>Explicó que sólo descansarán un día, pues están enfocados al cien por ciento para ir por los Toros de Tijuana.<br>Le dio una especial dedicación la obtención del cetro, &quot;pues nada más agradecer a Dios por la oportunidad que me da de estar al frente de este equipo de esta organización, la verdad muy contento y pues a mi esposa mis hijos que están conmigo todo el tiempo, a mis padres que siempre han estado conmigo, a mis hermanos que ustedes saben lo que sucedió pero que viven esta gran emoción&quot;.<br>Dejó en claro que están enfocados en Toros de Tijuana para que a partir del martes 8 de septiembre impongan condiciones y puedan levantar el cetro de la Liga Mexicana de Beisbol (LMB).<br>    <br>        &quot;Agradecer a Dios por la oportunidad que me da de estar al frente de este equipo de esta organización, la verdad muy contento y pues a mi esposa mis hijos que están conmigo todo el tiempo, a mis padres que siempre han estado conmigo, a mis hermanos que ustedes saben lo que sucedió pero que viven esta gran emoción&quot;    <br>Luis Carlos Rivera</p>]]></content:encoded>
-      <category>Olmecas de Tabasco</category>
     </item>
   </channel>
 </rss>

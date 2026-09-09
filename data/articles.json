@@ -1,5 +1,37 @@
 [
   {
+    "id": "29b15829ce27aed3c327",
+    "title": "¡A ganarse el puesto! Venados pone en marcha su pretemporada rumbo a la LMP - El Sol de Mazatlán",
+    "source": "El Sol de México",
+    "author": "Isac Chávez",
+    "published_iso": "2026-09-09T21:46:12+00:00",
+    "published_rfc2822": "Wed, 09 Sep 2026 21:46:12 +0000",
+    "published_display": "2026-09-09 21:46 UTC",
+    "url": "https://oem.com.mx/elsoldemazatlan/deportes/a-ganarse-el-puesto-venados-pone-en-marcha-su-pretemporada-rumbo-a-la-lmp-31986571",
+    "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmhEek9MLWVOYzNZV3liQnJkV1FrWGpkRXdRV0VJcTJSbVE4SVBnTWt1SkZ4NEgyMEp0emQ0b044QjlmOWVwLVZNWjhQblJhcUp6Qjc5VWpHa3VWTlhJWW96RUlUSTFoWVktUUFVMDlXSUxOVE80MW1OV3J3QWRvSVlEaC1keEItaGg0b3RZUVJDeHRmS0R5dUVfTjZrUFppaTZHcFpWWm1zbW16VXgyOE4yLWNUT19ZRENmWFg0NHByYUly?oc=5",
+    "body": "¡A ganarse el puesto! Venados pone en marcha su pretemporada rumbo a la LMP\nLa novena mazatleca reunirá a 70 jugadores en el Teodoro Mariscal para iniciar una pretemporada con 14 juegos de preparación rumbo a la campaña 2026-2027\nEl sinaloense enfrentará este 12 de septiembre a Jaison Troncoso en Puebla, en una pelea que puede marcar el rumbo de su intento por disputar nuevamente un campeonato mundial\nEl mazatleco ya presume ocho medallas nacionales y ahora enfrenta el proceso que puede llevarlo a los Juegos Panamericanos Lima 2027 y, después, al gran sueño olímpico\nEl sinaloense conquista la Leagues Cup con Toluca y a sus 29 años presume un palmarés que incluye títulos de clubes, selecciones y una medalla olímpica\nDesde una secundaria de Mazatlán hasta un podio internacional, Naomi “Maggy” Ríos Cruz y Rubén Zataráin González han construido, junto a su entrenador Juan Castellanos, una historia de esfuerzo, adaptación y perseverancia que hoy los coloca entre los jóvenes atletas sordos más destacados de México\nCon 23 atletas en el agua, el puerto comenzó la búsqueda de la nueva generación que tomará la estafeta de los medallistas mazatlecos en la Olimpiada Nacional",
+    "matched_queries": [
+      "Venados de Mazatlán"
+    ],
+    "collected_iso": "2026-09-09T22:35:31.538775+00:00"
+  },
+  {
+    "id": "04dbc5040e078097df65",
+    "title": "¡La Asociación Charros de Jalisco está de fiesta!",
+    "source": "Notisistema",
+    "author": "",
+    "published_iso": "2026-09-09T21:32:00+00:00",
+    "published_rfc2822": "Wed, 09 Sep 2026 21:32:00 +0000",
+    "published_display": "2026-09-09 21:32 UTC",
+    "url": "https://www.notisistema.com/noticias/la-asociacion-charros-de-jalisco-esta-de-fiesta/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0VleHZTemRMNGYtLXNDV2pEWTl0MEItYTdIYmZOZlhIS21tX2RBOU1tempJbkdqc0FrbjNSY1FFY1g0VHFFQndjQ2x4Z1JnOW9fMU9ROUl2Q2Vwbm5DeXVJN1FEdGR1TlRXTHZUMGVYcjRVdjcxREs0ODFrTmtNU2FRMTBuY0VQcmt5VGVn?oc=5",
+    "body": "La Asociación Charros de Jalisco está de fiesta al celebrar 106 años de historia y tradición, y lo hará con una serie de actividades.\nEste jueves las 12 del día, en el Lienzo Charro del Agua Azul, se realizará el Campeonato Nacional de Pialadero.\nSábado, domingo y lunes habrá un Nacional Charro, que reunirá a los 25 mejores equipos del país.\nPara el lunes 14 de septiembre, a las 9 de la mañana una misa de acción de gracias en el Santuario de Guadalupe.\nPosteriormente se realizará un desfile por la zona Centro de Guadalajara y, más tarde, la gran charreada estelar.\nAsí lo explica Javier Sahagún, dirigente de la Asociación Charros de Jalisco.\n“Saliendo de misa en el Santuario, nos montamos para hacer un desfile por las principales calles de la ciudad rumbo a palacio de Gobierno, que pasamos 11:30 y nos vamos al Lienzo Charro Jalisco para hacer el acto protocolario, que son honorares a las bandera y la toma de protesta del consejo directivo y la Charreada de gala donde vienen la Nacional de México, RG2 los campeones nacionales y Charros de Jalisco”.\nLa Asociación de Charros de Jalisco es una de las organizaciones de charrería más antiguas, tradicionales y representativas de México, fundada el 14 de septiembre de 1920 en Guadalajara, justo el día en que se celebra el Día del Charro. (Por Martín Navarro Vásquez)",
+    "matched_queries": [
+      "Charros de Jalisco"
+    ],
+    "collected_iso": "2026-09-09T22:35:10.998720+00:00"
+  },
+  {
     "id": "1a99b89f865d28533b33",
     "title": "Desea Wílmer Ríos disputar Serie del Caribe con Naranjeros en Hermosillo",
     "source": "El Imparcial",
@@ -13,7 +45,10 @@
     "matched_queries": [
       "Naranjeros de Hermosillo"
     ],
-    "collected_iso": "2026-09-09T21:33:56.540441+00:00"
+    "collected_iso": "2026-09-09T21:33:56.540441+00:00",
+    "duplicate_sources": [
+      "elimparcial.com"
+    ]
   },
   {
     "id": "763a9a13e203fbd03e56",
@@ -104,6 +139,22 @@
       "Algodoneros de Guasave"
     ],
     "collected_iso": "2026-09-09T19:38:46.143590+00:00"
+  },
+  {
+    "id": "c9f5bfecc92cee114a50",
+    "title": "¿Cuántos títulos de la LMB tienen los Olmecas de Tabasco? Lista completa de campeonatos",
+    "source": "marca.com",
+    "author": "Dan Fridman",
+    "published_iso": "2026-09-09T19:08:17+00:00",
+    "published_rfc2822": "Wed, 09 Sep 2026 19:08:17 +0000",
+    "published_display": "2026-09-09 19:08 UTC",
+    "url": "https://www.marca.com/mx/beisbol/mx/2026/09/09/cuantos-titulos-lmb-olmecas-tabasco-lista-completa-campeonatos.html",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVVBMGhvYUdjc05ESi1DRlQzSldJenVIMHF6bTl4R0c3UC1rOThZNnpHSk9iX3VLb19SR2MxQVBEQzY0R0dWZ1M2T2tVaHhQRW1jZngyb2g5ZXZsWHZRQ0VldW5oRUVwbDU1QWk3YzNTVGVBNFBGTk1vel9ZVXgyYWkzRzkyN21FSTMzTFo2OWVHT2NKVTVXYURRYnp2bmRqOUdTbW5xbHd5SDBzYndqdHlfT3PSAbQBQVVfeXFMUEtESTlja3JYc1J4dnRLbHh4VWY2VEljZGFJajFPS2NSNHhHMXBvazFPY0Y3TXNaYUwzalBScnRoY3UtTDFLemFwUFBoekdvNzJVLVY1V0FhVW1wVGZYejhOUEZvR1hzdmt5TjdJeFlseG1JcmZINHlPZXVYRk9PT3RfQWhtaGhLRWR4ZHo4dW9oaEFvNUJFNl84VjdpVVRLX2ZDMS1idzFTRDRSbEoxOXQ0eUdp?oc=5",
+    "body": "- Liga Mexicana de béisbol (LMB). Serie del Rey Premio 2026: ¿Cuánto se lleva el campeón de la Liga Mexicana de Béisbol?\n- Liga Mexicana de béisbol (LMB). Toros de Tijuana vs Olmecas de Tabasco: Calendario y horarios de la Serie del Rey 2026\n- Liga Mexicana de béisbol (LMB). Jugadores de Pericos y Olmecas, con hasta 20 juegos de sanción\nLa Serie del Rey de la Liga Mexicana de Béisbol (LMB) ha quedado con un enfrentamiento no necesariamente entre los dos clubes mas laureados de la historia en la Liga Mexicana de Béisbol ya que por la Zona Norte tenemos como representante a los Toros de Tijuana, mientras que por el Sur, el honor ha sido para los Olmecas de Tabasco, representando claramente ambas franquicias a los puntos cardinales de nuestro territorio de manera más que fidedigna en uno de los cruces con más distancia entre los estadios, alrededor de 3,742 kilómetros que serían a velocidad estándar como 38 horas y 40 minutos.\nPero mas allá de ese dato anecdótico nos toca en esta ocasión repasar el único campeonato a nivel nacional que tienen los del Estado que se dice que es un Eden, hay que recordar, antes de hacer ese repaso que están en esta instancia del duelo por el gallardete principal tras quedar en segundo puesto de la Zona Sur con una marca en temporada regular de 54-38 (.587) 9.5 juegos atrás de los líderes Diablos Rojos del México.\nEl único campeonato de Olmecas de Tabasco: 1993\nEn este recuento hay que decir que los Olmecas de Tabasco han llegado a la Serie Final, ahora llamada Serie del Rey, por segunda ocasión en toda su historia, la única otra fue en el lejano año de 1993, cuando en campaña regular quedaron terceros en la Zona Sur, por detrás de los ya citados Diablos y también de los Tigres Capitalinos: luego en los playoffs sucedió la siguiente:\n- Primer Playoff de Zona: Olmecas de Tabasco 4-3 Tigres Capitalinos.\n- Campeonato Zona Sur: Olmecas de Tabas 4-1 Diablos Rojos del México.\n- Serie Final: Olmecas de Tabasco 4-1 Tecolotes de los Dos Laredos.\nLine Up\n- 1.- Rafael de Lima – Jardinero Central.\n- 2.- Alexis Infante – Parador en Corto.\n- 3.- Leo Valenzuela – Jardinero Derecho.\n- 4.- Todd Brown – Bateador Designado.\n- 5.- Horacio Valenzuela – Primera Base.\n- 6.- Rusty Tillman – Jardinero Izquierdo.\n- 7.- Julián Wong – Segunda Base.\n- 8.- Eliseo Garzón - Catcher.\n- 9.- Herminio Sáiz – Tercera Base.\n- Pitchers destacados: Cecilio Ruiz, Emigdio López, Ricardo Osuna, Ramón Serna, Salvador\n- Mánager: Juan Navarrete.\n¿Cómo llegaron los Olmecas de Tabasco a la Serie del Rey 2026?\nPasaron entonces largos 33 años para volver a ver a esta franquicia fundada en 1975 y que juega como local en el Estadio Centenario 27 de Febrero con capacidad para 6,800 espectadores de volverlos a ver en la máxima instancia a la que llegaron de la siguiente manera:\n- Primer Playoff: Olmecas de Tabas 4-2 Bravos de León.\n- Serie de Zona: Olmecas de Tabasco 4-3 Guerreros de Oaxaca.\n- Serie de Campeonato: Olmecas de Tabasco 4-1 Pericos de Puebla.",
+    "matched_queries": [
+      "Olmecas de Tabasco"
+    ],
+    "collected_iso": "2026-09-09T22:34:16.049739+00:00"
   },
   {
     "id": "34271e77cd83c184a042",
@@ -218,6 +269,22 @@
       "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-09T15:32:54.609430+00:00"
+  },
+  {
+    "id": "4d79edb89339f4505a79",
+    "title": "Abren Olmecas de Tabasco con victoria en la Serie del Rey 2026",
+    "source": "El Porvenir - Portada",
+    "author": "Redacci; Oacute; N",
+    "published_iso": "2026-09-09T14:50:00+00:00",
+    "published_rfc2822": "Wed, 09 Sep 2026 14:50:00 +0000",
+    "published_display": "2026-09-09 14:50 UTC",
+    "url": "https://elporvenir.mx/deportes/abren-olmecas-de-tabasco-con-victoria-en-la-serie-del-rey-2026/1023801",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVZyeUJSOFlTbEpCd09VVzRxNGZ5R3hlZnNEM2lySHg4S1hqWWJsSEpDb2dwR0xCVDRTbzJveTktcW9PRnNWTzkyWW85aFVwbVM3bUhJZGM1Q1J0YVZoY2xYZHplZ0EzVDREZFR4UzY2ZXhqVTBkZkZ6TkdiZDZ3NzgwNnRTb1BDbzBZa1VBRE1Sc0hyLUtFcXRmQ1RDR0d3QVM0?oc=5",
+    "body": "Abren Olmecas de Tabasco con victoria en la Serie del Rey 2026\nPublicación:09-09-2026\nLos Olmecas de Tabasco vencieron 7-1 a los Toros de Tijuana en el primer juego de la Serie del Rey.\nMÉXICO.- Los Olmecas de Tabasco comenzaron con el pie derecho la Serie del Rey 2026, luego de imponerse 7-1 a los Toros de Tijuana en el primer juego de la serie.\nEl conjunto tabasqueño aprovechó un rally de cuatro carreras para tomar el control del encuentro y contó con una destacada actuación del lanzador Austin Warner, quien mantuvo en blanco a la ofensiva fronteriza durante seis entradas.\nEl zurdo permitió únicamente tres imparables, otorgó una base por bolas y consiguió cinco ponches frente a la ofensiva de los Toros.\nCon este resultado, los Olmecas se colocaron 1-0 arriba en la serie por el campeonato de la Liga Mexicana de Béisbol (LMB), mientras que los Toros de Tijuana buscarán igualar el compromiso en el siguiente encuentro que ser llevará acabo hoy en el estadio de los Toros de Tijuana para después jugar en Tabasco.\nTe podría interesar - Se complica pase del tri femenil en el Mundial Sub-20\n« Redacción / El Porvenir »",
+    "matched_queries": [
+      "Olmecas de Tabasco"
+    ],
+    "collected_iso": "2026-09-09T22:34:21.031551+00:00"
   },
   {
     "id": "16416db64c431684b16a",
@@ -798,21 +865,24 @@
     "collected_iso": "2026-09-09T09:38:37.163747+00:00"
   },
   {
-    "id": "92e8f62c81165e4c87ee",
-    "title": "Watch Olmecas de Tabasco vs. Toros de Tijuana (Juego #2) | Disney+",
+    "id": "607a62f3620ed6329d17",
+    "title": "Watch Olmecas de Tabasco vs. Toros de Tijuana (Juego #1) | Disney+",
     "source": "Disney Plus",
     "author": "",
     "published_iso": "2026-09-09T00:32:35+00:00",
     "published_rfc2822": "Wed, 09 Sep 2026 00:32:35 +0000",
     "published_display": "2026-09-09 00:32 UTC",
-    "url": "https://www.disneyplus.com/en-ag/browse/entity-241dab3a-74d7-491b-8bf0-01567e417b81",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWNsdjVoSXYxQ0FEdnpXQ1dWY1JhSnRjdDFzQVFMSXU3YXlMRkJQai0xNGotYWNQUDdFb1JMNDQ1VGlNci0zQWs1VUhMbExJV2ZRRTBJYmhBNkVjWUVNVkhYZi1vcUZ3ckVLTlM3T05sVU0zVWp4anpvVUQtR3p0X202ZENnTnRMUDY0?oc=5",
-    "body": "The world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.\nOlmecas de Tabasco vs. Toros de Tijuana (Juego #2)\nDETAILS\nThe world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.",
+    "url": "https://www.disneyplus.com/en-ag/browse/entity-02458b81-de6b-4d80-9419-db448dd57e8b",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVdaQVBGeTV2V1ExQ1dWUXpNUW5xeENRVHRWeDhuanJuTS13VnR5MVJLUXBUS0VVOVV0Wnk4Y0NOSVNlYzdmYS1lSUhiRmdaMTljTnpZUVRkNFR5X05CNlZWRlBMZWg4SUM5aFRqYzRIeFk2czktOWliS2h4ZFhTQnJDcDZrRjkwYVZV?oc=5",
+    "body": "Olmecas de Tabasco vs. Toros de Tijuana (Juego #1)\nThe world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.\nOlmecas de Tabasco vs. Toros de Tijuana (Juego #1)\nDETAILS\nThe world's top baseball players leave everything on the diamond in epic matchups, where the winner of the World Series will raise the Commissioner's Trophy.\n- Duration:\n- 3h 28m",
     "matched_queries": [
-      "Toros de Tijuana",
-      "Olmecas de Tabasco"
+      "Olmecas de Tabasco",
+      "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-09T00:42:50.291725+00:00"
+    "collected_iso": "2026-09-09T22:34:26.650883+00:00",
+    "duplicate_sources": [
+      "Disney Plus"
+    ]
   },
   {
     "id": "92b0c92f19e133e1b25b",
@@ -1151,6 +1221,7 @@
     "collected_iso": "2026-09-08T18:35:54.368332+00:00",
     "duplicate_sources": [
       "MILENIO",
+      "Mediotiempo",
       "milenio.com"
     ]
   },
