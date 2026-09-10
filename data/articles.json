@@ -62,7 +62,10 @@
     "matched_queries": [
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-10T09:31:30.146108+00:00"
+    "collected_iso": "2026-09-10T09:31:30.146108+00:00",
+    "duplicate_sources": [
+      "El Imparcial"
+    ]
   },
   {
     "id": "790e408a8a350f2c24c1",
