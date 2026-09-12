@@ -119,7 +119,8 @@
     "matched_queries": [
       "Liga Mexicana de Béisbol",
       "Serie del Rey",
-      "LMB"
+      "LMB",
+      "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-09-12T06:27:59.788036+00:00"
   },
@@ -756,7 +757,10 @@
     "matched_queries": [
       "Diablos Rojos del México"
     ],
-    "collected_iso": "2026-09-11T15:34:11.937531+00:00"
+    "collected_iso": "2026-09-11T15:34:11.937531+00:00",
+    "duplicate_sources": [
+      "imagenzac.com.mx"
+    ]
   },
   {
     "id": "d15a9d71100334cd8686",
