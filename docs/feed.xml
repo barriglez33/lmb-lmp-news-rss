@@ -6,8 +6,33 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sat, 12 Sep 2026 19:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:28:50 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Tomateros de Culiacán busca darle estabilidad a su roster durante toda la campaña - El Sol de Sinaloa | El Sol de México]]></title>
+      <link>https://oem.com.mx/elsoldesinaloa/deportes/tomateros-de-culiacan-busca-darle-estabilidad-a-su-roster-durante-toda-la-campana-32040394</link>
+      <guid isPermaLink="false">37cc641e66edbcc35f0b</guid>
+      <pubDate>Sat, 12 Sep 2026 19:37:30 +0000</pubDate>
+      <source><![CDATA[El Sol de México]]></source>
+      <dc:creator><![CDATA[Alexis Ángeles]]></dc:creator>
+      <description><![CDATA[El Junior llega después de dos victorias por nocaut durante 2026, mientras Omar retoma la actividad en una cartelera marcada por el peso de su apellido
+La pedalista sinaloense afinó durante sus entrenamientos la postura requerida para la contrarreloj y llega con confianza después de una campaña que considera redonda
+La experiencia adquirida durante los últimos meses fortaleció la confianza del sinaloense, quien ahora pretende trasladar ese aprend…]]></description>
+      <content:encoded><![CDATA[<p>El Junior llega después de dos victorias por nocaut durante 2026, mientras Omar retoma la actividad en una cartelera marcada por el peso de su apellido<br>La pedalista sinaloense afinó durante sus entrenamientos la postura requerida para la contrarreloj y llega con confianza después de una campaña que considera redonda<br>La experiencia adquirida durante los últimos meses fortaleció la confianza del sinaloense, quien ahora pretende trasladar ese aprendizaje al montículo con la novena de Culiacán</p>]]></content:encoded>
+      <category>Tomateros de Culiacán</category>
+    </item>
+    <item>
+      <title><![CDATA[LMB: Olmecas de Tabasco y las ausencias más grandes en la Serie del Rey | AS México]]></title>
+      <link>https://mexico.as.com/masdeporte/lmb-olmecas-de-tabasco-y-las-ausencias-mas-grandes-en-la-serie-del-rey-f202609-n/</link>
+      <guid isPermaLink="false">0b58f779ec7fb7f06082</guid>
+      <pubDate>Sat, 12 Sep 2026 19:09:59 +0000</pubDate>
+      <source><![CDATA[AS México]]></source>
+      <dc:creator><![CDATA[César Cruz]]></dc:creator>
+      <description><![CDATA[Los Olmecas de Tabasco viven un sueño en este 2026, pues luego de 33 años volvieron a aparecer en una Serie del Rey, dejando atrás años de sufrimiento con el cual se rompió una de las sequías mas grandes en cuanto a ausencias se refiere en la pelea por el título de la Liga Mexicana de Beisbol.Con su título de la Zona Sur, los cabezones también dejaron atrás la racha de casi tres décadas y media sin lograr meterse hasta la serie por el campeonato…]]></description>
+      <content:encoded><![CDATA[<p>Los Olmecas de Tabasco viven un sueño en este 2026, pues luego de 33 años volvieron a aparecer en una Serie del Rey, dejando atrás años de sufrimiento con el cual se rompió una de las sequías mas grandes en cuanto a ausencias se refiere en la pelea por el título de la Liga Mexicana de Beisbol.Con su título de la Zona Sur, los cabezones también dejaron atrás la racha de casi tres décadas y media sin lograr meterse hasta la serie por el campeonato de la LMB, aunque curiosamente, no era la más larga.<br>¿Cuál es la ausencia más larga en Seriedel Rey?<br>Aunque los Olmecas llevaban un rato sin pisar la final del beisbol mexicano, su racha no era la más extensa, ya que de los equipos que actualmente están en el circuito, los Charros de Jalisco fueron quienes tuvieron el ayuno más largo con 54 años, aunque en su caso, por varias temporadas estuvieron ausentes en la competencia.Tras los jaliscienses, El Águila de Veracruz también sufrió de eliminacionestempranas por 42 años, pues de 1970 al 2012 no vieron actividad en la Serie del Rey.<br>¿Cuándo se empezó a jugar la Serie del Rey?<br>Fue precisamente en el antes mencionado año de 1970 cuando se comenzó a disputar la Serie del Rey. Antes de ello el campeonato se definía gracias a un sistema donde todos los equipos se enfrentaban entre sí y el que tuviera más triunfos se quedaba con el cetro.<br>Lista de ausencias más grandes en Serie del Rey:<br>| Equipo | Tiempo | Años | <br>|---|---|---|<br>| Charros de Jalisco | 54 años | 1971-20025 | <br>| Águila de Veracruz | 42 años | 1970-2012 | <br>| Bravos de León | 36 años | 1990-presente | <br>| Rieleros de Aguascalientes | 34 años | 1978-2012 | <br>| Olmecas de Tabasco | 33 años | 1993-2026 | <br>| Algodoneros Unión Laguna | 33 años | 1990-2023 | <br>¡Lleva el deporte contigo! Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido? Haz clic aquí</p>]]></content:encoded>
+      <category>Serie del Rey</category>
+      <category>Olmecas de Tabasco</category>
+    </item>
     <item>
       <title><![CDATA[Franquicia de Dorados bajo la lupa - El Heraldo de Chihuahua | oem.com.mx]]></title>
       <link>https://oem.com.mx/elheraldodechihuahua/deportes/franquicia-de-dorados-bajo-la-lupa-32044806</link>
@@ -212,6 +237,7 @@ La serie llega al Estadio Centenario 27 de Febrero con ventaja de 2-1 para los T
       <category>Serie del Rey</category>
       <category>Dónde ver LMB</category>
       <category>Olmecas de Tabasco</category>
+      <category>LMB</category>
     </item>
     <item>
       <title><![CDATA[Toros derrota a Olmecas en el Juego 3 de la Serie del Rey 2026 | MILENIO]]></title>
@@ -600,9 +626,10 @@ Un total de 12 bateadores y 18 lanzadores fueron los que se dieron cita en esta 
 ¿Cómo llegan las novenas a este compromiso?
 Los manejados por Roberto Kelly se vieron sorprendidos en el primer choque, pero explotaron a la ofensiva en el segundo para no llegar…]]></description>
       <content:encoded><![CDATA[<p>Los Toros de Tijuana medirán fuerzas con los Olmecas de Tabasco en el tercer duelo de la Serie del Rey 2026 en la Liga Mexicana de Béisbol (LMB). Llegan con paridad de un triunfo por bando tras el par de compromisos celebrados en el Toros Mobil Park hace un par de días.<br>¿Cómo llegan las novenas a este compromiso?<br>Los manejados por Roberto Kelly se vieron sorprendidos en el primer choque, pero explotaron a la ofensiva en el segundo para no llegar sumamente comprometidos a este cambio de localía en la serie. Hoy eligen al ‘Rey’ David Reyes para colocarse en el montículo; llega con una efectividad de 1.69 y habiendo ganando sus tres aperturas de esta postemporada.<br>Por su parte, los ‘chocos’ buscan hacerse fuertes en casa nuevamente y confían en que su sólido cuerpo de pitcheo alcance una vez más para tomar la ventaja en esta búsqueda del título de LMB después de más de 30 años. Roonie Williams, que tiene dos triunfos en estos playoffs, será quien salga al diamante esta noche.<br>¿Dónde se juega Toros de Tijuana vs Olmecas de Tabasco? Juego 3<br>El Estadio Centenario del 27 de Febrero será la sede para que se dispute este y el jugeo 4, así como un posible juego 5 en caso de ser necesario.<br>¿A qué hora juegan Toros de Tijuana - Olmecas de Tabasco? Juego 3<br>El compromiso será este viernes 11 de septiembre en punto de las 19:30 horas (tiempo del centro de la CDMX).<br>Serie del Rey: Toros de Tijuana vs Olmecas de Tabasco dónde ver en vivo en México<br>Este juego contará con múltiples opciones de transmisión:<br>- Canal 6 (Multimedios)<br>- ESPN<br>- Fox Sports<br>- TVC Deportes<br>- VIX<br>- Disney+<br>Aquí en AS México tendremos para ti completamente en vivo el Directo para que sigas minuto a minuto las acciones más relevantes que haya antes, durante y después del partido. ¡Te esperamos!<br>¡Lleva el deporte contigo!<br>Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido? Haz clic aquí</p>]]></content:encoded>
-      <category>Toros de Tijuana</category>
+      <category>Dónde ver LMB</category>
       <category>Olmecas de Tabasco</category>
       <category>Serie del Rey</category>
+      <category>Toros de Tijuana</category>
     </item>
     <item>
       <title><![CDATA[LMB prepara temporada más larga para 2027 | e-consulta.com]]></title>
@@ -2059,29 +2086,6 @@ La serie se disputará a las 19:15 horas, compromisos en el que el equipo comand
 Actu…]]></description>
       <content:encoded><![CDATA[<p>Cd. Victoria, Tamaulipas. – CorreBasket UAT, está de vuelta en Victoria para enfrentar este jueves y viernes a Dorados de Chihuahua, dentro de la actividad de la Temporada 2026 de la Liga Caliente.mx de la LNBP Varonil.<br>Ambos compromisos tendrán como escenario la duela del Gimnasio Multidisciplinario.<br>La serie se disputará a las 19:15 horas, compromisos en el que el equipo comandado por Laselle Taylor buscará sumar victorias en la temporada.<br>Actualmente, CorreBasket mantiene la posibilidad de pelear por los playoffs de la LNBP al estar a cuatro victorias del octavo lugar, que ocupa Abejas de León, esto luego de una serie muy apretada ante Panteras.<br>Por su parte, Dorados de Chihuahua dividió la serie ante Mineros de Zacatecas jugando como local, situación que provocó que perdiera algunos lugares y cayera al quinto puesto.<br>ENTREGAN DONATIVO<br>Resultado de las dos series con causa, donde CorreBasket UAT hizo un llamado a sus aficionados para recabar útiles escolares para el arranque de este nuevo ciclo escolar. Por lo que directiva, cuerpo técnico y jugadores realizaron la entrega a Familia UAT, quienes serán los encargados de darlos a los niños tamaulipecos.</p>]]></content:encoded>
       <category>Dorados de Chihuahua</category>
-    </item>
-    <item>
-      <title><![CDATA[Rafael Córdova prevé temporada de sorpresas para Algodoneros | www.noroeste.com.mx]]></title>
-      <link>https://www.noroeste.com.mx/deportes/beisbol/rafael-cordova-preve-temporada-de-sorpresas-para-algodoneros-LE25565842</link>
-      <guid isPermaLink="false">36a0f7a6d2ead6b7ccd2</guid>
-      <pubDate>Thu, 10 Sep 2026 00:13:52 +0000</pubDate>
-      <source><![CDATA[www.noroeste.com.mx]]></source>
-      <dc:creator><![CDATA[Noroeste; Redacción]]></dc:creator>
-      <description><![CDATA[Rafael Córdova prevé temporada de sorpresas para Algodoneros
-GUASAVE._ Para Rafael Córdova será su séptima temporada la que viva con los Algodoneros de Guasave cuando comience la campaña 2026-2027 de la Liga Mexicana del Pacífico, asegurando que ha sido muy buena la experiencia que ha tenido con este equipo y con la ciudad, pues siempre lo han tratado muy bien, pero viendo la gran química que hay en este grupo tras el regreso de Óscar Robles al t…]]></description>
-      <content:encoded><![CDATA[<p>Rafael Córdova prevé temporada de sorpresas para Algodoneros<br>GUASAVE._ Para Rafael Córdova será su séptima temporada la que viva con los Algodoneros de Guasave cuando comience la campaña 2026-2027 de la Liga Mexicana del Pacífico, asegurando que ha sido muy buena la experiencia que ha tenido con este equipo y con la ciudad, pues siempre lo han tratado muy bien, pero viendo la gran química que hay en este grupo tras el regreso de Óscar Robles al timón, está convencido que este año darán la sorpresa en el circuito.<br>“La verdad que este año se siente muy buena química en el equipo, pues eso se da porque Óscar Robles está de vuelta con nosotros, todo lo veo muy positivo y eso me hace pensar que este año puede ser el de Guasave, tengo mucha confianza de que daremos la sorpresa en la liga”, confió el pítcher derecho.<br>El rol<br>El nacido en Yuma, Arizona, señaló que si llegó desde el primer día al campo de entrenamiento, es porque se le está abriendo la oportunidad de asumir un nuevo rol en el equipo, aunque no quiso ahondar sobre en qué consiste, ya que eso le compete al cuerpo técnico, pero él no tiene ningún inconveniente en asumir ese nuevo reto, porque el beisbol moderno los obliga a ser más versátiles.<br>“No me quiero adelantar a los planes del cuerpo técnico, pero este año podría haber una sorpresa en cuanto al rol que desempeñe en el equipo, ya que normalmente mi trabajo es en las últimas entradas, pero ahora se podría venir un nuevo rol para mí, es por eso que opté por llegar desde el día uno, ya que estoy listo para hacer la función que se me pida, pero estoy consciente que en las prácticas me debo ganar esa confianza que se me quiere dar”, resaltó.<br>Reconoció que el año pasado tuvieron un inicio muy complicado y las cosas se les pusieron difíciles, pero eso le dejó nuevos aprendizajes, ya que es un hecho que no importa cómo se empiece, sino el cómo se termine, y la campaña pasada les alcanzó para llegar hasta semifinales a pesar del mal comienzo.<br>Aseveró que sin importar cuál sea su rol en el cuerpo de pitcheo, el enfoque de todo el grupo no ha variado, van por el campeonato una vez más, pero ahora con mucha mayor experiencia cada uno de los peloteros, por eso tiene ese presentimiento que se puede no sólo llegar a otra final, sino ahora sí ganarla.<br>“Yo sólo le digo a la afición que estén con nosotros, que aquí todos estamos trabajando para ganar el título, pues la gente de Guasave ya se merece celebrarlo y nosotros como jugadores se lo queremos dar, así que sólo es cuestión de trabajar para ello”, finalizó.</p>]]></content:encoded>
-      <category>Algodoneros de Guasave</category>
-    </item>
-    <item>
-      <title><![CDATA[Celebrará Charros de Jalisco su 106 Aniversario con torneo deportivo - Quadratín | Quadratin Jalisco]]></title>
-      <link>https://jalisco.quadratin.com.mx/principal/celebrara-charros-de-jalisco-su-106-aniversario-con-torneo-deportivo/</link>
-      <guid isPermaLink="false">5a2f02347c763550cb86</guid>
-      <pubDate>Thu, 10 Sep 2026 00:03:00 +0000</pubDate>
-      <source><![CDATA[Quadratin Jalisco]]></source>
-      <description><![CDATA[Gusano barrenador suma mil 218 casos en Jalisco; prevén años de afectaciones
-GUADALAJARA, Jal., 9 de septiembre de 2026.- La asociación Charros de Jalisco anunció el programa de actividades para conmemorar su 106 Aniversario (1920–2026), el cual se desarrollará del 10 al 14 de septiembre en las instalaciones del Lienzo Charro Jalisco y diversos puntos del Centro Histórico de Guadalajara. El festejo incluirá competencias deportivas, espectáculos e…]]></description>
-      <content:encoded><![CDATA[<p>Gusano barrenador suma mil 218 casos en Jalisco; prevén años de afectaciones<br>GUADALAJARA, Jal., 9 de septiembre de 2026.- La asociación Charros de Jalisco anunció el programa de actividades para conmemorar su 106 Aniversario (1920–2026), el cual se desarrollará del 10 al 14 de septiembre en las instalaciones del Lienzo Charro Jalisco y diversos puntos del Centro Histórico de Guadalajara. El festejo incluirá competencias deportivas, espectáculos ecuestres, una función a beneficio y el tradicional desfile por el Día Nacional del Charro.<br>Bajo el lema Patria, Mujer y Caballo, las actividades iniciarán el jueves 10 de septiembre con un Pialadero por Equipos, seguido de exhibiciones de gala y las fases eliminatorias de su campeonato de aniversario. Asimismo, el programa contempla una charreada nocturna con causa destinada a apoyar el proyecto cinematográfico “No man on this side”.<br>La jornada conmemorativa concluirá el lunes 14 de septiembre con los actos oficiales del Día del Charro, que iniciarán con una misa de acción de gracias en el Santuario Guadalupano, seguida del desfile por las vías céntricas de la capital jalisciense y las charreadas de cierre en el polígono del parque Agua Azul.<br>Programa de actividades y datos clave</p>]]></content:encoded>
-      <category>Charros de Jalisco</category>
     </item>
   </channel>
 </rss>
