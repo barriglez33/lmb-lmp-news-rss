@@ -86,6 +86,7 @@
       "MILENIO",
       "Mediotiempo",
       "Milenio",
+      "mediotiempo.com",
       "milenio.com"
     ]
   },
@@ -582,6 +583,25 @@
     "collected_iso": "2026-09-12T23:23:58.711438+00:00"
   },
   {
+    "id": "2de2792b5a0ca6fce3e6",
+    "title": "LNBP. Dorados sufre descalabro ante Correcaminos de la UAT de visita",
+    "source": "Puente Libre",
+    "author": "Puente Libre; Valentin Ramírez Ll",
+    "published_iso": "2026-09-12T17:42:46+00:00",
+    "published_rfc2822": "Sat, 12 Sep 2026 17:42:46 +0000",
+    "published_display": "2026-09-12 17:42 UTC",
+    "url": "https://puentelibre.mx/deportes/lnbp-dorados-sufre-descalabro-ante-correcaminos-de-la-uat-de-visita/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVA2RkJiN2tESDJncnZ4YmYzVHRQQUx5Y0hqbU5NMTNNelpiTDQtbW9RY0xPVVJYVjRVRTlYUGE0NEFrSFZ0NXlCSnNOQTg1Q3Z0RGdmb3doVmwyNHlEQlpQbEkwQThwQmtFVzF6T3RFZklwRFR3UUJiYUhjZ3ZUZGlQOWMtTk53UnlNa2ZoODY2Z21LX25SQUFpbzAzbkdvR2c?oc=5",
+    "body": "El representativo de la UAT regresó de una desventaja para rescatar el segundo de la serie.\nValentin Ramírez Ll.\nCiudad Victoria, Tamps.- Correcaminos de la UAT venció 85-83 a los Dorados de Chihuahua tras una desventaja de 20 puntos y de paso empató la serie en el Gimnasio Multidisciplinario tras el compromiso celebrado la noche del viernes en la Jornada 18 de la Liga Caliente.mx LNBP 2026.\nDonoven Carlisle marcó la canasta de la diferencia en los últimos minutos y finalizó con 20 unidades, además el capitán Juan Reyna anotó 19, Damien Daniels colaboró con 13 tantos mientras que Joseph Bradshaw terminó con 11.\nChihuahua volvió a caer en un segundo partido de la serie, a pesar de tener cinco elementos con doble dígito. JR Clay anotó 17 puntos, Jaden House culminó con 14, Sindarius Thornwell sumó 13, Emmanuel Wembi logró 12 dianas y Ricardo “Kalo” Valdez aportó 10 unidades.\nDorados (11-7) emparejó su marca en la carretera con récord de 4-4 y Correcaminos (4-14) alcanzó su tercera victoria en casa. La visita comenzó con un parcial de 11-2 a su favor, mientras que Correcaminos contestó con nueve unidades sin respuesta para empatar el juego.\nActo seguido, JR Clay regresó el liderato en la larga distancia, a su vez, la presión alta de Chihuahua otorgó dividendos para situarse al frente por 29-16 tras 11 puntos sin respuesta.\nDurante el segundo periodo, los dirigidos por Jorge Elorduy catapultaron la ventaja por 20 tantos en la canasta de Emmanuel Wembi. El cuadro local cortó distancia en el triple de Juan Reyna, además una racha de 12 unidades al hilo apretó el duelo 51-47 al descanso.\nPara el tercer capítulo, se suscitó el intercambio entre Donoven Carlisle y Jaden House. Después de 30 minutos, el cotejo se mantuvo a favor de la quinteta dorada por tanteador de 71-66.\nEn el último cuarto, Correcaminos le dio la vuelta al encuentro tras el doble de Carlisle, aunado al triple de Juan Reyna. Dorados hilvanó ataques con puntos en la zona pintada para equilibrar el duelo 83-83 al restar 2:23 minutos.\nCon imprecisiones de ambos lados, Donoven Carlisle marcó la diferencia para llegar a los 20 tantos en lo que fue el último acierto del juego.\nChihuahua anotó sólo 12 puntos en el periodo final, mientras que el representativo de la UAT defendió los últimos disparos de la visita para sostener la victoria en casa por 85-83.\nA pesar de liderar por 34:17 minutos, el cuadro dorado dejó escapar una ventaja que alcanzó hasta 20 unidades. Por su parte, Correcaminos encestó 12 triples que le permitió regresar y de paso darle la vuelta al partido.\nLa siguiente serie para Chihuahua será en casa para afrontar par de compromisos ante El Calor de Cancún el martes 15 y miércoles 16 de septiembre a las 20:00 horas en el Gimnasio Manuel Bernardo Aguirre.\nLas Más Leídas",
+    "matched_queries": [
+      "Dorados de Chihuahua"
+    ],
+    "collected_iso": "2026-09-13T12:31:49.502779+00:00",
+    "duplicate_sources": [
+      "Tiempo La Noticia Digital"
+    ]
+  },
+  {
     "id": "c55d22e1f92be7ef8dd8",
     "title": "La Serie del Rey cambia de temperatura",
     "source": "El Universal Edomex",
@@ -683,22 +703,6 @@
     "duplicate_sources": [
       "El Imparcial"
     ]
-  },
-  {
-    "id": "096a5a74851cfd38b1d0",
-    "title": "LNBP. Dorados sufre descalabro ante Correcaminos de la UAT de visita",
-    "source": "Tiempo La Noticia Digital",
-    "author": "Valentin Ramírez Ll",
-    "published_iso": "2026-09-12T14:26:00+00:00",
-    "published_rfc2822": "Sat, 12 Sep 2026 14:26:00 +0000",
-    "published_display": "2026-09-12 14:26 UTC",
-    "url": "https://www.tiempo.com.mx/deportes/lnbp-dorados-sufre-descalabro-ante-correcaminos-de-la-uat-de-visita/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEU5ZW9aQU5ZdnRoSjQ2R3otVERMQW41VkdhLXhQS0JWT1plNTc1M3RkYnh2a0RmR2xUZ0VnSUhEZW1TVThHYVh0ajRFUTZzY2gzWjI0emxUMGZJMmlkVW5oZlhhVDM3M2R2aFdVa1c4aVZZc2tRRG5EdjhfZ3RHVC1wcDBGSWU0MktYMTZGOURlRWZCUWpHYjlIcThJU0FsaExkQVpn?oc=5",
-    "body": "El representativo de la UAT regresó de una desventaja para rescatar el segundo de la serie.\nValentin Ramírez Ll.\nCiudad Victoria, Tamps.- Correcaminos de la UAT venció 85-83 a los Dorados de Chihuahua tras una desventaja de 20 puntos y de paso empató la serie en el Gimnasio Multidisciplinario tras el compromiso celebrado la noche del viernes en la Jornada 18 de la Liga Caliente.mx LNBP 2026.\nDonoven Carlisle marcó la canasta de la diferencia en los últimos minutos y finalizó con 20 unidades, además el capitán Juan Reyna anotó 19, Damien Daniels colaboró con 13 tantos mientras que Joseph Bradshaw terminó con 11.\nChihuahua volvió a caer en un segundo partido de la serie, a pesar de tener cinco elementos con doble dígito. JR Clay anotó 17 puntos, Jaden House culminó con 14, Sindarius Thornwell sumó 13, Emmanuel Wembi logró 12 dianas y Ricardo “Kalo” Valdez aportó 10 unidades.\nDorados (11-7) emparejó su marca en la carretera con récord de 4-4 y Correcaminos (4-14) alcanzó su tercera victoria en casa. La visita comenzó con un parcial de 11-2 a su favor, mientras que Correcaminos contestó con nueve unidades sin respuesta para empatar el juego.\nActo seguido, JR Clay regresó el liderato en la larga distancia, a su vez, la presión alta de Chihuahua otorgó dividendos para situarse al frente por 29-16 tras 11 puntos sin respuesta.\nDurante el segundo periodo, los dirigidos por Jorge Elorduy catapultaron la ventaja por 20 tantos en la canasta de Emmanuel Wembi. El cuadro local cortó distancia en el triple de Juan Reyna, además una racha de 12 unidades al hilo apretó el duelo 51-47 al descanso.\nPara el tercer capítulo, se suscitó el intercambio entre Donoven Carlisle y Jaden House. Después de 30 minutos, el cotejo se mantuvo a favor de la quinteta dorada por tanteador de 71-66.\nEn el último cuarto, Correcaminos le dio la vuelta al encuentro tras el doble de Carlisle, aunado al triple de Juan Reyna. Dorados hilvanó ataques con puntos en la zona pintada para equilibrar el duelo 83-83 al restar 2:23 minutos.\nCon imprecisiones de ambos lados, Donoven Carlisle marcó la diferencia para llegar a los 20 tantos en lo que fue el último acierto del juego.\nChihuahua anotó sólo 12 puntos en el periodo final, mientras que el representativo de la UAT defendió los últimos disparos de la visita para sostener la victoria en casa por 85-83.\nA pesar de liderar por 34:17 minutos, el cuadro dorado dejó escapar una ventaja que alcanzó hasta 20 unidades. Por su parte, Correcaminos encestó 12 triples que le permitió regresar y de paso darle la vuelta al partido.\nLa siguiente serie para Chihuahua será en casa para afrontar par de compromisos ante El Calor de Cancún el martes 15 y miércoles 16 de septiembre a las 20:00 horas en el Gimnasio Manuel Bernardo Aguirre.",
-    "matched_queries": [
-      "Dorados de Chihuahua"
-    ],
-    "collected_iso": "2026-09-12T16:25:45.708421+00:00"
   },
   {
     "id": "4f668fb289b7848c9fdf",
