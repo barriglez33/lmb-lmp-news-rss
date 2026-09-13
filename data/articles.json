@@ -52,7 +52,8 @@
     "collected_iso": "2026-09-13T05:29:58.336723+00:00",
     "duplicate_sources": [
       "MILENIO",
-      "Mediotiempo"
+      "Mediotiempo",
+      "milenio.com"
     ]
   },
   {
@@ -70,7 +71,10 @@
       "LMB",
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-13T05:26:52.435047+00:00"
+    "collected_iso": "2026-09-13T05:26:52.435047+00:00",
+    "duplicate_sources": [
+      "AS México"
+    ]
   },
   {
     "id": "8d386c00dc80f1741ac6",
@@ -84,7 +88,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONW1kNVJERHlidnIydnJSaVdNQmE0NTdCRDdxQTVwNDFmRWk2Z0w4eXltS1NqLW9jZUhiTzdpM3ljYTc2cHoyQ3RXc2tPTE8zMUk5VXFoWEtDdW4wZTllTkFmeENqUENJTjZOMTJLbU0yRWRId3gyajZWSTFENGM1eVVDR0dUY2N3a2hnYzRDejZrcGstejVSeWlJRzVtVzhBQ2tXQg?oc=5",
     "body": "Tabasco gana el Juego 4, con seis carreras en el primer tercio del partido, para garantizar el regreso a Tijuana\nOlmecas no podía perder el Juego 4 de la Serie del Rey ante Toros de Tijuana y eso exactamente hicieron los tabasqueños. Victoria 9-1 en el Parque Centenario para dejar la final de la Liga Mexicana 2-2. Se garantiza el regreso a Baja California y el campeón será el que gane dos de los siguientes tres partidos.\nTras anotar siete carreras en el Juego 1, Olmecas sumó solo dos en los siguientes dos encuentros de la Serie del Rey. El sábado, en Villahermosa, los bats despertaron desde temprano.\nTabasco pegó primero y pegó seis veces en el primer tercio del partido. Hicieron que explotara temprano el abridor visitante, Noah Skirrow, quien apenas pudo sacar dos outs en el Parque Centenario, y uno de esos fue en un toque de sacrificio.\nMÁS INFORMACIÓN: Calendario de los Playoffs LMB 2026\nLa fiesta la comenzó Carlos Arellano con sencillo. Jasson Atondo fue el primer out con un ttoque de sacrificio, tras lo cual Marco Hernández pegó un hit. Seth Beer llenó la casa con un pasaporte y parecía que Skirrow salía del problema al ponchar a Oscar González para el segundo out, pero Calvin Estrada pegó imparable para traer la primera carrera.\nRoberto Kelly no esperó más y cambió a su abridor, pero no dio resultado. Jorge Pérez subió a la lomita e inició su labor dando pasaporte para que la segunda pisara el plato de caballito. Domingo Leyba dejó la pizarra 4-0 con imparable productor de dos carreras. Finalmente Luis González fue el tercer out.\nEl daño de la primera entrada sería suficiente, ya que Toros de Tijuana apenas pegó tres hits en el Juego 4, produciendo solo tres carreras en dos encuentros en el Parque Centenario. Tabasco puso el 5-0 en la segunda baja, con Arellano de nuevo como protagonista con un toque sorpresa para abrir la entrada, un robo, moviéndose a tercera con el rodado de out de Atondo y el hit productor de Beer.\nLa rayita de los visitantes llegó en la tercera alta, con un triple de Jonathan Guzmán, quien pisó la registradora en rola de out de Gilberto Celestino. Tabasco contestó de inmediato con cuadrangular solitario de Calvin Estrada para el 6-1 tras tres entradas.\nNo hubo más carreras hasta la séptima entrada. Olmecas llenó la casa con un out y la séptima carrera llegó de caballito en los spikes de Luis González, Arellano impulsó la octava y Atondo trajo la novena con un out forzado.\nMÁS INFORMACIÓN: Olmecas vs Toros: una Serie del Rey inédita que enfrenta 33 años de espera contra cinco años de ausencia\nVictoria para Daniel Camarena, el abridor de Olmecas que trabajó siete entradas, permitiendo apenas dos hits, ponchando a cinco. Perdió Noah Skirrow, quien tuvo cuatro carreras en su contabilidad en 0.2 entradas de labor.\nEl Juego 5, el último en el Parque Centenario, está programado para el domingo 13 de septiembre a las 18:00 horas, tiempo del centro de México. Habrá viaje el lunes y el martes 15 regresa la Serie del Rey a Tijuana, con un hipotético Juego 5 el miércoles 16.\nLos pitchers anunciados para el Juego 5 serían Daniel Martínez por Tijuana y Austin Warner por Tabasco.",
     "matched_queries": [
-      "Serie del Rey"
+      "Serie del Rey",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-13T05:29:46.320067+00:00"
   },
@@ -677,7 +682,8 @@
     ],
     "collected_iso": "2026-09-12T14:25:00.718608+00:00",
     "duplicate_sources": [
-      "El Sol de México"
+      "El Sol de México",
+      "oem.com.mx"
     ]
   },
   {
@@ -1638,23 +1644,6 @@
     ]
   },
   {
-    "id": "168b41cab566afdce770",
-    "title": "Buscan Toros y Olmecas ventaja en Serie del Rey",
-    "source": "El Porvenir - Portada",
-    "author": "Alberto Cant; Uacute",
-    "published_iso": "2026-09-11T07:07:00+00:00",
-    "published_rfc2822": "Fri, 11 Sep 2026 07:07:00 +0000",
-    "published_display": "2026-09-11 07:07 UTC",
-    "url": "https://elporvenir.mx/deportes/buscan-toros-y-olmecas-ventaja-en-serie-del-rey/1024377",
-    "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3k0LUJwSWVOS1daX29EOHluVGNCVzkyNFFjYWpCSnBzZThHMWJCTGFlMHlIQXFoai0tRXRhUENnM0VyUFU0MHd0OG9tNEhVRVpNQUNJTlNHZWpMNm5NckN4VWJrUFphS2QzLThHSThxRllKWkxiYWFsNC1EdUJnRUdDcVQ3MS02ZkhjSVBXcw?oc=5",
-    "body": "Buscan Toros y Olmecas ventaja en Serie del Rey\nPublicación:11-09-2026\nLa Serie del Rey de la Liga Mexicana de Béisbol retomará hoy sus acciones, entre los Toros de Tijuana y los Olmecas de Tabasco irán en búsqueda del triunfo para tomar la ventaja.\nEl juego tres de la Serie del Rey va a ser hoy en Tabasco, iniciará a las 19:30 horas.\nTras los primeros dos juegos en Tijuana, la serie se igualó a un triunfo por bando.\nTabasco dominó a los Toros en el primero por un marcador de 7-1, pero Tijuana se impuso en el segundo por un resultado de 13-2.\nLos siguientes tres juegos de la Serie del Rey serán en Tabasco, en donde los Olmecas intentarán apoyarse de su afición para definir el título en cinco partidos.\nTijuana deberá ganar como mínimo un partido en Tabasco para forzar que la serie vuelva a tierras fronterizas.\nAmbos equipos tendrán hoy un partido trascendental para sus aspiraciones de ser campeón en esta emocionante Serie del Rey, por lo cual se espera un gran partido.\n« El Porvenir/ Alberto Cantú »",
-    "matched_queries": [
-      "Serie del Rey",
-      "Olmecas de Tabasco"
-    ],
-    "collected_iso": "2026-09-11T08:34:10.973636+00:00"
-  },
-  {
     "id": "e112ed79f38d96ba5061",
     "title": "Arrebata Dorados de Chihuahua partido a CorreBasket 86-79 en últimos minutos",
     "source": "laverdad.com.mx",
@@ -1953,11 +1942,14 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYl9mQWtOczV2OGlqSFNtcy1MY3J1Y1NRbV9YMndOOEZBUmhaS0xFQ19RSFJVVkF2VTZPUGw2MDFKaE51RDRvUlFudVMwZ1kzbDhtTXRfdXM2b2pjUmJ0em9NZ0x3elUzQTRtcGFTX1ptRTNBSUxTNGliejU4c3lLempEU0FzZl9mWjVFUWF6VTBabU1oUkdF?oc=5",
     "body": "Noticias de Tijuana. El Gran Diario Regional en línea, presentando noticias en tiempo real con información de Tijuana, Mexicali, Ensenada, Rosarito, Tecate, Baja California, México y el mundo\nEn Tendencia: Jaime Bonilla, AMLO, Marina Del Pilar, Policiaca Tijuana, Garita Tijuana, UABC, Pandemia, COVID, Xolos, Toros\nPor Arlene Moreno | jueves, 10 de septiembre de 2026\nTijuana se ha mantenido invicto como visitante en la actual postemporada\nVILLAHERMOSA, Tabasco- Con la Serie del Rey 2026 igualada a un triunfo por bando, Toros de Tijuana buscará tomar la ventaja este viernes cuando dispute el juego 3 en la final de la Liga Mexicana de Beisbol ante Olmecas de Tabasco, encuentro que tendrá lugar a partir de las 18:00 horas en el estadio Centenario del 27 de febrero.\nLos \"astados\" dieron muestra de su poderío ofensivo la noche del miércoles al imponerse por pizarra de 13-2, lo que les permitiría aspirar a buscar el campeonato en cinco juegos, ya que Toros de ha mantenido invicto jugando fuera de casa en la actual postemporada.\n“Tenemos muchísima confianza. Lo hemos hecho todo el año, yo creo que es un equipo que tiene experiencia, un equipo que ha estado en situaciones de playoff. Sabemos cómo jugar pelota, creo que si mantenemos lo que hicimos hoy, tenemos buenos turnos, es lo que nos va a ayudar a ganar el campeonato y ganar la Serie del Rey”, expresó Hernán Pérez en la conferencia de prensa posterior al juego 2.\nPara el duelo de este viernes, la apertura de Toros estará a cargo de \"El Rey\" David Reyes (1.69 ERA, 3-0), mientras que la novena local enviará al montículo a Ronnie Williams (5.66 ERA, 2-0). El sábado el juego 4 tendrá lugar a las 18:00 horas y los abridores son Noah Skirrow (5.27 ERA, 1-2) por Tijuana y Daniel Camarena (5.28 ERA, 0-1) por Olmecas.\nLa disputa de un juego 5 esta garantizada para este domingo a las 17:00 horas. Daniel Martínez estaría a cargo de la apertura por los \"bureles\" y se espera que Austin Warner haga lo propio por los locales. Si la serie regresa a Tijuana para un potencial sexto encuentro, dicho compromiso sería celebrado el próximo martes a las 19:35 horas.\n\"Vamos a tratar de ganar todos los juegos que tenemos por delante. Yo no puedo sentarme aquí y decir que la serie no regresa, eso sería menospreciar al rival que tenemos por delante, un digno rival que tenemos por delante y que se ha ganado la oportunidad de estar con nosotros aquí\", refirió el manager de Toros, Roberto Kelly. (AMS)",
     "matched_queries": [
+      "Olmecas de Tabasco",
       "Serie del Rey"
     ],
     "collected_iso": "2026-09-11T00:38:50.100262+00:00",
     "duplicate_sources": [
-      "Reforma"
+      "El Porvenir - Portada",
+      "Reforma",
+      "Semanario ZETA"
     ]
   },
   {
