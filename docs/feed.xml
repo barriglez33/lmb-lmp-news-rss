@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sun, 13 Sep 2026 12:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:26:36 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Prestan Congreso de Jalisco para festejo charro | mural.com.mx]]></title>
@@ -358,6 +358,19 @@ Olmecas dio el primer golpe al imponerse 7-1 en el Juego 1, pero la respuesta de
       <category>Serie del Rey</category>
     </item>
     <item>
+      <title><![CDATA[Víctor Castañeda busca ser carta fuerte de Tomateros desde el inicio de la nueva temporada - El Sol de Sinaloa | El Sol de México]]></title>
+      <link>https://oem.com.mx/elsoldesinaloa/deportes/victor-castaneda-busca-ser-carta-fuerte-de-tomateros-desde-el-inicio-de-la-nueva-temporada-32046163</link>
+      <guid isPermaLink="false">f504c53b8d65f92ee59b</guid>
+      <pubDate>Sat, 12 Sep 2026 20:37:38 +0000</pubDate>
+      <source><![CDATA[El Sol de México]]></source>
+      <dc:creator><![CDATA[Alexis Ángeles]]></dc:creator>
+      <description><![CDATA[El Junior llega después de dos victorias por nocaut durante 2026, mientras Omar retoma la actividad en una cartelera marcada por el peso de su apellido
+La pedalista sinaloense afinó durante sus entrenamientos la postura requerida para la contrarreloj y llega con confianza después de una campaña que considera redonda
+La experiencia adquirida durante los últimos meses fortaleció la confianza del sinaloense, quien ahora pretende trasladar ese aprend…]]></description>
+      <content:encoded><![CDATA[<p>El Junior llega después de dos victorias por nocaut durante 2026, mientras Omar retoma la actividad en una cartelera marcada por el peso de su apellido<br>La pedalista sinaloense afinó durante sus entrenamientos la postura requerida para la contrarreloj y llega con confianza después de una campaña que considera redonda<br>La experiencia adquirida durante los últimos meses fortaleció la confianza del sinaloense, quien ahora pretende trasladar ese aprendizaje al montículo con la novena de Culiacán</p>]]></content:encoded>
+      <category>Tomateros de Culiacán</category>
+    </item>
+    <item>
       <title><![CDATA[Toros de Tijuana vs Olmecas de Tabasco: Ver EN VIVO y GRATIS el juego 4 de la Serie del Rey 2026; online y por internet | TV Azteca]]></title>
       <link>https://www.tvazteca.com/aztecadeportes/toros-tijuana-vs-olmecas-tabasco-ver-en-vivo-gratis-juego-4-serie-del-rey/</link>
       <guid isPermaLink="false">1bad81ce2e701dca0e56</guid>
@@ -388,19 +401,6 @@ El lanzador derecho asume el reto de arribar a Venados tras una larga estancia c
       <content:encoded><![CDATA[<p>Soy persona de retos y siempre estoy motivado: Aldo Montes<br>MAZATLÁN._ El serpentinero Aldo Montes fue una de las novedades del campo de entrenamientos de Venados de Mazatlán en el estadio Teodoro Mariscal.<br>El lanzador derecho asume el reto de arribar a Venados tras una larga estancia con el equipo de la capital sinaloense Tomateros de Culiacán.<br>“En lo personal siempre me han gustado los retos, soy persona de retos y siempre estoy motivado. Siempre es algo que tengo en mente de dar el cien por ciento en todo y seguir motivado día con día, eso creo que es lo que me ha mantenido y mi familia que siempre está apoyándome”, externó Montes.<br>Montes llegó a Venados vía cambio múltiple con los Tomateros de Culiacán.<br>En invierno debutó con Tomateros en 2015-2016 y participó a lo largo de 10 campañas.<br>El llegar a un nuevo club lo toma con mucho agrado y responsabilidad.<br>“Muy motivado de este paso, de llegar a este equipo, entonces venimos bien, estamos bien gracias a Dios”.<br>Expresó que ve un buen conjunto, muy contento, muy motivado y hay que seguir así a lo largo de la temporada.<br>Entrenamientos<br>Con la novedad de Aldo Montes, Jesús Ríos y Rubén Reyes, se cumplió el tercer día de pretemporada de Venados de Mazatlán.<br>Para el inicio de semana se esperan las incorporaciones de Ramón “Pulpa” Ríos y el mánager Chris Roberson, quien se encuentra terminando sus compromisos con la organización de Tampa Bay.</p>]]></content:encoded>
       <category>Tomateros de Culiacán</category>
       <category>Venados de Mazatlán</category>
-    </item>
-    <item>
-      <title><![CDATA[Tomateros de Culiacán busca darle estabilidad a su roster durante toda la campaña - El Sol de Sinaloa | El Sol de México]]></title>
-      <link>https://oem.com.mx/elsoldesinaloa/deportes/tomateros-de-culiacan-busca-darle-estabilidad-a-su-roster-durante-toda-la-campana-32040394</link>
-      <guid isPermaLink="false">37cc641e66edbcc35f0b</guid>
-      <pubDate>Sat, 12 Sep 2026 19:37:30 +0000</pubDate>
-      <source><![CDATA[El Sol de México]]></source>
-      <dc:creator><![CDATA[Alexis Ángeles]]></dc:creator>
-      <description><![CDATA[El Junior llega después de dos victorias por nocaut durante 2026, mientras Omar retoma la actividad en una cartelera marcada por el peso de su apellido
-La pedalista sinaloense afinó durante sus entrenamientos la postura requerida para la contrarreloj y llega con confianza después de una campaña que considera redonda
-La experiencia adquirida durante los últimos meses fortaleció la confianza del sinaloense, quien ahora pretende trasladar ese aprend…]]></description>
-      <content:encoded><![CDATA[<p>El Junior llega después de dos victorias por nocaut durante 2026, mientras Omar retoma la actividad en una cartelera marcada por el peso de su apellido<br>La pedalista sinaloense afinó durante sus entrenamientos la postura requerida para la contrarreloj y llega con confianza después de una campaña que considera redonda<br>La experiencia adquirida durante los últimos meses fortaleció la confianza del sinaloense, quien ahora pretende trasladar ese aprendizaje al montículo con la novena de Culiacán</p>]]></content:encoded>
-      <category>Tomateros de Culiacán</category>
     </item>
     <item>
       <title><![CDATA[LMB: Olmecas de Tabasco y las ausencias más grandes en la Serie del Rey | AS México]]></title>
