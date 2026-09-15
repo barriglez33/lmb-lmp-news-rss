@@ -46,7 +46,10 @@
       "Sultanes de Monterrey",
       "Trevor Bauer"
     ],
-    "collected_iso": "2026-09-15T07:39:20.874025+00:00"
+    "collected_iso": "2026-09-15T07:39:20.874025+00:00",
+    "duplicate_sources": [
+      "Milenio"
+    ]
   },
   {
     "id": "3975c6824f178f8e2800",
@@ -97,6 +100,7 @@
     ],
     "collected_iso": "2026-09-15T06:45:30.781437+00:00",
     "duplicate_sources": [
+      "MILENIO",
       "Milenio",
       "milenio.com"
     ]
@@ -545,6 +549,25 @@
     "collected_iso": "2026-09-14T23:42:01.384351+00:00"
   },
   {
+    "id": "b44c41db9a61977802e3",
+    "title": "Cañeros de Los Mochis suma agresividad con Yoan López",
+    "source": "www.noroeste.com.mx",
+    "author": "Noroeste; Redacción",
+    "published_iso": "2026-09-14T22:02:09+00:00",
+    "published_rfc2822": "Mon, 14 Sep 2026 22:02:09 +0000",
+    "published_display": "2026-09-14 22:02 UTC",
+    "url": "https://www.noroeste.com.mx/amp/deportes/beisbol/caneros-de-los-mochis-suma-agresividad-con-yoan-lopez-OJ25688420",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGNwLTBrVy1aT28wVGdPT1pUYkZucWE5MVdUWFg2Q1E4UG1XMDN0eDc4RjZPOXBWdWJlSjdNNXFQX1AwblNHOGN4eUxmWVNUMjd2d0x6NzRBY0Q1ZUpVa2FPeDRkMmN1NVdtQW5ZNXVLNmc1N2xNQXhCQmVySF9xMEpXeE84NjJlaHZFM3BUV1RJb3pUOXRFMS00d2stWVVQXzJXSFBGelVNU3prOFNPN2ZHMNIBswFBVV95cUxNMGNwLTBrVy1aT28wVGdPT1pUYkZucWE5MVdUWFg2Q1E4UG1XMDN0eDc4RjZPOXBWdWJlSjdNNXFQX1AwblNHOGN4eUxmWVNUMjd2d0x6NzRBY0Q1ZUpVa2FPeDRkMmN1NVdtQW5ZNXVLNmc1N2xNQXhCQmVySF9xMEpXeE84NjJlaHZFM3BUV1RJb3pUOXRFMS00d2stWVVQXzJXSFBGelVNU3prOFNPN2ZHMA?oc=5",
+    "body": "Cañeros de Los Mochis suma agresividad con Yoan López\nEl ex ligamayorista cubano vio actividad en la temporada 2026 de la LMB con Algodoneros de Unión Laguna\nLOS MOCHIS._ Los Cañeros de Los Mochis siguen apuntalando su pitcheo y ahora suman al experimentado y ex ligamayorista cubano Yoan López.\nLópez nació el 2 de enero de 1992 en Nueva Gerona, Cuba. Es un lanzador derecho probado al más alto nivel, con experiencia de cinco temporadas en Grandes Ligas, además de una trayectoria internacional que lo ha llevado a competir en diferentes ligas y escenarios del béisbol profesional.\nEs un verdadero trotamundos del beisbol, con experiencia en Grandes Ligas, Japón, México y República Dominicana. En la Liga Mexicana de Beisbol participó con Algodoneros de Unión Laguna, mientras que en Japón formó parte de los Gigantes de Yomiuri, una de las organizaciones más importantes del béisbol japonés.\nLópez se caracteriza por ser un pitcher agresivo en la zona y con buen control de sus pitcheos, características que le permiten atacar constantemente a los bateadores y trabajar en situaciones de presión.\nSu experiencia en diferentes niveles y estilos de beisbol representa un valor importante para el cuerpo de pitcheo de Cañeros. Llega con el objetivo de asumir un rol importante en las últimas entradas de los juegos, aportando experiencia, agresividad y capacidad para competir en momentos de alta presión.\nLa incorporación de López fortalece la estructura del bullpen y le brinda al equipo un brazo con experiencia internacional para proteger ventajas y cerrar juegos.",
+    "matched_queries": [
+      "Cañeros de Los Mochis"
+    ],
+    "collected_iso": "2026-09-15T09:48:32.505862+00:00",
+    "duplicate_sources": [
+      "www.noroeste.com.mx"
+    ]
+  },
+  {
     "id": "e6125a21d5f27915083f",
     "title": "Serie del Rey 2026: Toros va por el título ante Olmecas en el Juego 6",
     "source": "vanguardia.com.mx",
@@ -593,22 +616,6 @@
       "Leones de Yucatán"
     ],
     "collected_iso": "2026-09-14T21:44:35.856008+00:00"
-  },
-  {
-    "id": "1d0edff413f7520f06f5",
-    "title": "Cañeros de Los Mochis suma agresividad con Yoan López",
-    "source": "www.noroeste.com.mx",
-    "author": "Noroeste; Redacción",
-    "published_iso": "2026-09-14T20:50:32+00:00",
-    "published_rfc2822": "Mon, 14 Sep 2026 20:50:32 +0000",
-    "published_display": "2026-09-14 20:50 UTC",
-    "url": "https://www.noroeste.com.mx/deportes/beisbol/caneros-de-los-mochis-suma-agresividad-con-yoan-lopez-OJ25688420",
-    "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeEhheWFaZk1odlotbDBkNHFqSDJHaDVOQVV5WC1wZFphTktoaW9QN0s5bGpYYVFNYUZQcXJjX2xsOFhTVE53RzY4emQ1NkR4ZGZwZEtkVURJNlkyaEtaUjd5UVhCVUtrQjJVc2hvcVk4Mm56U0I4VkFkb19lbENrQk94d0ExVUVhM2Y2SUZFLUZWdk0tbUo1d1RzNFZOWVFabUhhaWFRbjJXQll6RmfSAbMBQVVfeXFMTTBjcC0wa1ctWk9vMFRnT09aVGJGbnFhOTFXVFhYNkNROFBtVzAzdHg3OEY2TzlwVnViZUo3TTVxUF9QMG5TRzhjeHlMZllTVDI3dndMejc0QWNENWVKVWthT3g0ZDJjdTVXbUFuWTV1SzZnNTdsTUF4QkJlckhfcTBKV3hPODYyZWh2RTNwVFdUSW96VDl0RTEtNHdrLVlVUF8yV0hQRnpVTVN6azhTTzdmRzA?oc=5",
-    "body": "Cañeros de Los Mochis suma agresividad con Yoan López\nLOS MOCHIS._ Los Cañeros de Los Mochis siguen apuntalando su pitcheo y ahora suman al experimentado y ex ligamayorista cubano Yoan López.\nLópez nació el 2 de enero de 1992 en Nueva Gerona, Cuba. Es un lanzador derecho probado al más alto nivel, con experiencia de cinco temporadas en Grandes Ligas, además de una trayectoria internacional que lo ha llevado a competir en diferentes ligas y escenarios del béisbol profesional.\nEs un verdadero trotamundos del beisbol, con experiencia en Grandes Ligas, Japón, México y República Dominicana. En la Liga Mexicana de Beisbol participó con Algodoneros de Unión Laguna, mientras que en Japón formó parte de los Gigantes de Yomiuri, una de las organizaciones más importantes del béisbol japonés.\nLópez se caracteriza por ser un pitcher agresivo en la zona y con buen control de sus pitcheos, características que le permiten atacar constantemente a los bateadores y trabajar en situaciones de presión.\nSu experiencia en diferentes niveles y estilos de beisbol representa un valor importante para el cuerpo de pitcheo de Cañeros. Llega con el objetivo de asumir un rol importante en las últimas entradas de los juegos, aportando experiencia, agresividad y capacidad para competir en momentos de alta presión.\nLa incorporación de López fortalece la estructura del bullpen y le brinda al equipo un brazo con experiencia internacional para proteger ventajas y cerrar juegos.",
-    "matched_queries": [
-      "Cañeros de Los Mochis"
-    ],
-    "collected_iso": "2026-09-15T00:55:01.317464+00:00"
   },
   {
     "id": "68c7403edaa00853c9a3",
@@ -1269,6 +1276,7 @@
     "collected_iso": "2026-09-14T22:30:22.850308+00:00",
     "duplicate_sources": [
       "El Horizonte",
+      "INFO7",
       "info7.mx"
     ]
   },
@@ -1480,7 +1488,10 @@
     "matched_queries": [
       "Saraperos de Saltillo"
     ],
-    "collected_iso": "2026-09-13T21:28:30.327666+00:00"
+    "collected_iso": "2026-09-13T21:28:30.327666+00:00",
+    "duplicate_sources": [
+      "Super Channel 12"
+    ]
   },
   {
     "id": "33eb70fac2fd03fa6031",
