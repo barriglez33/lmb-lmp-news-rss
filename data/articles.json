@@ -1,5 +1,21 @@
 [
   {
+    "id": "040db9c01aa8af8e48c9",
+    "title": "Tendría cambios Sultanes",
+    "source": "Mediotiempo",
+    "author": "Editorial Mediotiempo",
+    "published_iso": "2026-09-15T04:49:00+00:00",
+    "published_rfc2822": "Tue, 15 Sep 2026 04:49:00 +0000",
+    "published_display": "2026-09-15 04:49 UTC",
+    "url": "https://www.mediotiempo.com/beisbol/lmb/sultanes-tendria-cambios-para-la-proxima-temporada",
+    "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEM3MTBLWWMyWERxUk84bkhyT1VOVTZ2SDdaNWNUUHRNZHFGdGhETGkwYUZHbEtsSlExV0s1TjhHd3NDaXdRaEVQZ1d5T19COUdfeW5oSFAzRmRaQnJWVmpIcjZSTFhXVG1sUV9FQzNQdW9mSmdCOHFFaXU2bXpiUDRka2NFR2tqNjJVQXBCcm5XTEc40gGUAUFVX3lxTFBzZV9JNnBTcXdSLWJBbFhCRVpoZTUwel91WUtZd1hjLTFXX3FoTERZVk1CeWZHT2U0ZWdkR0JKc0pQcG1lVjBwMlRtczlsNWprM1JSYTV2R2pzdEE2ckhvNzllcU9aY2czWENDcVNMaC0tRUhQcjRQTWlaU0JTajZqeVZQb1JzZXBTckVXamNfajJKSWk?oc=5",
+    "body": "Los Sultanes tendrían un nuevo director deportivo para la siguiente temporada de la Liga Mexicana de Beisbol al dejar Miguel Flores el cargo, trascendió este lunes.\nDe acuerdo a diferentes medios especializados el Monterrey se abocará a definir quién asumirá el puesto que ocupó los últimos años el ex segunda base regiomontano.\nCon Miguel Angel Flores González como parte del equipo de trabajo los Fantasmas Grises conquistaron el campeonato en el segundo torneo del 2018.\nFlores fue parte de los Sultanescomo jugador activo, como manager y como directivo.\nFundando en 1939, el Monterrey es la franquicia de mayor tradición e historia en la pelota profesional de verano.",
+    "matched_queries": [
+      "LMB"
+    ],
+    "collected_iso": "2026-09-15T05:29:43.957280+00:00"
+  },
+  {
     "id": "3821b1f759266daaf9ed",
     "title": "LMP: Los Yaquis de Obregón confirman la baja por lesión de Juan Carlos ‘Haper’ Gamboa",
     "source": "tribuna.com.mx",
@@ -14,6 +30,26 @@
       "LMP"
     ],
     "collected_iso": "2026-09-15T04:29:12.986388+00:00"
+  },
+  {
+    "id": "66b3f8a5978f6e52c186",
+    "title": "LMB sacudiría el mapa del beisbol mexicano: analiza posibles cambios de sede para los próximos años",
+    "source": "MARCA",
+    "author": "Ruben Morales",
+    "published_iso": "2026-09-15T03:02:00+00:00",
+    "published_rfc2822": "Tue, 15 Sep 2026 03:02:00 +0000",
+    "published_display": "2026-09-15 03:02 UTC",
+    "url": "https://amp.marca.com/mx/beisbol/mx/2026/09/15/lmb-sacudiria-mapa-beisbol-mexicano-analiza-posibles-cambios-sede-proximos-anos-video.html",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWFDWXI2RFVqU0pZbUVRY2d4MUFUQkFFM2t6ZEJZX1V3dHJ6VXo3a0JSQi00ZlhvY3Mzc01odEdmMWRzdmZFRlZOdFVMNG5pQU9HYlFjeDBjWTBub1R3YzFRazEySldVbERxeUMzNC10SDQ0SW50LXFoRTBLQW8wUDNIMmdUYk4tOXJBcUpGTlpWbkwwcHMxX0NBbE1FNENFOGhIblVqbEVIeFlBRDJ2RjZCYUNndU4yZDJDOF81cDRUc2pDekpjcXozT2w5djY5eVRz0gHTAUFVX3lxTE0xYUNZcjZEVWpTSlltRVFjZ3gxQVRCQUUza3pkQllfVXd0cnpVejdrQlJCLTRmWG9jczNzTWh0R2YxZHN2ZkVGVk50VUw0bmlBT0diUWN4MGNZMG5vVHdjMVFrMTJKV1VsRHF5QzM0LXRINDRJbnQtcWhFMEtBbzBQM0gyZ1RiTi05ckFxSkZOWlZuTDBwczFfQ0FsTUU0Q0U4aEhuVWpsRUh4WUFEMnZGNkJhQ2d1TjJkMkM4XzVwNFRzakN6SmNxejNPbDl2Njl5VHM?oc=5",
+    "body": "LMB sacudiría el mapa del beisbol mexicano: analiza posibles cambios de sede para los próximos años\nRUBÉN MORALES (HUDDLE)\nCon la mirada puesta en el futuro de la competencia, la Liga Mexicana de Beisbol analiza posibles modificaciones en las sedes de algunas franquicias para los próximos años. Los movimientos aún se encuentran en evaluación, pero podrían cambiar la distribución actual de equipos dentro del beisbol mexicano.",
+    "matched_queries": [
+      "LMB",
+      "Liga Mexicana de Béisbol"
+    ],
+    "collected_iso": "2026-09-15T05:27:35.182189+00:00",
+    "duplicate_sources": [
+      "MARCA"
+    ]
   },
   {
     "id": "3b3794820f95901969b7",
@@ -471,6 +507,7 @@
     ],
     "collected_iso": "2026-09-14T20:47:18.883888+00:00",
     "duplicate_sources": [
+      "XEVT",
       "xevt.com"
     ]
   },
@@ -489,23 +526,6 @@
       "Trevor Bauer"
     ],
     "collected_iso": "2026-09-14T20:49:08.075408+00:00"
-  },
-  {
-    "id": "8f79c70d5099d2ed7a79",
-    "title": "LMB sacudiría el mapa del beisbol mexicano: analiza posibles cambios de sede para los próximos años",
-    "source": "MARCA",
-    "author": "Ruben Morales",
-    "published_iso": "2026-09-14T19:02:00+00:00",
-    "published_rfc2822": "Mon, 14 Sep 2026 19:02:00 +0000",
-    "published_display": "2026-09-14 19:02 UTC",
-    "url": "https://www.marca.com/mx/beisbol/mx/2026/09/15/lmb-sacudiria-mapa-beisbol-mexicano-analiza-posibles-cambios-sede-proximos-anos-video.html",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZERUNTR5Znh3Umtpc040MldFWGlfQV9FSlE5RzBqUV9mSnlLNjE5RGVlWnN1V0VmNnRqZklDaFh0VWxUdzItV3lDV2xXc1ZNbkNzdE1YWUVQS0hLXzRNMGxySDNVN1BPZmp6MGRWaVE5Njd6M0ZrNlQ4QWZCSVhSNWVyMDhhZUxIdGg3Ukcyc19VWWdvM1U0OGxTYVAxZ3drbDBOQ295S0JEOGl2Tk11TlRQNG9BaER2c1VGa24wVHVuMUczNFgtalBaM3ZJSXZNdzRz0gHTAUFVX3lxTE0xYUNZcjZEVWpTSlltRVFjZ3gxQVRCQUUza3pkQllfVXd0cnpVejdrQlJCLTRmWG9jczNzTWh0R2YxZHN2ZkVGVk50VUw0bmlBT0diUWN4MGNZMG5vVHdjMVFrMTJKV1VsRHF5QzM0LXRINDRJbnQtcWhFMEtBbzBQM0gyZ1RiTi05ckFxSkZOWlZuTDBwczFfQ0FsTUU0Q0U4aEhuVWpsRUh4WUFEMnZGNkJhQ2d1TjJkMkM4XzVwNFRzakN6SmNxejNPbDl2Njl5VHM?oc=5",
-    "body": "LMB sacudiría el mapa del beisbol mexicano: analiza posibles cambios de sede para los próximos años\nRUBÉN MORALES (HUDDLE)\nCon la mirada puesta en el futuro de la competencia, la Liga Mexicana de Beisbol analiza posibles modificaciones en las sedes de algunas franquicias para los próximos años. Los movimientos aún se encuentran en evaluación, pero podrían cambiar la distribución actual de equipos dentro del beisbol mexicano.",
-    "matched_queries": [
-      "Liga Mexicana de Béisbol",
-      "LMB"
-    ],
-    "collected_iso": "2026-09-15T03:26:45.511987+00:00"
   },
   {
     "id": "b0a5dde38ec24818aaa7",
@@ -1097,7 +1117,8 @@
     ],
     "collected_iso": "2026-09-14T22:30:22.850308+00:00",
     "duplicate_sources": [
-      "El Horizonte"
+      "El Horizonte",
+      "info7.mx"
     ]
   },
   {
