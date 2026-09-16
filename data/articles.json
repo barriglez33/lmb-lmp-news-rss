@@ -1,5 +1,21 @@
 [
   {
+    "id": "6b01d976967f0a8c5ddf",
+    "title": "LMP: Hendrick Briones podría vivir un regreso especial a Durango con Venados",
+    "source": "El Siglo de Durango",
+    "author": "El Siglo de Torreón",
+    "published_iso": "2026-09-16T01:53:00+00:00",
+    "published_rfc2822": "Wed, 16 Sep 2026 01:53:00 +0000",
+    "published_display": "2026-09-16 01:53 UTC",
+    "url": "https://www.elsiglodedurango.com.mx/nota/2026/lmp-hendrick-briones-podria-vivir-un-regreso-especial-a-durango-con-venados.html",
+    "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNklxdW5MWWl5QlBELUZrWk12TTc4U2YzS29ZdFVlTTViX2dScWN1ek9Ma09xeWxOMjhpSGtTbWh5QUhvX2tPSk0yRFdUMkRMaG1RaHJWM3ZlSGRsaXhNMzNyWTdVeEJ3NFNPMFFYTkQyeVN0M2xBUGh0bFBSZTJQQXdUMTN1dy1JVjZpWmdKU0EtRnhCTzV5UHRtajgzSG9oV29QMVFLU2V3SW1HTjRRNVRWR05mYURxVGI2dUZyRU16TmpV?oc=5",
+    "body": "FOTO: INSTAGRAM | @venadosbaseball\nEl lanzador duranguense Hendrick Briones podría vivir uno de los momentos más especiales de su preparación con los Venados de Mazatlán, cuando la organización sinaloense visite El Salto, Pueblo Nuevo, para disputar un encuentro de exhibición como parte de su pretemporada rumbo a la campaña 2026-2027 de la Liga Mexicana del Pacífico.\nLa cita será el próximo domingo 4 de octubre, a partir de las 12:00 horas, en el Estadio Jesús S. Silos, donde Venados se medirá ante un combinado de peloteros de Durango.\nPara Briones, sin embargo, el compromiso podría representar mucho más que otro partido de preparación. El pitcher tendrá la posibilidad de regresar a su estado portando los colores de una organización con la que actualmente busca ganarse un lugar para la nueva temporada.\nUn posible regreso ante su gente\nHendrick Briones forma parte del grupo que trabaja durante la pretemporada de Mazatlán y su presencia en El Salto abriría la posibilidad de volver a lanzar frente a familiares, amigos y aficionados duranguenses que han seguido su desarrollo dentro del beisbol.\nEl propio serpentinero reconoció el significado que tendría participar en este encuentro.\n“Para mí sería un honor estar jugando ahí, ahora con esta camisa, esta nueva piel”, expresó Briones, quien también ha señalado la importancia que representa para su carrera formar parte de los Venados.\nLa jornada podría convertirse así en una oportunidad especial para el lanzador, quien no solamente estaría trabajando rumbo al inicio de una nueva campaña, sino que lo haría cerca de casa y ante una afición que conoce su trayectoria.\nBusca un sitio en el pitcheo de Mazatlán\nBriones se encuentra dentro de un cuerpo de lanzadores con el que Venados pretende construir una de sus principales fortalezas para el próximo campeonato.\nJesús Valdez, gerente deportivo de la organización, destacó precisamente la presencia de jugadores provenientes de Durango dentro del proyecto mazatleco.\n“Hay talento, tenemos talento duranguense”, señaló el directivo durante la preparación del equipo.\nEn el pitcheo aparecen también nombres como Roel Ramírez, Gerardo Gutiérrez y Víctor Morales, además de otros brazos que buscarán responder a la filosofía que pretende implementar el nuevo cuerpo técnico.\nValdez aseguró que el pitcheo y la defensa continúan siendo fundamentales dentro de la propuesta del club.\n“Pitcheo y defensa es lo que nos ha hecho ganar”, afirmó.\nRumbo a la temporada 2026\nEl partido en Pueblo Nuevo llegará apenas unos días antes del inicio oficial de la Temporada 2026-2027 de la Liga Mexicana del Pacífico.\nMazatlán comenzará su participación el 14 de octubre frente a los Tomateros de Culiacán, por lo que los encuentros de preparación servirán para que el cuerpo técnico continúe evaluando jugadores y definiendo el grupo que afrontará el arranque del calendario.\nAntes de pensar en ese primer compromiso oficial, Hendrick Briones tendrá frente a sí la posibilidad de vivir una jornada distinta.\nSi recibe la oportunidad de subir al montículo el próximo 4 de octubre, el duranguense podrá hacerlo frente a su gente, en un escenario cercano a casa y defendiendo una nueva camiseta en su trayectoria profesional.",
+    "matched_queries": [
+      "Venados de Mazatlán"
+    ],
+    "collected_iso": "2026-09-16T04:39:41.541285+00:00"
+  },
+  {
     "id": "ee617adc5bfdedf473d3",
     "title": "Benjamín Gil busca el tricampeonato con Charros de Jalisco",
     "source": "MILENIO",
@@ -45,7 +61,8 @@
     "matched_queries": [
       "LMB",
       "LMB en vivo gratis",
-      "Serie del Rey"
+      "Serie del Rey",
+      "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-09-16T02:27:16.460921+00:00"
   },
@@ -192,7 +209,10 @@
     "matched_queries": [
       "Venados de Mazatlán"
     ],
-    "collected_iso": "2026-09-16T00:44:30.710972+00:00"
+    "collected_iso": "2026-09-16T00:44:30.710972+00:00",
+    "duplicate_sources": [
+      "El Sol de México"
+    ]
   },
   {
     "id": "6039ce78cc4b7d525f1b",
@@ -459,7 +479,8 @@
     ],
     "collected_iso": "2026-09-15T22:45:07.668463+00:00",
     "duplicate_sources": [
-      "Meganoticias.mx"
+      "Meganoticias.mx",
+      "meganoticias.mx"
     ]
   },
   {
@@ -17652,21 +17673,5 @@
       "Diablos Rojos del México"
     ],
     "collected_iso": "2026-08-27T15:57:32.923174+00:00"
-  },
-  {
-    "id": "909f353abb73b19826db",
-    "title": "Guerreros cae ante Olmecas; boleto se define en Juego 7",
-    "source": "Quadratin Oaxaca",
-    "author": "",
-    "published_iso": "2026-08-27T05:11:00+00:00",
-    "published_rfc2822": "Thu, 27 Aug 2026 05:11:00 +0000",
-    "published_display": "2026-08-27 05:11 UTC",
-    "url": "https://oaxaca.quadratin.com.mx/guerreros-cae-ante-olmecas-boleto-se-define-en-juego-7/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXFLSVZ2QzROQkFyU0pnNThTZ0tXSHY0aW5ITWlpX1VnSndfQmplXzJqdDhRMlZ2YUUxbGRfUlo0cGVYVERwYWFOakVldklHcm5ERDg1RUoxUU9CcGxwOEZnSG9weV9ZTUdtcXpKUFdtWVNMRlRnUFk4Ykt0cGNmMy1QeHBtX3JJZEk0ZXJjZ1M?oc=5",
-    "body": "Reportan 8 muertos y desaparecidos tras riada en el Himalaya\nOAXACA, Oax., 26 de agosto de 2026.- Los Guerreros de Oaxaca cayeron 8-1 ante los Olmecas de Tabasco en el sexto juego de la Serie de Zona, por lo que el boleto a la siguiente ronda de los playoffs se definirá este jueves en un séptimo y definitivo encuentro.\nLa novena tabasqueña tomó ventaja desde la primera entrada en el Estadio Centenario del 27 de Febrero. Seth Beer conectó doblete productor y Agustín Ruiz agregó cuadrangular de dos carreras para colocar rápidamente la pizarra 3-0.\nOaxaca respondió en la apertura del tercer episodio con cuadrangular solitario de Luis Barrera, que acercó a los Guerreros 3-1.\nLa ofensiva oaxaqueña tuvo nuevas oportunidades en las siguientes entradas, pero la defensiva de los Olmecas evitó que el daño aumentara. En el cuarto capítulo consiguió una doble matanza y, en el quinto, Guerreros dejó a dos corredores en las bases.\nEl marcador permaneció 3-1 hasta la séptima entrada, cuando Tabasco rompió el encuentro.\nÓscar González produjo una carrera con sencillo, Seth Beer impulsó otra con imparable y Calvin Estrada sumó una más para ampliar la ventaja a 6-1.\nLos Olmecas agregaron dos anotaciones en la octava entrada para sentenciar el partido 8-1.\nGuerreros terminó con una carrera, cinco imparables y dos errores, mientras Tabasco conectó 14 hits y jugó sin errores.\nRonnie Williams obtuvo la victoria después de lanzar seis entradas y Radhamés Liz cargó con la derrota.\nCon el resultado, la Serie de Zona quedó empatada a tres triunfos por equipo.\nGuerreros y Olmecas volverán al terreno este jueves 27 de agosto a las 19:30 horas en el Estadio Centenario del 27 de Febrero.\nEl ganador del Juego 7 avanzará a la siguiente ronda de los playoffs.",
-    "matched_queries": [
-      "Guerreros de Oaxaca"
-    ],
-    "collected_iso": "2026-08-27T16:03:12.267978+00:00"
   }
 ]
