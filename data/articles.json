@@ -172,6 +172,22 @@
     "collected_iso": "2026-09-16T06:32:50.487481+00:00"
   },
   {
+    "id": "f56f3bbf90b2d47c4331",
+    "title": "Toros de Tijuana derrotan a Olmecas de Tabasco y son campeones de la LMB",
+    "source": "AS México",
+    "author": "Emor Villa",
+    "published_iso": "2026-09-16T05:41:16+00:00",
+    "published_rfc2822": "Wed, 16 Sep 2026 05:41:16 +0000",
+    "published_display": "2026-09-16 05:41 UTC",
+    "url": "https://mexico.as.com/masdeporte/toros-de-tijuana-derrotan-a-olmecas-de-tabasco-y-son-campeones-de-la-lmb-f202609-n/?outputType=amp",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd21acXpINzN1cTVkWW9pall0MWtyeTJGaUo4d2pyUVlqNk5XMXFIYmJHWUxDVDctMk91cnkxVnpNNFgzWlRKVHFsOW03OWlQWU42SG9rYzVkM2ljX01SbHNudGF2M0RSalMxQ0QyM2h0MjVsa0ZsT0ZKaUdmV3JSczloLU84eDV0OGNIeUtkNXFwWV92czhjU2JsUnRnN3NKWXpmTW5lWENqSkUtN2c5cTdOWjFFaS1sbnRTejI4R0VWZWwtT2NTQ0xXRdIBywFBVV95cUxPd21acXpINzN1cTVkWW9pall0MWtyeTJGaUo4d2pyUVlqNk5XMXFIYmJHWUxDVDctMk91cnkxVnpNNFgzWlRKVHFsOW03OWlQWU42SG9rYzVkM2ljX01SbHNudGF2M0RSalMxQ0QyM2h0MjVsa0ZsT0ZKaUdmV3JSczloLU84eDV0OGNIeUtkNXFwWV92czhjU2JsUnRnN3NKWXpmTW5lWENqSkUtN2c5cTdOWjFFaS1sbnRTejI4R0VWZWwtT2NTQ0xXRQ?oc=5",
+    "body": "Los Toros de Tijuana se coronaron por tercera ocasión en la historia de la Liga Mexicana de Beisbol tras superar en seis partidos a los Olmecas de Tabasco en la Serie del Rey 2026. En el sexto y definitivo encuentro, los astados superaron por una apretada pizarra de 2-0 a la novena de Villahermosa.\nEl último out encendió la fiesta en el Toros Mobil Park, que registró su primer lleno a reventar encendió la campaña en plena fiesta del Grito de Independencia en México.\nApretado encuentro en la frontera\nLos Toros lograron una apretada victoria de 2-0 en el sexto encuentro de la serie, con una quinta entrada que pasará a los libros de historia del baseball nacional. Gilberto Celestino fue el héroe al bate con un sencillo productor de dos carreras para encarrilar a Tijuana a su tercer cetro, algo que no lograba desde la Temporada 2021.\nGran trabajo en el montículo de parte de Adonis Medina (3-0), quien solo permitió dos hits en cinco entradas. Adbert Alzolay, Jonathan Aro, Roel Ramírez y el cerrador Brett de Geus completaron la faena para consolidar al cuadro de Tijuana.\nFue en la quinta entrada cuando Celestino conectó un imparable que partió el diamante en dos. En la jugada, el jardinero central, Randy Romero, no logró controlar de buena forma la bola y eso le permitió tanto a Junior Lake como Jonathan Guzmán llegar a la registradora para poner en ventaja a los de casa.\nOlmecas murió con la cara al sol\nMención especial para los Olmecas de Tabasco, un rival digno en la Final, donde logró dos triunfos en esta instancia 33 años después de su última aparición.\nEl cuadro tabasqueño regresó a una Serie del Rey luego de casi tres décadas y media, sin embargo no pudo consolidar la gran temporada que firmaron en este 2026, sin embargo, con la inversión que se le ha dado al equipo, es probable que se haga costumbre ver a los cabezones en instancias finales.\nHernán Pérez, MVP de la Serie del Rey\nEl pelotero venezolano fue condecorado como el Jugador Más Valiosos de la Serie del Rey 2026, pues cabe recordar que desde la serie final de la Zona Norte frente a Monterrey, el jugador conectó en varias ocasiones la pelota para impulsar carreras.\n¡Lleva el deporte contigo! Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido? Haz clic aquí",
+    "matched_queries": [
+      "Olmecas de Tabasco"
+    ],
+    "collected_iso": "2026-09-16T13:29:33.594372+00:00"
+  },
+  {
     "id": "de19b17628752ec46d70",
     "title": "Toros se corona como campeón de la LMB al derrotar a Olmecas",
     "source": "XEVA",
@@ -1860,7 +1876,8 @@
     ],
     "collected_iso": "2026-09-15T01:35:51.538931+00:00",
     "duplicate_sources": [
-      "MILENIO"
+      "MILENIO",
+      "milenio.com"
     ]
   },
   {
@@ -17635,27 +17652,5 @@
       "Pericos de Puebla"
     ],
     "collected_iso": "2026-08-28T22:00:12.593067+00:00"
-  },
-  {
-    "id": "f4f62388c051442695c6",
-    "title": "Sultanes vs Toros: a qué hora y dónde ver la final de la zona norte de la LMB",
-    "source": "Infobae",
-    "author": "Mariana Campos",
-    "published_iso": "2026-08-27T16:46:55+00:00",
-    "published_rfc2822": "Thu, 27 Aug 2026 16:46:55 +0000",
-    "published_display": "2026-08-27 16:46 UTC",
-    "url": "https://www.infobae.com/mexico/deportes/2026/08/27/sultanes-vs-toros-a-que-hora-y-donde-ver-la-final-de-la-zona-norte-de-la-lmb/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEFyeWJnWUdNRUx3OXk0Qk52Z3BQd1NwSzNEaVhIWFN4NG1WbVhZdlNSY0NwYmk0V1pUbWFXT2dxT0ZidmhRT0RxMVpCQWp2VWRDZzV6TlRFLWp3Q1lrMzVsbEREMGVvdzNNb2phVGtEY0Jiczh6YnRKeXZVNUNnQmE0bjRKVkhBejRLeTFEbkZoVWtJbzFpbnNtX19Xd3QtSVdPeFFSd25MS2xXTFh1MnpRRWxvY2lLbnJjS01OQ25lSVVGeUUw0gHiAUFVX3lxTE1tSmtpV3hJbXBRck9WcFZucE5IaUtMYkZNeVo4S3JYUTBaLXViUmlDckxGUEw2X1Q5cVVnRktfVmdVaU5FcFJzcWhTRFl1Ump6NWZqU09lV0xnSy1HZVBaOXVZOTU5czlnZFNrcGt3ZnFQaWd0LVFyem5jWFFTYkwyQUFDUnAxREdpNGN3TGUtQXlGcENyY2s3ME1DQjFScHRBR1ViQ2pxUkh2UGxEcDg1V2RhUzRGV1U4RFlQNmV5X0lWUlUwbS1XQ3h6Q2huT25sMjlwZlljb2tkcGRkTFZvMkE?oc=5",
-    "body": "Los Sultanes de Monterrey y los Toros de Tijuana arrancan este viernes 28 de agosto la Serie de Campeonato de la Zona Norte de los Playoffs 2026 de la Liga Mexicana de Beisbol, con el boleto a la Serie del Rey en juego.\nEs la quinta vez que ambas organizaciones se encuentran en esta instancia desde el regreso de los Toros a la LMB en 2014, y la rivalidad llega perfectamente equilibrada: dos series ganadas por cada lado.\nLa serie se disputa a ganar cuatro de siete juegos. Los primeros dos encuentros se juegan en Tijuana, los siguientes tres en Monterrey, y los juegos 6 y 7 regresan al Toros Mobil Park solo si son necesarios.\nPUBLICIDAD\nSultanes llegan por tercer año consecutivo a la Serie de Campeonato\nLos regiomontanos tuvieron que trabajar para avanzar. Superaron al Caliente de Durango en una serie de cinco juegos cargada de drama antes de asegurar su pase. Con este resultado, los Fantasmas Grises disputan su sexta Final de Zona en las últimas nueve temporadas, una constancia que los coloca entre los equipos más regulares de la postemporada en la LMB.\nEs la tercera aparición consecutiva de Monterrey en esta instancia, lo que confirma que el equipo ha construido una estructura competitiva que trasciende temporada a temporada. La Serie de Campeonato ya no es una sorpresa para ellos: es una expectativa.\nToros regresan a la Final de Zona por primera vez desde 2022\nTijuana tuvo un camino diferente. Los Toros dominaron su serie ante los Charros de Jalisco gracias al pitcheo y cerraron en cinco juegos. El resultado los devuelve a la Serie de Campeonato después de cuatro años de ausencia en esa ronda.\nPUBLICIDAD\nLa última vez que Tijuana llegó a esta instancia fue en 2022, cuando fue eliminada precisamente por los Sultanes de Monterrey. Tras esa caída, los Toros quedaron fuera de la pelea por el campeonato durante tres temporadas consecutivas, eliminados en rondas anteriores a manos de los Algodoneros de Unión Laguna.\nEl regreso a la Final de Zona representa la recuperación de un equipo que pasó por un período prolongado sin avanzar más allá de las primeras rondas de la postemporada.\nLa rivalidad suma seis enfrentamientos en playoffs desde 2014\nDesde el regreso de los Toros a la LMB en 2014, Sultanes y Toros se han medido en seis ocasiones dentro de la postemporada. Cinco de esas seis series han sido Finales de Zona. La única excepción fue el Otoño 2018, cuando ambos equipos se cruzaron en el entonces llamado Primer Playoff, con victoria para los regiomontanos.\nPUBLICIDAD\nEn las cinco Series de Campeonato disputadas entre ambos, el marcador es de dos a dos: los Sultanes se han impuesto en dos ocasiones y los Toros en otras dos. Esta sexta edición de la rivalidad en playoffs romperá el empate.\nLa serie de 2022, la más reciente entre ambos en esta instancia, terminó con eliminación de Tijuana. Los Toros llegan en 2026 con la oportunidad de cobrar esa deuda y, al mismo tiempo, de asegurar su lugar en la Serie del Rey por primera vez en cuatro años.\nEl calendario completo de la serie\nEl Juego 1 se disputa este viernes 28 de agosto en el Toros Mobil Park a las 20:35 horas. El Juego 2 es el sábado 29 de agosto en el mismo escenario, también a las 20:35 horas.\nPUBLICIDAD\nLa serie se traslada después al Walmart Park de Monterrey. El Juego 3 está programado para el lunes 31 de agosto a las 19:30 horas. El Juego 4 se juega el martes 1 de septiembre a la misma hora, y el Juego 5, de ser necesario, el miércoles 2 de septiembre a las 19:30 horas.\nSi la serie requiere más juegos, regresa a Tijuana. El Juego 6 está fijado para el viernes 4 de septiembre a las 20:35 horas, y el Juego 7, de llegar a disputarse, el sábado 5 de septiembre a la misma hora en el Toros Mobil Park.\nPUBLICIDAD\nLas opciones de transmisión confirmadas para este encuentro son:\n- Televisión de Paga: ESPN, FOX Sports / Fox One y TVC Deportes / AYM Sports.\n- Televisión Abierta / Regional: Canal 6 (Multimedios) en señal local/regional.\n- Streaming (Internet y App):\n  - LMB.TV (plataforma oficial de la Liga Mexicana de Béisbol).\n  - Disney+\n  - ViX\nPUBLICIDAD\nPUBLICIDAD",
-    "matched_queries": [
-      "Dónde ver LMB",
-      "Serie del Rey",
-      "Sultanes de Monterrey",
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-08-27T21:42:13.202701+00:00",
-    "duplicate_sources": [
-      "Infobae"
-    ]
   }
 ]
