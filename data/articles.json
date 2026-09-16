@@ -166,7 +166,8 @@
     "body": "Toros de Tijuana conquista su tercer campeonato de la LMB\nTijuana agregó un nuevo título a su historia. Su primer campeonato llegó en 2017, cuando derrotó a los Pericos de Puebla. Cuatro años después, en 2021\nRedacción Deportes, 15 sep (AJGD).- Los Toros de Tijuana volvieron a lo más alto de la Liga Mexicana de Béisbol al derrotar este martes 2-0 a los Olmecas de Tabasco, resultado con el que aseguraron la serie por 4-2 y consiguieron el tercer campeonato de su historia.\nPara los Olmecas, la derrota significó el cierre de una temporada histórica, luego de disputar por primera ocasión una serie por el título de la LMB.\nEl encuentro estuvo marcado por el dominio de los lanzadores. Adonis Medina, abridor de Tijuana, atravesó uno de sus momentos más complicados en la tercera entrada, cuando Tabasco consiguió colocar corredores en las bases.\nDomingo Leyba y Jasson Atondo lograron instalarse en los senderos después de un error de Hernán Pérez desde la tercera base, situación que Leyba aprovechó para avanzar hasta la antesala. Sin embargo, Medina consiguió salir del problema al dominar a Marco Hernández con un rodado hacia la segunda base que terminó en out.\nEn el cuarto episodio fue el turno de Jeremy Rhoades, abridor de los Olmecas, de enfrentar dificultades. Los Toros colocaron a dos corredores en las almohadillas, pero el lanzador logró resolver la entrada sin permitir anotaciones y mantuvo el empate sin carreras.\nLa resistencia de Rhoades terminó en el quinto capítulo. Cuando parecía estar cerca de escapar nuevamente del peligro, Tijuana encontró el batazo que terminó definiendo el campeonato.\nCon dos outs y corredores en segunda y tercera, el dominicano Gilberto Celestino conectó un sencillo por el centro del diamante que permitió anotar a Junior Lake y Jonathan Guzmán, colocando a los Toros con ventaja de 2-0.\nA partir de ese momento, el pitcheo de Tijuana se encargó de proteger la diferencia y mantener apagada a la ofensiva tabasqueña.\nLos Olmecas tuvieron una última oportunidad en la novena entrada al colocar corredores en primera y segunda base. Sin embargo, Brett de Geus respondió desde el montículo y terminó con la amenaza.\nEl último out de la temporada llegó con un elevado de Alan Espinoza hacia el jardín central, donde Junior Lake realizó la atrapada que desató la celebración de los Toros y confirmó el campeonato.\nDe esta manera, Tijuana agregó un nuevo título a su historia. Su primer campeonato llegó en 2017, cuando derrotó a los Pericos de Puebla. Cuatro años después, en 2021, conquistó su segunda corona al imponerse a los Leones de Yucatán.\nAhora, en 2026, los Toros derrotaron a los Olmecas de Tabasco para levantar su tercer campeonato de la Liga Mexicana de Béisbol, cerrando la serie con cuatro victorias por dos derrotas.\nEl pitcheo tijuanense fue determinante en el juego definitivo, al limitar a Tabasco a tres imparables y ninguna carrera, mientras los Toros terminaron con dos anotaciones, siete hits y un error.",
     "matched_queries": [
       "Toros de Tijuana",
-      "Pericos de Puebla"
+      "Pericos de Puebla",
+      "LMB"
     ],
     "collected_iso": "2026-09-16T06:32:50.487481+00:00"
   },
@@ -711,6 +712,22 @@
       "Liga Mexicana de Béisbol"
     ],
     "collected_iso": "2026-09-16T06:31:03.236952+00:00"
+  },
+  {
+    "id": "b602758dfc4042644c38",
+    "title": "Renaldito Florián reforzará a Cañeros | Noticiero Altavoz",
+    "source": "Noticiero Altavoz",
+    "author": "Redacción",
+    "published_iso": "2026-09-15T21:38:12+00:00",
+    "published_rfc2822": "Tue, 15 Sep 2026 21:38:12 +0000",
+    "published_display": "2026-09-15 21:38 UTC",
+    "url": "https://noticieroaltavoz.com/renaldito-florian-reforzara-a-caneros/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uV25RNEUxRE9ZaHltd0RoUkxQT3htSTV4Vkt1SURzd1A0NlY4Rzl3SmM1WVk5ZXJ4YzdMMGlna2NOVE5JMkdqWGtoLU5VTGI3Nm1CYjVEMTZnNHdBVF8zMldwakVPdzVGMU9uQmk0SjNnWElQX3c?oc=5",
+    "body": "Su experiencia en Japón representó un reto diferente, tanto por el entorno como por el estilo de beisbol, pero logró adaptarse y tener buenos resultados sobre el montículo.\nFlorian llega a Los Mochis con una oportunidad por delante: competir, mostrar sus herramientas y ganarse un lugar en el equipo. Cañeros apuesta por darle espacio a este tipo de talentos para que demuestren en el terreno hasta dónde pueden llegar. La pretemporada será el momento para conocer su nivel y ver si puede convertirse en una alternativa para el cuerpo de pitcheo; la oportunidad está sobre la mesa y ahora dependerá de él aprovecharla.",
+    "matched_queries": [
+      "Cañeros de Los Mochis"
+    ],
+    "collected_iso": "2026-09-16T12:35:09.191136+00:00"
   },
   {
     "id": "0aafe24625aeb5522c75",
@@ -17639,28 +17656,6 @@
     "collected_iso": "2026-08-27T21:42:13.202701+00:00",
     "duplicate_sources": [
       "Infobae"
-    ]
-  },
-  {
-    "id": "1c0c46b126675cf739a1",
-    "title": "Los Pericos terminan con el sueño del tricampeonato de los Diablos Rojos",
-    "source": "La Jornada Maya",
-    "author": "La Jornada",
-    "published_iso": "2026-08-27T16:03:39+00:00",
-    "published_rfc2822": "Thu, 27 Aug 2026 16:03:39 +0000",
-    "published_display": "2026-08-27 16:03 UTC",
-    "url": "https://www.lajornadamaya.mx/nacional/267527/los-pericos-terminan-con-el-sueno-del-tricampeonato-de-los-diablos-rojos",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGR4b2VQdUNWYm01Y0NZUnBFMU1GZUl5OEZsbUpvZDR0cDBKWHBaZTRhNm9LaFZtM1BITkVVNGNfMDQzUHFvU0RBdkdkQmRpWUMxR3pucHh2bXBjRWI4U0dzV3U4XzVmZDVQTWJMS3BoV0JfTFQzcURRZjRfN0d3Tml2eXVfVnljWl9xZlI4ZGVXbXZOWWxadWVYVDc3b0s0S0lrSXlSLTZkMk5GZ0JOdnMyUExDb1JF?oc=5",
-    "body": "Nacional > Deportes\n                                 \n                                    \n                                Con información de La Jornada Maya\nLos Pericos de Puebla terminaron con el sueño del tricampeonato de los Diablos Rojos del México en la Liga Mexicana de Beisbol, tras imponerse 3-0 en el sexto juego de la semifinal de la Zona Sur, que se disputó en el estadio Alfredo Harp Helú.\nLa novena escarlata perdió los tres primeros partidos de la serie e intentó la remontada al conseguir victorias en los encuentros 4 y 5, los cuales se realizaron en el estadio Hermanos Serdán. Sin embargo, el miércoles por la noche, fue incapaz de batear ante los lanzadores de los emplumados.\nAntonio Santos guió el triunfo desde el montículo, pues el abridor de los Pericos transitó seis entradas, en las que permitió dos hits, otorgó una base por bolas y ponchó a tres. Emailin Montilla despachó un episodio y Liarvis Breto se encargó de los últimos dos para asegurar el triunfo. Los infernales conectaron tres imparables en total. La derrota fue para Ricardo Pinto. \nAhora, los emplumados se medirán en la Serie de Campeonato del Sur al ganador de la batalla entre Guerreros de Oaxaca y Olmecas de Tabasco. Los Olmecas derrotaron 8-1 a los bélicos y llevaron el desenlace de la serie al séptimo y definitivo desafío.\nWilliams limita a los Guerreros a una carrera en seis entradas\nEn Villahermosa, Ronnie Williams, quien fue el as de los Leones de Yucatán durante gran parte de esta temporada, lanzó seis capítulos en gran forma para conducir a Tabasco a la victoria con la que empataron la semifinal contra Oaxaca.\nWilliams (1-0) aceptó cuatro inatrapables y un registro; sirvió seis chocolates y dio dos bases por bolas. El estadunidense brindó su mejor desempeño en estos playoffs cuando más lo necesitaba su equipo.\nFue el tipo de actuación que se imaginaban los Olmecas cuando lo adquirieron de los melenudos en la recta final de la fase regular.\nÓscar González, quien se fue de 5-3, produjo tres anotaciones y Seth Beer y Agustín Ruiz, dos cada uno. Marco Hernández bateó de 5-2, con par de anotadas.\nAlex Tovalín, campeón de la LMB con las fieras yucatecas en 2022, sacó los últimos tres auts por el conjunto tabasqueño.\nEl séptimo choque comenzará este jueves a las 19:30 horas. James Kaprielian es el abridor probable por los Guerreros; su contrapelo será Jeremy Rhoades.\nAsimismo, la Serie de Campeonato de la Zona Norte, entre Sultanes de Monterrey y Toros, se pondrá en marcha el viernes en Tijuana. Por los regios escalará la loma Manny Bañuelos y por los fronterizos lo hará Adonis Medina.   \nEdición: Ana Ordaz",
-    "matched_queries": [
-      "Diablos Rojos del México",
-      "LMB",
-      "Liga Mexicana de Béisbol",
-      "Pericos de Puebla"
-    ],
-    "collected_iso": "2026-08-27T16:32:25.732722+00:00",
-    "duplicate_sources": [
-      "La Jornada"
     ]
   }
 ]
