@@ -188,6 +188,7 @@
     ],
     "collected_iso": "2026-09-16T23:29:48.970530+00:00",
     "duplicate_sources": [
+      "Tomateros",
       "tomateros.com.mx"
     ]
   },
@@ -856,7 +857,8 @@
     "matched_queries": [
       "Liga Mexicana de Béisbol",
       "Serie del Rey",
-      "LMB"
+      "LMB",
+      "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-16T06:30:48.448328+00:00"
   },
