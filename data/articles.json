@@ -186,7 +186,10 @@
     "matched_queries": [
       "Tomateros de Culiacán"
     ],
-    "collected_iso": "2026-09-16T23:29:48.970530+00:00"
+    "collected_iso": "2026-09-16T23:29:48.970530+00:00",
+    "duplicate_sources": [
+      "tomateros.com.mx"
+    ]
   },
   {
     "id": "1f49661306e84bfbc840",
@@ -700,6 +703,22 @@
       "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-16T06:30:53.240604+00:00"
+  },
+  {
+    "id": "360e23cba5476cb22fbc",
+    "title": "Toros de Tijuana se acerca en el palmarés a equipos históricos de la LMB",
+    "source": "AS México",
+    "author": "César Cruz",
+    "published_iso": "2026-09-16T06:03:45+00:00",
+    "published_rfc2822": "Wed, 16 Sep 2026 06:03:45 +0000",
+    "published_display": "2026-09-16 06:03 UTC",
+    "url": "https://mexico.as.com/masdeporte/toros-de-tijuana-se-acerca-en-el-palmares-a-equipos-historicos-de-la-lmb-f202609-n/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1pBc3VxVFRmTW5YVzlRYjFmSGt5WGk4MjZmRW04N3BqWnhXc3NUaUY2LXF5Y0RXVmMtLTF4c05YYTF5UmJ2V3RWZDdYcndERjdGa0JhMHJWYm1BT3AzWVdyMlRIZHFZVkgxRFBxSWdlaGNld3lnNVlfVS05MEJBb0toVU0zRlBjNlNmczdtQmY1YXRJazA5NTN3YTNPQzd5N3pDTUFhdWZMM2tkbWtOd3JkMVdhSm_SAcsBQVVfeXFMTnFVajJ3MmFGME81OG15U01OcVNqYlJwNUNhcHVfbmVvSXRCU0htOWcyVUxPcElRYkVVNmYzNXJSeWE5ejNKLWpLU1JYT2d3N1VkUlI1V2ZXLXNac0Q4aHpIbVE1X2NXeHVhSlpmYVoyZWNweHp6czYzSlV5T3ZBRlB4WUVKaVpoTUI1RGg0SzdYMFpKLWxTSzZIYWxxdG5jQnV4RXVpRzRjMmZiemRTVlQ1WXRvX1VlQWhyemJzSG5HV3JRa0E5UGtXMHM?oc=5",
+    "body": "Los Toros de Tijuana han vuelto a lo más alto de la Liga Mexicana de Beisbol. En seis encuentros, el equipo de la frontera conquistó su nuevo cetro para así empatar el empate multitudinario que tenía con varias franquicias del circuito e instalarse con tres trofeos ganados en su corta vida.\nEn tan sólo 16 años, el equipo de la frontera ya conquistó en tres ocasiones el campeonato de la LMB y con ello ya dejó atrás a varios equipos que por años han sido tradicionales en la competencia.\n🏆⚾️ ¡LOS TOROS DE TIJUANA SON LOS CAMPEONES DE LA LMB! ⚾️🏆\nLa novena fronteriza derrotó 2 carreras a 0 a los Olmecas de Tabasco y así se quedaron con el sexto juego de la Serie del Rey (4-2).\n🐂 Consiguen la tercera corona de su historia: (2017, 2021, 2026).\n🎶 Y que suene… pic.twitter.com/kabpFj0xSu\n¿En qué años ha ganado Toros de Tijuana el título de LMB?\nEn apenas década y media el equipo de la frontera ya logró alzar el campeonato en tres ocasiones, acercándose ya de manera importante a equipos como Leones de Yucatán y Pericos de Puebla que han estado desde hace varias décadas.\nToros de Tijuana alzó el trofeo de monarca en la pelota primaveral mexicana en los años 2017 (vs Puebla), 2021 (vs Yucatán) y ahora en 2026 ante Tabasco.\nAsí queda la tabla de títulos en la LMB:\n| Equipo | Títulos | Años | \n|---|---|---|\n| Diablos Rojos del México | 18 | 1956, 1964, 1968, 1973, 1974, 1976, 1981, 1985, 1987, 1988, 1994, 1999, 2002, 2003, 2008, 2014, 2024, 2025 | \n| Tigres de Quintana Roo | 12 | 1955, 1960, 1965, 1966, 1992, 1997, 2000, 2001, 2005, 2011, 2013, 2015 | \n| Sultanes de Monterrey | 10 | 1943, 1947, 1948, 1949, 1962, 1991, 1995, 1996, 2007, O2018 | \n| El Águila 7de Veracruz | 6 | 1937, 1938, 1925, 1961, 1970, 2012 | \n| Tecolotes de los Dos Laredos | 5 | 1953, 1954, 1958, 1977, 1989 | \n| Pericos de Puebla | 5 | 1963, 1979, 1986, 2016, 2023 | \n| Leones de Yucatán | 5 | 1957, 1984, 2006, P2018, 2022 | \n| Toros de Tijuana | 3 | 2017, 2021, 2026 | \n| Algodoneros de Unión Laguna | 2 | 1942, 1950 | \n| Saraperos de Saltillo | 2 | 2009, 2010 | \n| Charros de Jalisco | 2 | 1967, 1971 | \n| Piratas de Campeche | 2 | 1983, 2004 | \n| Acereros de Monclova | 1 | 2019 | \n| Rieleros de Aguascalientes | 1 | 1978 | \n| Guerreros de Oaxaca | 1 | 1998 | \n| Olmecas de Tabasco | 1 | 1993 | \n| Bravos de León | 1 | 1990 | \n*Sólo incluye a equipos que siguen en la LMB hasta 2026\n¡Lleva el deporte contigo! Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido? Haz clic aquí",
+    "matched_queries": [
+      "LMB"
+    ],
+    "collected_iso": "2026-09-17T06:31:27.242932+00:00"
   },
   {
     "id": "45989228ef5df000e41c",
@@ -17652,21 +17671,5 @@
       "Dorados de Chihuahua"
     ],
     "collected_iso": "2026-08-28T22:00:07.147611+00:00"
-  },
-  {
-    "id": "678a351d1a9bbda63129",
-    "title": "Jonrón de Alan Espinoza coloca a Olmecas en Serie de Campeonato 33 años después - Quadratín",
-    "source": "Quadratín Michoacán",
-    "author": "",
-    "published_iso": "2026-08-28T08:07:00+00:00",
-    "published_rfc2822": "Fri, 28 Aug 2026 08:07:00 +0000",
-    "published_display": "2026-08-28 08:07 UTC",
-    "url": "https://tabasco.quadratin.com.mx/index.php/2026/08/28/jonron-de-alan-espinoza-coloca-a-olmecas-en-serie-de-campeonato-33-anos-despues/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVUya2w0cENma2RUeFF3SGExUjcyM2hDRi1ZbGhBMkFEakphTzNOYmV4VXpUT041eG5jOVNsem1wYmhYUHpZUmg2dkNVMUVpRTVaSDA4dW9LS0ZUemxUVUIyU1Q0TlQ5TktVREJHWjl3NEdubFEwVEQwX1U3R3JDZ2ZvY1VLRkNDdVZDLVB2MEM5TExQQnRVTkJ5Ull5b21HWjVSTVNyT0lrUFg0R3JCRG5MTXBfaFctS0R6Z1dfNTJORGg4R2Y4aEZnRzBPR0k?oc=5",
-    "body": "Olmecas apalea 8-1 a Guerreros y lleva la Serie de Zona al séptimo juego\nVILLAHERMOSA, Tab., 27 de agosto de 2026.- Cuadrangular de Alan Espinoza con un compañero en los senderos, al fondo del décimo tercer episodio, hizo explotar en júbilo al estadio Centenario, pues así los Olmecas de Tabasco derrotaron 5-3 a los Guerreros de Oaxaca para alcanzar la serie de campeonato de la Zona Sur, 33 años después de su primer título.\nUna batalla épica, digna de un séptimo desafío, pues los visitantes lucharon sin tregua de principio a fin; sin embargo, fueron los locales que finalmente sacaron la mejor parte.\nEn ese dramático y cabalístico capítulo, Agustín Ruiz disparó sencillo al jardín derecho y ya con dos outs, llegó el batazo grande, cañonazo por toda la vereda izquierda de Espinoza para sentenciar el éxito tabasqueño.\nLos dueños del terreno se adelantaron en el tercer acto, José Godoy obtuvo base, error del lanzador James Kaprielian, en intento de toque de Carlos Arellano, puso corredores en segunda y la antesala, Jasson Atondo trajo una carrera con incogible.\nEn la cuarta volvieron a sumar, Seth Beer recibió pasaporte, Calvin Estrada y Godoy ligaron sencillos, este último remolcador de una anotación, un inning más tarde, Atondo conectó doblete y Marcos Hernández lo colocó en la goma gracias a inatrapable.\nLos bélicos reaccionaron en el último tercio, al abrir la séptima Luis Barrera se apuntó línea de dos estaciones y Alexi Amarista lo puso en el pentágono mediante sencillo, en la octava fue Yonathan Daza quien respondió con batazo de hit productor de otra. Igualaron en la novena, Juan Santana envió a tierra prometida la momentánea igualada para llevar el duelo a extra inning.\nLa victoria correspondió a Francis Peguero y el revés a Enderson Franco.\nA partir de este sábado los Olmecas de Tabasco reciben, en el comienzo de la batalla por la supremacía sureña a los Pericos de Puebla, juego pactado a las 19 horas. (Con información de Prensa Olmeca)",
-    "matched_queries": [
-      "Olmecas de Tabasco"
-    ],
-    "collected_iso": "2026-08-28T15:14:56.370315+00:00"
   }
 ]

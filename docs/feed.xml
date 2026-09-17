@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Thu, 17 Sep 2026 05:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:39:19 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Horacio de la Vega felicita a Toros de Tijuana por el título de la Serie del Rey 2026 | xevt.com]]></title>
@@ -580,6 +580,18 @@ Con elementos procedentes de diferentes entidades de la República, el reto para
       <category>Liga Mexicana de Béisbol</category>
       <category>LMB</category>
       <category>Toros de Tijuana</category>
+    </item>
+    <item>
+      <title><![CDATA[Toros de Tijuana se acerca en el palmarés a equipos históricos de la LMB | AS México]]></title>
+      <link>https://mexico.as.com/masdeporte/toros-de-tijuana-se-acerca-en-el-palmares-a-equipos-historicos-de-la-lmb-f202609-n/</link>
+      <guid isPermaLink="false">360e23cba5476cb22fbc</guid>
+      <pubDate>Wed, 16 Sep 2026 06:03:45 +0000</pubDate>
+      <source><![CDATA[AS México]]></source>
+      <dc:creator><![CDATA[César Cruz]]></dc:creator>
+      <description><![CDATA[Los Toros de Tijuana han vuelto a lo más alto de la Liga Mexicana de Beisbol. En seis encuentros, el equipo de la frontera conquistó su nuevo cetro para así empatar el empate multitudinario que tenía con varias franquicias del circuito e instalarse con tres trofeos ganados en su corta vida.
+En tan sólo 16 años, el equipo de la frontera ya conquistó en tres ocasiones el campeonato de la LMB y con ello ya dejó atrás a varios equipos que por años ha…]]></description>
+      <content:encoded><![CDATA[<p>Los Toros de Tijuana han vuelto a lo más alto de la Liga Mexicana de Beisbol. En seis encuentros, el equipo de la frontera conquistó su nuevo cetro para así empatar el empate multitudinario que tenía con varias franquicias del circuito e instalarse con tres trofeos ganados en su corta vida.<br>En tan sólo 16 años, el equipo de la frontera ya conquistó en tres ocasiones el campeonato de la LMB y con ello ya dejó atrás a varios equipos que por años han sido tradicionales en la competencia.<br>🏆⚾️ ¡LOS TOROS DE TIJUANA SON LOS CAMPEONES DE LA LMB! ⚾️🏆<br>La novena fronteriza derrotó 2 carreras a 0 a los Olmecas de Tabasco y así se quedaron con el sexto juego de la Serie del Rey (4-2).<br>🐂 Consiguen la tercera corona de su historia: (2017, 2021, 2026).<br>🎶 Y que suene… pic.twitter.com/kabpFj0xSu<br>¿En qué años ha ganado Toros de Tijuana el título de LMB?<br>En apenas década y media el equipo de la frontera ya logró alzar el campeonato en tres ocasiones, acercándose ya de manera importante a equipos como Leones de Yucatán y Pericos de Puebla que han estado desde hace varias décadas.<br>Toros de Tijuana alzó el trofeo de monarca en la pelota primaveral mexicana en los años 2017 (vs Puebla), 2021 (vs Yucatán) y ahora en 2026 ante Tabasco.<br>Así queda la tabla de títulos en la LMB:<br>| Equipo | Títulos | Años | <br>|---|---|---|<br>| Diablos Rojos del México | 18 | 1956, 1964, 1968, 1973, 1974, 1976, 1981, 1985, 1987, 1988, 1994, 1999, 2002, 2003, 2008, 2014, 2024, 2025 | <br>| Tigres de Quintana Roo | 12 | 1955, 1960, 1965, 1966, 1992, 1997, 2000, 2001, 2005, 2011, 2013, 2015 | <br>| Sultanes de Monterrey | 10 | 1943, 1947, 1948, 1949, 1962, 1991, 1995, 1996, 2007, O2018 | <br>| El Águila 7de Veracruz | 6 | 1937, 1938, 1925, 1961, 1970, 2012 | <br>| Tecolotes de los Dos Laredos | 5 | 1953, 1954, 1958, 1977, 1989 | <br>| Pericos de Puebla | 5 | 1963, 1979, 1986, 2016, 2023 | <br>| Leones de Yucatán | 5 | 1957, 1984, 2006, P2018, 2022 | <br>| Toros de Tijuana | 3 | 2017, 2021, 2026 | <br>| Algodoneros de Unión Laguna | 2 | 1942, 1950 | <br>| Saraperos de Saltillo | 2 | 2009, 2010 | <br>| Charros de Jalisco | 2 | 1967, 1971 | <br>| Piratas de Campeche | 2 | 1983, 2004 | <br>| Acereros de Monclova | 1 | 2019 | <br>| Rieleros de Aguascalientes | 1 | 1978 | <br>| Guerreros de Oaxaca | 1 | 1998 | <br>| Olmecas de Tabasco | 1 | 1993 | <br>| Bravos de León | 1 | 1990 | <br>*Sólo incluye a equipos que siguen en la LMB hasta 2026<br>¡Lleva el deporte contigo! Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido? Haz clic aquí</p>]]></content:encoded>
+      <category>LMB</category>
     </item>
     <item>
       <title><![CDATA[¡Toros de Tijuana, campeones de la LMB 2026! | MILENIO]]></title>
@@ -2081,18 +2093,6 @@ La Serie del Rey 2026 entra en su etapa decisiva. Después de cinco encuentros, 
       <category>Serie del Rey</category>
       <category>Olmecas de Tabasco</category>
       <category>Liga Mexicana de Béisbol</category>
-    </item>
-    <item>
-      <title><![CDATA[Pericos exorcistas | effeta.info]]></title>
-      <link>https://www.effeta.info/pericos-exorcistas/</link>
-      <guid isPermaLink="false">6caaeb7e959eda39463e</guid>
-      <pubDate>Mon, 14 Sep 2026 21:30:29 +0000</pubDate>
-      <source><![CDATA[effeta.info]]></source>
-      <dc:creator><![CDATA[JOSEANDO]]></dc:creator>
-      <description><![CDATA[Su capitán y jugador más regular fue Christian Adames con .330, 10 cuadrangulares y 68 carreras producidas. Se reforzaron con Henry Ramos, quien a los escasos días de su llegada bateó el ciclo, terminando con .304 y José Rondón, quien arreglaría a Trevor Bauer con dos cuadrangulares en el playoffs y terminando con .323.
-Moisés Gómez fue su principal homerunero con 15, pero como no bateaba mucho fue cambiado, delegando el peso a Luis Castro, quien…]]></description>
-      <content:encoded><![CDATA[<p>Su capitán y jugador más regular fue Christian Adames con .330, 10 cuadrangulares y 68 carreras producidas. Se reforzaron con Henry Ramos, quien a los escasos días de su llegada bateó el ciclo, terminando con .304 y José Rondón, quien arreglaría a Trevor Bauer con dos cuadrangulares en el playoffs y terminando con .323.<br>Moisés Gómez fue su principal homerunero con 15, pero como no bateaba mucho fue cambiado, delegando el peso a Luis Castro, quien acabó con .325, 11 homerunes y 52 producciones, mientras que Herlis Rodríguez fue su mejor robador con 32 y un buen .309.<br>El receptor Michael De la Cruz tuvo una buena temporada con .302, 8 homerunes y 36 carreras producidas.<br>En el pitcheo tuvieron una grata sorpresa con Antonio Santos, que se convirtió en líder de victorias del circuito con 10 triunfos por solo 3 reveses y un 3.95 en carreras limpias. Seguido por el cubano Vladimir Gutiérrez, quien aunque solo ganó seis por nueve derrotas, ponchó a 95 peloteros y tuvo 3.96 en carreras limpias. Fernando Lozano ganó 5 por 3 derrotas con 4.84 en carreras limpias.<br>Su talón de Aquiles fue su cerrador. Silvino Bracho llegó al final de la temporada y alcanzó a salvar cinco juegos.<br>Los de la Angelópolis lucieron al eliminar a los Piratas y cuando nadie lo esperaba dieron cuenta de los súper favoritos Diablos Rojos, a quienes eliminaron en seis juegos.<br>Su pecado fue creer que ya habían alcanzado su meta y fueron eliminados por los Olmecas de Tabasco en cinco juegos.</p>]]></content:encoded>
-      <category>Pericos de Puebla</category>
     </item>
   </channel>
 </rss>
