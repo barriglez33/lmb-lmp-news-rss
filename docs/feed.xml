@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Thu, 17 Sep 2026 11:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:44:46 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Horacio de la Vega felicita a Toros de Tijuana por el título de la Serie del Rey 2026 | xevt.com]]></title>
@@ -90,6 +90,7 @@ En un tema que dio varias vueltas durante algunas semanas, la novena cachanilla 
                                             Javier May Rodríguez elogia la histórica Temporada 2026 de Olmecas de Tabasco en la LMB…]]></description>
       <content:encoded><![CDATA[<p>07:00 p.m.Autor: Otto LópezFuente:<br>                                                <br>                                                    El Sol del Sureste<br>                                                <br>                                                    <br>                                            Javier May Rodríguez elogia la histórica Temporada 2026 de Olmecas de Tabasco en la LMB<br>                                        <br>                                            El gobernador de Tabasco reconoce el desempeño excepcional del equipo de beisbol local<br>                                        <br>Villahermosa Tabasco.-<br>EL GOBERNADOR DE TABASCO, JAVIER MAY RODRÍGUEZ RECONOCIÓ LA HISTÓRICA TEMPORADA 2026 DE OLMECAS DE TABASCO EN LA LIGA MEXICANA DE BEISBOL (LMB).<br>- A través de las redes sociales el mandatario estatal destacó el buen año para los cabezones comandados por el timonel Luis Carlos Rivera.<br>    <br>        &quot;Esta temporada 2026, el Rey de los Deportes en Tabasco se hizo presente con fuerza y determinación. Los Olmecas rompieron la racha de 33 años sin pisar una Serie del Rey, nos hicieron soñar y lograron el campeonato de la Zona Sur y emocionaron a la afición choca hasta el último out. Han hecho historia, ¡enhorabuena!&quot;    <br>escribió el titular del poder ejecutivo en sus redes sociales.<br>                                            Loading...</p>]]></content:encoded>
       <category>Olmecas de Tabasco</category>
+      <category>LMB</category>
     </item>
     <item>
       <title><![CDATA[Juan Pablo Téllez quiere revancha: va por otra historia con Venados de Mazatlán - El Sol de Mazatlán | El Sol de México]]></title>
@@ -261,6 +262,19 @@ Tras remontar en la última entrada…]]></description>
       <category>LMB</category>
       <category>Liga Mexicana de Béisbol</category>
       <category>Toros de Tijuana</category>
+    </item>
+    <item>
+      <title><![CDATA[Toros ganó 2-0 a Olmecas y sumó su tercer título en la Liga Mexicana de Beisbol | OnceDiario]]></title>
+      <link>https://www.oncediario.com/notas/63929-beisbol-liga-mexicana-de-beisbol-tijuana-tabasco-toros-olmecas-gilberto-celestino-hernan-perez-lmb-2026-serie-del-rey-2026</link>
+      <guid isPermaLink="false">7febcb241715b8a657fc</guid>
+      <pubDate>Wed, 16 Sep 2026 18:29:14 +0000</pubDate>
+      <source><![CDATA[OnceDiario]]></source>
+      <description><![CDATA[Miércoles 16 de septiembre de 2026
+La Liga Mexicana de Beisbol tiene un nuevo campeón en los Toros de Tijuana, quienes vencieron 2-0 a los Olmecas de Tabasco para finiquitar la Serie del Rey 2026 en seis juegos.
+Gilberto Celestino produjo dos carreras con un sencillo en la quinta entrada y Adonis Medina lanzó 5.0 entradas en blanco para que Tijuana conquistara su tercer campeonato en la historia.
+El desenlace del juego 6 se dio cuando Jeremy Rhoa…]]></description>
+      <content:encoded><![CDATA[<p>Miércoles 16 de septiembre de 2026<br>La Liga Mexicana de Beisbol tiene un nuevo campeón en los Toros de Tijuana, quienes vencieron 2-0 a los Olmecas de Tabasco para finiquitar la Serie del Rey 2026 en seis juegos.<br>Gilberto Celestino produjo dos carreras con un sencillo en la quinta entrada y Adonis Medina lanzó 5.0 entradas en blanco para que Tijuana conquistara su tercer campeonato en la historia.<br>El desenlace del juego 6 se dio cuando Jeremy Rhoades, abridor de Olmecas, admitió imparables de Junior Lake y de Jonathan Guzmán y, ya con dos fuera, Celestino respondió a la hora cero con un sencillo al jardín central que mandó a Lake y a Guzmán a tierra prometida para poner la pizarra 2-0 a favor de los Toros.<br>En el noveno capítulo, Brett de Geus, cerrador de Tijuana, le puso emoción al duelo al recibir un hit y dar una base por bolas, pero dominó a los últimos tres bateadores para sellar la victoria.<br>Hernán Pérez fue designado por la prensa presente en el Toros Mobil Park como el &quot;Jugador Más Valioso&quot; de la Serie del Rey 2026.<br>PG: Adonis Medina<br>PD: Jeremy Rhoades<br>SV: Brett de Geus<br>HRs: No hubo</p>]]></content:encoded>
+      <category>Liga Mexicana de Béisbol</category>
     </item>
     <item>
       <title><![CDATA[Zac Grotz refuerzo de Naranjeros de Hermosillo | expreso.com.mx]]></title>
@@ -2082,17 +2096,6 @@ Los Toros de Tijuana dieron un paso más hacia el campeonato de la Liga Mexicana
 El conjunto fronterizo tomó la ventaja desde el primer rollo, cuando Hernán Pérez conectó un sencillo que…]]></description>
       <content:encoded><![CDATA[<p>🎧 Usa el reproductor para escuchar esta nota<br>Isaac Romero<br>Los Toros de Tijuana dieron un paso más hacia el campeonato de la Liga Mexicana de Béisbol después de imponerse 6-5 a los Olmecas de Tabasco en el Juego 5 de la Serie del Rey 2026, en un encuentro que tuvo cambios constantes en la pizarra y terminó definiéndose en las últimas entradas.<br>El conjunto fronterizo tomó la ventaja desde el primer rollo, cuando Hernán Pérez conectó un sencillo que permitió la llegada de Gilberto Celestino al plato. Tijuana no tardó en aumentar la diferencia y en la segunda entrada Wilmer Flores conectó un cuadrangular para colocar el 2-0.<br>La ofensiva de los Toros continuó haciendo daño y prácticamente de inmediato llegó otra carrera, luego de que Junior Lake se robara el home para ampliar la ventaja. En el tercer episodio, Pérez volvió a aparecer con un doblete que permitió a Tijuana sumar una carrera más y poner el encuentro 4-0.<br>📌 Nota recomendada<br>|  | Toros de Tijuana empata la Serie del Rey ante Olmecas con salvaje rally | <br>Los Olmecas, sin embargo, reaccionaron frente a su afición y comenzaron a recortar distancias en el mismo tercer inning. Jasson Atondo conectó un cuadrangular que encendió al Estadio Centenario y devolvió la esperanza al conjunto tabasqueño.<br>La remontada local continuó en el cuarto episodio. Con la casa llena, Calvin Estrada llegó a primera base en una jugada de selección, pero la acción permitió que entraran dos carreras para acercar a los Olmecas en la pizarra y colocar nuevamente el partido al alcance de Tabasco.<br>El empate llegó poco después y los locales terminaron tomando la ventaja en el quinto rollo gracias a un rodado de Marco Hernández. De esta manera, los Olmecas pasaron de estar cuatro carreras abajo a tener el control del encuentro ante un Estadio Centenario que comenzaba a ilusionarse con la remontada.<br>Tijuana guardó la respuesta para el cierre del encuentro. En la octava entrada, los Toros igualaron la pizarra con un cuadrangular por todo el jardín central y dejaron el escenario preparado para un desenlace de alto dramatismo.<br>En el noveno episodio apareció nuevamente Junior Lake. El pelotero conectó un vuelacercas que terminó por darle la ventaja definitiva a los Toros de Tijuana, quienes resistieron en el cierre para quedarse con el triunfo por 6-5 y tomar una importante ventaja en la Serie del Rey.</p>]]></content:encoded>
       <category>Toros de Tijuana</category>
-    </item>
-    <item>
-      <title><![CDATA[Joel Rangel se dice sorprendido por su llegada a Algodoneros | www.noroeste.com.mx]]></title>
-      <link>https://www.noroeste.com.mx/deportes/beisbol/joel-rangel-se-dice-sorprendido-por-su-llegada-a-algodoneros-EI25692710</link>
-      <guid isPermaLink="false">ddc4d457808de4145224</guid>
-      <pubDate>Mon, 14 Sep 2026 22:21:00 +0000</pubDate>
-      <source><![CDATA[www.noroeste.com.mx]]></source>
-      <dc:creator><![CDATA[Noroeste; Redacción]]></dc:creator>
-      <description><![CDATA[Apenas en enero pasado el lanzador Joel Rangel quedaba fuera de los play off de la Liga Mexicana del Pacífico tras ser eliminado por los Algodoneros de Guasave en cinco juegos, y quien desde el 7 de septiembre se unió a las prácticas del equipo blanquiazul tras verse inmiscuido en un cambio que lo trajo a estas tierras sinaloenses desde Jaguares de Nayarit, y aunque reconoce que el movimiento lo sorprendió, acepta con gusto su llegada a este nuev…]]></description>
-      <content:encoded><![CDATA[<p>Apenas en enero pasado el lanzador Joel Rangel quedaba fuera de los play off de la Liga Mexicana del Pacífico tras ser eliminado por los Algodoneros de Guasave en cinco juegos, y quien desde el 7 de septiembre se unió a las prácticas del equipo blanquiazul tras verse inmiscuido en un cambio que lo trajo a estas tierras sinaloenses desde Jaguares de Nayarit, y aunque reconoce que el movimiento lo sorprendió, acepta con gusto su llegada a este nuevo reto.<br>“La verdad es que sí me sorprendió cuando supe que me habían cambiado a Algodoneros, pero pues es bienvenida mi llegada a un nuevo equipo, donde la meta será siempre la de pelear y tener un buen año, porque vamos a trabajar para salir campeones con Guasave”, aseveró el oriundo de Tecate, Baja California.<br>Señaló que si ha sido un trabajo fuerte el que se está haciendo esta pretemporada, pero el hecho de que la organización lo haya recibido tan bien, pues ha provocado que sea un gusto para él su arribo a Algodoneros, por ende ofrece entregarse al 100 por ciento con estos colores, pues quiere salir con el título este año.<br>Sobre las funciones que podría desempeñar con el equipo, sólo dijo que la meta es seguir como relevo, no importa si es situacional o largo, pues él viene preparado para apoyar donde más se le necesite, ya que viene al 100 por ciento tras haber jugado play off en el verano.<br>“Sé que este fin de semana empiezan los juegos de preparación y yo ya me siento al 100 por si ocupan que me suba a la loma, porque yo desde ya daré mi máximo esfuerzo, pues en estos duelos se refleja todo lo que hemos hecho en la práctica con el fin de ganarnos un lugar en el róster final”, comentó.<br>Por último, Joel Rangel insistió que viene con el objetivo de primero avanzar a postemporada y después ir por el campeonato, así que los aficionados sólo pueden esperar de él que dará todo en el terreno para ayudar a Algodoneros.</p>]]></content:encoded>
-      <category>Algodoneros de Guasave</category>
     </item>
   </channel>
 </rss>

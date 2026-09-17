@@ -97,7 +97,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkpRVGEtaXZrSkF2LTBDcVNmdjdwUVhNZmtucGFUM1hFTE1jVmlmSk5MeEZPU3ZDQVNydXZValpmNUpFRkdjMk5IT0lyaFJhUUdnc29vMkU1MDUxVnc4NlliTkMwajI4bExtWWlZZXk5SHFZbW84bXlVRk5OSGNOUjE1dlhibWcyNDU1V1VnWXgxOGpab095dUROaDFtR0NLREVmX2hZR3lDclZHbUE?oc=5",
     "body": "07:00 p.m.Autor: Otto LópezFuente:\n                                                \n                                                    El Sol del Sureste\n                                                \n                                                    \n                                            Javier May Rodríguez elogia la histórica Temporada 2026 de Olmecas de Tabasco en la LMB\n                                        \n                                            El gobernador de Tabasco reconoce el desempeño excepcional del equipo de beisbol local\n                                        \nVillahermosa Tabasco.-\nEL GOBERNADOR DE TABASCO, JAVIER MAY RODRÍGUEZ RECONOCIÓ LA HISTÓRICA TEMPORADA 2026 DE OLMECAS DE TABASCO EN LA LIGA MEXICANA DE BEISBOL (LMB).\n- A través de las redes sociales el mandatario estatal destacó el buen año para los cabezones comandados por el timonel Luis Carlos Rivera.\n    \n        \"Esta temporada 2026, el Rey de los Deportes en Tabasco se hizo presente con fuerza y determinación. Los Olmecas rompieron la racha de 33 años sin pisar una Serie del Rey, nos hicieron soñar y lograron el campeonato de la Zona Sur y emocionaron a la afición choca hasta el último out. Han hecho historia, ¡enhorabuena!\"    \nescribió el titular del poder ejecutivo en sus redes sociales.\n                                            Loading...",
     "matched_queries": [
-      "Olmecas de Tabasco"
+      "Olmecas de Tabasco",
+      "LMB"
     ],
     "collected_iso": "2026-09-17T10:40:48.628512+00:00"
   },
@@ -304,7 +305,10 @@
     "matched_queries": [
       "Conspiradores de Querétaro"
     ],
-    "collected_iso": "2026-09-17T09:37:44.690075+00:00"
+    "collected_iso": "2026-09-17T09:37:44.690075+00:00",
+    "duplicate_sources": [
+      "Noticias de Querétaro"
+    ]
   },
   {
     "id": "9ac519141b032de52461",
@@ -329,6 +333,22 @@
       "lucesdelsiglo.com",
       "sandiegored.com"
     ]
+  },
+  {
+    "id": "7febcb241715b8a657fc",
+    "title": "Toros ganó 2-0 a Olmecas y sumó su tercer título en la Liga Mexicana de Beisbol",
+    "source": "OnceDiario",
+    "author": "",
+    "published_iso": "2026-09-16T18:29:14+00:00",
+    "published_rfc2822": "Wed, 16 Sep 2026 18:29:14 +0000",
+    "published_display": "2026-09-16 18:29 UTC",
+    "url": "https://www.oncediario.com/notas/63929-beisbol-liga-mexicana-de-beisbol-tijuana-tabasco-toros-olmecas-gilberto-celestino-hernan-perez-lmb-2026-serie-del-rey-2026",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSno5OTk5a1h6UjNJRHdzZXJjcXczVjVCbzg0SGhoaUQ4Q1JRUTlNLU1BeFcwa1NkNVhSQUhvQTRPRWpIUTRzUWR2NTJRWUVOSFZUMjljQjhIRXJMdXdQMUwzSXZlVHFtckVrajZoTGZsaU5oSGhDa3pYaTRsV3h3OGpDdnk5WmFwZ001TXljSTdTelJtRUtoSlc1WDlLdF9CQVM0WTVKZjRUbnpYQWx0R1pNd0xSY2NrN0xPYmpEellwY3JvTWpRaGZOb2xOc2dtX2oxZnVGMlBLRFp3Q3lVTUxzcHAzY2NHSUVUSjJHUlU3aGM?oc=5",
+    "body": "Miércoles 16 de septiembre de 2026\nLa Liga Mexicana de Beisbol tiene un nuevo campeón en los Toros de Tijuana, quienes vencieron 2-0 a los Olmecas de Tabasco para finiquitar la Serie del Rey 2026 en seis juegos.\nGilberto Celestino produjo dos carreras con un sencillo en la quinta entrada y Adonis Medina lanzó 5.0 entradas en blanco para que Tijuana conquistara su tercer campeonato en la historia.\nEl desenlace del juego 6 se dio cuando Jeremy Rhoades, abridor de Olmecas, admitió imparables de Junior Lake y de Jonathan Guzmán y, ya con dos fuera, Celestino respondió a la hora cero con un sencillo al jardín central que mandó a Lake y a Guzmán a tierra prometida para poner la pizarra 2-0 a favor de los Toros.\nEn el noveno capítulo, Brett de Geus, cerrador de Tijuana, le puso emoción al duelo al recibir un hit y dar una base por bolas, pero dominó a los últimos tres bateadores para sellar la victoria.\nHernán Pérez fue designado por la prensa presente en el Toros Mobil Park como el \"Jugador Más Valioso\" de la Serie del Rey 2026.\nPG: Adonis Medina\nPD: Jeremy Rhoades\nSV: Brett de Geus\nHRs: No hubo",
+    "matched_queries": [
+      "Liga Mexicana de Béisbol"
+    ],
+    "collected_iso": "2026-09-17T12:32:10.128535+00:00"
   },
   {
     "id": "f5b60a34b87830373f6f",
@@ -17656,22 +17676,5 @@
     "duplicate_sources": [
       "www.noroeste.com.mx"
     ]
-  },
-  {
-    "id": "bf86130769ecab85cfdc",
-    "title": "¡Fue todo para Guerreros; eliminados en 13 entradas!",
-    "source": "NVI Noticias",
-    "author": "Redacción",
-    "published_iso": "2026-08-28T10:13:45+00:00",
-    "published_rfc2822": "Fri, 28 Aug 2026 10:13:45 +0000",
-    "published_display": "2026-08-28 10:13 UTC",
-    "url": "https://www.nvinoticias.com/deportes/politica/fue-todo-para-guerreros-eliminados-en-13-entradas/192573",
-    "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVy1PenRrMlk3NWlPUjhIcWYxWVJaUkM5RVdhOWlZVlRCMzNDdmZISENZXzBESXRqTG15ZkM5VGkxM2txS0JNVUI2aHRkUHhwbDNGQURNSm9lSld2TVFUNEFDT1R5Q1hrQV83RmhEN3U1S1pXcHhLQjg2WnRWVkJwU2dqMXhVdWZ1YlF6blRYV2lvOXc5bFg0MGtPbTVfTzJlRjlWVg?oc=5",
-    "body": "Eliminados quedaron los Guerreros de Oaxaca de los playoffs al quedar tendidos en el terreno de juego ante los Olmecas de Tabasco en un maratónico juego de extrainnings y que se definió en 13 entradas, con cuadrangular productor de dos carreras de Alan Espinosa, para romper un empate a tres y el club tabasqueño ganó 5-3 y avanzó a la Serie de Campeonato de la Zona Sur, donde se medirá a los Pericos de Puebla.\nAnte los lanzamientos de Enderson Franco, Alan Espinoza destrabó el juego que terminó a las 00:15 horas de este viernes y que comenzó el jueves a las siete y media de la noche, con un tremendo batazo panorámico entre el jardín izquierdo y central, llevándose por delante a Agustín Ruiz, que había dado la voz de ataque en el cierre de esa décima tercera entrada, en el Estadio Centenario 27 de Febrero.\nLa victoria fue para Francis Peguero, que lució en la loma durante tres innings sólo permitió un hit, otorgó una base y recetó par de ponches.\nEl revés fue para Franco, que en dos tandas y dos tercios le propinaron tres imparables, dio un jonrón y ponchó a tres.\nCabe mencionar, que el abridor local Jeremy Rhoades había lanzado cinco episodios y un tercio sin permitir carrera de la tropa zapoteca; lo relevó Nolan Blackwood y entre ambos colgaron seis argollas consecutivas.\nPara esta Temporada 2026 de la Liga Mexicana de Beisbol, la novena bélica luchó pero no alcanzó a superar lo conseguido en el 2025, cuando también únicamente disputó Serie de Zona.\nPIZARRA\nOaxaca    000 000 111 000 0-3 13 1\nTabasco    001 110 000 000 2-5 11 2\nPG: Francis Peguero\nPP: Enderson Franco\nHR:\nOaxaca: No Hubo\nTabasco: Alan Espinoza (1)",
-    "matched_queries": [
-      "Guerreros de Oaxaca",
-      "Olmecas de Tabasco"
-    ],
-    "collected_iso": "2026-08-28T15:14:29.206374+00:00"
   }
 ]
