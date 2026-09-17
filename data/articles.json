@@ -13,7 +13,10 @@
     "matched_queries": [
       "Venados de Mazatlán"
     ],
-    "collected_iso": "2026-09-17T19:31:38.406897+00:00"
+    "collected_iso": "2026-09-17T19:31:38.406897+00:00",
+    "duplicate_sources": [
+      "Meganoticias.mx"
+    ]
   },
   {
     "id": "4892031bbf003e55ca30",
@@ -532,6 +535,7 @@
     "duplicate_sources": [
       "Amexi",
       "Luces del Siglo",
+      "Semanario ZETA",
       "lucesdelsiglo.com",
       "sandiegored.com"
     ]
