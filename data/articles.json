@@ -1,5 +1,38 @@
 [
   {
+    "id": "1d2f94a314e75f914d87",
+    "title": "Aguilas de Mexicali enfrenta a Naranjeros",
+    "source": "PSN Noticias",
+    "author": "Rene Mora",
+    "published_iso": "2026-09-18T15:20:10+00:00",
+    "published_rfc2822": "Fri, 18 Sep 2026 15:20:10 +0000",
+    "published_display": "2026-09-18 15:20 UTC",
+    "url": "https://psn.si/aguilas-contra-naranjeros-rm/2026/09/18/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kSFQ0azFyOTlEeDI3ekMzcnRFUW5uemdTWkNTSTQ5UVA0M1pwVnR3c1hBZTlHc1BYcTNEaFRaSUxTa2w0bWZ1MUVvRkdkN3kyRFJpWHJHNjRfZlhsSHJOc1kxSDMzQQ?oc=5",
+    "body": "MEXICALI, Baja California.- Los Aguilas de Mexicali iniciarán este viernes y sábado sus juegos de pretemporada enfrentando a Naranjeros de Hermosillo en juegos que se van a celebrar en Ontario, California.\nAguilas tiene varios juegos de exhibición rumbo a la temporada 2026 de la Liga Mexicana del Pacífico que arranca el 14 de octubre.\nPara los juegos de preparación, el equipo tuvo la incorporación de nuevos elementos al campamento de Pretemporada Emplumada.\nEl pitcheo Emplumado se fortaleció con el regreso del Cachanilla Adrián Martínez, quien vuelve con el objetivo de consolidar el staff de inicialistas y defender nuevamente la franela del equipo de sus amores.\nAdemás, se suma el joven zurdo Alonso Becerra, nacido en Tepatitlán de Morelos, Jalisco, quien viene de ver actividad durante el verano con los Sultanes de Monterrey.\nPor su parte, se reportó el receptor Julián León, quien vivirá su cuarta campaña con el conjunto fronterizo.\nAsimismo, el relevista derecho Juan Robles, tras su paso veraniego por los Charros de Jalisco y Conspiradores de Querétaro, se integra para cumplir su segunda Temporada en Mexicali y aportar solvencia al bullpen.\nCon información LMP",
+    "matched_queries": [
+      "Naranjeros de Hermosillo"
+    ],
+    "collected_iso": "2026-09-18T15:25:47.579795+00:00"
+  },
+  {
+    "id": "1c692747a8e5f3031962",
+    "title": "Emoción y gratitud en Olmecas de Tabasco por exitosa campaña en la LMB",
+    "source": "Diario Presente",
+    "author": "",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "published_rfc2822": "Fri, 18 Sep 2026 15:00:00 +0000",
+    "published_display": "2026-09-18 15:00 UTC",
+    "url": "https://www.diariopresente.mx/elsoldelsureste/agradecimiento-de-olmecas-de-tabasco-a-la-aficion-en-2026/467412",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTdJczNJSEFkd3EzdXpTS2ViZzdQYTdqeXZrN19jMXpXZ0dhdkxWZTBNMXprSGtLLWpSQXF6OXllZ1EwMkkxWWxEek9yc3pwd01KbEgxcnl0elVXaFpjUGhMNU43MU9GU05LWnZEWlhuLTBCdGtXNW9TLVB4Q1VkTnd4X2tmY1ZGdTdQUGxiNUdVd0t4YWQzQUN3T29KQlZ2RF9DYkhHX2V2NGdIVmtv?oc=5",
+    "body": "Villahermosa, Tabasco.-\nCABEZONES AGRADECIDOS\n- Peloteros de Olmecas de Tabasco agradecieron todo el apoyo que recibieron de la afición en este 2026, que quedará marcado para la historia de la franquicia.\nA través de las redes sociales jugadores de la organización externaron estar contentos y emocionados por vivir una estupenda campaña en la Liga Mexicana de Beisbol (LMB).\n    \n        \"Quiero darle gracias a Dios por bendecirme grandemente y poder vivir esta experiencia por mantenerme saludable a mi y a mis compañeros. Ayudarnos a vencer muchas adversidades y muchas dudas hacía nosotros, puedo decir orgullosamente que soy campeón de la Zona Sur, quiero darle las gracias a toda la afición de Olmecas de Tabasco\", escribió el utility Carlos Arellano.    \nPor su parte Jasso Atondo externó estar contento por todo lo que ha vivido con la organización tabasqueña:\n    \n        \"Gracias Tabasco, vivimos de todo, cosas buenas y malas, peros siempre juntos, me voy orgulloso de defender estos colores y agradecido con la afición Olmeca por nunca abandonarnos, gracias a Dios por esta temporada\".",
+    "matched_queries": [
+      "LMB",
+      "Olmecas de Tabasco"
+    ],
+    "collected_iso": "2026-09-18T15:24:13.824654+00:00"
+  },
+  {
     "id": "9785e06cecfa98dbd88f",
     "title": "Llega japonés Taike Sekine a Aguilas de Mexicali",
     "source": "Imperial Valley Press Online",
@@ -1166,7 +1199,8 @@
     "collected_iso": "2026-09-16T14:26:47.931006+00:00",
     "duplicate_sources": [
       "El Heraldo de México",
-      "El Porvenir - Portada"
+      "El Porvenir - Portada",
+      "titansports.mx"
     ]
   },
   {
@@ -17623,41 +17657,6 @@
     "collected_iso": "2026-08-28T23:27:45.124365+00:00",
     "duplicate_sources": [
       "Claro Sports"
-    ]
-  },
-  {
-    "id": "8032b296b68d317e85d3",
-    "title": "El mexicano Joey Meneses sigue destrozando la Triple-A, pero se le niegan las Grandes Ligas",
-    "source": "vanguardia.com.mx",
-    "author": "Pascual Escandón",
-    "published_iso": "2026-08-28T23:06:28+00:00",
-    "published_rfc2822": "Fri, 28 Aug 2026 23:06:28 +0000",
-    "published_display": "2026-08-28 23:06 UTC",
-    "url": "https://vanguardia.com.mx/deportes/el-mexicano-joey-meneses-sigue-destrozando-la-triple-a-pero-se-le-niegan-las-grandes-ligas-IC23129098",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOVcybmpQak1BOUtOVW9BcWJjS1dlSF9abXJVelBnV0JhZHdkVTZaVWV2WjJrcUJwbUhULTJJLXRreXhIN29jbUc3WktoYUdIYUx0UWE5M0VWS29YVDVxYlNva0prZmliSUlma1U4bTdOVVMzOUoyS0tqeXpmZV9BMlZQVVdhZmZIX2VqbFNQWEdtZ3l0R3d1WG1xUklwdENONklmemNHenVDbmJqMi1xb2dpVEZ3VVV6VTdBUTBoRkJRcVc4MllDQS1DMVFuOFNqSnc?oc=5",
-    "body": "El mexicano Joey Meneses sigue destrozando la Triple-A, pero se le niegan las Grandes Ligas\nEl mexicano lleva 16 cuadrangulares y 102 carreras impulsadas, sin embargo, perdió su lugar en el roster de los Atléticos y deberá esperar una nueva oportunidad\nJoey Meneses volvió a demostrar que el pitcheo de Triple-A parece quedarle pequeño. El bateador mexicano tuvo una destacada actuación el 27 de agosto con los Las Vegas Aviators, sucursal de los Atléticos, al conectar un cuadrangular de 399 pies y dos dobles, en otra exhibición de su poder ofensivo.\nCon esa actuación, el sinaloense llegó a 16 jonrones en la temporada, además de registrar .319 de promedio, 102 carreras impulsadas y 24 dobles en 2026. Números que lo colocan entre los bateadores más productivos de las Ligas Menores y que vuelven a poner sobre la mesa la pregunta de por qué no ha podido trasladar ese rendimiento a las Grandes Ligas.\nLa diferencia entre sus actuaciones en Triple-A y MLB es considerable. Durante su breve paso por el máximo nivel esta temporada, Meneses apenas consiguió tres imparables en 20 turnos, para un promedio de .150, y solamente disputó nueve encuentros antes de ser enviado nuevamente a las menores.\nUna de las explicaciones está en el nivel del pitcheo. En Triple-A, Meneses puede encontrarse con lanzadores que todavía buscan consolidar su comando y que cometen más errores en la zona. En MLB, en cambio, se enfrenta de manera constante a rectas que superan las 95 millas por hora, además de sliders, cambios y curvas con mayor velocidad y precisión.\nA esto se suma el enorme trabajo de análisis que realizan actualmente las organizaciones de Grandes Ligas. Los equipos cuentan con tecnología, video y bases de datos capaces de identificar las zonas en las que un bateador tiene mayores dificultades. Cuando esas debilidades quedan al descubierto, los lanzadores pueden diseñar ataques mucho más específicos y reducir considerablemente el margen de error.\nEl perfil defensivo de Meneses tampoco juega completamente a su favor. El mexicano se desempeña principalmente como primera base o bateador designado, posiciones en las que la producción ofensiva tiene un peso enorme. Para mantenerse en un roster de MLB, un jugador con ese perfil necesita responder constantemente con el bate, especialmente cuando compite por un puesto con peloteros jóvenes que representan una inversión a futuro para la organización.\nOtro factor es la edad. Meneses llegó a las Grandes Ligas hasta los 30 años, en 2022, después de una larga trayectoria en el beisbol internacional y las Ligas Menores. A sus 34 años, las oportunidades para los jugadores veteranos suelen ser más limitadas frente a los prospectos jóvenes, quienes reciben mayor margen para desarrollarse y cometer errores.\nLa situación se complicó todavía más este verano. Después de ser puesto en asignación y pasar por waivers en julio, Meneses perdió su lugar en el roster de 40 jugadores de los Atléticos. Desde entonces, su papel se ha reducido al de un veterano de profundidad en Triple-A, aunque sus números continúan siendo difíciles de ignorar.\nLa organización parece apostar por el desarrollo de sus jugadores jóvenes, lo que deja a Meneses ante un escenario complicado. Su producción en Triple-A es sobresaliente, pero actualmente no tiene un lugar asegurado en el equipo de Grandes Ligas.\nPara regresar al máximo nivel, el mexicano necesitará aprovechar cada oportunidad. Una nueva lesión en el roster de los Atléticos, una racha ofensiva extraordinaria o incluso un posible cambio a otra organización podrían abrirle nuevamente la puerta de MLB.\nPor ahora, Meneses continúa haciendo lo que mejor sabe: producir con el madero. Con .319 de promedio, 16 jonrones, 102 carreras impulsadas y 24 dobles, el sinaloense mantiene vigente su candidatura para recibir otra oportunidad en Grandes Ligas.\nSu historia refleja además una realidad frecuente para muchos peloteros latinoamericanos: llegar al mejor beisbol del mundo no siempre garantiza permanecer en él. Meneses ya demostró que puede dominar Triple-A; ahora necesita convencer a una organización de que todavía puede hacer lo mismo contra los mejores lanzadores de MLB.",
-    "matched_queries": [
-      "Joey Meneses"
-    ],
-    "collected_iso": "2026-08-28T23:28:58.905073+00:00"
-  },
-  {
-    "id": "82abf60705b86713451c",
-    "title": "Nick Solak reforzará a Naranjeros para la temporada 2026-27",
-    "source": "expreso.com.mx",
-    "author": "Carlos Cotaque",
-    "published_iso": "2026-08-28T23:01:00+00:00",
-    "published_rfc2822": "Fri, 28 Aug 2026 23:01:00 +0000",
-    "published_display": "2026-08-28 23:01 UTC",
-    "url": "https://www.expreso.com.mx/accion/beisbol/nick-solak-reforzara-a-naranjeros-para-la-temporada-2026-27/263441",
-    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN21xX05JSmxtUEdRRi1pZEdibHhyX2JobHNZRkxVSDNjdV9RTHdlaS11dTRnRVV6eFhnbFB4b0I3WlhWa0p1SVF6ZUZkWDVNc3FXVi1yeWtjN3NwOExBclBPbmcwQUZlV1hsdHRwVU1EZjdYUW9zU3N6SHlQQ0xNSW5rdnR5VGpfaDFCQjNRMmJIZ0dUcFUyR0ZuWnV0eEdWTTZacUZBX0E3LVZZ0gGyAUFVX3lxTE5fZ3hFUVdvVGR0VHgtWkxhTUY5QTA4QkVzUHpsaC1kNGRuY2dDV2NPaWY4UUtiWjBKclNXTVAyTHVKWmdCYWptY1p0Q3UtYW8tRWVDd0p4b21MZGJCWm1TUjVhekxZRk9LMUU3TXBxU09zaFRhcWZMa3l1bWVobUNkeFJiY1V2aHBFUXJqQ0c0M3lDN3FLTFVZdGcwak9CcFVWT2JrdzFqMEVQaV9PWklXVmc?oc=5",
-    "body": "Naranjeros apuestan por Nick Solak para la temporada 2026-27\nEl estadounidense Nick Solak llegará a Hermosillo después de batear .307 con 14 cuadrangulares y 68 carreras producidas en Triple-A durante la presente temporada.\nLos Naranjeros de Hermosillo sumaron experiencia de Grandes Ligas y producción ofensiva a su roster para la temporada 2026-2027 de la Liga Mexicana del Pacífico con la incorporación del estadounidense Nick Solak.\nEl pelotero de 31 años llegará a la novena hermosillense después de registrar un promedio de bateo de .307 en 94 encuentros durante la presente temporada con los Chihuahuas de El Paso, sucursal Triple-A de los Padres de San Diego.\nEn ese periodo, Solak acumula 114 imparables, 14 cuadrangulares y 68 carreras producidas, números que respaldan su llegada al conjunto dirigido por el venezolano José 'Cheo' Moreno.\nEl estadounidense cuenta además con experiencia de siete temporadas en las Grandes Ligas, donde defendió las camisetas de los Rangers de Texas, Tigres de Detroit, Marineros de Seattle, Bravos de Atlanta, Piratas de Pittsburgh y Padres de San Diego.\nSolak debutó en MLB en 2019 con Texas, después de haber sido seleccionado por los Yankees de Nueva York en la segunda ronda del Draft de 2016, procedente de la Universidad de Louisville.\nA lo largo de 263 juegos en las Mayores, el nacido en Woodridge, Illinois, registró promedio de .249, con 220 imparables, 21 cuadrangulares, 91 carreras producidas y 118 anotadas.\nSu principal posición es la segunda base, aunque también cuenta con experiencia en los jardines izquierdo y derecho, una versatilidad que le permitirá a Moreno contar con distintas alternativas para conformar su alineación durante la temporada.\nEl nuevo refuerzo de Naranjeros también tuvo un breve paso por el beisbol invernal de República Dominicana. Durante la campaña 2018-2019 disputó 11 encuentros con los Leones del Escogido.\nCon la llegada de Solak, Hermosillo continúa dando forma a su grupo de jugadores extranjeros para la próxima campaña, en el que también se encuentran los lanzadores Nick Margevicius, Colten Brewer y Jimmy Burnette, además de los regresos de Willie Calhoun, Matt Foster y Luis González.\nLa organización también ha realizado movimientos para fortalecer su grupo de peloteros mexicanos durante el receso, con las incorporaciones de Juan Gámez, Víctor 'Chule' Mendoza y Miguel Guzmán.\nNaranjeros comenzará la temporada 2026-2027 el 14 de octubre, cuando visite a los Águilas de Mexicali en el Nido. Un día después, el conjunto hermosillense disputará su primer encuentro como local en el Estadio Fernando Valenzuela.",
-    "matched_queries": [
-      "Naranjeros de Hermosillo"
-    ],
-    "collected_iso": "2026-08-29T13:31:48.974240+00:00",
-    "duplicate_sources": [
-      "expreso.com.mx"
     ]
   }
 ]
