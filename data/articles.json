@@ -14,7 +14,10 @@
       "Serie del Rey",
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-18T04:29:01.691142+00:00"
+    "collected_iso": "2026-09-18T04:29:01.691142+00:00",
+    "duplicate_sources": [
+      "El Imparcial"
+    ]
   },
   {
     "id": "f17c3251d9829d99ebce",
@@ -53,20 +56,23 @@
     ]
   },
   {
-    "id": "0ccff78441fda0c60d76",
+    "id": "efae245c5a938bd6aabf",
     "title": "Rommel Quezada cumple su sueño con Tomateros",
-    "source": "Tus Buenas Noticias",
+    "source": "tusbuenasnoticias.com",
     "author": "Juan Madrigal",
     "published_iso": "2026-09-18T01:36:00+00:00",
     "published_rfc2822": "Fri, 18 Sep 2026 01:36:00 +0000",
     "published_display": "2026-09-18 01:36 UTC",
-    "url": "https://www.tusbuenasnoticias.com/noticias/deportes/2026/09/17/64603-rommel-cumple-su-sueno-con-tomateros",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0JYNWxPUVh2dXdXWXIzMVEwcXNidDhJUHZfQkxLbUNfRVpaWXlibGVUcGhUN0Uzbjd4alVGUjlfMVd0S01yWHN6WGpfM3hrSXEtNjEtX3AxZ1NxRUVnRTR4ekhjN0lrektMVTJ2cG9ZZE5yMDRzZlgzRHgwcEZMTnh6cE8taTdlTFhMZlJ4RzZSZWtBT0R6bEFkcDFQOE5odmhzNG5XSk3SAa4BQVVfeXFMUGM1RWV1TlpIM1NpbWRnT1l1aUhjQVBaSEZEbkdKVG9OYnFmZE9TUXpvY18wN1FuWF93YlNfNDRDeF95d29wYTBZM0RmbWQza3lYaVhxV1RkWFlUSG9hNDVuR1BTUFc5dUpseUxLelFMSEpqaWVXR082QWcwajNELXZud2JYX0w2c1dQTzNRTVFsYVFyU1l4Sy1lQkFPNGh1VjhQempVLURzZ3BRbzFn?oc=5",
-    "body": "Culiacán, Sinaloa.- De niño, Rommel Quezada Medina acudía a los juegos de los Tomateros de Culiacán y miraba desde las tribunas imaginando algún día vestir el uniforme del equipo de su ciudad.\nRommel Quezada: de la Olimpiada a Tomateros\nAños después, ese deseo comenzó a tomar forma. El joven pelotero sinaloense fue drafteado por los Tomateros y actualmente entrena con el conjunto guinda, una oportunidad que representa un paso importante en el camino que ha construido desde las categorías infantiles y que ahora tiene una meta mayor: llegar a las Grandes Ligas.\n“Es algo que de chiquito siempre quise, iba a los juegos y decía: ojalá algún día poder llegar a estar con el equipo de mi ciudad, y ahorita estoy cumpliendo un sueño”, expresó.\nSu crecimiento deportivo tuvo uno de sus momentos más significativos en 2024, cuando representó a Sinaloa en la Olimpiada Nacional y consiguió la medalla de plata. Más allá del metal obtenido, aquella competencia le dejó la satisfacción de haber llegado hasta una justa nacional después de todo el trabajo realizado para conseguirlo.\n“Para mí fue una victoria ya nomás con estar ahí desde el primer momento. Yo estaba orgulloso y pues el segundo no es malo, obviamente”, recordó.\nDespués de esa etapa, Rommel comenzó a abrirse camino en el profesionalismo y tuvo la oportunidad de debutar en la Liga Mexicana de Béisbol con los Diablos Rojos del México.\nAhora trabaja para dar el siguiente paso: conseguir una oportunidad con los Tomateros de Culiacán en la Liga Mexicana del Pacífico.\n“Ese es el plan, ojalá así sea”, respondió al hablar sobre la posibilidad de debutar próximamente con el conjunto guinda.\nEn este proceso también ha tenido que adaptarse a nuevos retos. Aunque anteriormente se desempeñaba como jardinero, tercera base y segunda base, sus características físicas y habilidades defensivas llevaron a los entrenadores a orientarlo hacia la receptoría.\n“Me dijeron: tienes físico de catcher y en segunda base tenía ventajas, el movimiento de pies, y eso me ayudó mucho a acostumbrarme fácilmente”, explicó.\nEl cambio de posición representa otra etapa de aprendizaje para el sinaloense, quien continúa desarrollando sus habilidades mientras busca responder a las exigencias del béisbol profesional.\nSu objetivo está claro. Quiere seguir creciendo, ganarse un lugar con el equipo de su ciudad y mantener abierto el camino que algún día pueda llevarlo a las Grandes Ligas.\nPara conseguirlo, sabe que no existen atajos. Cada entrenamiento representa una oportunidad para aprender, corregir y demostrar lo que puede hacer dentro del terreno.\n“Vamos a darle lo que sea, vamos a darle lo que sea. Quien se ponga, lo que se ponga, obviamente vamos a estar dispuestos a dar el 100 por ciento siempre”, afirmó.\nDesde aquella etapa en la que veía los juegos desde las tribunas hasta los entrenamientos con el equipo que admiraba de niño, Rommel Quezada Medina ha recorrido un camino construido con trabajo y perseverancia.\nLa medalla de plata con Sinaloa quedó como uno de los capítulos de su formación; el debut profesional, como otro paso; y ahora, vestir algún día el uniforme de los Tomateros en un juego oficial aparece como el siguiente objetivo.\nEl sueño de las Grandes Ligas todavía está lejos, pero para Rommel ya no es solamente una ilusión de niño. Es una meta que se construye desde el terreno, un entrenamiento a la vez.",
+    "url": "https://www.tusbuenasnoticias.com/amp/noticias/deportes/2026/09/17/64603-rommel-cumple-su-sueno-con-tomateros",
+    "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzVFZXVOWkgzU2ltZGdPWXVpSGNBUFpIRkRuR0pUb05icWZkT1NRem9jXzA3UW5YX3diU180NEN4X3l3b3BhMFkzRGZtZDNreVhpWHFXVGRYWVRIb2E0NW5HUFNQVzl1Smx5TEt6UUxISmppZVdHTzZBZzBqM0Qtdm53YlhfTDZzV1BPM1FNUWxhUXJTWXhLLWVCQU80aHVWOFB6alUtRHNncFFvMWfSAa4BQVVfeXFMUGM1RWV1TlpIM1NpbWRnT1l1aUhjQVBaSEZEbkdKVG9OYnFmZE9TUXpvY18wN1FuWF93YlNfNDRDeF95d29wYTBZM0RmbWQza3lYaVhxV1RkWFlUSG9hNDVuR1BTUFc5dUpseUxLelFMSEpqaWVXR082QWcwajNELXZud2JYX0w2c1dQTzNRTVFsYVFyU1l4Sy1lQkFPNGh1VjhQempVLURzZ3BRbzFn?oc=5",
+    "body": "El joven sinaloense, medallista de plata en la Olimpiada Nacional 2024, ya entrena con Tomateros de Culiacán y trabaja para seguir avanzando en el béisbol profesional\nPor: Juan Madrigal\nCuliacán, Sinaloa.- De niño, Rommel Quezada Medina acudía a los juegos de los Tomateros de Culiacán y miraba desde las tribunas imaginando algún día vestir el uniforme del equipo de su ciudad.\nRommel Quezada: de la Olimpiada a Tomateros\nAños después, ese deseo comenzó a tomar forma. El joven pelotero sinaloense fue drafteado por los Tomateros y actualmente entrena con el conjunto guinda, una oportunidad que representa un paso importante en el camino que ha construido desde las categorías infantiles y que ahora tiene una meta mayor: llegar a las Grandes Ligas.\n“Es algo que de chiquito siempre quise, iba a los juegos y decía: ojalá algún día poder llegar a estar con el equipo de mi ciudad, y ahorita estoy cumpliendo un sueño”, expresó.\nSu crecimiento deportivo tuvo uno de sus momentos más significativos en 2024, cuando representó a Sinaloa en la Olimpiada Nacional y consiguió la medalla de plata. Más allá del metal obtenido, aquella competencia le dejó la satisfacción de haber llegado hasta una justa nacional después de todo el trabajo realizado para conseguirlo.\n“Para mí fue una victoria ya nomás con estar ahí desde el primer momento. Yo estaba orgulloso y pues el segundo no es malo, obviamente”, recordó.\nDespués de esa etapa, Rommel comenzó a abrirse camino en el profesionalismo y tuvo la oportunidad de debutar en la Liga Mexicana de Béisbol con los Diablos Rojos del México.\nAhora trabaja para dar el siguiente paso: conseguir una oportunidad con los Tomateros de Culiacán en la Liga Mexicana del Pacífico.\n“Ese es el plan, ojalá así sea”, respondió al hablar sobre la posibilidad de debutar próximamente con el conjunto guinda.\nEn este proceso también ha tenido que adaptarse a nuevos retos. Aunque anteriormente se desempeñaba como jardinero, tercera base y segunda base, sus características físicas y habilidades defensivas llevaron a los entrenadores a orientarlo hacia la receptoría.\n“Me dijeron: tienes físico de catcher y en segunda base tenía ventajas, el movimiento de pies, y eso me ayudó mucho a acostumbrarme fácilmente”, explicó.\nEl cambio de posición representa otra etapa de aprendizaje para el sinaloense, quien continúa desarrollando sus habilidades mientras busca responder a las exigencias del béisbol profesional.\nSu objetivo está claro. Quiere seguir creciendo, ganarse un lugar con el equipo de su ciudad y mantener abierto el camino que algún día pueda llevarlo a las Grandes Ligas.\nPara conseguirlo, sabe que no existen atajos. Cada entrenamiento representa una oportunidad para aprender, corregir y demostrar lo que puede hacer dentro del terreno.\n“Vamos a darle lo que sea, vamos a darle lo que sea. Quien se ponga, lo que se ponga, obviamente vamos a estar dispuestos a dar el 100 por ciento siempre”, afirmó.\nDesde aquella etapa en la que veía los juegos desde las tribunas hasta los entrenamientos con el equipo que admiraba de niño, Rommel Quezada Medina ha recorrido un camino construido con trabajo y perseverancia.\nLa medalla de plata con Sinaloa quedó como uno de los capítulos de su formación; el debut profesional, como otro paso; y ahora, vestir algún día el uniforme de los Tomateros en un juego oficial aparece como el siguiente objetivo.\nEl sueño de las Grandes Ligas todavía está lejos, pero para Rommel ya no es solamente una ilusión de niño. Es una meta que se construye desde el terreno, un entrenamiento a la vez.",
     "matched_queries": [
       "Tomateros de Culiacán"
     ],
-    "collected_iso": "2026-09-18T02:33:48.480074+00:00"
+    "collected_iso": "2026-09-18T06:30:51.713473+00:00",
+    "duplicate_sources": [
+      "Tus Buenas Noticias"
+    ]
   },
   {
     "id": "ec9857f5a63ca70d72a4",
@@ -205,7 +211,8 @@
     ],
     "collected_iso": "2026-09-18T03:31:56.197019+00:00",
     "duplicate_sources": [
-      "El Sol de México"
+      "El Sol de México",
+      "oem.com.mx"
     ]
   },
   {
