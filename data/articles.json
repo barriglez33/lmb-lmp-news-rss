@@ -63,7 +63,10 @@
       "Naranjeros de Hermosillo",
       "Águilas de Mexicali"
     ],
-    "collected_iso": "2026-09-19T06:29:50.469042+00:00"
+    "collected_iso": "2026-09-19T06:29:50.469042+00:00",
+    "duplicate_sources": [
+      "El Imparcial"
+    ]
   },
   {
     "id": "d8781b3a5a93a4c3c14b",
@@ -443,6 +446,22 @@
       "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-09-18T17:21:18.434150+00:00"
+  },
+  {
+    "id": "22223f1e1957d750c2c7",
+    "title": "José Meléndez aparece como una opción real para Saraperos - Liga Mexicana de Béisbol (LMB) - Hablemos De Béisbol",
+    "source": "Hablemos De Béisbol",
+    "author": "Staff HDB",
+    "published_iso": "2026-09-18T16:50:17+00:00",
+    "published_rfc2822": "Fri, 18 Sep 2026 16:50:17 +0000",
+    "published_display": "2026-09-18 16:50 UTC",
+    "url": "https://hablemosdebeisbol.com/liga-mexicana/2026/jose-melendez-aparece-como-una-opcion-real-para-saraperos/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHY2YlBITjZVY21uamtzSkxRSGJkRjFrZGhIZm8wTWN4aS01YndQTnVrZVhsaHNPYVNrOGRfMmZsQTRCaWxSNVBFU19lZXpxb29rWWVGTFdneExVWi1XaG9kYkNDZWNCSF9fMEtQeU9tTFZsNXh2cE5IelVyTUtDbnFQYUl3Nk45azB1cnZQZ3dfVEItb0NjX2JMS3pxTUJ1SXBpdXBNbE16X1k?oc=5",
+    "body": "La información difundida por Tiempo Extra Telesur, programa de Telesur Radio 94.1 FM de Campeche, volvió a colocar a José Meléndez en el panorama de los Saraperos de Saltillo.\nDe acuerdo con el medio campechano, el actual director deportivo de los Piratas todavía no ha tomado una decisión sobre su futuro, no ha firmado contrato con Saraperos y existen tres organizaciones interesadas en sus servicios. Su intención sería encontrar una oportunidad en la Zona Norte para permanecer cerca de su familia.\nDesde la perspectiva de Saltillo, el nombre resulta particularmente atractivo.\nSaraperos necesita fortalecer una Dirección Deportiva que durante los últimos años no ha conseguido establecer un proyecto consistente. Después de la salida de Roberto Magdaleno, el club ha padecido cambios, decisiones cuestionables en la conformación del plantel y una falta de continuidad reflejada en sus resultados.\nMeléndez reúne varias de las características que requiere el puesto. Es un directivo con experiencia en la Liga Mexicana de Beisbol, conoce el mercado, cuenta con buenas relaciones dentro del circuito y ha participado en la construcción de equipos competitivos.\nSu trayectoria incluye etapas con Acereros de Monclova, Olmecas de Tabasco y Piratas de Campeche. En su historial aparecen dos campeonatos de la LMB, obtenidos en 2016 y 2019, además de un título de la Zona Sur en 2017. También intervino en la renovación deportiva de Tabasco y en el regreso de Campeche a la postemporada.\nNo es la primera vez que su nombre es relacionado con Saraperos. En distintos momentos ha sido mencionado como una posibilidad para encabezar el área deportiva del club, pero ahora el contexto parece más favorable debido a su interés por trabajar en el Norte.\nAsí, José Meléndez toma fuerza como uno de los perfiles que Saraperos debería analizar seriamente.\nSin embargo, su contratación solamente tendría sentido si estuviera acompañada por un proyecto sólido. No bastaría con otorgarle el nombramiento: necesitaría autoridad para tomar decisiones, recursos para conformar el plantel y tiempo suficiente para desarrollar una estructura competitiva.\nEl reto de Saraperos no consiste únicamente en contratar nombres conocidos. El club necesita mejorar su evaluación de talento, definir una identidad deportiva, fortalecer sus relaciones dentro de la liga y construir un equipo equilibrado que pueda competir durante toda la temporada.\nPor ahora, lo único confirmado es que Meléndez continúa ligado a los Piratas de Campeche y que no ha firmado con Saltillo. Según lo publicado en Telesur, analiza diferentes posibilidades y, si no alcanza un acuerdo con alguna organización interesada, podría permanecer en Campeche.\nPara Saraperos, su situación representa una oportunidad. Meléndez conoce la industria, tiene experiencia inmediata, ha participado en proyectos ganadores y podría poner orden en un departamento que necesita dirección y estabilidad.\nSaltillo no requiere solamente un nuevo nombre en su organigrama. Necesita una cabeza deportiva capaz de construir, decidir y sostener un proyecto a largo plazo.\n¿Debe Saraperos apostar por José Meléndez?\nArtículos Relacionados\nSomos una comunidad de aficionados al béisbol, dedicado a hablar sobre las ligas más importantes con especial atención en el béisbol de Chihuahua. Compartimos tú misma afición por el rey de los deportes y es aquí donde se vive y Hablamos de Béisbol.\nArtículos recientes\n- Naranjeros abre la competencia por el roster con jóvenes y siete refuerzos 18 de septiembre de 2026\n- José Meléndez aparece como una opción real para Saraperos 18 de septiembre de 2026\n- Toros elimina a Sultanes con otra explosión de Hernán Pérez 3 de septiembre de 2026\n- Sultanes recibe a Toros con el control de la serie en juego 31 de agosto de 2026\n- Sultanes deja escapar el Juego 3 ante Toros en 11 entradas 31 de agosto de 2026\n- Pericos y Olmecas: velocidad contra poder en el Sur 29 de agosto de 2026\n- Toros blanquea a Sultanes con dos cuadrangulares 29 de agosto de 2026\n- ¿Qué es la LMP y cómo se juega la Liga Mexicana del Pacífico? 29 de agosto de 2026\n- Henry Blanco no abandona a su cerrador 28 de agosto de 2026\n- Manny Bañuelos encuentra su mejor versión en playoffs 28 de agosto de 2026",
+    "matched_queries": [
+      "Piratas de Campeche"
+    ],
+    "collected_iso": "2026-09-19T12:28:40.727484+00:00"
   },
   {
     "id": "f2ad6f0828a91a2ef6c2",
@@ -17641,23 +17660,5 @@
     "duplicate_sources": [
       "www.noroeste.com.mx"
     ]
-  },
-  {
-    "id": "1011c1770c5a9bd084ed",
-    "title": "Pericos de Puebla vs Olmecas de Tabasco: dónde ver y horarios 2026",
-    "source": "Telediario",
-    "author": "Telediario; Andrea Guzmán Anides",
-    "published_iso": "2026-08-29T19:30:19+00:00",
-    "published_rfc2822": "Sat, 29 Aug 2026 19:30:19 +0000",
-    "published_display": "2026-08-29 19:30 UTC",
-    "url": "https://www.telediario.mx/deportes/beisbol/pericos-de-puebla-vs-olmecas-de-tabasco-donde-ver-y-horarios-2026",
-    "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMnMwWjVZOG1Ic21aelFNVzNzR0xDRXkxcFVidUkxU1RzUDFqZXdXSm51eTJCT3gzV3F5c3ZRMDQ4TGRUQ25aeFh4eUlXeS1yam5oN1dMSHNydE9tbldoVy1pLUpBbTljXzJuSno4Tk14WEJNNGQzNnAzLXRLZE5iS0JSSUVGWmY2bGx3dkQ0V19QaTBrUC1nZ19YWGZhRDRUVUQ5eEQyVUlEZldo0gGsAUFVX3lxTE5mZ0kxWm9UTFFBM0N4NHBuUlJnbGNjYlRPakxXZUZ2U2lKNHVITDJZUDZrX1JlYmhiMnVLSkFBWXdSdnlzdFgyRHBreWh4MG9aRUJ2TVI0azNLV1ZIVWVTUzlMNF93STlQUEJjZUFZRlc0RWhTMGZEYWNxU2gxQ0FoSkRnU0RBZTB2ajdoWjZUOElMaDR4emFDdEJ6SWlUVm5jSzNYRWhuVVpSbTg?oc=5",
-    "body": "Pericos de Puebla vs Olmecas de Tabasco: Horarios y dónde ver EN VIVO la final de la Zona Sur LMB 2026\n¡Llegó el día! Pericos de Puebla y Olmecas de Tabasco disputarán la serie de campeonato de la Zona Sur para definir quién pasará a la Serie del Rey. Aquí te contamos dónde y a qué hora ver cada uno de los juegos.\nEste fin de semana arranca la serie por el campeonato de la Zona Sur de la LMB 2026 entre Pericos de Puebla y Olmecas de Tabasco. Te contamos todos los detalles sobre el calendario, horarios y dónde ver cada juego de la final.\nLos emplumados buscan su séptimo título, pero antes deberán superar a unos aguerridos Olmecas para avanzar a la Serie del Rey. Y tú puedes ser parte de este camino.\nPericos de Puebla vs Olmecas dónde ver\nLa final arranca este sábado 29 de agosto y, de ser necesario un séptimo juego, se disputaría hasta el domingo 6 de septiembre.\nTabasco tiene la ventaja de local, los primeros dos encuentros serán en casa de los Olmecas. Luego, la serie se muda a Puebla con tres juegos en el Estadio Hermanos Serdán. Si la eliminatoria se pone intensa, los últimos dos partidos regresarán a Tabasco.\nCalendario de juegos Pericos de Puebla vs Olmecas de Tabasco\n- Sábado 29 de agosto – En Tabasco | 19:05 horas\n- Domingo 30 de agosto – En Tabasco | 18:00 horas\n- Lunes 31 de septiembre – Sin juego (día de descanso)\n- Martes 1 de septiembre – En Puebla | 19:00 horas\n- Miércoles 2 de septiembre – En Puebla | 19:00 horas\n- Jueves 3 de septiembre – En Puebla | 19:00 horas\n- Viernes 4 de septiembre – Sin juego\n- Sábado 5 de septiembre – En Tabasco | 19:00 horas\n- Domingo 6 de septiembre – En Tabasco | 18:00 horas\n¿Dónde ver Pericos vs Olmecas?\nLa señal de Canal 6 será tu mejor aliada para no perderte ni un solo lanzamiento. La transmisión estará disponible en 6.1 en televisión abierta, y también podrás sintonizarla en las siguientes plataformas de paga y streaming:\nIzzi | Samsung TV Plus | Dish | Roku Channel | Totalplay | StarTV | Sky | RUN:TIME | TCL | Pluto TV | Plex | CANELA.TV | LG Channels\nPero eso no es todo. Para que ningún aficionado se quede sin acción, la serie también se transmitirá en:\n- TV Azteca\n- TVC Deportes\n- Imagen Televisión\n- Claro Sports\n- FOX ONE\n- AYM Sports\n- Y en el sitio web oficial de la Liga Mexicana de Beisbol.\nPericos busca su pase a la Serie del Rey y la gloria de un séptimo título, pero enfrente tendrá a unos Olmecas que no darán tregua en su propio feudo.\nLa afición está llamada a ser el noveno jugador, ya sea desde las gradas o frente al televisor. Así que ya lo sabes: marca tu calendario, ajusta tu horario y prepárate para el mejor beisbol del sur.\n- ¡Así queda el nuevo 'Tri'! Rafael Márquez arma un cuerpo técnico con experiencia mundial de cara al 2030\n- Querétaro Femenil vs Rayadas EN VIVO dónde ver y horario de la Jornada 5 del Apertura 2026\n- ¡Se calentó el 'Piojo'! Miguel Herrera se enfrascó con aficionados tras el Atlante vs León | VIDEO\n- Diane Parry y Elise Mertens disputarán la Gran Final del Abierto GNP Seguros 2026\nQueda prohibida la reproducción total o parcial del contenido de esta página, mismo que es propiedad de TELEDIARIO; su reproducción no autorizada constituye una infracción y un delito de conformidad con las leyes aplicables.",
-    "matched_queries": [
-      "Pericos de Puebla",
-      "Olmecas de Tabasco",
-      "Dónde ver LMB"
-    ],
-    "collected_iso": "2026-08-29T20:28:59.384418+00:00"
   }
 ]
