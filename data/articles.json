@@ -1,5 +1,21 @@
 [
   {
+    "id": "0b69e32dc529e65a073b",
+    "title": "Juan Uriarte llega a Venados con un objetivo: defender el jersey de Mazatlán - El Sol de Mazatlán",
+    "source": "El Sol de México",
+    "author": "Isac Chávez",
+    "published_iso": "2026-09-19T19:27:59+00:00",
+    "published_rfc2822": "Sat, 19 Sep 2026 19:27:59 +0000",
+    "published_display": "2026-09-19 19:27 UTC",
+    "url": "https://oem.com.mx/elsoldemazatlan/deportes/juan-uriarte-llega-a-venados-con-un-objetivo-defender-el-jersey-de-mazatlan-32159669",
+    "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLTFrTU9Xck1KVHJZNEg1UTNLczB0NkNZaWJCVWFzaGl0VFRHSXZQSUhQT1NVM1NRTTZqbkNvZXp2WnIzQVZkOTlSUEZZZTF0SzE1bHNmcUc3dl9EWlRYODlqVThoTG5BN1ZaLWhlTFg5SVJDSzNiX1d1NjM4SDRLZEx1NWc3bWFtaUx5S0hPdzhnTFJwR0FiQ2VxVmJDU1hoRENWT2dRMTJrN2tIUDZPVlozZEhtUmIzTEg2blp3MXNWTFllcFFB?oc=5",
+    "body": "Juan Uriarte llega a Venados con un objetivo: defender el jersey de Mazatlán\nEl receptor sinaloense afronta una nueva etapa en Mazatlán, con experiencia en distintas plazas y la intención de aportar tanto detrás del plato como con el bat\nEl mazatleco fue reclamado por Philadelphia después del 1 de septiembre y, aunque puede participar en el cierre de la temporada regular, no sería elegible para playoffs",
+    "matched_queries": [
+      "Venados de Mazatlán"
+    ],
+    "collected_iso": "2026-09-19T20:25:05.264245+00:00"
+  },
+  {
     "id": "343e872691f54598bd4c",
     "title": "Yaquis de Obregón pierden a Haper Gamboa - José Cárdenas",
     "source": "José Cárdenas",
@@ -115,7 +131,10 @@
       "Naranjeros de Hermosillo",
       "Yaquis de Obregón"
     ],
-    "collected_iso": "2026-09-19T14:22:36.249181+00:00"
+    "collected_iso": "2026-09-19T14:22:36.249181+00:00",
+    "duplicate_sources": [
+      "azcentral.com and The Arizona Republic"
+    ]
   },
   {
     "id": "51318bbb630d96f1db17",
@@ -17642,21 +17661,5 @@
       "Caliente de Durango"
     ],
     "collected_iso": "2026-08-30T10:28:44.425440+00:00"
-  },
-  {
-    "id": "2baba706b47e6fde5f1b",
-    "title": "Abraham Favela, un sueño que comenzó en ligas pequeñas de Tijuana",
-    "source": "Liga Mexicana de Beisbol",
-    "author": "",
-    "published_iso": "2026-08-30T02:32:20+00:00",
-    "published_rfc2822": "Sun, 30 Aug 2026 02:32:20 +0000",
-    "published_display": "2026-08-30 02:32 UTC",
-    "url": "https://lmb.com.mx/noticias/abraham-favela-un-sueno-que-comenzo-en-ligas-pequenas-de-tijuana",
-    "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHBsS2loeU5sbDhrTzVBdEdlUi1sQlYzTjBfemN5amJ3Tk9nYUlWTjFUWHRtV0hvWVJ6ODd0dl91V012MkxuOTV0T1FqMXlzb0tMQ3RJb3ptblRFZkg2NXFOQ09qb0JMNFFuRHZDdTRmcnJuZy02SjhYVy1heEhxV2ZUQWItVjVONHBPWFVaTHFMRVhzd0dj?oc=5",
-    "body": "Últimas Noticias\n| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
-    "matched_queries": [
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-08-30T09:28:28.372349+00:00"
   }
 ]
