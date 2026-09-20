@@ -1,5 +1,21 @@
 [
   {
+    "id": "c6ce75733d130dace625",
+    "title": "Cañeros vence a Mágicos en el Clásico Mágico",
+    "source": "Luz Noticias",
+    "author": "Jes; Uacute; S; Aacute; Lvarez Iceido",
+    "published_iso": "2026-09-20T15:40:00+00:00",
+    "published_rfc2822": "Sun, 20 Sep 2026 15:40:00 +0000",
+    "published_display": "2026-09-20 15:40 UTC",
+    "url": "https://www.luznoticias.mx/2026-09-20/deportes/caneros-superan-a-magicos-en-el-clasico-magico/305940",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTk9YNGxydzZOdktiV1l4OWxWS2JMLVRyZnpKbU5GZnRhdzhMRWI2YlBfOGptd2xXS0R6c1Z4MFRLR3Rjbm45d1RTV3lHTmNfLUpYcjIxeF9ZX3BzdTlkTnZNNjQzWm05NGd1LV9CVXhMUmpQNXdraklUTmFqZGk2ck4tSDNxbTZRdDk1MHFiRldZNFU5blVCZm9QRXlHN1NpeEHSAacBQVVfeXFMTzhENUFIU3ZseUppY2JIaDUyM1lJWkVXcnhrTkNoNy12eGc1SEplWFU1U0NkRFJHMVZlaFd5WTBEQm9RMGFoMmtvQllmZVVkLVFZV3dVMlZKdkxqN1FFTy1BLTNTa0dDbllpUDRqMHhCdDBRcHdQbjBpaXE5NS1MYnRZc0tYeUkxaHRicHN3TS1uaWpwdHBQVjUzQTI3V2QtdVh0RERMVXM?oc=5",
+    "body": "Deportes\nCañeros vence a Mágicos en el Clásico Mágico\nLos Cañeros de Los Mochis lograron una contundente victoria de 7-0 sobre los Mágicos de El Fuerte en la tercera jornada del torneo.\nLos Cañeros de Los Mochis no tuvieron problema para superar 7 carreras por 0 a los Mágicos de El Fuerte en la tercera jornada del Clásico Mágico en el bello pueblo sinaloense.\nLas primeras carreras llegaron en el segundo episodio; tras dos outs, Jayson Bass Jr. conectó un batazo que no pudo detener el jardinero.\nEnseguida, Mario Gómez bateó una rola complicada al cuadro para impulsar a Bass, y Diego Soto se trajo a Gómez con un sencillo al izquierdo. Finalmente, un imparable de Aarón Lugo remolcó a Soto.\nEn la tercera, Alejandro Urías abrió la tanda con un tremendo batazo de cuadrangular a jardín izquierdo. Y en la cuarta, José Luis Robledo bateó un hit cortito al central para impulsar a Diego Soto.\n- También te podría interesar: José Ignacio Rodríguez cumplió el sueño de llegar a las Grandes Ligas | Luz Noticias\nEn la sexta llegaron las últimas dos rayitas; con hombres en segunda y tercera, Justin Connell produjo con una rola al cuadro, y Jayson Bass puso el 7-0 con un hit para impulsar a Alejandro Urías.\nDominio del pitcheo\nEl pitcheo lució dominante, con diez chocolates y solo cuatro hits permitidos. El abridor del juego fue Omar Araujo, quien lanzó dos innings, y le ayudaron Miguel León, Jonás Garibay, Adrián Hernández, Vicente Valenzuela y González.\nEste domingo, Cañeros se enfrentarán a Mayos de Navojoa a la 1 p.m. en el juego para definir al campeón de este Clásico Mágico.\nTe puede interesar:\nMÁS NOTICIAS DE Deportes",
+    "matched_queries": [
+      "Cañeros de Los Mochis"
+    ],
+    "collected_iso": "2026-09-20T16:26:35.585663+00:00"
+  },
+  {
     "id": "4aa1981f7cdda1ed97de",
     "title": "¡Los Toros de Tijuana Conquistan su 3ª ‘Serie de Rey’!",
     "source": "La Jornada Hidalgo",
@@ -771,7 +787,10 @@
     "matched_queries": [
       "Tomateros de Culiacán"
     ],
-    "collected_iso": "2026-09-18T23:24:23.598862+00:00"
+    "collected_iso": "2026-09-18T23:24:23.598862+00:00",
+    "duplicate_sources": [
+      "El Sol de México"
+    ]
   },
   {
     "id": "dd783d4df181311d069c",
@@ -17644,23 +17663,5 @@
       "Olmecas de Tabasco"
     ],
     "collected_iso": "2026-08-31T05:24:51.558986+00:00"
-  },
-  {
-    "id": "e0ae2dc9c0e39d00bb9d",
-    "title": "Sultanes se impone en el Juego 2 y manda la serie igualada a Monterrey en la Final de la Zona Norte",
-    "source": "Infobae",
-    "author": "Luis Mote Nava",
-    "published_iso": "2026-08-30T16:12:15+00:00",
-    "published_rfc2822": "Sun, 30 Aug 2026 16:12:15 +0000",
-    "published_display": "2026-08-30 16:12 UTC",
-    "url": "https://www.infobae.com/mexico/deportes/2026/08/30/sultanes-se-impone-en-el-juego-2-y-manda-la-serie-igualada-a-monterrey-en-la-final-de-la-zona-norte/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVmV6STdFWXV1b3FJREVZNEpwcWRhcTZ4TXNMOWJ4MFdOaHRudzlOZGNFZEVrZjVkdkUxSFNRb1NDckZWMV9PYVdUVXYwMWU5Uzk4N05RR1dKT1ktUUlONkpEVEozd0Vzc1hIREsyWS05NTZ2TExENFR2Q0k2ay1vYVJFQmd1Yl9OcTZSM1NKelVra3lqWkZPczRlazRuQ0ZrZHVTbkZkdnlGV01LbTRJVkNCS2p3SlpEVFZvTmtxcWhNWm1OdzBMMUllYzVhXzUxLXhhN1o5Zl9zQXV0bjRpU3NZekxSd9IBgAJBVV95cUxQVnlyNVlhQnBzeUJwRkRUelRFZGlqSDF6Q2Eza2dHbDZabmstX0tyZHNKSzgwRjVSTlJfWUx2VDZNWS1PWXh5YkhBZ1ViTkdLUDBjMkdYV2V0ZktRQ3VOUkxQWm9FREp1MFRkTTdhNFRtUUJYY3BSVkphelRDV1lZMXRLSjRxcHQtWU5QYmp4QzNOejlLdzF5cU4zUF9qUm5XdmJuR0xPVEJjSWpQZUNleE5FR2NoM0VmOGNZQVdSLTdUdEJKRjR0OXc0a0JlcnQtSlkzV3ZpeVd2dXVRUHNTMTkyazVVaG1qRVlvVTNTWjNOdTJ6OFlJXzJKVnl1RGNy?oc=5",
-    "body": "Después de un primer encuentro, donde los Toros de Tijuana se impusieron a los Sultanes de Monterrey, el equipo regiomontano regresó de gran forma para imponerse al cuadro fronterizo en el segundo de la serie por pizarra de 4-0, logrando blanquear a una de las mejores ofensivas de la Liga Mexicana de Beisbol.\nCon este resultado, la Serie de Campeonato de la Zona Norte se trasladará a Nuevo León, donde los Fantasmas Grises buscarán aprovechar el apoyo de su afición en casa para conseguir el boleto a la final.\nDesarrollo del Juego 2\nLa figura principal de la noche fue el abridor de Sultanes de Monterrey, quien trabajó cinco entradas y dos tercios sin permitir carrera. Durante su labor concedió cinco imparables, pero supo controlar a la ofensiva de los Toros de Tijuana para evitar daños en la pizarra.\nPUBLICIDAD\nEl bullpen de los Fantasmas Grises también mantuvo el dominio, limitando a los rivales a solo seis hits en todo el juego para lograr así la blanqueada.\nJosh Lester abrió la producción ofensiva con un cuadrangular solitario al jardín central en la segunda entrada, dándole ventaja tempranera de 1-0 a los Sultanes.\nPara el tercer inning, Víctor Mendoza negoció pasaporte y, de inmediato, Lester volvió a conectar un vuelacercas para colocar la pizarra 3-0 en favor de los regiomontanos.\nSócrates Brito sumó una carrera más para Monterrey en una jugada de selección a la intermedia, permitiendo que Lester cruzara el plato y aumentara la ventaja a 4-0.\nPUBLICIDAD\nCon este desempeño, Sultanes aseguró el triunfo tanto por la solidez de su pitcheo como por la contundencia de su ofensiva.\nResto del calendario en la serie\nA continuación, te presentamos el resto del calendario con fechas, horarios y canales para que no pierdas detalle de lo que pasará en el resto de la serie entre los Sultanes de Monterrey y los Toros de Tijuana:\n- Juego 1 | Sultanes 0-2 Toros\n- Juego 2 | Sultanes 4-0 Toros\n- Juego 3 | lunes 31 de agosto | Walmart Park | 19:30 horas\n- Juego 4 | martes 1 de septiembre | Walmart Park | 19:30 horas\n- Juego 5 | miércoles 2 de septiembre | Walmart Park | 19:30 horas\n- *Juego 6 | viernes 4 de septiembre | Toros Mobil Park | 20:35 horas\n- *Juego 7 | sábado 5 de septiembre | Toros Mobil Park | 20:35 horas\n*En caso de ser necesario\nTodos los juegos de la serie podrán seguirse a través de las pantallas de ESPN y el Plan Premium de Disney+.\nPUBLICIDAD\nPUBLICIDAD",
-    "matched_queries": [
-      "Serie del Rey",
-      "Sultanes de Monterrey",
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-08-30T16:25:19.468597+00:00"
   }
 ]
