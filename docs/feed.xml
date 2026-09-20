@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sun, 20 Sep 2026 16:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:25:55 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Cañeros vence a Mágicos en el Clásico Mágico | Luz Noticias]]></title>
@@ -80,6 +80,7 @@ Con este resultado, Cañeros de Los Mochis (2-1) jugará la final contra los May
 | Tecos | 36 | 57 | .387 | 25.0 | 
 | Dorados | 35 | 58 | .376 | 26.0 |]]></description>
       <content:encoded><![CDATA[<p>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
+      <category>LMB</category>
       <category>Liga Mexicana de Béisbol</category>
     </item>
     <item>
@@ -608,6 +609,7 @@ El derecho estadounidense cuenta con recorrido en la pelota colegial. La campañ
 Ahora, el estadounidense regresa al puerto con un nuevo desafío: dirigir desde el banquillo a los rojos durante la temporada 2026-2027 de la Liga Mexicana del Pacífico.
 “Soy un hombre de retos y por eso vengo aquí. Conozco a la mayoría de los veteranos y ahora estoy conociendo a los jóvenes, para ver que están li…]]></description>
       <content:encoded><![CDATA[<p>MAZATLÁN.- Chris Roberson conoce la exigencia del beisbol invernal y también lo que significa vestir la franela de Venados de Mazatlán.<br>Ahora, el estadounidense regresa al puerto con un nuevo desafío: dirigir desde el banquillo a los rojos durante la temporada 2026-2027 de la Liga Mexicana del Pacífico.<br>“Soy un hombre de retos y por eso vengo aquí. Conozco a la mayoría de los veteranos y ahora estoy conociendo a los jóvenes, para ver que están listos para empezar a jugar”, recalcó.<br>Pase a leer ¡Chris Roberson reportará al mando de Venados de Mazatlán! – Punto MX<br>Roberson tuvo una etapa como jugador con Venados de Mazatlán y ahora hará su debut como mánager en la Liga Mexicana del Pacífico, después de desempeñarse como coach de banca de los Tomateros de Culiacán durante la temporada anterior.<br>Con la novena guinda, el estadounidense llegó a disputar la definición del circuito invernal y posteriormente la Serie del Caribe Jalisco 2026, donde Culiacán terminó como subcampeón en ambas competencias.<br>Este viernes 18 de septiembre, Chris Roberson se presentó ante los medios de comunicación luego de reportar al campamento de los Venados de Mazatlán, con la mirada puesta en la próxima campaña.<br>La invitación llegó en plena Serie del Caribe<br>El nuevo mánager de los rojos reveló que fue Jesús “Chino” Valdez quien lo buscó durante la participación de Tomateros de Culiacán en la Serie del Caribe 2026, específicamente mientras disputaban el juego dos, en Zapopan, Jalisco.<br>“Hablaba con ‘Chino’ Valdez. Estaba en la Serie del Caribe, estaba en el juego dos, y él me enfrentaba con un compromiso de que había chance de venir como mánager; tenía que tomar una decisión. Yo sabía que era algo que yo quería ser (mánager)”, puntualizo<br>La decisión, explicó, no representó mayor dificultad debido a los buenos recuerdos que conserva de su paso por Mazatlán y al carácter competitivo que lo acompaña en su carrera.<br>“Esta decisión estaba súper fácil. Como ellos hacen las cosas aquí en Mazatlán, mis recuerdos eran buenos. Me gusta ser competitivo”, expresó<br>Aunque la rivalidad deportiva entre Venados y Tomateros es una de las más conocidas de la Liga Mexicana del Pacífico, Roberson aseguró que esto no representó un obstáculo para aceptar la oportunidad de comenzar su carrera como mánager.<br>“Soy muy competitivo. Cuando ellos me invitaron para ser mánager, dije que sí. El año pasado estaba enfrente con ellos, pero quería iniciar mi carrera como mánager y ellos no tuvieron ningún problema”.<br>Chris Roberson<br>Mánager Venados de Mazatlán<br>Definirá el cuerpo de abridores<br>Uno de los pendientes para el estratega será definir la rotación abridora de cara al inicio de la temporada.<br>Roberson adelantó que, durante los próximos días, junto con su cuerpo técnico, analizará las opciones disponibles para tomar las decisiones sobre los lanzadores que estarán al frente de los juegos inaugurales.</p>]]></content:encoded>
+      <category>Serie del Caribe 2026</category>
       <category>Venados de Mazatlán</category>
     </item>
     <item>
