@@ -31,7 +31,10 @@
       "Naranjeros de Hermosillo",
       "Águilas de Mexicali"
     ],
-    "collected_iso": "2026-09-20T07:25:03.671507+00:00"
+    "collected_iso": "2026-09-20T07:25:03.671507+00:00",
+    "duplicate_sources": [
+      "El Imparcial"
+    ]
   },
   {
     "id": "cab83381b5ad91daa7bb",
@@ -200,6 +203,7 @@
     ],
     "collected_iso": "2026-09-19T22:23:16.130707+00:00",
     "duplicate_sources": [
+      "Tomateros",
       "tomateros.com.mx"
     ]
   },
