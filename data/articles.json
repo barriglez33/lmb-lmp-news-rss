@@ -79,7 +79,10 @@
     "matched_queries": [
       "Tomateros de Culiacán"
     ],
-    "collected_iso": "2026-09-21T00:32:31.253936+00:00"
+    "collected_iso": "2026-09-21T00:32:31.253936+00:00",
+    "duplicate_sources": [
+      "elsoldesinaloa.com.mx"
+    ]
   },
   {
     "id": "7560671b835fa965dfdf",
@@ -216,6 +219,7 @@
     ],
     "collected_iso": "2026-09-20T20:25:11.246076+00:00",
     "duplicate_sources": [
+      "noroeste.com.mx",
       "www.noroeste.com.mx"
     ]
   },
