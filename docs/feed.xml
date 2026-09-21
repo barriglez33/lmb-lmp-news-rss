@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Mon, 21 Sep 2026 10:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:27:17 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Entre tradición y deporte: la charrería busca acercarse a los jóvenes - El Occidental | El Sol de México]]></title>
@@ -102,6 +102,7 @@ El pelotero de Los Mochis dejó atrás sus actuaciones en las ediciones 2024 y 2
 El campeonato está vacante y será para uno de los dos finalistas, después de una temporada marcada por la paridad y la i…]]></description>
       <content:encoded><![CDATA[<p>Un rally de tres carreras en la cuarta entrada marca la diferencia, mientras el conjunto azul contiene la reacción rival y se adelanta en la batalla por el título<br>El pelotero de Los Mochis dejó atrás sus actuaciones en las ediciones 2024 y 2025 de la competencia nacional para enfrentar una nueva etapa en el circuito profesional<br>El campeonato está vacante y será para uno de los dos finalistas, después de una temporada marcada por la paridad y la incertidumbre hasta la última jornada<br>El mediocampo nacional abre espacio para dos futbolistas sinaloenses con perfiles distintos, pero con la misma intención de ganar protagonismo durante esta nueva etapa</p>]]></content:encoded>
       <category>Tomateros de Culiacán</category>
+      <category>LMP</category>
     </item>
     <item>
       <title><![CDATA[Algodoneros no puede con Mágicos y termina con derrota el torneo de preparación | www.noroeste.com.mx]]></title>
