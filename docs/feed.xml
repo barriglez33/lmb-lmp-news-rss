@@ -6,8 +6,20 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Mon, 21 Sep 2026 08:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:28:39 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Entre tradición y deporte: la charrería busca acercarse a los jóvenes - El Occidental | El Sol de México]]></title>
+      <link>https://oem.com.mx/eloccidental/local/entre-tradicion-y-deporte-la-charreria-busca-acercarse-a-los-jovenes-32186730</link>
+      <guid isPermaLink="false">67e4106e49e96d98b3d5</guid>
+      <pubDate>Mon, 21 Sep 2026 09:13:44 +0000</pubDate>
+      <source><![CDATA[El Sol de México]]></source>
+      <dc:creator><![CDATA[Redacción; El Occidental]]></dc:creator>
+      <description><![CDATA[La diputada de MC no niega su deseo de ser la primera presidenta municipal de Zapopan pero considera que entre todos los aspirantes debe prevalecer en interés del partido y la unidad para salir fortalecidos
+Vecinos denuncian que antiguos espacios de recolección continúan utilizándose como tiraderos clandestinos; algunas personas han sido identificadas y sancionadas por abandonar residuos]]></description>
+      <content:encoded><![CDATA[<p>La diputada de MC no niega su deseo de ser la primera presidenta municipal de Zapopan pero considera que entre todos los aspirantes debe prevalecer en interés del partido y la unidad para salir fortalecidos<br>Vecinos denuncian que antiguos espacios de recolección continúan utilizándose como tiraderos clandestinos; algunas personas han sido identificadas y sancionadas por abandonar residuos</p>]]></content:encoded>
+      <category>Charros de Jalisco</category>
+    </item>
     <item>
       <title><![CDATA[Rogelio Ibarra destaca desarrollo de prospectos en Sultanes de Monterr | Telediario]]></title>
       <link>https://www.telediario.mx/beisbol/sultanes/rogelio-ibarra-desarrollo-prospectos-sultanes-monterrey</link>
@@ -2040,18 +2052,6 @@ La primera vez en la historia que los Toros se coronaron en la LMB fue en el 201
       <category>Serie del Rey</category>
       <category>LMB</category>
       <category>Liga Mexicana de Béisbol</category>
-    </item>
-    <item>
-      <title><![CDATA[Luis Durango Jr. se reporta con los Naranjeros de Hermosillo | RPC TV]]></title>
-      <link>https://www.rpctv.com/beisbol/luis-durango-jr-se-reporta-los-naranjeros-hermosillo-n6091954</link>
-      <guid isPermaLink="false">dea2996d8f0a5ab9c4a8</guid>
-      <pubDate>Wed, 16 Sep 2026 14:45:00 +0000</pubDate>
-      <source><![CDATA[RPC TV]]></source>
-      <description><![CDATA[El jardinero Luis Durango Jr. se reportó con los Naranjeros de Hermosillo en México, luego de una gran campaña en las menores con los Yankees de New York.
-Este año jugó en clase A, Clase A fuerte y Doble A donde acumuló promedio de .320 con 27 remolcadas, 46 bases robadas, .377 de OBP y .763 de OPS.
-El papá de Luis también tuvo su paso por este equipo: "Mi papá está muy contento porque estuvo aquí y me dijo hijo, siéntate como en casa, estás en u…]]></description>
-      <content:encoded><![CDATA[<p>El jardinero Luis Durango Jr. se reportó con los Naranjeros de Hermosillo en México, luego de una gran campaña en las menores con los Yankees de New York.<br>Este año jugó en clase A, Clase A fuerte y Doble A donde acumuló promedio de .320 con 27 remolcadas, 46 bases robadas, .377 de OBP y .763 de OPS.<br>El papá de Luis también tuvo su paso por este equipo: &quot;Mi papá está muy contento porque estuvo aquí y me dijo hijo, siéntate como en casa, estás en una de las mejores organizaciones de ese país, créeme que te vas a sentir a gusto, vas a aprender mucho y sé que darás lo mejor de ti&quot;.<br>&quot;Robar muchas bases, hacer muchas jugadas buenas en la defensa y dar muchos hits&quot;, señaló el panameño sobre que podía aportar al equipo.</p>]]></content:encoded>
-      <category>Naranjeros de Hermosillo</category>
     </item>
   </channel>
 </rss>
