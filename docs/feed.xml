@@ -6,8 +6,24 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Mon, 21 Sep 2026 22:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:28:43 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Quieren Toros de Tijuana crear una dinastía en la LMB | Reforma]]></title>
+      <link>https://www.reforma.com/quieren-toros-de-tijuana-crear-una-dinastia-en-la-lmb/ar3279844</link>
+      <guid isPermaLink="false">35a716388d4266b63ae1</guid>
+      <pubDate>Mon, 21 Sep 2026 22:31:51 +0000</pubDate>
+      <source><![CDATA[Reforma]]></source>
+      <dc:creator><![CDATA[Sineli Santos]]></dc:creator>
+      <description><![CDATA[Quieren Toros de Tijuana crear una dinastía en la LMB
+02 MIN 30 SEG
+Sineli Santos
+Cd. de México (21 septiembre 2026) .-16:28 hrs
+Omar Canizales aseguró que los Toros de Tijuana son contendientes al bicampeonato siempre y cuando puedan ajustar sus áreas de oportunidad en 2027. Crédito: Sineli Santos
+Justin Turner mencionó que fue muy especial ganar el título en su primer año en México, mientras que comentó sus chances de regresar en 2027 con el eq…]]></description>
+      <content:encoded><![CDATA[<p>Quieren Toros de Tijuana crear una dinastía en la LMB<br>02 MIN 30 SEG<br>Sineli Santos<br>Cd. de México (21 septiembre 2026) .-16:28 hrs<br>Omar Canizales aseguró que los Toros de Tijuana son contendientes al bicampeonato siempre y cuando puedan ajustar sus áreas de oportunidad en 2027. Crédito: Sineli Santos<br>Justin Turner mencionó que fue muy especial ganar el título en su primer año en México, mientras que comentó sus chances de regresar en 2027 con el equipo astado. Crédito: Sineli Santos<br>Los Toros de Tijuana apuntan a convertirse en una dinastía en la Liga Mexicana de Beisbol.<br>.@TorosDeTijuana busca convertirse en una dinastía de la Liga Mexicana de Beisbol y su presidente ejecutivo, Omar Canizales, ya piensa en el bicampeonato.<br>Justin Turner (@redturn2) tuvo la fortuna de coronarse en su primer año en la Liga Mexicana de Beisbol con @TorosDeTijuana, así que lo considera como un título muy especial.</p>]]></content:encoded>
+      <category>LMB</category>
+    </item>
     <item>
       <title><![CDATA[Leonas de Yucatán abre convocatoria para Tryout en Mérida - Leones de Yucatán | Leones de Yucatán]]></title>
       <link>https://www.leones.mx/leonas-de-yucatan-abre-convocatoria-para-tryout-en-merida/</link>
@@ -2032,19 +2048,6 @@ Tras remontar en la última entrada…]]></description>
       <category>LMB</category>
       <category>Liga Mexicana de Béisbol</category>
       <category>Toros de Tijuana</category>
-    </item>
-    <item>
-      <title><![CDATA[Toros ganó 2-0 a Olmecas y sumó su tercer título en la Liga Mexicana de Beisbol | OnceDiario]]></title>
-      <link>https://www.oncediario.com/notas/63929-beisbol-liga-mexicana-de-beisbol-tijuana-tabasco-toros-olmecas-gilberto-celestino-hernan-perez-lmb-2026-serie-del-rey-2026</link>
-      <guid isPermaLink="false">7febcb241715b8a657fc</guid>
-      <pubDate>Wed, 16 Sep 2026 18:29:14 +0000</pubDate>
-      <source><![CDATA[OnceDiario]]></source>
-      <description><![CDATA[Miércoles 16 de septiembre de 2026
-La Liga Mexicana de Beisbol tiene un nuevo campeón en los Toros de Tijuana, quienes vencieron 2-0 a los Olmecas de Tabasco para finiquitar la Serie del Rey 2026 en seis juegos.
-Gilberto Celestino produjo dos carreras con un sencillo en la quinta entrada y Adonis Medina lanzó 5.0 entradas en blanco para que Tijuana conquistara su tercer campeonato en la historia.
-El desenlace del juego 6 se dio cuando Jeremy Rhoa…]]></description>
-      <content:encoded><![CDATA[<p>Miércoles 16 de septiembre de 2026<br>La Liga Mexicana de Beisbol tiene un nuevo campeón en los Toros de Tijuana, quienes vencieron 2-0 a los Olmecas de Tabasco para finiquitar la Serie del Rey 2026 en seis juegos.<br>Gilberto Celestino produjo dos carreras con un sencillo en la quinta entrada y Adonis Medina lanzó 5.0 entradas en blanco para que Tijuana conquistara su tercer campeonato en la historia.<br>El desenlace del juego 6 se dio cuando Jeremy Rhoades, abridor de Olmecas, admitió imparables de Junior Lake y de Jonathan Guzmán y, ya con dos fuera, Celestino respondió a la hora cero con un sencillo al jardín central que mandó a Lake y a Guzmán a tierra prometida para poner la pizarra 2-0 a favor de los Toros.<br>En el noveno capítulo, Brett de Geus, cerrador de Tijuana, le puso emoción al duelo al recibir un hit y dar una base por bolas, pero dominó a los últimos tres bateadores para sellar la victoria.<br>Hernán Pérez fue designado por la prensa presente en el Toros Mobil Park como el &quot;Jugador Más Valioso&quot; de la Serie del Rey 2026.<br>PG: Adonis Medina<br>PD: Jeremy Rhoades<br>SV: Brett de Geus<br>HRs: No hubo</p>]]></content:encoded>
-      <category>Liga Mexicana de Béisbol</category>
     </item>
   </channel>
 </rss>
