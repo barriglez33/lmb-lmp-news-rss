@@ -1,5 +1,43 @@
 [
   {
+    "id": "35bc9dcee1230b1b87fd",
+    "title": "Ramón “La Pulpa” Ríos vuelve a Venados con hambre de revancha y un título en mente - El Sol de Mazatlán",
+    "source": "El Sol de México",
+    "author": "Isac Chávez",
+    "published_iso": "2026-09-22T16:58:40+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:58:40 +0000",
+    "published_display": "2026-09-22 16:58 UTC",
+    "url": "https://oem.com.mx/elsoldemazatlan/deportes/ramon-la-pulpa-rios-vuelve-a-venados-con-hambre-de-revancha-y-un-titulo-en-mente-32207148",
+    "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb2swM3NGRml0UGhubklyclNoc0xDZzNFbUUxRmVTbVVWZUlGckxYX2pXeTlWc3Zqbm4tWFp4Nk9NUHRQSFV2VFlvM2JxV3NBa3pNN21yMGowSWhyOXJib3pTV0I1VGdIMHcwX3VKcU5GRDRUOExzY09WaFItRUV2R1pVZnd2dUlBSHpQelFNSlJRVTViVXZsbzJGMWZoV2pLZW9GT1dYX2Y2Y3oyZ3BFT2xiRDhMNWpTNUkyNlA0R3ZsTGVKM1gwYXlQQzhCdw?oc=5",
+    "body": "La novena guinda cumplió su noveno día de entrenamientos en Culiacán, con el pitcheo como protagonista y el Live BP como una de las principales herramientas de preparación\nEl receptor sinaloense afronta una nueva etapa en Mazatlán, con experiencia en distintas plazas y la intención de aportar tanto detrás del plato como con el bat",
+    "matched_queries": [
+      "Venados de Mazatlán"
+    ],
+    "collected_iso": "2026-09-22T17:38:00.401264+00:00"
+  },
+  {
+    "id": "a9468ebfc48270525c43",
+    "title": "Entorno Informativo",
+    "source": "entornoinformativo.com.mx",
+    "author": "Entorno Informativo; EdgarvGutierrez; Jesus Antonio Martinez Gómez",
+    "published_iso": "2026-09-22T16:08:59+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 16:08:59 +0000",
+    "published_display": "2026-09-22 16:08 UTC",
+    "url": "https://entornoinformativo.com.mx/justin-turner-confirma-su-intencion-de-continuar-con-toros-de-tijuana-en-la-lmb/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRNVldLVHR4TjhFX1pmUE1fN2o0SlFQTWtwd0Y2ekYzdVVvNk1xNmlzZzc3QlNOTHRFbWhJalRkX2dpUU5wNWNVVGZadWpRb3VUYkxEb3lfUUlQbUkyZEFWc3RHRjdYamZHWTJ1Z0I4QTd3Vkt3cmo3Y29TN3VISGNtS2JRcVZBWWZlbU1IdDh2dndsSFEyeGRnZUdNM05Kck0tV0luUXdCM3RmWUFDZEJBZU4?oc=5",
+    "body": "El veterano estadounidense se muestra dispuesto a seguir en el beisbol mexicano tras ser campeón\nEl tercera base estadounidense Justin Turner expresó su deseo de mantenerse activo dentro del terreno de juego y disputar una temporada más con los Toros de Tijuana en la Liga Mexicana de Beisbol durante el próximo año. El exjugador de las Grandes Ligas confirmó que su intención principal es continuar su carrera deportiva en la frontera mientras la directiva de la organización mantenga el interés por contar con sus servicios en el roster principal.\nTras conquistar el título de la Serie del Rey dos mil veintiséis con la novena fronteriza, el veterano de cuarenta y un años evaluó de manera sumamente positiva su primera experiencia dentro del circuito estival de beisbol profesional en México. Turner destacó el respaldo recibido por parte de la afición en el estadio Chevron y la comodidad de su entorno familiar durante el desarrollo de la campaña, elementos clave que motivan su continuidad para el siguiente ciclo deportivo.\nDurante la fase regular del torneo, el infielder registró un desempeño destacado al batear para un promedio de doscientos noventa y cinco, conectando seis largometrajes, veintiún dobles e impulsando veintiocho carreras en sesenta y cinco partidos disputados con la franela astada. Su liderazgo dentro del vestidor y la consistencia con el madero resultaron determinantes para que la escuadra tijuanense lograra coronarse como monarca de la liga estival tras superar las etapas de eliminación directa en la postemporada.\nLa directiva de la franquicia ya entabló conversaciones con el pelotero para formalizar su permanencia en el club por al menos un año más de contrato, supeditado únicamente a su preparación física durante el descanso invernal. Con esta ratificación, Toros de Tijuana busca asegurar la presencia de su máxima figura internacional para defender el campeonato de la LMB y mantener el nivel competitivo en la búsqueda de un nuevo gallardete para la frontera.\nNoticias relacionadas:\nSigue los reportes de última hora en FM 105\nInfórmate sobre los acontecimientos en El Vigía\nConsulta las actualizaciones de la prensa en Entorno Informativo",
+    "matched_queries": [
+      "LMB",
+      "Naranjeros de Hermosillo",
+      "Toros de Tijuana",
+      "Águilas de Mexicali"
+    ],
+    "collected_iso": "2026-09-22T17:27:28.857435+00:00",
+    "duplicate_sources": [
+      "Entorno Informativo"
+    ]
+  },
+  {
     "id": "09d738a4ac835e6c68f3",
     "title": "Mexican Baseball Fiesta: beisbol mexicano y cultura hispana en Arizona",
     "source": "El Imparcial",
@@ -149,7 +187,8 @@
     ],
     "collected_iso": "2026-09-22T06:30:05.692775+00:00",
     "duplicate_sources": [
-      "El Imparcial"
+      "El Imparcial",
+      "elimparcial.com"
     ]
   },
   {
@@ -1232,23 +1271,6 @@
       "LMB"
     ],
     "collected_iso": "2026-09-19T18:26:19.465337+00:00"
-  },
-  {
-    "id": "dfe527bc6f0e70771a37",
-    "title": "Entorno Informativo",
-    "source": "Entorno Informativo",
-    "author": "Entorno Informativo; EdgarvGutierrez; Jesus Antonio Martinez Gómez",
-    "published_iso": "2026-09-19T16:59:30+00:00",
-    "published_rfc2822": "Sat, 19 Sep 2026 16:59:30 +0000",
-    "published_display": "2026-09-19 16:59 UTC",
-    "url": "https://entornoinformativo.com.mx/naranjeros-de-hermosillo-inicia-pretemporada-con-triunfo-sobre-aguilas-de-mexicali/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUJpa3l4ZllUdXRRc2paNzlLM0pCRG1LSTM4TDBmWGVUOW52WWZtZjVKVXFDN1FXd1FzZW1aQk1WbTJwdHNwRkFLOW1zRWdPNmxkUnZpakpXOWpXZWk3NGd6dWpSNUNyeU1TNE02M2FhQVh0SVBoZ1U3bkVXZkxjOWNTdG9KVF9VRTROSWdhbDEzaS14MEEtNS1UcDlyVDRkdzE2NDBOUWdnLVZzTTdac1pSNXk2a1NV?oc=5",
-    "body": "La escuadra sonorense conecta tres cuadrangulares para imponerse en su primer duelo disputado en Ontario\nLos Naranjeros de Hermosillo iniciaron con victoria su etapa de pretemporada rumbo a la Liga Mexicana del Pacífico al vencer siete carreras a cinco a los Águilas de Mexicali en el ONT Field de Ontario, California. El encuentro formó parte de la Mexican Baseball Fiesta, donde el conjunto sonorense tomó ventaja desde el primer episodio mediante un jonrón solitario conectado por el bateador Jesús Loya ante el pitcheo rival.\nLa ofensiva de la escuadra naranja consolidó un ataque decisivo durante el segundo capítulo al fabricar un rally de cuatro anotaciones impulsado por cuadrangulares de Luis Lizárraga y Ángel Ramírez. Aunque el equipo de Mexicali reaccionó en la pizarra acercándose a cuatro carreras por cinco, el relevo de Hermosillo contuvo el embate rival hasta volver a ampliar la ventaja en las entradas finales del encuentro.\nEl cuerpo técnico encabezado por la gerencia deportiva utilizó a siete lanzadores sobre el montículo con el propósito de evaluar el estado físico de los serpentineros en este arranque de partidos de preparación. Rolando Mora inició en la lomita por Hermosillo, seguido por participaciones de Saúl Arias, Ozzie Méndez, Max Méndez, Ángel Camacho, José Albertos y el cerrador Enrique Castillo para asegurar el resultado favorable.\nLas anotaciones definitivas llegaron en el séptimo y noveno inning gracias a dobles productores de Eduardo Ozuna y Agustín Acosta que permitieron cruzar la registradora al corredor Axel Nieblas. El plantel sonorense mantendrá su agenda de compromisos de preparación en territorio estadounidense previo al arranque de la campaña oficial del circuito invernal de beisbol programado para este otoño.\nNoticias relacionadas:\nSigue los reportes de última hora en FM 105\nInfórmate sobre los acontecimientos en El Vigía\nConsulta las actualizaciones de la prensa en Entorno Informativo",
-    "matched_queries": [
-      "Naranjeros de Hermosillo",
-      "Águilas de Mexicali"
-    ],
-    "collected_iso": "2026-09-19T22:23:30.024423+00:00"
   },
   {
     "id": "cfd0cb6460c1fa9d147e",
@@ -17627,21 +17649,5 @@
       "Naranjeros de Hermosillo"
     ],
     "collected_iso": "2026-09-01T17:36:35.946481+00:00"
-  },
-  {
-    "id": "0546dcc073b36344258e",
-    "title": "Algodoneros tendrá un renovado cuerpo técnico para la próxima temporada",
-    "source": "www.noroeste.com.mx",
-    "author": "Noroeste; Redacción",
-    "published_iso": "2026-08-31T21:37:46+00:00",
-    "published_rfc2822": "Mon, 31 Aug 2026 21:37:46 +0000",
-    "published_display": "2026-08-31 21:37 UTC",
-    "url": "https://www.noroeste.com.mx/deportes/beisbol/algodoneros-tendra-un-renovado-cuerpo-tecnico-para-la-proxima-temporada-AG25328239",
-    "google_news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR0ZuUGRkNHREVjFjR1lpVkw5OWhUMFNQQUllMm9hU2lWbjRFd3M5eGtWRXVvUXJISGFqeUkzSDcxXzVQMk5lN3BldG41SjNqQXczWWdVTGc4NDBtUllHeE9TNE9wcjdkdmhWRXVsM01mVzZiWmhoTFhHdm10LVJmX1dPVDg3NnlVdFF5QlBZLUlYdU9Bd2NjTnpKOURwa3BZSDNoQkZzcXBOZDNSYTRCWjZRMjBiVEZaZFBSVnBDdjdRcDhXSXfSAcsBQVVfeXFMTVZxMnhaZFo0TnJZNXpoZlNrcXl4Q3A0T3V1SnVkdTc4azNNcTQ4WUJQTXVmeU9DdjZiUVM0a1UtMEFHTEhRZVJyYVhXbEYyRUMxaENrYlJmQ09qeEY2d2RYN0FvM2hzTnc4czg2Tmt6cllxVC0wUThJU2UtQ1NsbnZvcktQSklKQnJxYmtacWJJRmg0blZQamtyNGhiSTVCUHBxdmg1ZVB2dU9fMEItVV9qUGdRVUd2YjhTMFNaYkt6TW9tZG40ZGI5M2M?oc=5",
-    "body": "La directiva de los Algodoneros de Guasave decidió hacer algunos ajustes en su cuerpo técnico, en aras de obtener mejores resultados en la campaña 2026-2027 de la Liga Mexicana del Pacífico, ya que tanto en el manejo del picheo como en el de los receptores, además de los coaches de bases, se optó por traer caras nuevas, todos con el compromiso de poner muy en alto el nombre de la organización dentro del circuito gélido.\nComo ya se había adelantado desde hace meses, Óscar Robles sigue al frente de este proyecto como mánager del conjunto blanquiazul, pues ha sido el timonel más exitoso que ha tenido el equipo desde su retorno a la liga en 2019, quien de nueva cuenta tendrá a Ramón Orantes como su coach de banca.\nEl estadounidense Darryl Brinkley vivirá su segunda temporada como coach de bateo de esta escuadra, mientras que en el picheo se traerá este año al puertorriqueño David Rosario, un hombre con mucha experiencia en esos menesteres, pues ha desempeñado esa función en las ligas invernales de República Dominicana, Venezuela, México y su natal Puerto Rico, estando al frente de novenas como Tigres de Licey, Águilas Cibaeñas, Toros del Este, Águilas de Zulia, Tigres de Aragua, Cangrejeros de Santurce y Atenienses de Manatí, mientras que en la LMP ya laboró con Águilas de Mexicali, además de trabajar varios años en sucursales de los Cachorros de Chicago.\nCabe mencionar que Carlos Elizalde también tendrá el rol de coach de picheo este año, para trabajar a lado de David Rosario, mientras que Rogelio del Campo hará las funciones de coach de receptores, haciendo su debut como blanquiazul, y con él también llega esta temporada, en ese mismo cargo, el regiomontano Ángel Reséndez.\nDel Campo ya desempeñó esa función con Cañeros de Los Mochis y también ha trabajado como coach de bases en sucursales de Padres de San Diego, mientras que Reséndez viene de ser mánager de los Algodoneros de San Luis Río Colorado en la Liga Norte de México, además fue timonel campeón con el equipo de novatos de Sultanes de Monterrey en el torneo Rising Star 2025.\nComo coach de tercera base ahora se tendrá al venezolano José Nieves, quien el año pasado fue coach de control de calidad en Algodoneros, mientras que Domingo Castro hará su debut como coach de primera, un elemento de esta región que fue pelotero destacado de Venados de Mazatlán en invierno y de Acereros de Monclova en verano, además de ser mánager de jóvenes prospectos de Monclova el año pasado en la Liga Metropolitana en Puebla.\nNathanael Reyes e Ignacio Rodríguez seguirán como coaches de bullpen en el equipo, así como Wilhem Ruiz, Juan Ramón Acuña y Jherson Esqueda fungirán de nuevo como trainers, mientras que Jorge Pech, Mario González y Miguel Atrip serán los bat boys para redondear este conjunto guasavense.",
-    "matched_queries": [
-      "Algodoneros de Guasave"
-    ],
-    "collected_iso": "2026-09-01T00:43:37.242270+00:00"
   }
 ]
