@@ -321,7 +321,10 @@
       "Liga Mexicana de Béisbol",
       "Olmecas de Tabasco"
     ],
-    "collected_iso": "2026-09-21T20:23:55.609205+00:00"
+    "collected_iso": "2026-09-21T20:23:55.609205+00:00",
+    "duplicate_sources": [
+      "XEVT"
+    ]
   },
   {
     "id": "54ae980c5f76794fa58c",
