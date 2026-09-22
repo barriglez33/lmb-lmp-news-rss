@@ -1,5 +1,39 @@
 [
   {
+    "id": "1692f306f38651592f68",
+    "title": "Toma forma entrenamiento de Venados de Mazatlán",
+    "source": "PSN Noticias",
+    "author": "Rene Mora",
+    "published_iso": "2026-09-22T14:33:53+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 14:33:53 +0000",
+    "published_display": "2026-09-22 14:33 UTC",
+    "url": "https://psn.si/venados-mazatlan-entrenamiento-rm/2026/09/22/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XX09pZWJDdDdJTHVNYjBEQlh2b1l3c0RnM0FPTXoyUklCT21zQkVHQmpwT2lnb3RsSkJfQXVYVmdKTlZaejdpal9PanI3ejFyeHBLakpqX05VN1k1dTVtcE9UOU5ZTTZrNVdSRg?oc=5",
+    "body": "MAZATLÁN, Sinaloa.- Venados de Mazatlán sigue tomando forma en su campamento de entrenamiento con miras a la próxima temporada de la Liga Mexicana del Pacífico.\nRecientemente se unieron al trabajo Ramón Ríos, Juan Uriarte y Juan Kirk.\nEl equipo inicio ayer una nueva semana, después de que se tuvieron que suspender sus juegos de fin de semana en Nayarit por Lluvia, sin embargo, el trabajo no se detuvo y el cuerpo técnico aprovechó la jornada para realizar el primer juego interescuadras de la pretemporada.\nCon el paso de los días, el campamento rojo comienza a recibir elementos llamados a tener un papel importante durante la temporada. Roberson destacó que la incorporación de jugadores experimentados permitirá avanzar en el proceso de integración del equipo.\nCon más piezas incorporándose al campamento y las primeras interescuadras realizadas, Venados entra en una nueva etapa de su preparación, donde el objetivo será engranar al grupo, elevar el ritmo de juego y llegar en las mejores condiciones al inicio de la Temporada 2026-2027.\nCon información LMP",
+    "matched_queries": [
+      "Venados de Mazatlán"
+    ],
+    "collected_iso": "2026-09-22T14:35:32.024822+00:00"
+  },
+  {
+    "id": "2de33626afb5deec01fd",
+    "title": "Vicente Valenzuela, nuevo brazo de Dorados de Chihuahua",
+    "source": "Liga Mexicana de Beisbol",
+    "author": "",
+    "published_iso": "2026-09-22T14:26:27+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 14:26:27 +0000",
+    "published_display": "2026-09-22 14:26 UTC",
+    "url": "https://lmb.com.mx/noticias/vicente-valenzuela-nuevo-brazo-de-dorados-de-chihuahua",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGhXN3QzdDBXUHhzNWZuRDFxUTNmMG03QWMtYUVoTnBzbkdxX3lpd1ZQaXU0SHZzMm9Za19TbGljbVNJNms3YjhqLU9VZFNJejljY3d5RVlQOHFPNWVJZGpDVk5sZGFnX1l3Ykh4eFB5Y2tzQkhtYXZxSDdYTWV6Z2FGUlJFdjhNaUE?oc=5",
+    "body": "| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
+    "matched_queries": [
+      "LMB",
+      "Dorados de Chihuahua",
+      "Tigres de Quintana Roo"
+    ],
+    "collected_iso": "2026-09-22T14:27:22.681048+00:00"
+  },
+  {
     "id": "45be6645ea879a3a5ee7",
     "title": "José Eradio Burruel: el pelotero que conquistó Sonora con su talento y amistad - El Sol de Hermosillo",
     "source": "El Sol de México",
@@ -29,7 +63,10 @@
     "matched_queries": [
       "Naranjeros de Hermosillo"
     ],
-    "collected_iso": "2026-09-22T12:37:13.987962+00:00"
+    "collected_iso": "2026-09-22T12:37:13.987962+00:00",
+    "duplicate_sources": [
+      "El Imparcial"
+    ]
   },
   {
     "id": "d8b359af1c12ed74284c",
@@ -17607,40 +17644,5 @@
       "Toros de Tijuana"
     ],
     "collected_iso": "2026-08-31T22:18:29.209007+00:00"
-  },
-  {
-    "id": "885f66e94830e5b5d1dd",
-    "title": "Pericos de Puebla busca pase a Serie del Rey 2026 con barrida en casa",
-    "source": "telediario.mx",
-    "author": "Telediario; Jaime Zambrano",
-    "published_iso": "2026-08-31T21:20:00+00:00",
-    "published_rfc2822": "Mon, 31 Aug 2026 21:20:00 +0000",
-    "published_display": "2026-08-31 21:20 UTC",
-    "url": "https://www.telediario.mx/deportes/beisbol/pericos-puebla-busca-pase-serie-del-rey-2026-con-barrida-en-casa",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUVleXY4dHVNQ2c0WlotcUtobHJoUDJmMHYwVFFKdEJOUXdhbmtBUThNYkVFYU5pSkNxRmF4ZjE0TGVkeS1NZk5kRXd6di1UVE9TYlRUNnlaSU5mSVJpZVZFcEFvQm15VUw1b0F0Y0h3aGNCRkkxNWZXY1ROSndjdTdSeW1JcDBpRjdIeVlnU2JVLXp6ZXAteUdUakZIR0JZV2ZySjhmeW1MRmfSAasBQVVfeXFMTjNSRzlNNF9lbmh5LUlyOXZHelM1c0x3N3pWMWpPb0FWRHNTVjllVnd6Qnl2ZHFFT0c1WldHMGZtakE3SGdXS2swOUt3MUhOWWU1ZEJOTGdXRUpHVHdLZk84RlZEVGxlSm1DSGxNaTRzZXcwUTVxaEdFQVNPLXlKSklJcEdqWTFoQ2tMMURNV2ktZzdlcUZlajk3Q2NNT3hDUEJjTHUzWTRzUWZB?oc=5",
-    "body": "Pericos de Puebla buscan barrida en casa para sellar su pase a la Serie del Rey 2026\nLos Pericos buscarán aprovechar el factor local para inclinar la balanza y avanzar a la pelea por su séptimo título en la LMB.\nCon la misión de hacer valer su condición de locales, los Pericos de Puebla se preparan para disputar los siguientes tres encuentros de la Serie de Campeonato de la Zona Sur ante los Olmecas de Tabasco, con la mira puesta en alcanzar su boleto a la Serie del Rey 2026 de la Liga Mexicana de Beisbol (LMB).\nLa serie, que llega empatada a una victoria por equipo, se traslada esta semana al estadio Hermanos Serdán, donde se jugarán los duelos correspondientes a los juegos 3, 4 y 5, a partir de este martes 1 de septiembre y hasta el jueves 3, siempre a las 19:00 horas.\nEl primer conjunto que logre cuatro triunfos se adjudicará el campeonato de la Zona Sur y enfrentará al ganador de la Zona Norte por el título de la liga.\nEn caso de que no haya un ganador después de estos tres compromisos, la serie se mudará a Tabasco el sábado 7 de septiembre para el sexto juego; de ser necesario, el séptimo también se disputaría en esa sede.\n¿Cuántas finales de la Zona Sur han disputado los Pericos de Puebla?\nDesde su regreso a la LMB en el año 2000, los Pericos de Puebla han disputado cinco finales de zona. Su única derrota en una instancia decisiva ocurrió en 2004, cuando cayeron ante los Saraperos de Saltillo en la Final del Norte.\nEn esta edición 2026, la escuadra poblana llegó a la Final de la Zona Sur tras eliminar en seis juegos a los Diablos Rojos del México, mientras que los Olmecas dejaron en el camino en siete encuentros a los Guerreros de Oaxaca.\nDurante la temporada regular, la balanza favoreció a Tabasco con marca de 6-3 sobre los Pericos. Entre los bateadores más destacados de Puebla frente a los olmecas figuran Lorenzo Cedrola (.357, 15 H, 8 CP, 4 SB), Samar Leyva (.314, 11 H, 5 CP) y Michael De la Cruz (.588, 1 HR, 8 CP). Por el lado tabasqueño, sobresalieron Seth Beer (.484, 2 HR, 11 CP), Yamaico Navarro (.464, 3 HR, 10 CP), Domingo Leyba (.314, 3 HR, 7 CP) y Agustín Ruíz (.438, 14 H, 1 HR, 6 CP).\nUn dato histórico: el 21 de julio pasado, Henry Ramos, en apenas su quinto juego con la camiseta verde, conectó un ciclo ante los Olmecas, proeza que solo otro jugador había logrado en la historia de la organización.\nEn el primer enfrentamiento de esta serie final, los Pericos impusieron condiciones con un ataque de cuatro carreras en la séptima entrada, llevándose la victoria 5-1. Sin embargo, en el segundo duelo, los Olmecas respondieron con un imparable al central de Carlos Arellano con las bases llenas en la entrada número once, para ganar 4-3 y empatar la serie.\nAhora, con la afición poblana como aliada, los Pericos buscarán aprovechar el factor local para inclinar la balanza y avanzar a la pelea por su séptimo título en la LMB.\n- ¡A conquistar Europa! Estos son todos los mexicanos que jugarán competencias UEFA en la temporada 2026/2027\n- \"Sos eterno, Capitán\": Las emotivas reacciones tras el retiro de Lionel Messi de la Selección Argentina\n- ¡Formidable! Estos son los mejores goles de Lionel Messi con la Selección Argentina | VIDEO\n- ¡Legado imborrable! Los récords inalcanzables que deja Lionel Messi en la Selección Argentina\nQueda prohibida la reproducción total o parcial del contenido de esta página, mismo que es propiedad de TELEDIARIO; su reproducción no autorizada constituye una infracción y un delito de conformidad con las leyes aplicables.",
-    "matched_queries": [
-      "Pericos de Puebla",
-      "LMB",
-      "Serie del Rey"
-    ],
-    "collected_iso": "2026-08-31T21:28:42.122192+00:00"
-  },
-  {
-    "id": "39b1b47fdb8a14a35b8f",
-    "title": "Estos son los precios para el quinto juego de Pericos vs Olmecas en el Hermanos Serdán",
-    "source": "Diario Cambio",
-    "author": "Mara González",
-    "published_iso": "2026-08-31T21:09:44+00:00",
-    "published_rfc2822": "Mon, 31 Aug 2026 21:09:44 +0000",
-    "published_display": "2026-08-31 21:09 UTC",
-    "url": "https://www.diariocambio.com.mx/2026/deportes/estos-son-los-precios-para-el-quinto-juego-de-pericos-vs-olmecas-en-el-hermanos-serdan/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmlsMEM4b2d1Q1Ntck1DcE1ITHhlSjFSbUlGUENrZ1k0cG9iYU5HNnRWX0lDYWpfSWVnZVFqZHp4MWJmNy1XUTI1R0dXdVhWTjVjWFgzNUtnMmVpSmJJaUFyeVRXdFpXRkZlMUJldlpmNEtnQXVkTHNCOUp0X0o1RWpxTTVWUTlSbV9OV1ViV0ZzX1JWRnlEOU01WVUzMWJPcVJjM096VmpvZG15YlBjdXhFUHB3WTN4Wm8yQ1Q1eVNadnhDaXBMUDJvVlA2QQ?oc=5",
-    "body": "Tras empatar 1-1 la Serie de Campeonato de la Zona Sur ante los Olmecas de Tabasco, los Pericos de Puebla se preparan para regresar al Estadio Hermanos Serdán, donde ya se reporta agotada la venta de boletos para los Juegos 3 y 4, mientras que, este martes, comenzará la comercialización de entradas para el quinto compromiso.\nLos accesos para los encuentros que se disputarán este martes 1 y miércoles 2 de septiembre, salieron a la venta el pasado viernes 28 de agosto a las 10:00 horas. La respuesta de los aficionados llevó a que ambas fechas quedaran con localidades agotadas a través de la plataforma Fanki.\n“Juego 5 de la Serie de Campeonato en la Ciudad y queremos verte ahí en #ModoPericos”, publicó el equipo emplumado en sus cuentas oficiales para anunciar el compromiso que podría celebrarse en Puebla.\nPor ello, este martes 1 de septiembre, a partir de las 10:00 horas, comenzará la venta de boletos para el Juego 5, programado para el jueves 3 de septiembre a las 19:00 horas en el Estadio Hermanos Serdán, en caso de que la serie requiera un quinto encuentro. Las localidades estarán disponibles tanto en las taquillas del inmueble como mediante Fanki.\nLos precios se mantienen entre los 240 y 480 pesos, dependiendo de la zona: Bleachers, 240 pesos; Lateral Tercera, 360; Lateral Primera y Preferente Tercera, 390; Preferente Primera, 410, y Central, 480 pesos. La compra en taquillas tendrá un límite de cuatro boletos por persona.\nPericos llega a Puebla con la serie igualada después de que venció 5-1 a Olmecas en el primer encuentro, mientras que Tabasco respondió en el segundo al imponerse 4-3 en 11 entradas. El tercer partido se jugará este martes y el cuarto está programado para el miércoles, ambos a las 19:00 horas en el Hermanos Serdán.\nEl Juego 5 se disputará el jueves 3 de septiembre en territorio poblano, por lo que los aficionados todavía tendrán la oportunidad de adquirir localidades a partir de este martes.",
-    "matched_queries": [
-      "Olmecas de Tabasco",
-      "Pericos de Puebla"
-    ],
-    "collected_iso": "2026-09-01T12:37:00.139286+00:00"
   }
 ]

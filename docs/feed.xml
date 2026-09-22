@@ -6,8 +6,44 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Tue, 22 Sep 2026 13:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:37:04 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Toma forma entrenamiento de Venados de Mazatlán | PSN Noticias]]></title>
+      <link>https://psn.si/venados-mazatlan-entrenamiento-rm/2026/09/22/</link>
+      <guid isPermaLink="false">1692f306f38651592f68</guid>
+      <pubDate>Tue, 22 Sep 2026 14:33:53 +0000</pubDate>
+      <source><![CDATA[PSN Noticias]]></source>
+      <dc:creator><![CDATA[Rene Mora]]></dc:creator>
+      <description><![CDATA[MAZATLÁN, Sinaloa.- Venados de Mazatlán sigue tomando forma en su campamento de entrenamiento con miras a la próxima temporada de la Liga Mexicana del Pacífico.
+Recientemente se unieron al trabajo Ramón Ríos, Juan Uriarte y Juan Kirk.
+El equipo inicio ayer una nueva semana, después de que se tuvieron que suspender sus juegos de fin de semana en Nayarit por Lluvia, sin embargo, el trabajo no se detuvo y el cuerpo técnico aprovechó la jornada para…]]></description>
+      <content:encoded><![CDATA[<p>MAZATLÁN, Sinaloa.- Venados de Mazatlán sigue tomando forma en su campamento de entrenamiento con miras a la próxima temporada de la Liga Mexicana del Pacífico.<br>Recientemente se unieron al trabajo Ramón Ríos, Juan Uriarte y Juan Kirk.<br>El equipo inicio ayer una nueva semana, después de que se tuvieron que suspender sus juegos de fin de semana en Nayarit por Lluvia, sin embargo, el trabajo no se detuvo y el cuerpo técnico aprovechó la jornada para realizar el primer juego interescuadras de la pretemporada.<br>Con el paso de los días, el campamento rojo comienza a recibir elementos llamados a tener un papel importante durante la temporada. Roberson destacó que la incorporación de jugadores experimentados permitirá avanzar en el proceso de integración del equipo.<br>Con más piezas incorporándose al campamento y las primeras interescuadras realizadas, Venados entra en una nueva etapa de su preparación, donde el objetivo será engranar al grupo, elevar el ritmo de juego y llegar en las mejores condiciones al inicio de la Temporada 2026-2027.<br>Con información LMP</p>]]></content:encoded>
+      <category>Venados de Mazatlán</category>
+    </item>
+    <item>
+      <title><![CDATA[Vicente Valenzuela, nuevo brazo de Dorados de Chihuahua | Liga Mexicana de Beisbol]]></title>
+      <link>https://lmb.com.mx/noticias/vicente-valenzuela-nuevo-brazo-de-dorados-de-chihuahua</link>
+      <guid isPermaLink="false">2de33626afb5deec01fd</guid>
+      <pubDate>Tue, 22 Sep 2026 14:26:27 +0000</pubDate>
+      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
+      <description><![CDATA[| Equipo | G | P | % | GB | 
+|---|---|---|---|---|
+| Toros | 60 | 31 | .659 | - | 
+| Caliente  | 51 | 42 | .548 | 10.0 | 
+| Sultanes | 49 | 44 | .527 | 12.0 | 
+| Charros | 48 | 45 | .516 | 13.0 | 
+| Acereros | 48 | 45 | .516 | 13.0 | 
+| Algodoneros | 46 | 47 | .495 | 15.0 | 
+| Rieleros | 42 | 47 | .472 | 17.0 | 
+| Saraperos | 38 | 55 | .409 | 23.0 | 
+| Tecos | 36 | 57 | .387 | 25.0 | 
+| Dorados | 35 | 58 | .376 | 26.0 |]]></description>
+      <content:encoded><![CDATA[<p>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
+      <category>LMB</category>
+      <category>Dorados de Chihuahua</category>
+      <category>Tigres de Quintana Roo</category>
+    </item>
     <item>
       <title><![CDATA[José Eradio Burruel: el pelotero que conquistó Sonora con su talento y amistad - El Sol de Hermosillo | El Sol de México]]></title>
       <link>https://oem.com.mx/elsoldehermosillo/deportes/jose-eradio-burruel-el-pelotero-que-conquisto-sonora-con-su-talento-y-amistad-32195205</link>
@@ -2018,35 +2054,6 @@ Los Fantasmas Grises comenzaron esta semana entrenamientos en el Walmart Park co
 Martínez indicó que además tratar d…]]></description>
       <content:encoded><![CDATA[<p>Porque implica un reto la tarea de desarrollar peloteros jóvenes, José Pepe Martínez agradeció a los Sultanes la oportunidad de dirigir el campamento instruccional del Monterrey para el invierno.<br>Los Fantasmas Grises comenzaron esta semana entrenamientos en el Walmart Park con chavos de primera firma, con miras a participar en la segunda edición del torneo Rising Star organizado por la Liga Mexicana de Beisbol.<br>Martínez indicó que además tratar de incrementar las habilidades de los jugadores, en el Rey de los Deportes se inculca una mentalidad ganadora como es la filosofía de los Sultanes.<br>&quot;La verdad, contento, con una gran responsabilidad y agradecido con la organización por darme esta oportunidad, por darme este &#x27;chance&#x27;, que confíen en mí que podemos hacer un buen trabajo&quot;, declaró Martínez.<br>&quot;Todos los días se trabaja con un objetivo, todos los días se les recalca a los muchachos que estamos en una organización ganadora, que se empieza desde la primera firma hasta que se llega al equipo grande, siempre el objetivo es ganar&quot;.<br>????️ | José Martínez será el encargado de los jovenes prospectos y armará el equipo ideal para refrendar el título de Sultanes en el torneo Rising Stars.⭐⭐⭐<br>Esto dijo en su llegada al equipo: pic.twitter.com/kA6odHvxqF<br>A pesar de ser día festivo, en la práctica matutina de este miércoles participaron 38 jóvenes, 21 pitchers y 17 jugadores de posición.<br>Luego de conquistar el título en el Rising Star celebrado el Quintana Roo en el 2025, el desafío ahora es pelear por refrendar el campeonato<br>&quot;La verdad es una responsabilidad grande la que tenemos en puerta, la base del equipo que jugó el año pasado está aquí y la verdad tenemos muy buen talento y creo que sí podemos pelear por ese campeonato otra vez&quot;, indicó Pepe Martínez.<br>Luego de jugar 10 años en Liga Mexicana en equipos como Diablos Rojos y Oaxaca, Martínez estuvo este verano en el staff de los Algodoneros de San Luis Río Colorado, equipo sucursal del Monterrey en la Liga Norte de México.<br>En el cuerpo técnico del equipo juvenil trabajan también Rogelio Ibarra, como instructor de outfield, y Alberto Manrique y Óscar Villarreal como coaches de pitcheo.<br>Este año se ganaron oportunidades de jugar con los Sultanes el jardinero, Héctor Jacquez, y el short stop, Johan López, formados en las sucursales del Monterrey.<br>DP</p>]]></content:encoded>
       <category>Sultanes de Monterrey</category>
-    </item>
-    <item>
-      <title><![CDATA[Justin Turner no jugará con Águilas de Mexicali; “Pedí que no me seleccionaran” | mexico.as.com]]></title>
-      <link>https://mexico.as.com/masdeporte/justin-turner-no-jugara-con-aguilas-de-mexicali-pedi-que-no-me-seleccionaran-f202609-n/</link>
-      <guid isPermaLink="false">532274d92d29d9b440a0</guid>
-      <pubDate>Thu, 17 Sep 2026 01:04:44 +0000</pubDate>
-      <source><![CDATA[mexico.as.com]]></source>
-      <dc:creator><![CDATA[César Cruz]]></dc:creator>
-      <description><![CDATA[Justin Turner se convirtió en una de las piezas clave para que los Toros de Tijuana obtuvieran su tercer título en la Liga Mexicana de Beisbol en este 2026, sin embargo, el Barba Roja ha cerrado la puerta a los Águilas de Mexicali quienes intentaban tenerlo en invierno.
-En un tema que dio varias vueltas durante algunas semanas, la novena cachanilla eligió en el pasado draft de la Liga Mexicana del Pacífico en julio al jugador estadounidense, sin…]]></description>
-      <content:encoded><![CDATA[<p>Justin Turner se convirtió en una de las piezas clave para que los Toros de Tijuana obtuvieran su tercer título en la Liga Mexicana de Beisbol en este 2026, sin embargo, el Barba Roja ha cerrado la puerta a los Águilas de Mexicali quienes intentaban tenerlo en invierno.<br>En un tema que dio varias vueltas durante algunas semanas, la novena cachanilla eligió en el pasado draft de la Liga Mexicana del Pacífico en julio al jugador estadounidense, sin embargo, ahora ha señalado que no jugará ya que él mismo pidió no ser seleccionado y que no se gastara un pick.<br>¿Qué dijo Justin Turner?<br>Fue durante la Serie del Rey 2026 cuando el Barba Roja mencionó que él había pedido no ser seleccionado. En entrevista con el periodista Irving Furlong, Turner sentenció que no.<br>“No, no voy a jugar pelota invernal. Yo dije desde el principio que no iba a jugar y planeo pasar tiempo con mi familia y luego ver qué pasa el próximo año. Tal vez vuelva a jugar aquí (en LMB), pero nunca dije que iba a jugar en invierno y no tengo planes de hacerlo”, comentó Turner.<br>I said no from the beginning. And asked for a pick not to be wasted on me. I was drafted anyway.<br>— Justin Turner (@redturn2) September 16, 2026<br>Respondió en redes sociales<br>Algunos aficionados de Mexicali comenzaron a insultar a Turner en redes sociales, algo que no dejó pasar y contestó a uno de ellos que él desde un principio se negó a participar en la Liga Mexicana del Pacífico.<br>“Dije que no desde el principio y pedí que no desperdiciaran una elección en mí. Aun así, me seleccionaron”, mencionó en su cuenta de X.<br>Turner planea pasar tiempo con su familia para después ver si hay la posibilidad de regresar con los Toros de Tijuana, con los cuales acaba de coronarse campeón de la Liga Mexicana de Beisbol.<br>¡Lleva el deporte contigo! Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido? Haz clic aquí</p>]]></content:encoded>
-      <category>LMP</category>
-      <category>Águilas de Mexicali</category>
-    </item>
-    <item>
-      <title><![CDATA[Javier May Rodríguez elogia la histórica Temporada 2026 de Olmecas de Tabasco en la LMB | Diario Presente]]></title>
-      <link>https://www.diariopresente.mx/elsoldelsureste/reconocimiento-de-javier-may-rodriguez-a-olmecas-tabasco/467234</link>
-      <guid isPermaLink="false">8e547792c3a1bda01904</guid>
-      <pubDate>Thu, 17 Sep 2026 01:00:00 +0000</pubDate>
-      <source><![CDATA[Diario Presente]]></source>
-      <description><![CDATA[07:00 p.m.Autor: Otto LópezFuente:
-                                                
-                                                    El Sol del Sureste
-                                                
-                                                    
-                                            Javier May Rodríguez elogia la histórica Temporada 2026 de Olmecas de Tabasco en la LMB…]]></description>
-      <content:encoded><![CDATA[<p>07:00 p.m.Autor: Otto LópezFuente:<br>                                                <br>                                                    El Sol del Sureste<br>                                                <br>                                                    <br>                                            Javier May Rodríguez elogia la histórica Temporada 2026 de Olmecas de Tabasco en la LMB<br>                                        <br>                                            El gobernador de Tabasco reconoce el desempeño excepcional del equipo de beisbol local<br>                                        <br>Villahermosa Tabasco.-<br>EL GOBERNADOR DE TABASCO, JAVIER MAY RODRÍGUEZ RECONOCIÓ LA HISTÓRICA TEMPORADA 2026 DE OLMECAS DE TABASCO EN LA LIGA MEXICANA DE BEISBOL (LMB).<br>- A través de las redes sociales el mandatario estatal destacó el buen año para los cabezones comandados por el timonel Luis Carlos Rivera.<br>    <br>        &quot;Esta temporada 2026, el Rey de los Deportes en Tabasco se hizo presente con fuerza y determinación. Los Olmecas rompieron la racha de 33 años sin pisar una Serie del Rey, nos hicieron soñar y lograron el campeonato de la Zona Sur y emocionaron a la afición choca hasta el último out. Han hecho historia, ¡enhorabuena!&quot;    <br>escribió el titular del poder ejecutivo en sus redes sociales.<br>                                            Loading...</p>]]></content:encoded>
-      <category>Olmecas de Tabasco</category>
-      <category>LMB</category>
     </item>
   </channel>
 </rss>
