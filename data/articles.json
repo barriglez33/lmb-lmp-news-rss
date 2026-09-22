@@ -1,5 +1,21 @@
 [
   {
+    "id": "d8b359af1c12ed74284c",
+    "title": "Iniciamos un nuevo siglo más fuertes que nunca",
+    "source": "MILENIO",
+    "author": "Horacio de la Vega Flores",
+    "published_iso": "2026-09-22T06:54:51+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 06:54:51 +0000",
+    "published_display": "2026-09-22 06:54 UTC",
+    "url": "https://www.milenio.com/opinion/horacio-de-la-vega-flores/columna-horacio-de-la-vega-flores/iniciamos-un-nuevo-siglo-mas-fuertes-que-nunca",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTlZORUVFOXNkc1d5ZTlRWk84T2xfY283MGMwems2WGZNSEE0dGRKbmpPaTBQVEptejBmNkFZNDdQcTIwQnBLRTJFcjFlQXlKSEtMQU9fVlcybG5HVE5jWW55MC1GTWt0NjFGUEt0UTVNN2JFWmFPTjhuX25DcVFjVzEtNVlTMlJUWHdLWlROVVdpWEdwYnBIS29iWXh6ZGk1azA5TW5ZRFQ4X2owYlpUeldtbE4xekU5YkVNWkd0cGR3VEtzdWhEdjdpQlhNM1JnUFpXVdIB1AFBVV95cUxOWEd0N0RTQ2NabDVYMFVDNFdvSExjdTlKWFJJZUl1RVZsQk0zbTJIRmczUmJzeWlmX2xnRzJYRW51RG4wVUJtZ25nWmJERkozTXJmOFhPRU9ONllOTnRtc3hFVzZ1RW9udVNKS0tyMFRqQUQ2QnNkOEMxam9fQU1IUjhfVzZkYmgwcFFabXktU3NRUGxxR2Z2QW9CX01ZNHRaRmF6TldsSHN1SlBicVU5UUNTak12LXJQTk9VNlYwLUt0dFpkRjJyTndJdEJKY05wRTMwTw?oc=5",
+    "body": "Tras los festejos del Centenario de la Liga Mexicana de Beisbol en el año 2025, iniciamos con el pie derecho un nuevo siglo de historia de nuestro circuito. Antes del arranque de la temporada 2026 anunciamos a Banorte como el patrocinador naming de la LMB, con lo cual, nos convertimos en La Liga Fuerte de México.\nEste pasado 15 de septiembre fue el cierre de la campaña 2026 con el título de los Toros de Tijuana (tercera corona para el equipo fronterizo: 2017, 2021 y 2026). Todo el reconocimiento para la organización que encabeza Don Alberto Uribe y su familia, que han logrado ser el equipo con más títulos en los últimos diez años, un equipo triunfador y una organización que potencia el entretenimiento en las tribunas con fórmulas innovadoras.\nUna mención especial a los Olmecas de Tabasco, que regresaron a la instancia final del circuito, tras 33 años, y paralizaron a la ciudad de Villahermosa y todos los municipios de Tabasco, con un equipo que luchó con gallardía hasta el final. Felicidades a Daniel Gómez, presidente del club, y todo su equipo de trabajo.\nEste año fue de hitos trascendentes para la LMB Banorte: incorporamos a un socio comercial clave (Banorte) como naming de la Liga; nos atrevimos a dar un paso hacia el frente con la tecnología conocida comúnmente como el Umpire Robot, automatizando las llamadas de bolas y strikes a través de radares y gráficos para lograr un 99% de efectividad; competimos no solamente contra otras formas de entretenimiento digital, sino con la atención del fan que siguió el Mundial de Futbol en nuestro país, y aún así logramos tener una asistencia a los estadios de más de 5 millones de aficionados.\nPara el año 2027, el siguiente gran salto no estará solamente en el terreno de juego, sino también en lo que sucede alrededor de él.\nSe acerca el proyecto más importante de la Liga: su transformación digital, procurando la experiencia del boletaje y bases de datos centralizados: la experiencia cashless y monitoreo microsegmentado de los hábitos de consumo de todos nuestros aficionados, el gran reto no sólo será seguir construyendo experiencias, sino cambiar la visión del entorno digital de nuestros grandes aficionados.\nContinuaremos fortaleciendo nuestra LMS (Liga Mexicana de Softbol femenil), la Selección Nacional de Beisbol, así como nuestra estrategia de espectáculos y conciertos conocida como LMB Show.\nNuestro objetivo no es solamente llenar estadios.\nEs construir una Liga de la que las próximas generaciones quieran formar parte.\nEl nuevo siglo de la LMB Banorte ha iniciado.",
+    "matched_queries": [
+      "LMB"
+    ],
+    "collected_iso": "2026-09-22T09:24:06.954913+00:00"
+  },
+  {
     "id": "8c9a27a5e93678ac23ba",
     "title": "Tras el campeonato, Justin Turner define su futuro con Toros de Tijuana: “Mientras me quieran, voy a seguir jugando”",
     "source": "El Imparcial",
@@ -13,7 +29,10 @@
     "matched_queries": [
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-09-22T06:30:05.692775+00:00"
+    "collected_iso": "2026-09-22T06:30:05.692775+00:00",
+    "duplicate_sources": [
+      "El Imparcial"
+    ]
   },
   {
     "id": "f0c190a4f0120133755a",
@@ -17626,26 +17645,6 @@
     "collected_iso": "2026-08-31T21:24:56.645857+00:00",
     "duplicate_sources": [
       "MILENIO"
-    ]
-  },
-  {
-    "id": "9e02994273fd5e5738cb",
-    "title": "Felicita gobernador a los Olmecas de Tabasco tras igualar la serie ante Pericos de Puebla",
-    "source": "XEVT",
-    "author": "V; Iacute; Ctor Esquivel",
-    "published_iso": "2026-08-31T19:40:03+00:00",
-    "published_rfc2822": "Mon, 31 Aug 2026 19:40:03 +0000",
-    "published_display": "2026-08-31 19:40 UTC",
-    "url": "https://www.xevt.com/deportes/felicita-gobernador-a-los-olmecas-de-tabasco-tras-igualar-la-serie-ante-pericos-de-puebla/440409",
-    "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWV0OHo0bm14SmRLTkFWTHNVMlhoUTZ3dXpHRlkxa3c0b0puS0hiak1IOGswZTRwaUFhbDlLNndJRWdaZFBiakVlSHRNTU5mNUxqUktkWVpMTUZzR1Rya0tCSGpJZUc1dVlPUldjd2R2MUdySGM2QUNJalpnTy1CUy1pR29reEJqMlVoeFVOUnBFejJKQ1FYZUdwVUlFMlhLV2FHQUVsa2FXWi1mLVBNWmVlR19ySjhEc1FKX0RnVTY3a0hw?oc=5",
-    "body": "Felicita gobernador a los Olmecas de Tabasco tras igualar la serie ante Pericos de Puebla\nFallas en la venta en línea ya fueron resueltas\n- Víctor Esquivel\n- Agosto 31, 2026 - 12:04 p.m.\n- DEPORTES\nTras el triunfo frente a los Pericos de Puebla, con el que empataron la serie, el gobernador Javier May, aprovechó su conferencia matutina, para felicitar a Los Olmecas de Tabasco, al tiempo que anunció que los problemas técnicos registrados en la venta en línea de boletos ya fueron resueltos.\nDestacó el desempeño del equipo y dijo esperar que en sus próximos compromisos en Puebla, puedan asegurar una victoria como visitantes que permita traer la serie de vuelta a Tabasco.\n\"Quiero hacer un reconocimiento muy especial a nuestros Olmecas de Tabasco por el triunfo conseguido el día de ayer, que nos permite empatar la serie y mantener viva la esperanza. Pero, sobre todo, quiero agradecerles por algo que va mucho más allá de los resultados: por hacernos soñar, a nuestros jugadores, a todo el equipo y, de manera muy especial, a nuestra gran afición choca. Queremos decirles que nos sentimos profundamente orgullosos de ustedes. El béisbol forma parte de nuestra identidad y de nuestras tradiciones, y de esa manera tan nuestra de vivir y compartir nuestras alegrías.\n\"Estamos seguros de que Tabasco seguirá soñando en grande y que, con ese mismo espíritu, vamos a tocar las estrellas. Muchas felicidades a nuestros Olmecas y decirles al equipo... desearles suerte. Van a Puebla y necesitamos asegurar el regreso, necesitamos ganar un partido para regresar acá a jugar el quinto partido\", expresó.\nPor otro lado, explicó que la plataforma digital colapsó debido a una demanda sin precedentes generada por la euforia de la afición y el lleno total del estadio, situación que no se veía desde hace años y que obligó de manera temporal a la venta directamente en ventanillas.\n\"Los Olmecas... pedí información de por qué cambiaron la venta de boletos. Dicen que como falló la página, se cayó... nunca había tenido tanta demanda los Olmecas como ahora; están de moda. Pero me dicen que ya está, que ya va a seguir funcionando como venía funcionando antes, en línea se va a poder adquirir los boletos. Ya la echaron a andar, por eso tuvieron que usar ese mecanismo que fuera en ventanilla la venta de boletos, por fallas del sistema, de la plataforma.\n\"Ya tenía varios años... imagínense cuántos años estaban que no se llenaba el estadio. Ahorita es la euforia. Y pues deseamos que se gane... vengamos a jugar el partido seis acá, que ganemos en Puebla, que nos ha ido bien en esa plaza. Le ha ido bien a los Olmecas cuando van a jugar a Puebla, vienen con buenos resultados\", concluyó.",
-    "matched_queries": [
-      "Olmecas de Tabasco",
-      "Pericos de Puebla"
-    ],
-    "collected_iso": "2026-08-31T23:27:07.416458+00:00",
-    "duplicate_sources": [
-      "XEVT"
     ]
   }
 ]
