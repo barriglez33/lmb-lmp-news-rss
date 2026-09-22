@@ -374,7 +374,8 @@
     ],
     "collected_iso": "2026-09-21T20:23:55.609205+00:00",
     "duplicate_sources": [
-      "XEVT"
+      "XEVT",
+      "xevt.com"
     ]
   },
   {
