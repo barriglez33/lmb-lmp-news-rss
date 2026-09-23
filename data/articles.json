@@ -102,7 +102,10 @@
     "matched_queries": [
       "Naranjeros de Hermosillo"
     ],
-    "collected_iso": "2026-09-23T18:38:03.044970+00:00"
+    "collected_iso": "2026-09-23T18:38:03.044970+00:00",
+    "duplicate_sources": [
+      "FM105.com.mx"
+    ]
   },
   {
     "id": "f158558ae18dd5b468bc",
