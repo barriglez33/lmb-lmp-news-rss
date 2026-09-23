@@ -151,7 +151,8 @@
     ],
     "collected_iso": "2026-09-23T02:26:40.285848+00:00",
     "duplicate_sources": [
-      "Yahoo"
+      "Yahoo",
+      "es-us.noticias.yahoo.com"
     ]
   },
   {
