@@ -1,5 +1,21 @@
 [
   {
+    "id": "e2cce233737404f513a0",
+    "title": "Academia Bravos de León logra subcampeonato en cuadrangular",
+    "source": "Liga Mexicana de Beisbol",
+    "author": "",
+    "published_iso": "2026-09-23T16:29:47+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 16:29:47 +0000",
+    "published_display": "2026-09-23 16:29 UTC",
+    "url": "https://lmb.com.mx/noticias/academia-bravos-de-leon-logra-subcampeonato-en-cuadrangular",
+    "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVR6MW80MFFJck1fVHVaY3VIbl9OYW5yTk1kRkZtV0RWcU5iM2YxYlNoLS1Ja2ZiQ2FjNVV1eHhka0ZBb3Z1R0MxNXFZemROUC1YVWVGR2kweVNBcVlUNENUMkFPTFl0VzY3b1NlOVQ3b2NuNTl1SWMwZFdhakRmUlM0aF9qUV84QnIzY1BEbWE?oc=5",
+    "body": "Academia Bravos de León logra subcampeonato en cuadrangular\nÚltimas Noticias\n| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
+    "matched_queries": [
+      "Bravos de León"
+    ],
+    "collected_iso": "2026-09-23T16:41:00.446506+00:00"
+  },
+  {
     "id": "f158558ae18dd5b468bc",
     "title": "Reportan Gutiérrez y Obeso a Aguilas de Mexicali",
     "source": "psn.si",
@@ -14,6 +30,22 @@
       "Águilas de Mexicali"
     ],
     "collected_iso": "2026-09-23T15:38:03.585052+00:00"
+  },
+  {
+    "id": "40eac1baa6334738d6fe",
+    "title": "Oscar Robles ya tiene cerrador con Algodoneros",
+    "source": "PSN Noticias",
+    "author": "Rene Mora",
+    "published_iso": "2026-09-23T14:25:15+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 14:25:15 +0000",
+    "published_display": "2026-09-23 14:25 UTC",
+    "url": "https://psn.si/algodoneros-tiene-cerrador-rm/2026/09/23/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MblR3WURoMFZPelVha1VVcHh5a21RN09YXzBOM3dJeVVwaFFPLXFBNFY4Wm5JUlpGeFlzZHp5ZTc4SWhhVnU1RktubXJUZGo5X19JQ1Z6MXBFazBWQ21hN3ctTGF5LUk?oc=5",
+    "body": "GUASAVE, Sinaloa.- El espigado lanzador zurdo, Nick Zwack, quien este verano jugó en la sucursal Triple A de los Gigantes de San Francisco, fue contratado por la directiva de los Algodoneros de Guasave para que cumpla con el rol de cerrador durante la temporada 2026-2027 de la Liga Mexicana del Pacífico.\nEste pícher de 1.93 metros de altura y nativo de Minneapolis, Minnesota, quien cuenta con 28 años de edad, este año terminó con marca de 3-3 en ganados y perdidos con la novena de los Gatos del Río de Sacramento, sucursal Triple A de los Gigantes, ya que vio actividad en 42 duelos, todos en labor de relevo, sumando cinco holdings y dos salvamentos.\nDe acuerdo con el manejador Oscar Robles, será su cerrador en la temporada que inicia en el mes de octubre.\nLa nueva firma de los blanquiazules desde el 2021 comenzó su caminar en la pelota profesional dentro de las sucursales de los Mets de Nueva York, pero en el 2022, aunque lo comenzó con el conjunto metropolitano, fue cambiado a la organización de San Francisco, y ahora hará su debut en ligas invernales tras ser firmado por Guasave para que se encargue del noveno rollo.\nCabe mencionar que en 2022, 2023 y 2025, este serpentinero estuvo siendo usado como abredor tanto en las sucursales de los Mets como en la de los Gigantes, pero desde este año se han enfocado en él para que sólo haga labores desde el bullpen, rol que también ya había tenido en su debut en el 2021.\nEn su andar hasta ahora en ligas menores, Nick Zwack acumula un récord de 16 victorias y 19 reveses, pues ha participado en 112 duelos, 58 de ellos como pícher abidor, registrando 307 entradas y un tercio de trabajo, obsequiando 120 bases y pasando a 352 por la vía del ponche, quedando con una efectividad general de 4.54.\nCon información LMP",
+    "matched_queries": [
+      "Algodoneros de Guasave"
+    ],
+    "collected_iso": "2026-09-23T16:42:05.995564+00:00"
   },
   {
     "id": "3a0671e81c1f3f107e21",
@@ -393,7 +425,8 @@
     "collected_iso": "2026-09-23T02:34:44.936501+00:00",
     "duplicate_sources": [
       "El Imparcial",
-      "elimparcial-elimparcial-prod.web.arc-cdn.net"
+      "elimparcial-elimparcial-prod.web.arc-cdn.net",
+      "elimparcial.com"
     ]
   },
   {
@@ -17591,45 +17624,5 @@
       "Liga ARCO Mexicana del Pacífico"
     ],
     "collected_iso": "2026-09-02T00:35:20.187418+00:00"
-  },
-  {
-    "id": "af85835eb3e287fc5680",
-    "title": "Calendario Charros de Jalisco para LMP Temporada 2026 2027",
-    "source": "Telediario",
-    "author": "Telediario; Braulio Ramos",
-    "published_iso": "2026-09-01T21:27:00+00:00",
-    "published_rfc2822": "Tue, 01 Sep 2026 21:27:00 +0000",
-    "published_display": "2026-09-01 21:27 UTC",
-    "url": "https://www.telediario.mx/deportes/calendario-charros-de-jalisco-para-lmp-temporada-2026-2027",
-    "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ09HNFZBWlpETk5vWTBBV24tcHlNRWxtNmw1UjFpNUtWREpEdktzVl8zb3BuQzdDOVU1eTJtSDN0Ni05WFNra3YySjNzamlyRHFPY3FoWGR4aWx3NEdNNUxveWxYOUx5MTJxdVJBZkd1aVNuQU1IWVNzcmd5Z1FTU3VwWHhVbkloOGhzbnRJTHZMNUh4SC1PZNIBmAFBVV95cUxQcFhyLUVGRzllTk5mMTFsRE9ubG9Za2NGOVhrRVhuc0VBZ3lBblFKWVpvZWxvZnAzbld4S0tnbmlVUmxVNGd3bFd4eTlzZ2NlVWlHUm5Mc1g0Y0pSWmxZbWJGd1BQWnFkM1J0UW9NSnQweDlkSGFqTTNHZXBqb0JZeHpUQ1ppcVZ0UzZhZVpkbW4wX3JkaC1ySA?oc=5",
-    "body": "En la mira del invierno: Calendario de TODOS los juegos de Charros de Jalisco para la LMP 2026 - 2027\nCon el lanzamiento del calendario para la Temporada 2026-2027, los Charros de Jalisco ya conocen el orden de sus juegos.\nEl regreso del beisbol invernal en Jalisco ha comenzado y los vigentes bicampeones de la Liga ARCO Mexicana del Pacifico, los Charros de Jalisco, serán los encargados de levantar el telón de la Temporada 2026-2027, para el martes 13 de octubre de 2026, la novena tapatía buscará conseguir un histórico tricampeonato.\nLas emociones comenzarán en el Estadio Panamericano de Zapopan, donde los locales recibirán a los Jaguares de Nayarit, el único duelo de opening day programado. Un encuentro que comenzará en punto de las 20:00 horas y que promete encender el diamante desde el primer día.\nLos juegos de visitante y local para los Charros\nPara los aficionados que planean asistir a la casa de los Charros, en la cual disputarán un total de 34 juegos ante su gente, distribuido a lo largo de las siguientes series:\n- Martes 13 de octubre: vs Jaguares de Nayarit (Opening Day)\n- 20 al 22 de octubre: vs Águilas de Mexicali\n- 27 al 29 de octubre: vs Cañeros de los Mochis\n- 3 al 5 de noviembre: vs Algodoneros de Guasave\n- 10 al 12 de noviembre: vs Mayos de Navojoa\n- 20 al 22 de noviembre: vs Jaguares de Nayarit\n- 27 al 29 de noviembre: vs Venados de Mazatlán\n- 4 al 6 de diciembre: vs Tomateros de Culiacán\n- 11 al 13 de diciembre: vs Yaquis de Obregón\n- 18 al 20 de diciembre: vs Naranjeros de Hermosillo\n- 21 al 23 de diciembre: vs Venados de Mazatlán\n- 28 al 30 de diciembre: vs Águilas de Mexicali\nEl Bicampeón está de regreso y el único camino que recorreremos será el que nos lleve al TRICAMPEONATO????????????????\n➡️Agenda todos los juegos de Charros en la T2026-27 de la LMP. pic.twitter.com/ZtLfZz0hEs\nMientras que la novena albiazul sostendrá de igual manera 34 encuentros en calidad de visitante:\n- 15 de octubre: vs Jaguares de Nayarit (Opening Day visitante)\n- 16 al 18 de octubre: vs Jaguares de Nayarit\n- 23 al 25 de octubre: vs Venados de Mazatlán\n- 30 de octubre al 1 de noviembre: vs Tomateros de Culiacán\n- 6 al 8 de noviembre: vs Yaquis de Obregón\n- 13 al 15 de noviembre: vs Naranjeros de Hermosillo\n- 17 al 19 de noviembre: vs Venados de Mazatlán\n- 24 al 26 de noviembre: vs Águilas de Mexicali\n- 1 al 3 de diciembre: vs Cañeros de Los Mochis\n- 8 al 10 de diciembre: vs Algodoneros de Guasave\n- 15 al 17 de diciembre: vs Mayos de Navojoa\n- 25 al 27 de diciembre: vs Algodoneros de Guasave\n¿Cuándo concluye la temporada regular de la LMP?\nAl concluir la exigente fase regular el miércoles 30 de diciembre de 2026, se abrirá paso de manera inmediata a las esperada postemporada, cuyo inicio está previsto para el 1 de enero de 2027.\nCon el rol de juegos completamente definido, la cuenta regresiva está formalmente en marcha para que los vigentes bicampeones, los Charros de Jalisco, inicien la defensa de su corona en Zapopan ante su apasionada afición.\n- ¡Oficial! FC Porto anuncia la contratación de Santiago Giménez; el mexicano jugará Champions League\n- ¿Rayados vs Sultanes? El día que La Pandilla se enfrentó a los Fantasmas Grises en un insólito juego de beisbol\n- \"Sos eterno, Capitán\": Las emotivas reacciones tras el retiro de Lionel Messi de la Selección Argentina\n- ¡Semana importante! Así se jugará la Jornada 7 de la Liga MX Apertura 2026 | Fechas y horarios\nBR\nQueda prohibida la reproducción total o parcial del contenido de esta página, mismo que es propiedad de TELEDIARIO; su reproducción no autorizada constituye una infracción y un delito de conformidad con las leyes aplicables.",
-    "matched_queries": [
-      "Charros de Jalisco",
-      "Jaguares de Nayarit",
-      "LMP",
-      "Liga ARCO Mexicana del Pacífico"
-    ],
-    "collected_iso": "2026-09-02T02:37:26.358986+00:00",
-    "duplicate_sources": [
-      "Telediario",
-      "telediario.mx"
-    ]
-  },
-  {
-    "id": "9989a4e5d10713bda267",
-    "title": "Las claves del gran 2026 de Esteban Quiroz con los Bravos de León",
-    "source": "Liga Mexicana de Beisbol",
-    "author": "",
-    "published_iso": "2026-09-01T20:02:32+00:00",
-    "published_rfc2822": "Tue, 01 Sep 2026 20:02:32 +0000",
-    "published_display": "2026-09-01 20:02 UTC",
-    "url": "https://lmb.com.mx/noticias/las-claves-del-gran-2026-de-esteban-quiroz-con-los-bravos-de-leon",
-    "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVZ4RkJyaFJLOTdiTnNLOHlhVHc4b0N3bmFMSkJsazdDM2l1NFM2OXpSaHFLRTB3eDdkREpsZ19wR2o4b194TWJVVE4wakFiZENQWVlwLWx6a0lyLUJsbWxyTG5CNk9obDVvbW5adzlEdkgyQTliT1RxWUFleEQwSVZweG9tOEJVZ0x0RHpvN2lSaXVXNng4bQ?oc=5",
-    "body": "| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
-    "matched_queries": [
-      "Liga Mexicana de Béisbol",
-      "Bravos de León"
-    ],
-    "collected_iso": "2026-09-01T20:23:23.664296+00:00"
   }
 ]
