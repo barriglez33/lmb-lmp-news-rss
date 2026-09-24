@@ -1,5 +1,22 @@
 [
   {
+    "id": "bc37f59b7cc09441b3bd",
+    "title": "Nueva pieza de arte que se integra al Estadio Yu´Va",
+    "source": "Liga Mexicana de Beisbol",
+    "author": "",
+    "published_iso": "2026-09-24T20:48:45+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 20:48:45 +0000",
+    "published_display": "2026-09-24 20:48 UTC",
+    "url": "https://lmb.com.mx/noticias/nueva-pieza-de-arte-que-se-integra-al-estadio-yuva",
+    "google_news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd25lR3FmaUxOUF9ocEhUOHNXSGU5eERBajZSWUpLa0dSeWc0OHN6UWZPZFQxY2NEV1hfMTctdVdGdTg2U3czZjZGQ0ZOT0N1NE4wSG5HSU9rcTJlemhUWHhIOHp6cGQ5T040TXdQTUVheFF2amlIVVZEaHNqSFhYN00tTFg?oc=5",
+    "body": "| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
+    "matched_queries": [
+      "Liga Mexicana de Béisbol",
+      "Guerreros de Oaxaca"
+    ],
+    "collected_iso": "2026-09-24T21:23:48.262048+00:00"
+  },
+  {
     "id": "93731f9b2098dded29f4",
     "title": "Mayos de Navojoa aceleran obras; el “ciclón” va rumbo al regreso",
     "source": "Meganoticias.mx",
@@ -13,7 +30,10 @@
     "matched_queries": [
       "Mayos de Navojoa"
     ],
-    "collected_iso": "2026-09-24T20:28:48.651810+00:00"
+    "collected_iso": "2026-09-24T20:28:48.651810+00:00",
+    "duplicate_sources": [
+      "Meganoticias.mx"
+    ]
   },
   {
     "id": "796691409139359e8630",
@@ -17553,22 +17573,5 @@
       "Toros de Tijuana"
     ],
     "collected_iso": "2026-09-02T20:32:49.621911+00:00"
-  },
-  {
-    "id": "9384caff0e82a38bc469",
-    "title": "Por lluvia se pospone el tercer juego de la Serie de Campeonato del Sur entre Olmecas y Pericos en Puebla",
-    "source": "XEVT",
-    "author": "Alexis Santamar; Iacute",
-    "published_iso": "2026-09-02T12:45:00+00:00",
-    "published_rfc2822": "Wed, 02 Sep 2026 12:45:00 +0000",
-    "published_display": "2026-09-02 12:45 UTC",
-    "url": "https://www.xevt.com/deportes/por-lluvia-se-pospone-el-tercer-juego-de-la-serie-de-campeonato-del-sur-entre-olmecas-y-pericos-en-puebla/440711",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDRDT2UwaldUZHpLUVBic1JGVWQyVVZEUXNkeGdmRjg1aE5vYW1kVHd2SGE3SUtDZGJkckstZklaaERCR0NWY1UtRTduczVBRUtjYklNNnRMS09vaFI1SHJhQldMZlNkWDAyWWpET2NGMm85U3gzYVFhZFZteldRd0h5d240eElqN3NxRkU4SElkWmRZRjdJWWd0eHlBNHZSb0k3V2lpSHBPc0ZCZHMzRy1xbmxOMy1PaFFORnhUSEdsd1h6bm9qTEgwcTdVVDloSE1fNlNqc2lmZw?oc=5",
-    "body": "Por lluvia se pospone el tercer juego de la Serie de Campeonato del Sur entre Olmecas y Pericos en Puebla\nCon esto, la serie sufrirá modificaciones en el calendario\n- Alexis Santamaría\n- Septiembre 02, 2026 - 06:45 a.m.\n- DEPORTES\nCuando todo estaba listo para reanudar la fiesta beisbolera de la Zona Sur, el mal clima en Puebla imposibilitó cualquier oportunidad de llevar a cabo el tercer juego de la Serie de Campeonato entre Olmecas de Tabasco y Pericos en el Estadio Hermanos Serdán.\nDebido a la lluvia que cayó en la Angelópolis, el juego tres entre ambas novenas se pospuso, pese a que se esperó el tiempo reglamentario, pero después de una hora el mal clima no cesó y los ampayers decidieron suspender el encuentro.\nEl equipo de mantenimiento del inmueble en Puebla colocó rápidamente la lona para cubrir el terreno de juego, pero las condiciones no eran aptas para disputar el juego de pelota.\nCon esto, la serie sufrirá modificaciones en el calendario, puesto que ahora las acciones en el Estadio Hermanos Serdán se desarrollarán a partir de este miércoles 2 de septiembre y hasta el día viernes 4.\nEn caso de tener que alargarse, los duelos 6 y 7 se jugarían en Villahermosa, en el Estadio Centenario del 27 de Febrero, el domingo 6 y lunes 7 de septiembre.\nSegún el pronóstico del clima en Puebla, habrá sol para este día, por lo que no debería haber problema alguno para poder llevar a cabo el tercer juego entre Olmecas y Pericos en el Estadio Hermanos Serdán.",
-    "matched_queries": [
-      "Pericos de Puebla",
-      "Olmecas de Tabasco"
-    ],
-    "collected_iso": "2026-09-02T16:36:48.939761+00:00"
   }
 ]
