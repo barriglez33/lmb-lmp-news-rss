@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Fri, 25 Sep 2026 15:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:31:10 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[Marcos Castañón jugará con Jaguares | PSN Noticias]]></title>
@@ -20,6 +20,7 @@ Castañón, de 27 años y originario de San Bernardino, California, estuvo en 11
 El invierno pas…]]></description>
       <content:encoded><![CDATA[<p>TEPIC, Nayarit.- Luego de tener un gran año en Triple A de los Padres de San Diego, el infielder Marcos Castañón regresará con los Jaguares de Nayarit para la temporada 2026-27 de la Liga Mexicana del Pacífico.<br>Castañón, de 27 años y originario de San Bernardino, California, estuvo en 118 juegos con los Chihuahuas de El Paso y bateó para .282, con 23 dobletes, 17 jonrones y 72 empujadas, líder del equipo en los tres departamentos.<br>El invierno pasado con Jaguares, el slugger derecho solo vio acción en 18 juegos y respondió con 13 carreras impulsadas<br>Para esta nueva temporada es muy probable que sea alternado entre tercera y primera base, lo cual determinará el manager Luis Carlos Rivera.<br>Castañón, el quinto refuerzo firmado oficialmente por nuestra organización, tiene la ventaja de que ya conoce la Liga.<br>Con información LMP</p>]]></content:encoded>
       <category>LMP</category>
+      <category>Jaguares de Nayarit</category>
     </item>
     <item>
       <title><![CDATA[El Tricolor inicia ante Alemania la búsqueda de su primer título mundial sub-15 | La Jornada Maya]]></title>
