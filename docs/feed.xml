@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Fri, 25 Sep 2026 03:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:29:26 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[JOSÉ CARDONA SE UNE A LOS LEONES DE YUCATÁN PARA LA TEMPORADA 2027 - Leones de Yucatán | Leones de Yucatán]]></title>
@@ -211,6 +211,7 @@ Con este resultado, la novena chihuahuense avanza a la antesala d…]]></descrip
       <content:encoded><![CDATA[<p>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
       <category>Liga Mexicana de Béisbol</category>
       <category>Guerreros de Oaxaca</category>
+      <category>LMB</category>
     </item>
     <item>
       <title><![CDATA[Mayos de Navojoa aceleran obras; el “ciclón” va rumbo al regreso | Meganoticias.mx]]></title>
