@@ -6,7 +6,7 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Fri, 25 Sep 2026 07:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:31:05 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
     <item>
       <title><![CDATA[José Cardona se convierte en refuerzo de Leones de Yucatán | MILENIO]]></title>
@@ -22,6 +22,20 @@ El equipo de Mérida en su cuenta de X le dio la bienvenida al guardabosques de 
       <category>LMB</category>
       <category>Sultanes de Monterrey</category>
       <category>Leones de Yucatán</category>
+    </item>
+    <item>
+      <title><![CDATA[Samaria Benítez, jugadora de las Olmecas, se coronó campeona con Los Ángeles Queens en la Women's Pro Baseball League | XEVT]]></title>
+      <link>https://www.xevt.com/amp/deportes/samaria-benitez-jugadora-de-las-olmecas-se-corono-campeona-con-los-angeles-queens-en-la-womens-pro-baseball-league/444084</link>
+      <guid isPermaLink="false">9cb88aacd71dff9045cf</guid>
+      <pubDate>Fri, 25 Sep 2026 05:38:21 +0000</pubDate>
+      <source><![CDATA[XEVT]]></source>
+      <dc:creator><![CDATA[Por Arnulfo de la Cruz]]></dc:creator>
+      <description><![CDATA[Samaria Benítez, jugadora de las Olmecas, se coronó campeona con Los Ángeles Queens en la Women's Pro Baseball League
+Continúa haciendo historia en el deporte, luego de convertirse en la primera mexicana seleccionada
+La infielder de las Olmecas de Tabasco, Samaria Benítez, se proclamó campeona con Los Ángeles Queens de la Women’s Pro Baseball League (WPBL).
+La integrante de la novena choca tuvo una destacada actuación con el conjunto angelino en…]]></description>
+      <content:encoded><![CDATA[<p>Samaria Benítez, jugadora de las Olmecas, se coronó campeona con Los Ángeles Queens en la Women&#x27;s Pro Baseball League<br>Continúa haciendo historia en el deporte, luego de convertirse en la primera mexicana seleccionada<br>La infielder de las Olmecas de Tabasco, Samaria Benítez, se proclamó campeona con Los Ángeles Queens de la Women’s Pro Baseball League (WPBL).<br>La integrante de la novena choca tuvo una destacada actuación con el conjunto angelino en la gran final, donde se impusieron a San Francisco para conquistar la Serie de Campeonato de la WPBL.<br>Con este título, la nayarita continúa haciendo historia en el deporte, luego de convertirse en la primera mexicana seleccionada en el Draft de la Women’s Pro Baseball League y ahora coronarse en la primera edición de esta liga profesional de beisbol femenil.<br>Cabe recordar que, durante 2026, la shortstop azteca fue pieza fundamental para que las Olmecas llegaran por primera vez en su historia a los playoffs de la Liga Mexicana de Softbol Femenil, donde fueron eliminadas por las Diablas Rojas del México por 2-1 en la serie semifinal.<br>Además, en el Juego de Estrellas de este año fue reconocida como la Jugadora Más Valiosa, luego de conectar el imparable que produjo las dos carreras con las que su equipo consiguió la victoria.</p>]]></content:encoded>
+      <category>Olmecas de Tabasco</category>
     </item>
     <item>
       <title><![CDATA[Yaquis remontan en la novena y ganan a Naranjeros en Nogales | expreso.com.mx]]></title>
@@ -2060,21 +2074,6 @@ Las primeras carreras llegaron en el segundo episodio; tras dos outs Jays…]]><
       <content:encoded><![CDATA[<p>Cañeros de Los Mochis vence a Mágicos y va por el título del torneo de preparación<br>La Fuerza Verde se medirá por la corona a Mayos de Navojoa este domingo<br>Día 13 de entrenamientos<br>EL FUERTE, Sinaloa._ Los Cañeros de Los Mochis no tuvieron problema para superar 7 carreras por 0 a los Mágicos de El Fuerte en la tercera jornada del Clásico Mágico en el bello pueblo sinaloense.<br>Las primeras carreras llegaron en el segundo episodio; tras dos outs Jayson Bass Jr. conectó batazo que no pudo detener el jardinero, enseguida, Mario Gómez bateó rola complicada al cuadro para impulsar a Bass y Diego Soto se trajo a Gómez con sencillo al izquierdo. Finalmente, un imparable de Aarón Lugo remolcó a Soto.<br>En la tercera, Alejandro Urías abrió la tanda con tremendo batazo de cuadrangular a jardín izquierdo. Y en la cuarta, José Luis Robledo bateó hit cortito al central para impulsar a Diego Soto.<br>En la sexta llegaron las últimas dos rayitas; con hombres en segunda y tercera Justin Connell produjo con rola al cuadro y Jayson Bass puso el 7-0 con hit para impulsar a Alejandro Urías.<br>El pitcheo lució dominante con diez chocolates y solo cuatro hits permitidos. El abridor del juego fue Omar Araujo con dos innings y le ayudaron Miguel León, Jonás Garibay, Adrián Hernández, Vicente Valenzuela y González.<br>Este domingo, Cañeros se enfrentarán a Mayos de Navojoa a la 13:00 horas en el juego para definir al campeón de este Clásico Mágico.</p>]]></content:encoded>
       <category>Cañeros de Los Mochis</category>
       <category>Mayos de Navojoa</category>
-    </item>
-    <item>
-      <title><![CDATA[Cañeros vence a Mágicos en el Clásico Mágico | Luz Noticias]]></title>
-      <link>https://www.luznoticias.mx/2026-09-20/deportes/caneros-superan-a-magicos-en-el-clasico-magico/305940</link>
-      <guid isPermaLink="false">c6ce75733d130dace625</guid>
-      <pubDate>Sun, 20 Sep 2026 15:40:00 +0000</pubDate>
-      <source><![CDATA[Luz Noticias]]></source>
-      <dc:creator><![CDATA[Jes; Uacute; S; Aacute; Lvarez Iceido]]></dc:creator>
-      <description><![CDATA[Deportes
-Cañeros vence a Mágicos en el Clásico Mágico
-Los Cañeros de Los Mochis lograron una contundente victoria de 7-0 sobre los Mágicos de El Fuerte en la tercera jornada del torneo.
-Los Cañeros de Los Mochis no tuvieron problema para superar 7 carreras por 0 a los Mágicos de El Fuerte en la tercera jornada del Clásico Mágico en el bello pueblo sinaloense.
-Las primeras carreras llegaron en el segundo episodio; tras dos outs, Jayson Bass Jr. co…]]></description>
-      <content:encoded><![CDATA[<p>Deportes<br>Cañeros vence a Mágicos en el Clásico Mágico<br>Los Cañeros de Los Mochis lograron una contundente victoria de 7-0 sobre los Mágicos de El Fuerte en la tercera jornada del torneo.<br>Los Cañeros de Los Mochis no tuvieron problema para superar 7 carreras por 0 a los Mágicos de El Fuerte en la tercera jornada del Clásico Mágico en el bello pueblo sinaloense.<br>Las primeras carreras llegaron en el segundo episodio; tras dos outs, Jayson Bass Jr. conectó un batazo que no pudo detener el jardinero.<br>Enseguida, Mario Gómez bateó una rola complicada al cuadro para impulsar a Bass, y Diego Soto se trajo a Gómez con un sencillo al izquierdo. Finalmente, un imparable de Aarón Lugo remolcó a Soto.<br>En la tercera, Alejandro Urías abrió la tanda con un tremendo batazo de cuadrangular a jardín izquierdo. Y en la cuarta, José Luis Robledo bateó un hit cortito al central para impulsar a Diego Soto.<br>- También te podría interesar: José Ignacio Rodríguez cumplió el sueño de llegar a las Grandes Ligas | Luz Noticias<br>En la sexta llegaron las últimas dos rayitas; con hombres en segunda y tercera, Justin Connell produjo con una rola al cuadro, y Jayson Bass puso el 7-0 con un hit para impulsar a Alejandro Urías.<br>Dominio del pitcheo<br>El pitcheo lució dominante, con diez chocolates y solo cuatro hits permitidos. El abridor del juego fue Omar Araujo, quien lanzó dos innings, y le ayudaron Miguel León, Jonás Garibay, Adrián Hernández, Vicente Valenzuela y González.<br>Este domingo, Cañeros se enfrentarán a Mayos de Navojoa a la 1 p.m. en el juego para definir al campeón de este Clásico Mágico.<br>Te puede interesar:<br>MÁS NOTICIAS DE Deportes</p>]]></content:encoded>
-      <category>Cañeros de Los Mochis</category>
     </item>
   </channel>
 </rss>
