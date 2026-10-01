@@ -29,7 +29,10 @@
     "matched_queries": [
       "Águilas de Mexicali"
     ],
-    "collected_iso": "2026-10-01T08:58:12.997184+00:00"
+    "collected_iso": "2026-10-01T08:58:12.997184+00:00",
+    "duplicate_sources": [
+      "Momento Deportivo RD"
+    ]
   },
   {
     "id": "06655e6935ea4b6e291b",
@@ -141,6 +144,22 @@
     "collected_iso": "2026-10-01T08:58:25.065045+00:00"
   },
   {
+    "id": "e4047e02de8f031bcf55",
+    "title": "Salvador Escobar: La LMP busca mantener la confianza de su afición",
+    "source": "El Heraldo de México",
+    "author": "Iván Navarro",
+    "published_iso": "2026-09-30T22:13:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:13:00 +0000",
+    "published_display": "2026-09-30 22:13 UTC",
+    "url": "https://heraldodemexico.com.mx/deportes/2026/9/30/salvador-escobar-la-lmp-busca-mantener-la-confianza-de-su-aficion-898667.html",
+    "google_news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNExucHRfdzdvVkRsTVJRZjJ6SWExWVRZSkFmNEdfNDI1MDhxZUNfcUdacW1rRVZBQUl6bUgyRW9ZcXZxVVQ3bGZBUXlzc0NabzVaS2tFRnNlMVpHNjR0b0N4eWo1ZGJ5QWhPLWJYam9ua1RmZmZNeTNQaFdZUXB1ZUFpZWtMLTJ1QWhZeU9SdGlfNFQxN2FmUnlNNlhheHNwTGUyOWRZdUNRdjByQ08td2xBbTFsZTAzWE1LeXBLZDhmMkRPZFE?oc=5",
+    "body": "La Liga Mexicana del Pacífico (LMP) está de regreso con la temporada 2026-2027 y su presidente, Salvador Escobar, habló sobre los cambios que tendrá la competencia, entre ellos las nuevas reglas y el regreso de los Mayos de Navojoa.\nEn primera instancia, el directivo señaló que la implementación del reloj de juego y el sistema ABS para la revisión de strikes y bolas aportarán al desarrollo de los encuentros.\n“Hemos estado en mesas con los dueños y hay confianza de que sí aportará cosas positivas al juego. Se va a demostrar y hay números. A la hora de ejecutarlas, la afición las va a disfrutar mucho”.\nSobre la incorporación de algunas estrellas de la Liga Mexicana de Beisbol (LMB) y del extranjero, Salvador Escobar afirmó que el nivel de los equipos puede aumentar, aunque evitó adelantar nombres.\n“Trato de ser responsable con los nombres. Como ya sucedió con Robinson Canó, es posible. Algunos están invitados a pretemporada y veremos al inicio quiénes sí se quedan para consolidarse. Una cosa son los nombres, que algunos clubes ya están haciendo anuncios, y algunos quieren ser casa de la Serie del Caribe.\n“En la parte de estadística, hay peloteros que están dando grandes números y por eso siento que se viene una gran temporada”.\nEl presidente de la Liga Mexicana del Pacífico (LMP) también habló sobre las transmisiones de la temporada y la incorporación de tecnología para acercar el béisbol a más aficionados.\n“Estamos en varias cadenas, pero tenemos convenios nacionales como Fox en México. Renovamos con MLB.TV y la tecnología se ve en las transmisiones. Somos la primera liga que se ve ahí y eso permite transmitir a la afición el gran conocimiento y el interés de cómo se vive el béisbol en el país.\n“Este deporte es de inteligencia, de data, y mientras más datos tengas, más se disfruta”.\nSobre el regreso de los Mayos de Navojoa, el directivo destacó la importancia de recuperar una plaza con tradición dentro de la liga.\n“El regreso de los Mayos de Navojoa es muy importante porque es de los que más esencia tienen e históricos, porque le estamos regresando a la afición esta plaza. Estuvo bien lo que se intentó, pero es un reto.\n“Se están cumpliendo con los compromisos con el gobierno del estado. Sí nos ha puesto un reto con la lluvia, pero estamos comprometidos a arrancar en tiempo y forma en Navojoa”.\nSalvador Escobar reconoció que, aunque el béisbol comparte espacio con otros deportes, la afición de la Liga Mexicana del Pacífico (LMP) mantiene una relación constante con sus equipos.\n“Sabemos que desde hace unos años hemos tenido situaciones complicadas en la región, pero el béisbol es nuestro espacio seguro y la afición sigue disfrutando del juego de manera única. El reto no sólo es llevar por llevar afición, queremos afición que vaya y regrese.\n“Hagan cuentas, tenemos números más interesantes que varias plazas de fútbol. No es competencia, eso habla del compromiso de la afición con el béisbol”.\nLa temporada 2026-2027 de la Liga Mexicana del Pacífico (LMP) comenzará el martes 13 de octubre. El único encuentro programado para ese día será entre los Charros de Jalisco y los Jaguars de Nayarit en el Estadio Panamericano de Zapopan.\nEl resto de las series inaugurales comenzará el miércoles 14 de octubre.",
+    "matched_queries": [
+      "Mayos de Navojoa"
+    ],
+    "collected_iso": "2026-10-01T16:35:32.427958+00:00"
+  },
+  {
     "id": "88b2cc823bf66ee0d26a",
     "title": "Manny Barreda e Ildefonso Ruíz se integran a Tomateros de Culiacán",
     "source": "www.noroeste.com.mx",
@@ -158,6 +177,7 @@
     "collected_iso": "2026-09-30T23:04:49.487391+00:00",
     "duplicate_sources": [
       "Tomateros",
+      "tomateros.com.mx",
       "www.noroeste.com.mx"
     ]
   },
@@ -402,7 +422,8 @@
     "body": "Villahermosa, Tabasco.-\n- En este 2026\nFUERTE CANDIDATO\nDaniel Gómez Arellano, presidente de Olmecas de Tabasco, es aspirante a Ejecutivo del Año de la Liga Mexicana de Beisbol\nEl presidente de Olmecas de Tabasco, Daniel Gómez Arellano, es fuerte candidato a Ejecutivo del Año 2026 en la Liga Mexicana de Beisbol (LMB).\nEl directivo de la novena del edén mexicano tiene todas las herramientas para ser distinguido por el circuito veraniego en este 2026.\nDespués de 33 años el empresario originario de Jalpa de Méndez logró junto al área deportiva, integrada por Jesús Álvarez y Juan Salvador Delgadillo, que la organización choca conquistara el Aro de Pelota que los acredita como campeón de la Zona Sur y viviera una inédita Serie del Rey ante Toros de Tijuana.\nOlmecas de Tabasco dirigido por Luis Carlos Rivera mostró carácter y tenacidad, que lo llevaron a tener un estupendo rol regular culminando en el segundo lugar sureño con marca de 54 victorias, 38 derrotas y .587.\nEsta es la tercera ocasión que un presidente de un equipo tabasqueño es fuerte candidato a recibir el galardón de la LMB.\nEn 1979 fue reconocido Julián Manzur Priego por contribuir a que Plataneros de Tabasco llegara a sus primeros play offs.\nEn 1993 Diego Rosique Palavicini obtuvo la distinción por obtener el gallardete con Olmecas de Tabasco.\nLa LMB dirigida por Horacio De la Vega se espera que en breve inicie con las votaciones para la designación de lo mejor de este 2026.\nEn las últimas dos ediciones obtuvo el galardón Santiago Harp Grañén por el bicampeonato de Diablos Rojos del México.",
     "matched_queries": [
       "Olmecas de Tabasco",
-      "LMB"
+      "LMB",
+      "Liga Mexicana de Béisbol"
     ],
     "collected_iso": "2026-09-30T23:03:05.053824+00:00"
   },
@@ -421,6 +442,22 @@
       "Serie del Caribe 2026"
     ],
     "collected_iso": "2026-09-30T13:45:04.344710+00:00"
+  },
+  {
+    "id": "faf1b006f7c9da9babe7",
+    "title": "MANNY BARREDA AND ILDEFONSO RUÍZ JOIN TOMATEROS PRESEASON CAMP",
+    "source": "tomateros.com.mx",
+    "author": "",
+    "published_iso": "2026-09-30T07:00:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 07:00:00 +0000",
+    "published_display": "2026-09-30 07:00 UTC",
+    "url": "https://tomateros.com.mx/en/noticias/manny-barreda-ildefonso-ruiz-reportan-a-la-pretemporada",
+    "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlJNWG9kM1hPVFBNVEtHbTU0M0dnMk5hdE94QjM0VjVFZU5SblpfalNtLTM3WE96LWh0dEtIdHBJZHJzN0RvTzVJSkxCUDNBUVBub0d4U3gxd09nNHVUN1FvV2VwOC1fSEhNNkI3Vk83SkpZLWtZbEhFZXA4YWdyRzFlejZBdlMxV1R0bGFTcTloTVRGZTFj?oc=5",
+    "body": "CULIACÁN, SINALOA. – Preseason preparations for the Tomateros de Culiacán continue at full speed. While much of the roster enters the final stretch of exhibition play in Baja California Sur, the Sinaloan capital welcomed two high-impact additions as right-handed pitcher Manny Barreda and young catcher Ildefonso Ruíz officially reported to camp.\nThe veteran right-hander, a native of Sahuarita, Arizona, arrived ready to anchor the rotation once again, solidifying his role as one of the key pillars of the Culiacán pitching staff for the upcoming season.\n\"I'm excited to be close to starting a new season. The team looks great, you can see everyone's commitment, and that really motivates me as well,\" expressed the veteran pitcher.\nMeanwhile, the catching depth received a boost of energy with the arrival of Ildefonso Ruíz. \"Ponchito,\" who made his debut in the guinda jersey during the 2023-2024 campaign, joined camp focused on securing his spot as one of the team's primary catchers for the 2026-2027 Liga Mexicana del Pacífico season.\n\"I'm thrilled to wear these colors—my grandfather played here, so putting on this jersey will always be a point of pride. My main focus is arriving in peak physical condition and being ready for opening day,\" noted Ruíz.\nThe squad remaining in Culiacán will continue daily workouts at the ISDE facilities, while the road roster in Los Cabos wraps up its final \"La Baja Beis\" showcase tonight against the Cañeros de Los Mochis.",
+    "matched_queries": [
+      "Manny Barreda"
+    ],
+    "collected_iso": "2026-10-01T16:35:50.811519+00:00"
   },
   {
     "id": "ee649685be07dfe97e74",
@@ -558,7 +595,8 @@
     ],
     "collected_iso": "2026-09-30T13:42:05.028973+00:00",
     "duplicate_sources": [
-      "Reforma"
+      "Reforma",
+      "reforma.com"
     ]
   },
   {
@@ -17406,46 +17444,5 @@
       "Serie del Rey"
     ],
     "collected_iso": "2026-09-05T21:32:12.692499+00:00"
-  },
-  {
-    "id": "90748e4f5314c6184ab9",
-    "title": "Cañeros de Los Mochis confirma el regreso del relevista estadounidense Colten Davis",
-    "source": "www.noroeste.com.mx",
-    "author": "Noroeste; Redacción",
-    "published_iso": "2026-09-05T20:48:53+00:00",
-    "published_rfc2822": "Sat, 05 Sep 2026 20:48:53 +0000",
-    "published_display": "2026-09-05 20:48 UTC",
-    "url": "https://www.noroeste.com.mx/amp/deportes/beisbol/caneros-de-los-mochis-confirma-el-regreso-del-relevista-estadounidense-colten-davis-NG25455549",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdTN0TjNCWjhINXlnbHdCTXk4YXFac0VLMXRkS0RFVVN4bTBERVc3NXNkOEpjLXpyVW80bk96bzR3cFhFZldfT1c4VC1scGhpelZra0oxbDExcUFTN1lmT2JVYmR1dU10VGdnWGxzZUJoYURiSFlpdnIwbDBRcGh4cGIxZ1NzcXhaN1EtRVloSzBFN3JVZjdUbkV4Y2NSMERjWXhjbV9kWHY3NTVRQWZheDZzb21rOXRnWWNUQVRKQngtSEMtMGdmQ0h6NU1tY0hkTUlnN195YXpoZ2vSAdsBQVVfeXFMT3UzdE4zQlo4SDV5Z2x3Qk15OGFxWnNFSzF0ZEtERVVTeG0wREVXNzVzZDhKYy16clVvNG5Pem80d3BYRWZXX09XOFQtbHBoaXpWa2tKMWwxMXFBUzdZZk9iVWJkdXVNdFRnZ1hsc2VCaGFEYkhZaXZyMGwwUXBoeHBiMWdTc3F4WjdRLUVZaEswRTdyVWY3VG5FeGNjUjBEY1l4Y21fZFh2NzU1UUFmYXg2c29tazl0Z1ljVEFUSkJ4LUhDLTBnZkNIejVNbWNIZE1JZzdfeWF6aGdr?oc=5",
-    "body": "Cañeros de Los Mochis confirma el regreso del relevista estadounidense Colten Davis\nEl pítcher texano suma su potente recta de 96 mph al bullpen verde como parte del contingente de extranjeros asegurados para la próxima temporada de la Liga Mexicana del Pacífico\nLOS MOCHIS._ Los Cañeros de Los Mochis continúan armando su legión extranjera y volverán a contar con el potente brazo del lanzador estadounidense Colten Davis.\nColten Demarquis Davis nació el 18 de enero del 2000 en Dallas, Texas. Es un lanzador derecho con una recta que alcanza las 96 mph y buenos recursos para provocar abanicar y fallar (swing & miss) a los bateadores.\nLa temporada pasada Davis llegó a los verdes buscando una oportunidad y no la desaprovechó; fue un relevo confiable que vio acción en 37.1 entradas, permitió 35 imparables y recetó 26 chocolates dejando un promedio de carreras limpias de 3.38.\nEste verano debutó en Liga Mexicana de Beisbol con los Conspiradores de Querétaro donde también mantuvo un buen ritmo de ponches, con 37 en 36.2 innings, equivalente a 9.1 K/9.\nSu perfil es de un pítcher de poder, combina velocidad, agresividad en la zona y experiencia en situaciones de relevo, elementos que le permiten trabajar principalmente como brazo en el bullpen medio hacia las últimas entradas.\nDavis se suma a la lista de extranjeros que hasta el momento incluye a los lanzadores Daysbel Hernández, Danis Correa, Konnor Ash y Luis Miguel Romero; así como a los bateadores Eric Filia, Mallex Smith y Dayson Croes.",
-    "matched_queries": [
-      "Cañeros de Los Mochis"
-    ],
-    "collected_iso": "2026-09-06T13:31:41.198907+00:00",
-    "duplicate_sources": [
-      "noroeste.com.mx",
-      "www.noroeste.com.mx"
-    ]
-  },
-  {
-    "id": "33d067abe49084f094d4",
-    "title": "Olmecas arriba a Villahermosa y se preparan para disputar la Serie del Rey ante Tijuana",
-    "source": "XEVT",
-    "author": "Alexis Santamar; Iacute",
-    "published_iso": "2026-09-05T20:42:00+00:00",
-    "published_rfc2822": "Sat, 05 Sep 2026 20:42:00 +0000",
-    "published_display": "2026-09-05 20:42 UTC",
-    "url": "https://www.xevt.com/deportes/olmecas-arriba-a-villahermosa-y-se-preparan-para-disputar-la-serie-del-rey-ante-tijuana/441207",
-    "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1p5cUZzNm5NRXBrcnpCZm1lQkN2UjRidjh5VDF3LWpIYXZ3VlkxS05CZXFFSzZkQ1VTUDA3YkJuWXhOMUtMN2lEUEp5WnhiZ0dudzFQd25FdVRhYlV6MWdJV0p2RmdSY2N5UUN6c2YxQnJzM1pvMlRmUFVGOHhDdXdnM3FZNDlXSVcxRmJpOENhNk5wOUxOMG9icUV2RXE5TTJ0SWUteDJ3UXZEOE80elBVQi1rMFY5ZkhqYV9KZjhEdw?oc=5",
-    "body": "Olmecas arriba a Villahermosa y se preparan para disputar la Serie del Rey ante Tijuana\nAficionados recibieron con aplausos al plantel choco en el Aeropuerto de Villahermosa\n- Alexis Santamaría\n- Septiembre 05, 2026 - 02:42 p.m.\n- DEPORTES\n¡Tabasco no duerme! Y menos ahora que los Olmecas se alistan para disputar el último objetivo de esta Temporada 2026 de la Liga Mexicana de Beisbol (LMB): ganar la Serie del Rey.\nTras conseguir el campeonato de la Zona Sur en cinco juegos ante los Pericos de Puebla, la tropa tabasqueña llegó al edén mexicano para tomar unos momentos de descanso e iniciar su preparación de cara al enfrentamiento contra Toros de Tijuana.\nEn su arribo a la capital tabasqueña, los jugadores y el cuerpo técnico del equipo fueron bien recibidos entre aplausos, cánticos y muestras de cariño por la afición que los estaba esperando en el Aeropuerto de Villahermosa.\nLos peloteros convivieron por un momento con los seguidores tabasqueños firmando autógrafos y tomándose la foto del recuerdo.\nSe espera que, en las próximas horas, la organización choca emprenda el vuelo hacia la frontera norte de México para concentrarse de cara al duelo más importante de la campaña frente a los astados.\nLa Serie del Rey dará inicio este martes 8 de septiembre y continuará el día miércoles con el segundo partido, ambos a las 20:35 horas en el Estadio Mobil Park de Tijuana.\nLos juegos 3, 4 y de ser necesario un quinto duelo, se llevarán a cabo del 11 al 13 de septiembre en el Estadio Centenario 27 de Febrero.\nDe alargarse la serie entre ambas novenas, las acciones regresarán de nueva cuenta a Tijuana con el sexto y séptimo juego, donde se definiría al campeón 2026 del circuito veraniego.",
-    "matched_queries": [
-      "Serie del Rey",
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-09-05T23:28:34.636806+00:00",
-    "duplicate_sources": [
-      "XEVT",
-      "xevt.com"
-    ]
   }
 ]
