@@ -1,5 +1,21 @@
 [
   {
+    "id": "d8c8c530bc88fa889189",
+    "title": "Carlos Arellano vuelve a Venados con la mira puesta en los playoffs - Punto MX",
+    "source": "Punto MX",
+    "author": "Christian Bernal",
+    "published_iso": "2026-10-06T21:32:43+00:00",
+    "published_rfc2822": "Tue, 06 Oct 2026 21:32:43 +0000",
+    "published_display": "2026-10-06 21:32 UTC",
+    "url": "https://punto.mx/2026/10/06/carlos-arellano-vuelve-a-venados-con-la-mira-puesta-en-los-playoffs/?amp=1",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOG9jN0dYbUJQX2tudlZWWFRIM0pHR3RvMXpBQ1l1a0xDQjkzWEtwMDhfT2dJU3ppclltVzJEY0ZqTkFSWFNoVWxKT3cwYlNLR1ppMXFvNnBCaWtHSGNuNVk5WUpjbFA5cEg4MENCT2t2VnNraGhYc21mVWxNclpJeWNsNlNSbFNjWEY4blVaclNraEdoa1IyUXJxbG5FZWxBUUdMT9IBpAFBVV95cUxPOG9jN0dYbUJQX2tudlZWWFRIM0pHR3RvMXpBQ1l1a0xDQjkzWEtwMDhfT2dJU3ppclltVzJEY0ZqTkFSWFNoVWxKT3cwYlNLR1ppMXFvNnBCaWtHSGNuNVk5WUpjbFA5cEg4MENCT2t2VnNraGhYc21mVWxNclpJeWNsNlNSbFNjWEY4blVaclNraEdoa1IyUXJxbG5FZWxBUUdMTw?oc=5",
+    "body": "MAZATLÁN.- Con experiencia renovada y el objetivo de ayudar a Venados de Mazatlán a regresar a los playoffs, Carlos “Bazoka” Arellano reportó este lunes a los campos de entrenamiento del conjunto porteño, de cara a la temporada 2026-2027 de la Liga Mexicana del Pacífico.\nEl utility mazatleco se integra al equipo que se prepara para disputar la Copa Gobernadora, programada del miércoles 7 al viernes 9 de octubre, en lo que representa uno de los últimos ensayos antes del arranque de la nueva campaña.\nPase a leer Gaige Howard ya está en Mazatlán; Venados suma poder a su ofensiva – Punto MX\nCarlos Arellano regresa a Venados de Mazatlán después de haber defendido los colores de Algodoneros de Guasave y de adquirir experiencia también con Águilas de Mexicali.\nEl jugador debutó con los Rojos del Puerto hace cinco temporadas y ahora vuelve con mayor recorrido en la pelota profesional mexicana.\n“Muy contento por regresar a Mazatlán, una tierra de gente ganadora, de mucha jerarquía. Un sabor que me gusta porque no pude estar aquí con el equipo el año pasado, para poder cumplir una de las metas, para poder pasar a playoffs, porque yo debuté aquí”, dijo.\nUn verano de experiencia con Olmecas\nA sus 28 años, el pelotero considera que su paso por las dos principales ligas de México le ha permitido evolucionar tanto dentro como fuera del terreno de juego, por lo que llega a esta nueva etapa con una mayor madurez.\n“La afición se merece un campeonato; más que nada, muy emocionado y agradecido con Dios de estar aquí. Mi madurez, he mejorado espiritualmente, emocionalmente, seguir trabajando, aspirar a muchas oportunidades y hacer ciudades felices, aficiones felices”, manifestó.\nArellano viene de una temporada destacada con Olmecas de Tabasco, equipo que consiguió avanzar hasta la Serie del Rey. Durante la campaña de verano disputó 81 encuentros, en los que registró un promedio de bateo de .254, conectó 53 imparables y produjo 23 carreras.\nVenados fortalece alianza con empresa mazatleca\nDe cara a la temporada 2026-2027 de la Liga Mexicana del Pacífico, Venados de Mazatlán también continúa fortaleciendo su estructura comercial al oficializar su alianza con Hersa, empresa mazatleca que se incorpora a los proyectos del club.\nMientras se consolidan estos acuerdos, la organización porteña avanza en los preparativos para la inauguración de la campaña, programada para el 14 de octubre, cuando Venados recibirá a los Tomateros de Culiacán.\nPara esa noche se contempla un espectáculo de luces y la participación de talento de Lizos Music, con artistas como Los Dos de la S y Alfredo Montaño, entre los nombres considerados para formar parte de la celebración inaugural.\nCon ello, Venados prepara una jornada especial para marcar el inicio de una nueva campaña en el Teodoro Mariscal, ahora con una plantilla que continúa tomando forma rumbo al nuevo reto en la pelota invernal.",
+    "matched_queries": [
+      "Venados de Mazatlán"
+    ],
+    "collected_iso": "2026-10-06T23:56:07.260161+00:00"
+  },
+  {
     "id": "4e4b20cfbf09ddd209b3",
     "title": "LOS GUINDAS AFINAN DETALLES RUMBO A LA COPA GOBERNADORA.",
     "source": "Tomateros de Culiacán",
@@ -272,7 +288,10 @@
     "matched_queries": [
       "Toros de Tijuana"
     ],
-    "collected_iso": "2026-10-06T00:51:56.330537+00:00"
+    "collected_iso": "2026-10-06T00:51:56.330537+00:00",
+    "duplicate_sources": [
+      "Liga Mexicana de Beisbol"
+    ]
   },
   {
     "id": "078fd8c8500eb0b31f97",
@@ -392,7 +411,8 @@
       "Charros de Jalisco",
       "Águilas de Mexicali",
       "Yaquis de Obregón",
-      "Mayos de Navojoa"
+      "Mayos de Navojoa",
+      "Serie del Caribe 2026"
     ],
     "collected_iso": "2026-10-05T18:23:54.133006+00:00"
   },
@@ -458,7 +478,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3Fjdk01VDE2Z1JMMWpOU2MtNVBqU1N2NjI1SXVnaGUtOUdSNTlJdjFKRWZObGhBa09qWXhrMzUtaThNR3c2VUhjUGZZclRXMGhCaXVMN21ic2pnX01IN3BNQ2xncDhXTTdPbTFjTThRWE1uNTJuc1ktWkFMWm53U3lGWHpaRVVPWnVaM3Buckh3TVhKM2szZmpKVGpqMkgyd2pTSHhPdVprYjVGOXlQVDRwNW5fbW9aZW0xWmVhcmdTZU9QaVBacGVGWEpoYndUc3FJUnhBRHA2WjA1?oc=5",
     "body": "Los Mochis, Sin.- Una falla en el sistema de iluminación en el estadio Daniel Ibarra Heredia de San Miguel Zapotitlán, Ahome, terminó con el juego de preparación que disputaban los Tomateros de Culiacán y los Cañeros de Los Mochis la noche de este domingo 4 de octubre de 2026.\nAl momento del apagón en el estadio durante la quinta entrada, los Tomateros de Culiacán ganaban 2 carreras a 1 a los Cañeros de Los Mochis, para vencerlos por segunda noche consecutiva en San Miguel de cara al inicio de la edición 2026-2027 de la Liga Mexicana del Pacífico.\nTiene que leer: Tomateros de Culiacán vence a Cañeros de Los Mochis en apretado duelo de pretemporada\nTomateros mantiene ritmo ganador sobre Cañero\nEn el pasado torneo de pretemporada de LMP denominado Baja Beis 2026, celebrado en Los Cabos, Baja California Sur del 28 al 30 de septiembre, Tomateros de Culiacán le ganó consecutivamente 3 juegos al equipo de los Cañeros de Los Mochis.\nLos enfrentamientos continuaron este sábado 3 de octubre de 2026 en San Miguel Zapotitlán, y el equipo guinda comandado por Lorenzo Bundy se impuso 3-2 a la tropa de Chris Coste, repitiéndoles todavía la dosis este domingo en el duelo suspendido por falla en el alumbrado, esto al son de 2-1.\nPuede leer: Randy Romero y Luis Miguel Romero reportan a Cañeros de Los Mochis\nCañeros regresará al Chevron Park para seguir pretemporada 2026\nLuego de este fin de semana de juegos, Cañeros de Los Mochis se mantendrá otro par de días en intenso trabajo de pretemporada en Chevron Park, rumbo a la continuación de encuentros de preparación.\nDe este modo, será del 7 al 9 de octubre cuando Cañeros de Los Mochis, junto a los Tomateros de Culiacán, Venados de Mazatlán y Algodoneros de Guasave, encaren la Copa Gobernadora 2026, a celebrarse en el estadio Alberto Vega Chávez de Guamúchil, Sinaloa.",
     "matched_queries": [
-      "Cañeros de Los Mochis"
+      "Cañeros de Los Mochis",
+      "Tomateros de Culiacán"
     ],
     "collected_iso": "2026-10-05T18:30:08.253498+00:00"
   },
@@ -17400,21 +17421,5 @@
       "Algodoneros de Guasave"
     ],
     "collected_iso": "2026-09-08T15:28:04.116451+00:00"
-  },
-  {
-    "id": "adf256c739be3fe27320",
-    "title": "Algodoneros de Guasave abrió entrenamientos",
-    "source": "PSN Noticias",
-    "author": "Rene Mora",
-    "published_iso": "2026-09-08T15:02:45+00:00",
-    "published_rfc2822": "Tue, 08 Sep 2026 15:02:45 +0000",
-    "published_display": "2026-09-08 15:02 UTC",
-    "url": "https://psn.si/algodoneros-abrio-entrenamientos-rm/2026/09/08/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5a2g5YUloaGFSaUJ5eFRhYzFxbUhWQWVja0hULTg1S291S2d0cm5NZnRMQmNyVjdCbkpoQVNoQVNPVWNyVHgxRmU1a2hsUVpxVEdCUnIza2E1RzRzZlpYakN2YmM3aF9QTzBBR3ZwRQ?oc=5",
-    "body": "GUASAVE, Sinaloa.– La pretemporada de los Algodoneros de Guasave se puso en marcha luego de reportar un total de 32 jugadores, quienes fueron recibidos por el mánager tijuanense Óscar Robles.\nFueron un total de 18 lanzadores y 14 jugadores de posición los que ya están sudando la camiseta, entre ellos muchos peloteros que están bien identificados con la afición, como es el caso de Orlando Piña, Manuel Castro, Jeff Ibarra, Rafael Córdova, Víctor Buelna, Iván Izaguirre, entre otros más.\nÓscar Robles tuvo una charla con su cuerpo técnico y jugadores antes de iniciar el entrenamiento, donde le dio la bienvenida a las caras nuevas que se unieron para esta temporada, pidiéndoles a todos su máximo esfuerzo, pues aquí se viene a trabajar para ser campeones, aseveró, ya que ese ese el compromiso con la directiva y la afición de Guasave.\nTambién invitó a los jóvenes que luchen por ganarse un lugar, pues todos pasaron por ese momento de ser los novatos y estar llenos de nerviosismo, pero eso no debe ser factor para no demostrar todo su talento durante las prácticas y juegos de preparación.\nDurante el primer día de entrenamiento, los lanzadores sólo hicieron estiramiento y soltaron el brazo, mientras que los jugadores de cuadro estaban fildeando rolas, así como todos los ofensivos entraron a la jaula de bateo y también hicieron malla, además del calentamiento previo.\nCon información LMP",
-    "matched_queries": [
-      "Algodoneros de Guasave"
-    ],
-    "collected_iso": "2026-09-08T15:37:04.799696+00:00"
   }
 ]
