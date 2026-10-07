@@ -2,10 +2,7 @@ import hashlib
 import html
 import json
 import time
-import re
-import unicodedata
 from datetime import datetime, timezone, timedelta
-from difflib import SequenceMatcher
 from email.utils import format_datetime
 from pathlib import Path
 from urllib.parse import quote_plus, urlsplit, urlunsplit, parse_qsl, urlencode
@@ -21,14 +18,6 @@ DOCS_DIR = ROOT / "docs"
 ARTICLES_FILE = DATA_DIR / "articles.json"
 FEED_FILE = DOCS_DIR / "feed.xml"
 INDEX_FILE = DOCS_DIR / "index.html"
-
-SPANISH_STOPWORDS = {
-    "a","al","algo","ante","como","con","contra","de","del","desde","donde",
-    "el","ella","en","entre","era","es","esta","este","estos","fue","ha","hay",
-    "la","las","lo","los","mas","más","muy","no","o","para","pero","por","que",
-    "qué","se","sin","sobre","su","sus","tras","un","una","uno","unos","unas",
-    "y","ya"
-}
 
 
 def load_config():
@@ -53,6 +42,7 @@ def save_articles(articles):
 
 
 def clean_url(url):
+    """Remove common tracking parameters so duplicate URLs are easier to spot."""
     try:
         parts = urlsplit(url)
         params = []
@@ -68,18 +58,6 @@ def clean_url(url):
         return url
 
 
-def is_blocked_domain(url):
-    """
-    Skip Al Bat completely.
-    Blocks both albat.com and any subdomain such as www.albat.com.
-    """
-    try:
-        hostname = (urlsplit(url).hostname or "").lower().strip(".")
-        return hostname == "albat.com" or hostname.endswith(".albat.com")
-    except Exception:
-        return False
-
-
 def published_datetime(entry):
     if getattr(entry, "published_parsed", None):
         p = entry.published_parsed
@@ -91,9 +69,9 @@ def published_datetime(entry):
 
 
 def google_news_feed_url(query, config):
-    language = config.get("google_news", {}).get("language", "es-419")
-    country = config.get("google_news", {}).get("country", "MX")
-    edition = config.get("google_news", {}).get("edition", "MX:es-419")
+    language = config.get("google_news", {}).get("language", "en-US")
+    country = config.get("google_news", {}).get("country", "US")
+    edition = config.get("google_news", {}).get("edition", "US:en")
     return (
         "https://news.google.com/rss/search?"
         f"q={quote_plus(query)}&hl={quote_plus(language)}"
@@ -118,12 +96,47 @@ def decode_google_news_url(url):
         return None
 
 
+def parse_extracted_article_date(value):
+    """Parse only article dates that contain a usable time component."""
+    if not value:
+        return None
+    raw=str(value).strip()
+
+    # A date such as 2026-10-07 has no clock time, so it cannot safely be
+    # used for a 3-hour freshness cutoff. Let it pass instead of guessing.
+    if "T" not in raw and ":" not in raw:
+        return None
+
+    for candidate in (raw,raw.replace("Z","+00:00")):
+        try:
+            d=datetime.fromisoformat(candidate)
+            if d.tzinfo is None:
+                d=d.replace(tzinfo=timezone.utc)
+            return d.astimezone(timezone.utc)
+        except Exception:
+            pass
+
+    for fmt in ("%Y-%m-%d %H:%M:%S","%Y-%m-%d %H:%M","%Y/%m/%d %H:%M:%S","%Y/%m/%d %H:%M"):
+        try:
+            return datetime.strptime(raw,fmt).replace(tzinfo=timezone.utc)
+        except Exception:
+            pass
+    return None
+
+def actual_article_is_too_old(extracted,max_age_hours=3):
+    if not extracted:
+        return False
+    actual=extracted.get("article_date_dt")
+    if not actual:
+        return False
+    cutoff=datetime.now(timezone.utc)-timedelta(hours=float(max_age_hours))
+    return actual < cutoff
+
 def extract_article(url):
     try:
         downloaded = trafilatura.fetch_url(url)
         if not downloaded:
             return None
-
         extracted = trafilatura.extract(
             downloaded,
             url=url,
@@ -133,25 +146,24 @@ def extract_article(url):
             include_tables=True,
             favor_precision=True,
         )
-
         if not extracted:
             return None
-
         data = json.loads(extracted)
         body = (data.get("text") or "").strip()
         if not body:
             return None
-
+        raw_date=(data.get("date") or "").strip()
         return {
             "title": (data.get("title") or "").strip(),
             "author": (data.get("author") or "").strip(),
-            "date": (data.get("date") or "").strip(),
+            "date": raw_date,
             "body": body,
+            "article_date":raw_date,
+            "article_date_dt":parse_extracted_article_date(raw_date),
         }
     except Exception as exc:
         print(f"  Extraction failed for {url}: {exc}")
         return None
-
 
 def source_name(entry):
     try:
@@ -166,144 +178,12 @@ def source_name(entry):
     return ""
 
 
-def normalize_text_for_compare(text):
-    text = (text or "").lower().strip()
-    text = unicodedata.normalize("NFKD", text)
-    text = "".join(ch for ch in text if not unicodedata.combining(ch))
-    text = re.sub(r"https?://\S+", " ", text)
-    text = re.sub(r"[^a-z0-9ñü\s]", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
-
-
-def meaningful_title_tokens(title):
-    tokens = normalize_text_for_compare(title).split()
-    return {
-        token for token in tokens
-        if len(token) >= 3 and token not in SPANISH_STOPWORDS
-    }
-
-
-def title_similarity(title_a, title_b):
-    a = normalize_text_for_compare(title_a)
-    b = normalize_text_for_compare(title_b)
-    if not a or not b:
-        return 0.0
-
-    sequence_score = SequenceMatcher(None, a, b).ratio()
-
-    ta = meaningful_title_tokens(title_a)
-    tb = meaningful_title_tokens(title_b)
-    if ta and tb:
-        jaccard = len(ta & tb) / len(ta | tb)
-    else:
-        jaccard = 0.0
-
-    return max(sequence_score, jaccard)
-
-
-def body_lead_similarity(body_a, body_b, max_chars=1800):
-    a = normalize_text_for_compare((body_a or "")[:max_chars])
-    b = normalize_text_for_compare((body_b or "")[:max_chars])
-    if not a or not b:
-        return 0.0
-    return SequenceMatcher(None, a, b).ratio()
-
-
-def same_story(article_a, article_b):
-    """
-    Conservative duplicate detection.
-
-    It considers two articles duplicates when:
-    1. Their headlines are very similar, OR
-    2. Their headlines are moderately similar AND their article openings
-       are strongly similar.
-    """
-    headline_score = title_similarity(
-        article_a.get("title", ""),
-        article_b.get("title", "")
-    )
-
-    if headline_score >= 0.78:
-        return True
-
-    if headline_score >= 0.48:
-        lead_score = body_lead_similarity(
-            article_a.get("body", ""),
-            article_b.get("body", "")
-        )
-        if lead_score >= 0.72:
-            return True
-
-    return False
-
-
-def merge_duplicate_articles(articles):
-    """
-    Keep only one version of repeated news.
-    The article with the longest extracted body is considered the
-    most complete and becomes the version kept in the RSS/database.
-    """
-    ordered = sorted(
-        articles,
-        key=lambda x: x.get("published_iso", ""),
-        reverse=True,
-    )
-
-    kept = []
-
-    for candidate in ordered:
-        duplicate_index = None
-
-        for i, existing in enumerate(kept):
-            # Do not compare stories published more than 72 hours apart.
-            try:
-                dt_a = datetime.fromisoformat(candidate.get("published_iso", ""))
-                dt_b = datetime.fromisoformat(existing.get("published_iso", ""))
-                if abs((dt_a - dt_b).total_seconds()) > 72 * 3600:
-                    continue
-            except Exception:
-                pass
-
-            if same_story(candidate, existing):
-                duplicate_index = i
-                break
-
-        if duplicate_index is None:
-            kept.append(candidate)
-            continue
-
-        existing = kept[duplicate_index]
-        candidate_len = len(candidate.get("body", ""))
-        existing_len = len(existing.get("body", ""))
-
-        if candidate_len > existing_len:
-            winner = candidate
-            loser = existing
-            kept[duplicate_index] = winner
-        else:
-            winner = existing
-            loser = candidate
-
-        winner["matched_queries"] = sorted(set(
-            winner.get("matched_queries", []) +
-            loser.get("matched_queries", [])
-        ))
-
-        winner["duplicate_sources"] = sorted(set(
-            winner.get("duplicate_sources", []) +
-            loser.get("duplicate_sources", []) +
-            ([loser.get("source")] if loser.get("source") else [])
-        ))
-
-    return kept
-
-
 def article_id(url):
     return hashlib.sha256(url.encode("utf-8")).hexdigest()[:20]
 
 
 def cdata(text):
+    # CDATA cannot contain the exact sequence ]]>
     return "<![CDATA[" + str(text).replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
 
@@ -311,7 +191,7 @@ def make_rss(articles, config):
     feed_title = config.get("feed", {}).get("title", "My News Feed")
     feed_description = config.get("feed", {}).get("description", "News collected from Google News searches.")
     feed_link = config.get("feed", {}).get("site_url", "http://localhost:8000/")
-    max_feed_items = int(config.get("feed", {}).get("max_items", 150))
+    max_feed_items = int(config.get("feed", {}).get("max_items", 100))
 
     newest = sorted(
         [a for a in articles if a.get("body")],
@@ -335,13 +215,9 @@ def make_rss(articles, config):
         if a.get("author"):
             author_xml = f"      <dc:creator>{cdata(a['author'])}</dc:creator>\n"
 
-        display_title = a["title"]
-        if a.get("source"):
-            display_title = f"{display_title} | {a['source']}"
-
         items.append(
             f"""    <item>
-      <title>{cdata(display_title)}</title>
+      <title>{cdata(a['title'])}</title>
       <link>{html.escape(a['url'])}</link>
       <guid isPermaLink="false">{html.escape(a['id'])}</guid>
       <pubDate>{html.escape(a['published_rfc2822'])}</pubDate>
@@ -380,13 +256,9 @@ def make_index(articles, config):
 
     rows = []
     for a in newest:
-        title = a["title"]
-        if a.get("source"):
-            title = f"{title} | {a['source']}"
-
         rows.append(
             f"""<article>
-<h2><a href="{html.escape(a['url'])}" target="_blank" rel="noopener">{html.escape(title)}</a></h2>
+<h2><a href="{html.escape(a['url'])}" target="_blank" rel="noopener">{html.escape(a['title'])}</a></h2>
 <p><strong>{html.escape(a.get('source', ''))}</strong> · {html.escape(a.get('published_display', ''))} · {len(a.get('body', '')):,} characters extracted</p>
 <p>Matched: {html.escape(", ".join(a.get('matched_queries', [])))}</p>
 </article>"""
@@ -394,7 +266,7 @@ def make_index(articles, config):
 
     title = html.escape(config.get("feed", {}).get("title", "My News Feed"))
     page = f"""<!doctype html>
-<html lang="es">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -410,8 +282,9 @@ code {{ background: #f2f2f2; padding: 2px 5px; }}
 </head>
 <body>
 <h1>{title}</h1>
-<p>RSS: <a href="feed.xml"><code>feed.xml</code></a></p>
-{''.join(rows) if rows else '<p>No hay artículos todavía. Ejecuta <code>python main.py</code>.</p>'}
+<p>RSS URL: <a href="feed.xml"><code>feed.xml</code></a></p>
+<p>This page lists successfully extracted articles. The full extracted text is stored in the RSS feed and in <code>data/articles.json</code>.</p>
+{''.join(rows) if rows else '<p>No articles yet. Run <code>python main.py</code>.</p>'}
 </body>
 </html>
 """
@@ -419,115 +292,113 @@ code {{ background: #f2f2f2; padding: 2px 5px; }}
 
 
 def main():
-    config = load_config()
-    old_articles = load_articles()
+    config=load_config()
+    old_articles=load_articles()
+    existing_by_url={a.get("url"):a for a in old_articles if a.get("url")}
 
-    # Remove any previously stored Al Bat articles before doing anything else.
-    old_articles = [
-        a for a in old_articles
-        if not is_blocked_domain(a.get("url", ""))
-    ]
+    settings=config.get("settings",{})
+    max_age_hours=int(settings.get("max_age_hours",6))
+    inspect_limit=int(settings.get("google_rss_entries_to_inspect",25))
+    fresh_limit=int(settings.get("max_fresh_articles_per_search",6))
+    max_articles=int(settings.get("max_stored_articles",1000))
+    min_body_chars=int(settings.get("minimum_body_characters",300))
+    delay_seconds=float(settings.get("delay_between_articles_seconds",0.25))
 
-    existing_by_url = {a.get("url"): a for a in old_articles if a.get("url")}
-
-    max_age_hours = int(config.get("settings", {}).get("max_age_hours", 48))
-    max_per_search = int(config.get("settings", {}).get("max_items_per_search", 10))
-    max_articles = int(config.get("settings", {}).get("max_stored_articles", 1000))
-    min_body_chars = int(config.get("settings", {}).get("minimum_body_characters", 300))
-    delay_seconds = float(config.get("settings", {}).get("delay_between_articles_seconds", 1.0))
-
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
-    new_count = 0
+    cutoff=datetime.now(timezone.utc)-timedelta(hours=max_age_hours)
+    new_count=0
 
     print("Starting news scan...")
     print(f"Searches: {len(config['queries'])}")
+    print(f"RSS entries inspected/search: {inspect_limit}")
+    print(f"Fresh unseen articles processed/search: max {fresh_limit}")
 
     for query in config["queries"]:
         print(f"\nSEARCH: {query}")
-        feed_url = google_news_feed_url(query, config)
-        feed = feedparser.parse(feed_url)
+        feed_url=google_news_feed_url(query,config)
+        feed=feedparser.parse(feed_url)
 
-        entries = list(getattr(feed, "entries", []))[:max_per_search]
-        print(f"  Results checked: {len(entries)}")
+        if getattr(feed,"bozo",False):
+            print("  Warning: Google News feed had a parsing/network problem.")
+
+        entries=list(getattr(feed,"entries",[]))[:inspect_limit]
+        fresh_processed=0
 
         for entry in entries:
-            pub_dt = published_datetime(entry)
-            if pub_dt < cutoff:
+            if fresh_processed>=fresh_limit:
+                break
+
+            pub_dt=published_datetime(entry)
+            if pub_dt<cutoff:
                 continue
 
-            google_url = getattr(entry, "link", "")
+            google_url=getattr(entry,"link","")
             if not google_url:
                 continue
 
-            original_url = decode_google_news_url(google_url)
+            # Decode only entries that passed the cheap publication-date filter.
+            original_url=decode_google_news_url(google_url)
             if not original_url:
                 continue
 
-            if is_blocked_domain(original_url):
-                print("    Skipped: albat.com is excluded.")
-                continue
-
             if original_url in existing_by_url:
-                article = existing_by_url[original_url]
-                matched = article.setdefault("matched_queries", [])
+                article=existing_by_url[original_url]
+                matched=article.setdefault("matched_queries",[])
                 if query not in matched:
                     matched.append(query)
                 continue
 
-            print(f"  Fetching: {getattr(entry, 'title', '')[:80]}")
-            extracted = extract_article(original_url)
+            fresh_processed+=1
+            print(f"  Fetching: {getattr(entry,'title','')[:80]}")
+            extracted=extract_article(original_url)
 
-            if not extracted or len(extracted["body"]) < min_body_chars:
+            if actual_article_is_too_old(extracted,settings.get("max_extracted_article_age_hours",3)):
+                print("    Skipped: publisher article date is older than 3 hours")
+                continue
+
+            if not extracted or len(extracted["body"])<min_body_chars:
                 print("    Skipped: article body could not be extracted or was too short.")
                 time.sleep(delay_seconds)
                 continue
 
-            rss_title = (getattr(entry, "title", "") or "").strip()
-            extracted_title = extracted.get("title", "")
-            title = extracted_title or rss_title
-            source = source_name(entry)
+            rss_title=(getattr(entry,"title","") or "").strip()
+            extracted_title=extracted.get("title","")
+            title=extracted_title or rss_title
+            source=source_name(entry)
 
-            article = {
-                "id": article_id(original_url),
-                "title": title,
-                "source": source,
-                "author": extracted.get("author", ""),
-                "published_iso": pub_dt.isoformat(),
-                "published_rfc2822": format_datetime(pub_dt),
-                "published_display": pub_dt.strftime("%Y-%m-%d %H:%M UTC"),
-                "url": original_url,
-                "google_news_url": google_url,
-                "body": extracted["body"],
-                "matched_queries": [query],
-                "collected_iso": datetime.now(timezone.utc).isoformat(),
+            article={
+                "id":article_id(original_url),
+                "title":title,
+                "source":source,
+                "author":extracted.get("author",""),
+                "published_iso":pub_dt.isoformat(),
+                "published_rfc2822":format_datetime(pub_dt),
+                "published_display":pub_dt.strftime("%Y-%m-%d %H:%M UTC"),
+                "url":original_url,
+                "google_news_url":google_url,
+                "body":extracted["body"],
+                "article_date":extracted.get("article_date",""),
+                "matched_queries":[query],
+                "collected_iso":datetime.now(timezone.utc).isoformat(),
             }
 
             old_articles.append(article)
-            existing_by_url[original_url] = article
-            new_count += 1
+            existing_by_url[original_url]=article
+            new_count+=1
             time.sleep(delay_seconds)
 
-    before_dedup = len(old_articles)
-    old_articles = merge_duplicate_articles(old_articles)
-    duplicates_removed = before_dedup - len(old_articles)
-
-    old_articles = sorted(
+    old_articles=sorted(
         old_articles,
-        key=lambda x: x.get("published_iso", ""),
+        key=lambda x:x.get("published_iso",""),
         reverse=True,
     )[:max_articles]
 
     save_articles(old_articles)
-    make_rss(old_articles, config)
-    make_index(old_articles, config)
+    make_rss(old_articles,config)
+    make_index(old_articles,config)
 
     print("\nDONE")
-    print(f"New articles added: {new_count}")
-    print(f"Duplicate stories removed/merged: {duplicates_removed}")
-    print(f"Total stored articles: {len(old_articles)}")
-    print(f"RSS file: {FEED_FILE}")
-    print(f"Dashboard: {INDEX_FILE}")
-
+    print("New articles found:",new_count)
+    print("Stored articles:",len(old_articles))
 
 if __name__ == "__main__":
     main()

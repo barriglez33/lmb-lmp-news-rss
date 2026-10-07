@@ -59,11 +59,14 @@
     "edition": "MX:es-419"
   },
   "settings": {
-    "max_age_hours": 48,
+    "max_age_hours": 2,
     "max_items_per_search": 10,
     "max_stored_articles": 1000,
     "minimum_body_characters": 300,
-    "delay_between_articles_seconds": 1.0
+    "delay_between_articles_seconds": 0.25,
+    "google_rss_entries_to_inspect": 25,
+    "max_fresh_articles_per_search": 6,
+    "max_extracted_article_age_hours": 3
   },
   "feed": {
     "title": "Monitor de Noticias LMB y LMP",
