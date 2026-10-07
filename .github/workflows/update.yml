@@ -3,8 +3,7 @@ name: Update LMB LMP News RSS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
-
+    - cron: "23,53 * * * *"
 concurrency:
   group: lmb-lmp-news-rss
   cancel-in-progress: false
