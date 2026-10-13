@@ -1,5 +1,40 @@
 [
   {
+    "id": "3e7e54b3457da1f37c73",
+    "title": "Toros abrió campamento de desarrollo",
+    "source": "PSN Noticias",
+    "author": "Rene Mora",
+    "published_iso": "2026-10-13T14:57:45+00:00",
+    "published_rfc2822": "Tue, 13 Oct 2026 14:57:45 +0000",
+    "published_display": "2026-10-13 14:57 UTC",
+    "url": "https://psn.si/toros-campamento-desarrollo-rm/2026/10/13/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrc2FGUFZkdjNaYUdZYkJWMU9sTmpXRjBqc2FmemtJajlnWEdUMXNOaEwyaGFoSXNqMDAxMnVNMVZqYkU3OHR2U0RVQ1hYY2g4Y0hra0Y3b2hKNXVGc0VrZ1hiRTBHMnNq?oc=5",
+    "body": "TIJUANA, Baja California.- Toros de Tijuana puso en marcha su campamento de desarrollo invernal con 29 jóvenes prospectos, quienes tendrán una preparación de más de 40 días rumbo al showcase del 21 y 22 de noviembre en el estadio del Cerro Colorado.\nRaúl Cano, Asesor Deportivo de Presidencia y Director de Desarrollo de los astados, destacó la importancia del campamento para fortalecer a futuro la profundidad del roster de Toros y continuar exportando talento mexicano hacia organizaciones de Grandes Ligas.\nEl campamento forma parte del plan de desarrollo de la organización para preparar a peloteros jóvenes con proyección profesional y darles exposición ante organizaciones de Grandes Ligas.\n“Iniciamos un campamento para el talento mexicano, tenemos a Bryan Zazueta, Randy Acosta y Abraham Favela que debutaron este año. Eso habla de la buena intención de los Toros de seguir desarrollando nuevos talentos. Actualmente hay 38 peloteros que pertenecen a la organización en Estados Unidos, producto de nuestro programa de desarrollo como Jonathan Aranda que está disputando la Serie de Campeonato con los Tampa Bay Rays”, comentó Cano.\n“Veo mucho talento joven con calidad. El 21 y 22 de noviembre tendremos un showcase donde convocaremos a varios scouts de Grandes Ligas para que puedan ver sus cualidades, con la expectativa de que algunos de nuestros muchachos sean firmados y se vea reflejado el talento que tenemos en Toros”, agregó el Director de Desarrollo.\nCon el propósito de seguir exportando talento a la Gran Carpa y fortalecer a futuro la profundidad del roster, Toros de Tijuana continúa trabajando en la formación de los próximos protagonistas del beisbol mexicano.\nCon información LMB",
+    "article_date": "2026-10-13",
+    "matched_queries": [
+      "Toros de Tijuana"
+    ],
+    "collected_iso": "2026-10-13T15:09:32.888761+00:00"
+  },
+  {
+    "id": "855c3c9f6e416199d19f",
+    "title": "Abre Charros la temporada del Pacífico con la mente puesta en el tricampeonato",
+    "source": "Notisistema",
+    "author": "",
+    "published_iso": "2026-10-13T14:02:00+00:00",
+    "published_rfc2822": "Tue, 13 Oct 2026 14:02:00 +0000",
+    "published_display": "2026-10-13 14:02 UTC",
+    "url": "https://www.notisistema.com/noticias/abre-charros-la-temporada-del-pacifico-con-la-mente-puesta-en-el-tricampeonato/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejdRcU1fU0lPMk1IcWx5S2RTR0lQSmZldTB1QnpoX0ljeHR3MjlLMEhSLWNaeHh3YkEwalQ5VVUwNXVfd1lNLWpURmkxbXhMaFlRMUtjRGFjMVRvaVF3VVV3S2lXNVU3aXl0R01jWWdLUXA3LWpGRjJPSE5iMFFyTkVSSWdMOWNnNmN5TEFpTmVycDRHQ2RGTUFvR2IzYk9iQUtlc2s0YTMwTFFmNHZsekM1SmhsaEE?oc=5",
+    "body": "Los Charros de Jalisco abren hoy la temporada 2026-2027 de la Liga de Béisbol del Pacífico ante los Jaguares de Nayarit, en el estadio Panamericano de Zapopan, con la mira puesta en el tricampeonato.\nEl manager Benjamín Gil pidió a sus peloteros afrontar la campaña con hambre, la misma con la que ganaron los títulos anteriores, y aseguró que su equipo quiere ser campeón en febrero en Hermosillo.\nLuis Iván Rodríguez será el pitcher abridor en el juego inaugural, programado para las ocho de la noche.\nAntes se realizará la ceremonia de apertura. (Por Manuel Trujillo Soriano)",
+    "article_date": "2026-10-13",
+    "matched_queries": [
+      "Charros de Jalisco",
+      "Jaguares de Nayarit"
+    ],
+    "collected_iso": "2026-10-13T15:09:46.631493+00:00"
+  },
+  {
     "id": "f57d8a81752e85922988",
     "title": "Desfile Cañeros 2026 de Chevron es un éxito de nuevo en Los Mochis",
     "source": "Linea Directa",
@@ -17342,37 +17377,5 @@
     "duplicate_sources": [
       "INFO7"
     ]
-  },
-  {
-    "id": "9680c005ebb3270f8edd",
-    "title": "Olmecas toma ventaja en la Serie del Rey tras vencer 7-1 a Toros de Tijuana",
-    "source": "SanDiegoRed",
-    "author": "San Diego Red",
-    "published_iso": "2026-09-09T13:50:00+00:00",
-    "published_rfc2822": "Wed, 09 Sep 2026 13:50:00 +0000",
-    "published_display": "2026-09-09 13:50 UTC",
-    "url": "https://www.sandiegored.com/noticia/olmecas-toma-ventaja-en-la-serie-del-rey-tras-vencer-7-1-a-toros-de-tijuana/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDA2SUZjZm9wV2NGX1ZVSjhvTExhRF9JRG1yQmtnNDZ2RFlmaGVDMFgyQXlhWEFQUmpfRnVDWGI3ejd1NzRpakhidUNnWWlrTTNxZUJ4eEFsMmwyY3NUT25reTh0MklEMkliM1Z6Q1dkRk9DX0tpX3VaUE8tUDFCdm5TVFN0VW5XMHQ0ei1ySWs5cERVSE1TQjYyMnNwYjNFanJfSlNtM213alBxdTVsbEZB?oc=5",
-    "body": "Olmecas de Tabasco pegó primero en la Serie del Rey 2026 al derrotar 7-1 a Toros de Tijuana este martes 8 de septiembre en el Estadio Mobil Park.\nLa ofensiva tabasqueña marcó diferencia desde la tercera entrada, cuando produjo cuatro carreras. Dos de ellas llegaron gracias a un batazo productor de Óscar González. Toros logró hacerse presente en la pizarra hasta la séptima entrada, con un elevado de sacrificio de Tomás Telis que permitió anotar a Phillip Evans.\nOlmecas sentenció el juego en la novena\nTabasco amplió la ventaja en la última entrada con tres anotaciones más. Calvin Estrada conectó un triple productor, mientras que José Godoy disparó un cuadrangular para cerrar la cuenta.\nEn la lomita, Austin Warner tuvo una sólida actuación al lanzar seis entradas en blanco, en las que permitió apenas tres imparables, otorgó una base por bolas y recetó cinco ponches.\nDaniel Martínez cargó con la derrota después de admitir cuatro carreras en dos entradas y dos tercios.\nLa Serie del Rey continúa este miércoles\nEl segundo juego de la serie se disputará este miércoles a las 7:35 de la tarde en el Estadio Mobil Park. Jeremy Rhoades está programado para abrir por Olmecas de Tabasco, mientras que Adonis Medina subirá al montículo por Toros de Tijuana.\nPizarra\nTabasco: 004 000 003 — 7 9 1\nTijuana: 000 000 100 — 1 6 2\nPG: Austin Warner\nPD: Daniel Martínez\nHR: José Godoy (TAB)\nAsistencia: 14 mil 768 aficionados\nDuración: 2 horas 45 minutos\nFotos: Teodoro Guerrero / Border Zoom",
-    "matched_queries": [
-      "Toros de Tijuana"
-    ],
-    "collected_iso": "2026-09-09T14:36:25.593505+00:00"
-  },
-  {
-    "id": "1f2d6eccc30fcaaf6066",
-    "title": "CBPC anunció la creación de la Serie del Caribe Teens para el 2027",
-    "source": "Mundo UR",
-    "author": "Ronald Uribe",
-    "published_iso": "2026-09-09T12:04:38+00:00",
-    "published_rfc2822": "Wed, 09 Sep 2026 12:04:38 +0000",
-    "published_display": "2026-09-09 12:04 UTC",
-    "url": "https://mundour.com/2026/09/09/cbpc-anuncio-la-creacion-de-la-serie-del-caribe-teens-para-el-2027/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFBobnN5b0F2QkNzYW50ZjBjN3U4QjZsY2hSbXFpMlZacEJqbE4yRXVFUE5XUkJWTHZXaHIxeDR1cnpkZ2hrV2RRNU1qeEE3ZC1YT21pMC1rRVJvUHBpeTY4YUZsZVNfNWhsUDVDWl9Jb18ydjNqMkR2ZjhsOGJnekF6RnFQYnNGQXNnLWpVVVFjZkdvRTBOZnNjVURiZ00?oc=5",
-    "body": "(Caracas, 9 de septiembre de 2026 – Unión Radio / MundoUR).- La Confederación de Béisbol Profesional del Caribe (CBPC) anunció este martes la creación de la Serie del Caribe Teens para el 2027, la cual se sumará a la Serie del Caribe tradicional y la versión Kids para confeccionar un programa de tres competencias que abarcan desde el nivel juvenil hasta el profesional.\nAsí lo dio a conocer el organismo a través de una nota de prensa donde explicaron que decisión de celebrar las competencias Kids y Teens fue adoptada por la Asamblea de la CBPC durante una reunión extraordinaria, como parte de los esfuerzos de la Confederación por continuar ampliando el alcance de la Serie del Caribe y promover la práctica y el desarrollo del béisbol en los países de la región.\n*Lea también: LVBP definió el calendario y las condiciones del campeonato 2026-2027\nHay que recordar que la Serie del Caribe profesional celebrará su edición LXIX en Hermosillo, México, mientras que la Kids disputará su cuarta edición en República Dominicana y el estreno de la Teens será en Puerto Rico.\nLa CBPC también informó que los detalles relacionados con las fechas de celebración, estadios y demás aspectos organizativos de las dos últimas competencias mencionadas serán dados a conocer más adelante.",
-    "matched_queries": [
-      "Serie del Caribe 2026"
-    ],
-    "collected_iso": "2026-09-09T13:34:25.965916+00:00"
   }
 ]
