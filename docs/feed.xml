@@ -6,8 +6,34 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sat, 24 Oct 2026 18:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:20:02 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[¡Increíble! Basquetbolista de Dorados de Chihuahua agrede a compañero; ambos son expulsados y su equipo es eliminado]]></title>
+      <link>https://latinus.us/deportes/otros-deportes/2026/10/24/increible-basquetbolista-de-dorados-de-chihuahua-agrede-a-companero-ambos-son-expulsados-y-su-equipo-180446.html</link>
+      <guid isPermaLink="false">ec30727eed4190ab5e4d</guid>
+      <pubDate>Sat, 24 Oct 2026 20:44:51 +0000</pubDate>
+      <source><![CDATA[LatinUS]]></source>
+      <dc:creator><![CDATA[Latinus]]></dc:creator>
+      <description><![CDATA[Los basquetbolistas estadounidenses Sindarius Thornwell y Mikael McKinney, de Dorados de Chihuahua, protagonizaron el viernes una insólita pelea en pleno partido.
+El penoso incidente ocurrió este viernes en el partido de playoffs que Dorados perdió como local ante Fuerza Regia de Monterrey 106-97, lo que dejó al equipo de Chihuahua fuera de la Final de Zona de la Liga Nacional de Baloncesto Profesional de México (LNBP) 2026.
+Aunque no se han dado…]]></description>
+      <content:encoded><![CDATA[<p>Los basquetbolistas estadounidenses Sindarius Thornwell y Mikael McKinney, de Dorados de Chihuahua, protagonizaron el viernes una insólita pelea en pleno partido.<br>El penoso incidente ocurrió este viernes en el partido de playoffs que Dorados perdió como local ante Fuerza Regia de Monterrey 106-97, lo que dejó al equipo de Chihuahua fuera de la Final de Zona de la Liga Nacional de Baloncesto Profesional de México (LNBP) 2026.<br>Aunque no se han dado explicaciones, algunos usuarios de redes aseguran que el pique entre los compañeros comenzó por reclamos en el partido.<br>Cargando publicación...<br>Con la victoria en el cuarto partido de la serie, Fuerza Regia se impuso 3-1 y ahora enfrentará a Astros de Jalisco en su búsqueda del bicampeonato.<br>La pelea quedó captada en video y en redes sociales se viralizó la escena entre los compañeros cuando se revisaba una jugada. La cámara capta a ambos discutiendo, pero súbitamente Thornwell toma por el cuello a McKinney y se desata una serie de golpes y agresiones.<br>La pelea ocurrió en el tercer periodo y ambos jugadores fueron expulsados. Dorados de Chihuahua no se ha manifestado en redes sociales para fijar su postura y si habrá sanciones para los jugadores involucrados.</p>]]></content:encoded>
+      <category>Dorados de Chihuahua</category>
+    </item>
+    <item>
+      <title><![CDATA[Yoanner Negrín es nuevo refuerzo de Jaguares]]></title>
+      <link>https://ntv.com.mx/2026/10/24/yoanner-negrin-es-nuevo-refuerzo-de-jaguares/</link>
+      <guid isPermaLink="false">1d0ec0a13a99bf496e61</guid>
+      <pubDate>Sat, 24 Oct 2026 19:22:38 +0000</pubDate>
+      <source><![CDATA[NTV]]></source>
+      <dc:creator><![CDATA[Redacción de NTV]]></dc:creator>
+      <description><![CDATA[El lanzador cubano Yoanner Negrín, quien ha sido un estelar del beisbol profesional mexicano, se convierte en nuevo refuerzo de los Jaguares de Nayarit en la Liga Mexicana del Pacífico-Banamex.
+El derecho ya fue programado para abrir este sábado contra los Mayos de Navojoa dentro de la serie que arrancó en Guasave.
+Negrín, quien llegó a la LMB en 2012 con los Olmecas de Tabasco, lanzó el invierno pasado con Cañeros de Los Mochis y tuvo record de…]]></description>
+      <content:encoded><![CDATA[<p>El lanzador cubano Yoanner Negrín, quien ha sido un estelar del beisbol profesional mexicano, se convierte en nuevo refuerzo de los Jaguares de Nayarit en la Liga Mexicana del Pacífico-Banamex.<br>El derecho ya fue programado para abrir este sábado contra los Mayos de Navojoa dentro de la serie que arrancó en Guasave.<br>Negrín, quien llegó a la LMB en 2012 con los Olmecas de Tabasco, lanzó el invierno pasado con Cañeros de Los Mochis y tuvo record de 4-3 en 12 aperturas, mientras que este año logró 5 victorias con los Leones de Yucatán.</p>]]></content:encoded>
+      <category>Jaguares de Nayarit</category>
+    </item>
     <item>
       <title><![CDATA[Mujeres pelean en el estadio de Tomateros de Culiacán; una somete a otra del cabello hasta que logran separarlas]]></title>
       <link>https://latinus.us/deportes/beisbol/2026/10/24/mujeres-pelean-en-el-estadio-de-tomateros-de-culiacan-una-somete-a-otra-del-cabello-hasta-que-logran-180435.html</link>
@@ -2103,41 +2129,6 @@ Benjamín Gil dio un paso para reconciliarse con los seguidores de los Diablos R
       <content:encoded><![CDATA[<p>LMB: Movimientos en listas de reserva - 16 de octubre de 2026<br>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
       <category>Liga Mexicana de Béisbol</category>
       <category>LMB</category>
-    </item>
-    <item>
-      <title><![CDATA[Jorge Tavárez, brazo dominicano que se suma a los Leones de Yucatán]]></title>
-      <link>https://lmb.com.mx/noticias/jorge-tavarez-brazo-dominicano-que-se-suma-los-leones-de-yucatan</link>
-      <guid isPermaLink="false">c9f1ef6fe2d656946693</guid>
-      <pubDate>Sat, 17 Oct 2026 03:41:57 +0000</pubDate>
-      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
-      <description><![CDATA[Jorge Tavárez, brazo dominicano que se suma a los Leones de Yucatán
-| Equipo | G | P | % | GB | 
-|---|---|---|---|---|
-| Toros | 60 | 31 | .659 | - | 
-| Caliente  | 51 | 42 | .548 | 10.0 | 
-| Sultanes | 49 | 44 | .527 | 12.0 | 
-| Charros | 48 | 45 | .516 | 13.0 | 
-| Acereros | 48 | 45 | .516 | 13.0 | 
-| Algodoneros | 46 | 47 | .495 | 15.0 | 
-| Rieleros | 42 | 47 | .472 | 17.0 | 
-| Saraperos | 38 | 55 | .409 | 23.0 | 
-| Tecos | 36 | 57 | .387 | 25…]]></description>
-      <content:encoded><![CDATA[<p>Jorge Tavárez, brazo dominicano que se suma a los Leones de Yucatán<br>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
-      <category>LMB</category>
-      <category>Leones de Yucatán</category>
-    </item>
-    <item>
-      <title><![CDATA[Benjamín Gil ofrece disculpas a la afición de Diablos Rojos]]></title>
-      <link>https://amp.milenio.com/deportes/beisbol/benjamin-gil-ofrece-disculpas-a-aficion-de-diablos-rojos</link>
-      <guid isPermaLink="false">79758a2d4401bbd6556d</guid>
-      <pubDate>Sat, 17 Oct 2026 03:07:00 +0000</pubDate>
-      <source><![CDATA[Milenio]]></source>
-      <dc:creator><![CDATA[Kevin Hernández]]></dc:creator>
-      <description><![CDATA[Benjamín Gil se disculpó con la afición de los Diablos Rojos del México por los comentarios que realizó hace un año y que provocaron molestia entre algunos seguidores de la organización escarlata.
-A través de un video dirigido a la Nación Escarlata, el ahora exmánager de Charros de Jalisco agradeció las muestras de apoyo que ha recibido en los últimos días, pero también reconoció que hay aficionados que mantienen su inconformidad por aquellas dec…]]></description>
-      <content:encoded><![CDATA[<p>Benjamín Gil se disculpó con la afición de los Diablos Rojos del México por los comentarios que realizó hace un año y que provocaron molestia entre algunos seguidores de la organización escarlata.<br>A través de un video dirigido a la Nación Escarlata, el ahora exmánager de Charros de Jalisco agradeció las muestras de apoyo que ha recibido en los últimos días, pero también reconoció que hay aficionados que mantienen su inconformidad por aquellas declaraciones.<br>Gil llega a unos Diablos que buscan volver a la cima de la LMB<br>“Algunos de ustedes, con toda razón, están molestos por lo que comenté hace un año. Si ofendí a alguien, les pido disculpas”, expresó Gil.<br>El manejador admitió que se equivocó en la forma en que se expresó durante aquella serie, aunque dejó claro que las circunstancias del momento no justifican sus palabras.<br>“En el calor del momento, de la serie, me equivoqué en algunas cosas que dije. No es excusa”, reconoció.<br>Gil también aprovechó el mensaje para reiterar el aprecio que siente por los seguidores de los Diablos Rojos, la institución y la capital del país, en medio de las versiones que lo colocan como candidato para tomar las riendas del conjunto escarlata en la temporada 2027 de la Liga Mexicana de Beisbol (LMB).<br>“Sí le tengo un gran cariño y un aprecio a la afición, a la organización, a la ciudad”, manifestó el estratega, quien también expresó su gusto por la posibilidad de estar en la capital mexicana.<br>Las disculpas llegan después de que Charros anunciara, de común acuerdo, que Gil no continuará como mánager para la campaña 2027 de la LMB, luego de dirigir al conjunto jalisciense durante tres temporadas, de 2024 a 2026.<br>Durante su etapa con los tapatíos, el equipo clasificó a la postemporada en dos de las tres campañas. Ahora, su futuro en el beisbol de verano apunta a los Diablos Rojos, organización con la que buscaría iniciar una nueva etapa.<br>Con su mensaje, Gil reconoció la molestia de parte de la afición y asumió la responsabilidad por sus declaraciones anteriores, al tiempo que reiteró el respeto y el cariño que asegura tener por la Nación Escarlata.<br>CH</p>]]></content:encoded>
-      <category>LMB</category>
-      <category>Charros de Jalisco</category>
     </item>
   </channel>
 </rss>
