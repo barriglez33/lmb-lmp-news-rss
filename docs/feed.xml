@@ -6,8 +6,50 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sun, 25 Oct 2026 12:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:53:21 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Ayuntamiento de Coronango respalda al talento deportivo con Juego de Estrellas | Mediatik]]></title>
+      <link>https://mediatik.com.mx/ayuntamiento-de-coronango-respalda-al-talento-deportivo-con-juego-de-estrellas/</link>
+      <guid isPermaLink="false">2e0886afd43d1e1526f3</guid>
+      <pubDate>Sun, 25 Oct 2026 16:13:00 +0000</pubDate>
+      <source><![CDATA[Mediatik]]></source>
+      <dc:creator><![CDATA[Karla Vazquez]]></dc:creator>
+      <description><![CDATA[El Ayuntamiento de Coronango respaldó el talento deportivo local con la realización del Juego de Estrellas de beisbol en la Unidad Deportiva El Tepeyac, donde la Selección de Coronango se enfrentó a la Academia Pericos de Puebla y se llevó la victoria con cinco carreras.
+El encuentro fue encabezado por el alcalde Armando Aguirre y la presidenta del DIF Municipal, María del Pilar Tototzintle, como parte de las actividades orientadas a impulsar el…]]></description>
+      <content:encoded><![CDATA[<p>El Ayuntamiento de Coronango respaldó el talento deportivo local con la realización del Juego de Estrellas de beisbol en la Unidad Deportiva El Tepeyac, donde la Selección de Coronango se enfrentó a la Academia Pericos de Puebla y se llevó la victoria con cinco carreras.<br>El encuentro fue encabezado por el alcalde Armando Aguirre y la presidenta del DIF Municipal, María del Pilar Tototzintle, como parte de las actividades orientadas a impulsar el deporte y generar espacios de convivencia para las familias del municipio.<br>La jornada reunió a representantes de Pericos de Puebla y autoridades estatales del ámbito deportivo y juvenil, entre ellos Daniel Villalobos, coordinador de la Academia Pericos; Diana Villegas Bravo, gerente de Marketing, y Daniel Valenzuela Valenzuela, director Comercial y de Marketing del equipo.<br>También asistieron Alejandra Rodríguez Machorro, encargada de despacho de la Secretaría de Deporte y Juventud del estado; Alexa Espidio Sánchez, subsecretaria de Juventud, y Roberto Ortega Terrazas, director de Deporte y Juventud.<br>El partido convocó a habitantes de Coronango, integrantes del Cabildo y aficionados al beisbol, quienes apoyaron a los jugadores durante el enfrentamiento. La presencia de Pepe Perico, Pía Perico y las Periquitas de Puebla contribuyó al ambiente festivo en las gradas.<br>Con este encuentro, el Ayuntamiento refrendó su respaldo a las actividades deportivas y al talento local, mediante el uso de espacios públicos que favorecen la participación ciudadana y la convivencia familiar.</p>]]></content:encoded>
+      <category>Pericos de Puebla</category>
+    </item>
+    <item>
+      <title><![CDATA[Juegos y posiciones en la LMP]]></title>
+      <link>https://psn.si/lmp-juegos-posiciones-rm-10/2026/10/25/</link>
+      <guid isPermaLink="false">8fb7cc417e360d841324</guid>
+      <pubDate>Sun, 25 Oct 2026 15:29:49 +0000</pubDate>
+      <source><![CDATA[PSN Noticias]]></source>
+      <dc:creator><![CDATA[Rene Mora]]></dc:creator>
+      <description><![CDATA[MEXICALI, Baja California.- En la Liga Mexicana del Pacífico, este domingo finalizan las series que arrancaron el viernes passado. Naranjeros sigue en el primer lugar tras perder anoche en Mexicali.
+POSICIONES
+Hermosillo 8-2
+Guasave 7-3
+Culiacán 6-4
+Cd. Obregón 6-4
+Jalisco 6-4
+Mexicali 6-4
+Cañeros 3-7
+Mazatlán 3-7
+Navojoa 3-7
+Nayarit 2-8
+RESULTADOS DE AYER
+Aguilas 6-3 Naranjeros
+Venados 6-4 Charros
+Jaguares 7-5 Mayos
+Algodoneros 6-4 Tomateros
+Yaq…]]></description>
+      <content:encoded><![CDATA[<p>MEXICALI, Baja California.- En la Liga Mexicana del Pacífico, este domingo finalizan las series que arrancaron el viernes passado. Naranjeros sigue en el primer lugar tras perder anoche en Mexicali.<br>POSICIONES<br>Hermosillo 8-2<br>Guasave 7-3<br>Culiacán 6-4<br>Cd. Obregón 6-4<br>Jalisco 6-4<br>Mexicali 6-4<br>Cañeros 3-7<br>Mazatlán 3-7<br>Navojoa 3-7<br>Nayarit 2-8<br>RESULTADOS DE AYER<br>Aguilas 6-3 Naranjeros<br>Venados 6-4 Charros<br>Jaguares 7-5 Mayos<br>Algodoneros 6-4 Tomateros<br>Yaquis 7-6 Cañeros<br>JUEGOS PARA HOY<br>Naranjeros en Mexicali<br>Algodoneros en Culiacán<br>Cañeros en Cd. Obregón<br>Jaguares en Navojoa<br>Charros en Mexicali<br>RM/PSN.SI</p>]]></content:encoded>
+      <category>LMP</category>
+      <category>Posiciones LMP</category>
+      <category>Naranjeros de Hermosillo</category>
+    </item>
     <item>
       <title><![CDATA[Gran triunfo de Jaguares para empatar la serie ante Mayos]]></title>
       <link>https://ntv.com.mx/2026/10/24/gran-triunfo-de-jaguares-para-empatar-la-serie-ante-mayos/</link>
@@ -2084,34 +2126,6 @@ Culiacán se impuso 10-2 en Los Mochis gracias a cinco carreras producidas por R
 Los Mochis, Sinaloa (JR Álvarez Iceido).- Con una ofensiva de 10 carreras, encabezada por Rosman Verdugo, y una sólida apertura de Luis Cessa, los Tomateros de Culiacán derrotaron 10-2 a los Cañeros de Los Mochis en el Chevron Park para tomar ventaja en el primer juego de la serie.
 Verdugo abrió…]]></description>
       <content:encoded><![CDATA[<p>Deportes<br>Tomateros explota con el bate y castiga a Cañeros<br>Culiacán se impuso 10-2 en Los Mochis gracias a cinco carreras producidas por Rosman Verdugo.<br>Los Mochis, Sinaloa (JR Álvarez Iceido).- Con una ofensiva de 10 carreras, encabezada por Rosman Verdugo, y una sólida apertura de Luis Cessa, los Tomateros de Culiacán derrotaron 10-2 a los Cañeros de Los Mochis en el Chevron Park para tomar ventaja en el primer juego de la serie.<br>Verdugo abrió el camino del triunfo en la segunda entrada al conectar un cuadrangular de tres carreras por el jardín izquierdo, su primero de la temporada, para darle la ventaja a la novena guinda.<br>Actuación destacada de Rosman Verdugo<br>Culiacán amplió la diferencia en el quinto episodio con un vuelacercas solitario de Ponchito Ruiz, que colocó la pizarra 4-1.<br>En la sexta, los Tomateros volvieron a atacar después de que Luis Roberto Verdugo y Fernando Villegas negociaran pasaportes consecutivos. Rosman Verdugo respondió con sencillo al jardín derecho para remolcar dos carreras y aumentar la ventaja a 6-1.<br>El ataque visitante continuó en la octava entrada, cuando Orlando Martínez conectó un extrabase que permitió anotar a JP Martínez y Fabricio Macías. En el noveno capítulo, Ichiro Cano pegó doblete productor de dos carreras para establecer el marcador definitivo de 10-2.<br>Dominio en el montículo por Luis Cessa<br>Luis Cessa se llevó la victoria en su primera apertura de la campaña, con cinco entradas de labor en las que permitió apenas dos imparables y una carrera. David Gutiérrez, Robert Gsellman, Sasagi Sánchez y Francisco Haro trabajaron desde el relevo para conservar la amplia ventaja de Culiacán.<br>Rosman Verdugo fue la figura ofensiva del encuentro con cinco carreras producidas, al participar directamente en el ataque que marcó la diferencia para los visitantes.<br>La serie continuará este sábado en el Chevron Park, con el segundo encuentro programado para las 18:00 horas. Ricardo Estrada está anunciado como abridor por Tomateros, mientras que Fabián Cota hará lo propio por Cañeros.<br>Te puede interesar:<br>MÁS NOTICIAS DE Deportes</p>]]></content:encoded>
-      <category>Tomateros de Culiacán</category>
-    </item>
-    <item>
-      <title><![CDATA[¡Remontada épica! Águilas de Mexicali vence 9-8 a Yaquis con hit de Yadir Drake]]></title>
-      <link>https://www.elimparcial.com/mxl/mexicali/2026/10/17/remontada-epica-aguilas-de-mexicali-vence-9-8-a-yaquis-con-hit-de-yadir-drake/</link>
-      <guid isPermaLink="false">87a8f554f08877620ba3</guid>
-      <pubDate>Sat, 17 Oct 2026 14:21:29 +0000</pubDate>
-      <source><![CDATA[El Imparcial]]></source>
-      <dc:creator><![CDATA[Jesús Cota]]></dc:creator>
-      <description><![CDATA[¡Remontada épica! Águilas de Mexicali vence 9-8 a Yaquis con hit de Yadir Drake
-Los emplumados perdían por seis carreras, pero conectaron tres cuadrangulares en la sexta entrada y definieron el juego en la octava.
-Mexicali,B.C.- Águilas de Mexicali consiguió su primera victoria de la temporada al remontar una desventaja de seis carreras y vencer 9-8 a Yaquis de Ciudad Obregón, con un sencillo de Yadir Drake en la parte baja de la octava entrada,…]]></description>
-      <content:encoded><![CDATA[<p>¡Remontada épica! Águilas de Mexicali vence 9-8 a Yaquis con hit de Yadir Drake<br>Los emplumados perdían por seis carreras, pero conectaron tres cuadrangulares en la sexta entrada y definieron el juego en la octava.<br>Mexicali,B.C.- Águilas de Mexicali consiguió su primera victoria de la temporada al remontar una desventaja de seis carreras y vencer 9-8 a Yaquis de Ciudad Obregón, con un sencillo de Yadir Drake en la parte baja de la octava entrada, en el primer juego de la serie disputado en El Nido de los Águilas.<br>Con la pizarra 8-7 en contra, Drake conectó un sencillo al jardín izquierdo que permitió a Ángel Camacho y Luis Santos llegar al plato para darle la vuelta al marcador y sellar el triunfo de los emplumados.<br>Mexicali tomó la ventaja desde la primera entrada con un rodado de Phillip Evans que permitió anotar a Norberto Obeso para el 1-0.<br>Sin embargo, Yaquis reaccionó en la parte alta de la cuarta entrada con dos carreras. Sebastián Elizalde conectó un sencillo al jardín central que llevó a Allen Córdoba a la registradora, mientras que Kyle Garlick produjo la segunda anotación con otro imparable, con el que Elizalde llegó al plato para el 2-1.<br>En la quinta entrada, Obregón amplió su ventaja con cuatro carreras, de acuerdo con la secuencia de anotaciones por confirmar. Fernando Flores conectó un cuadrangular por el jardín derecho y, posteriormente, Elizalde pegó un sencillo con el que José Cardona y Córdoba anotaron. Después, Luis Urías produjo a Roberto Valenzuela con un elevado de sacrificio.<br>Mexicali respondió en la parte baja de ese episodio con una carrera, cuando Norberto Obeso conectó un elevado de sacrificio que permitió a Alex Mejía anotar y acercar a los locales 6-2.<br>En la sexta entrada, Yaquis aumentó la ventaja. José Cardona conectó un sencillo que llevó a Kevin Villavicencio al plato y, más tarde, Elizalde produjo a Fernando Flores con un rodado dentro del cuadro para colocar el marcador 8-2.<br>La respuesta de los emplumados llegó en la parte baja del mismo episodio, cuando armaron un rally de cinco carreras, impulsado por tres cuadrangulares. Clay Dungan conectó el primero y, enseguida, Javier Salazar y Alex Mejía pegaron jonrones consecutivos (back-to-back) para acercar a Mexicali. Posteriormente, Kai Murphy anotó en un lanzamiento descontrolado (wild pitch) y dejó la pizarra 8-7.<br>El relevista Jake Sánchez (1-0) se llevó la victoria tras trabajar dos entradas sin permitir carrera y recetar dos ponches. Daniel Zazueta (0-1) cargó con la derrota al permitir un hit y dos carreras en un tercio de entrada, mientras que Jesús Cruz consiguió su primer salvamento de la temporada al retirar la novena entrada.<br>Águilas y Yaquis disputarán hoy el segundo juego de la serie. Fernando Lozano (0-0) abrirá por Mexicali y enfrentará a Dominic Pipkin (0-0), por Obregón. El encuentro comenzará a las 18:00 horas, tiempo de Baja California.</p>]]></content:encoded>
-      <category>Águilas de Mexicali</category>
-      <category>Yaquis de Obregón</category>
-    </item>
-    <item>
-      <title><![CDATA[Celebra Tomateros de Culiacán su Media Day previo al inicio de temporada]]></title>
-      <link>https://www.noroeste.com.mx/deportes/beisbol/celebra-tomateros-de-culiacan-su-media-day-previo-al-inicio-de-temporada-KI26488714</link>
-      <guid isPermaLink="false">8962c67b1465c3297e42</guid>
-      <pubDate>Sat, 17 Oct 2026 08:25:32 +0000</pubDate>
-      <source><![CDATA[www.noroeste.com.mx]]></source>
-      <dc:creator><![CDATA[Noroeste; Redacción]]></dc:creator>
-      <description><![CDATA[Celebra Tomateros de Culiacán su Media Day previo al inicio de temporada
-CULIACÁN._ Tomateros de Culiacán celebró este martes su Media Day de cara a la Temporada 2026-2027 de la Liga Mexicana del Pacífico.
-El evento tuvo como sede las instalaciones de Benditos, el nuevo restaurante ubicado al interior del estadio Tomateros, del que podrá disfrutar toda la Nación Guinda a partir de este próximo 15 de octubre.
-En este espacio, los representantes de…]]></description>
-      <content:encoded><![CDATA[<p>Celebra Tomateros de Culiacán su Media Day previo al inicio de temporada<br>CULIACÁN._ Tomateros de Culiacán celebró este martes su Media Day de cara a la Temporada 2026-2027 de la Liga Mexicana del Pacífico.<br>El evento tuvo como sede las instalaciones de Benditos, el nuevo restaurante ubicado al interior del estadio Tomateros, del que podrá disfrutar toda la Nación Guinda a partir de este próximo 15 de octubre.<br>En este espacio, los representantes de los medios de comunicación sostuvieron un diálogo directo con el mánager Lorenzo Bundy y miembros del plantel guinda, compartiendo sus impresiones y objetivos de cara a la nueva campaña.<br>La organización guinda extiende un agradecimiento muy especial a las marcas patrocinadoras que hicieron posible este evento.<br>Con esta actividad, Tomateros de Culiacán se declara completamente listo para iniciar la temporada este miércoles 14 de octubre visitando a los Venados en Mazatlán, para posteriormente celebrar la gran inauguración en Culiacán el jueves 15 de octubre.</p>]]></content:encoded>
       <category>Tomateros de Culiacán</category>
     </item>
   </channel>
