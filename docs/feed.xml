@@ -6,8 +6,54 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 16:30:03 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Pierre Gasly llega como luchador a la carrera del GP de México]]></title>
+      <link>https://www.eluniversal.com.mx/deportes/pierre-gasly-llega-como-luchador-a-la-carrera-del-gp-de-mexico-causa-furor-en-el-autodromo-hermanos-rodriguez/</link>
+      <guid isPermaLink="false">be33ccc547c0c8520d2c</guid>
+      <pubDate>Sun, 01 Nov 2026 15:56:06 +0000</pubDate>
+      <source><![CDATA[El Universal]]></source>
+      <dc:creator><![CDATA[Alberto Vargas Valdivia]]></dc:creator>
+      <description><![CDATA[[Publicidad]
+En el día más importante del Gran Premio de la Ciudad de México, Pierre Gasly empezó con el pie derecho desde su llegada al Autódromo Hermanos Rodríguez.
+El volante de la escudería Alpine lució una máscara personalizada en su arribo al templo de la velocidad para el día de carrera.
+La “tapa” del galo es totalmente negra, con un 10 blanco en los costados, número con el que corre. También tiene una flor de cempasúchil que le da un toqu…]]></description>
+      <content:encoded><![CDATA[<p>[Publicidad]<br>En el día más importante del Gran Premio de la Ciudad de México, Pierre Gasly empezó con el pie derecho desde su llegada al Autódromo Hermanos Rodríguez.<br>El volante de la escudería Alpine lució una máscara personalizada en su arribo al templo de la velocidad para el día de carrera.<br>La “tapa” del galo es totalmente negra, con un 10 blanco en los costados, número con el que corre. También tiene una flor de cempasúchil que le da un toque más mexicano.<br>Para resaltar su natal Francia, se observa la bandera del país en la parte superior de la máscara.<br>Además, Gasly también portaba un jersey de los Diablos Rojos del México, equipo de la LMB al que visitaron en la semana para una activación.<br>Te puede interesar<br>[Publicidad]<br>[Publicidad]<br>[Publicidad]</p>]]></content:encoded>
+      <category>Diablos Rojos del México</category>
+    </item>
+    <item>
+      <title><![CDATA[Juegos y posiciones en la LMP]]></title>
+      <link>https://psn.si/lmp-juegos-resultado-rm/2026/11/01/</link>
+      <guid isPermaLink="false">3500420598ade4fb3c25</guid>
+      <pubDate>Sun, 01 Nov 2026 15:29:53 +0000</pubDate>
+      <source><![CDATA[PSN Noticias]]></source>
+      <dc:creator><![CDATA[Rene Mora]]></dc:creator>
+      <description><![CDATA[MEXICALI, Baja California.- En la Liga Mexicana del Pacífico, Algodoneros de Guasave se mantiene en el primer lugar al momento, seguido de Aguilas y Naranjeros.
+POSICIONES
+Guasave 12-3
+Mexicali 10-5
+Hermosillo 10-6
+Jalisco 9-7
+Cd. Obregón 8-7
+Culiacán 8-8
+Mazatlán 7-9
+Los Mochis 6-10
+Navojoa 4-11
+Nayarit 4-12
+RESULTADOS DE AYER
+Aguilas 6-2 Mayos
+Naranjeros 7-4 Cañeros (1)
+Cañeros 4-2 Naranjeros (2)
+Jaguares 8-5 Venados
+Algodoneros 10-5 Yaquis
+Tom…]]></description>
+      <content:encoded><![CDATA[<p>MEXICALI, Baja California.- En la Liga Mexicana del Pacífico, Algodoneros de Guasave se mantiene en el primer lugar al momento, seguido de Aguilas y Naranjeros.<br>POSICIONES<br>Guasave 12-3<br>Mexicali 10-5<br>Hermosillo 10-6<br>Jalisco 9-7<br>Cd. Obregón 8-7<br>Culiacán 8-8<br>Mazatlán 7-9<br>Los Mochis 6-10<br>Navojoa 4-11<br>Nayarit 4-12<br>RESULTADOS DE AYER<br>Aguilas 6-2 Mayos<br>Naranjeros 7-4 Cañeros (1)<br>Cañeros 4-2 Naranjeros (2)<br>Jaguares 8-5 Venados<br>Algodoneros 10-5 Yaquis<br>Tomnateros 2-0 Charros<br>JUEGOS PARA HOY<br>Charros en Culiacán<br>Naranjeros en Los Mochis<br>Yaquis en Guasave<br>Jaguares en Mazatlán<br>RM/PSN.SI</p>]]></content:encoded>
+      <category>LMP</category>
+      <category>Posiciones LMP</category>
+      <category>Naranjeros de Hermosillo</category>
+      <category>Algodoneros de Guasave</category>
+    </item>
     <item>
       <title><![CDATA[Queda Cuautlancingo campeón de la Liga Instruccional de Béisbol de Puebla]]></title>
       <link>https://www.parabolica.mx/2026/local/item/13915-queda-cuautlancingo-campeon-de-la-liga-instruccional-de-beisbol-de-puebla</link>
@@ -2168,33 +2214,6 @@ El que juega para…]]></description>
 El nombramiento corrió a cargo del Comité Elector de las Nominaciones Especiales 2026, integrado por miembros del área deportiva, staff de coaches, cronistas, jefes de prensa y community managers de los 20 equipos de la LMB; además de medios de comunicación locales de las 20 plazas del circuito y por…]]></description>
       <content:encoded><![CDATA[<p>CIUDAD DE MEXICO.- Brett de Geus, cerrador de los Toros de Tijuana, fue designado el Relevista del Año 2026 de la Liga Mexicana de Beisbol Banorte.<br>El nombramiento corrió a cargo del Comité Elector de las Nominaciones Especiales 2026, integrado por miembros del área deportiva, staff de coaches, cronistas, jefes de prensa y community managers de los 20 equipos de la LMB; además de medios de comunicación locales de las 20 plazas del circuito y por medios nacionales.<br>Brett de Geus se impuso en la elección a Roel Ramírez (Toros), A.J. Puckett (Charros), Dan Kubiuk (Piratas), Alexis Vera (Sultanes), Miguel Díaz (Toros), Tomohiro Anraku (Diablos Rojos), Tyler Thomas (Piratas), Cam Robinson (Rieleros), Jesús Cruz (Saraperos), Jimmy Cordero (Olmecas), Chris Ellis (Sultanes), Darrell Thompson (Piratas) y Liarvis Breto (Pericos).<br>El serpentinero derecho de 28 años oriundo de Pleasanton, California, realizó este año su debut en la LMB Banorte y consiguió 23 salvamentos en 27 oportunidades, para un 85.1 % de efectividad. Terminó con marca de 4-1, un porcentaje de carreras limpias admitidas de 1.53 en 42 apariciones desde el bullpen astado y solo le anotaron ocho carreras en 47.0 entradas de labor.<br>La estadística más espectacular que entregó Brett de Geus en 2026 fue su relación entre bases por bolas y ponches: solamente otorgó dos pasaportes y a cambio recetó 58 chocolates. Su WHIP fue un microscópico 0.79 y la oposición le bateó para .203.<br>De esta manera de Geus se convierte en el segundo lanzador en la historia de los Toros de Tijuana en ganar la designación al Relevista del Año, luego de que Fernando Rodney se impusiera en 2025.<br>Además, del 2005 a la fecha, Brett de Geus se convierte en el séptimo lanzador que se lleva a casa la designación al Relevista del Año en su primera campaña en la LMB Banorte: Luis Ramírez en 2010 con Puebla, Luis Vizcaíno en 2013 con Yucatán, Tiago da Silva en 2014 con Ciudad del Carmen, Arcenio León en 2016 con Monclova, Fernando Rodney en 2021 con Tijuana, Neftalí Feliz en 2022 con Monterrey y ahora Brett de Geus en 2026 con Tijuana.<br>Con información LMB</p>]]></content:encoded>
       <category>Toros de Tijuana</category>
-    </item>
-    <item>
-      <title><![CDATA[Dorados están contra la pared en la semifinal que hoy disputan en casa - Nuestras Noticias Chihuahua]]></title>
-      <link>https://www.nuestrasnoticiaschihuahua.com/deportes/dorados-estan-contra-la-pared-en-la-semifinal-que-hoy-disputan-en-casa/</link>
-      <guid isPermaLink="false">f12c3e49d65775e3b31a</guid>
-      <pubDate>Thu, 22 Oct 2026 19:37:06 +0000</pubDate>
-      <source><![CDATA[Nuestras Noticias Chihuahua]]></source>
-      <dc:creator><![CDATA[Ramon Chavez]]></dc:creator>
-      <description><![CDATA[Dorados de Chihuahua se encuentra a un juego de la eliminación, aunque tendrá en casa la posibilidad de alargar la serie semifinal de la Zona Punto CHG de la LNBP 2026, al recibir a Fuerza Regia de Monterrey este jueves 22 de octubre en el Gimnasio Manuel Bernardo Aguirre (MBA) en punto de las 20:00 horas.
-Los vigentes campeones se impusieron en “La Fortaleza” el pasado domingo por marcador de 101-90, así como en el compromiso del lunes en el 80-…]]></description>
-      <content:encoded><![CDATA[<p>Dorados de Chihuahua se encuentra a un juego de la eliminación, aunque tendrá en casa la posibilidad de alargar la serie semifinal de la Zona Punto CHG de la LNBP 2026, al recibir a Fuerza Regia de Monterrey este jueves 22 de octubre en el Gimnasio Manuel Bernardo Aguirre (MBA) en punto de las 20:00 horas.<br>Los vigentes campeones se impusieron en “La Fortaleza” el pasado domingo por marcador de 101-90, así como en el compromiso del lunes en el 80-76, para adquirir ventaja de 2-0.<br>Por su parte, el cuadro del Estado Grande regresa al MBA en donde sostiene marca de 11-5 en la actual campaña, incluyendo la ronda de Play-in, por lo que buscará al menos extender la serie.<br>En caso de una victoria dorada, el cuarto partido se disputará el viernes 23 de octubre a las 8:00 de la noche tras el formato 2-2-1.<br>Calendario Playoffs<br>Juego 1<br>Dorados de Chihuahua 90-101 Fuerza Regia<br>Domingo 18 de octubre<br>Arena Mobil<br>Juego 2<br>Dorados de Chihuahua 86-90 Fuerza Regia<br>Lunes 19 de octubre<br>Arena Mobil<br>Juego 3<br>Dorados de Chihuahua vs Fuerza Regia<br>Jueves 22 de octubre<br>20:00 horas<br>Gimnasio Manuel Bernardo Aguirre<br>Juego 4 *<br>Dorados de Chihuahua vs Fuerza Regia<br>Viernes 23 de octubre<br>20:00 horas<br>Gimnasio Manuel Bernardo Aguirre<br>Juego 5 *<br>Dorados de Chihuahua en Fuerza Regia<br>Lunes 26 de octubre<br>20:15 horas<br>Arena Mobil<br>- En caso de ser necesario</p>]]></content:encoded>
-      <category>Dorados de Chihuahua</category>
-    </item>
-    <item>
-      <title><![CDATA[Yaquis de Obregón vs Venados de Mazatlán EN VIVO; dónde VER el tercero de la serie de la LMP 2026-2027]]></title>
-      <link>https://tribuna.com.mx/deportes/2026/10/22/yaquis-de-obregon-vs-venados-de-mazatlan-en-vivo-donde-ver-el-tercero-de-la-serie-de-la-lmp-2026-2027_705184/</link>
-      <guid isPermaLink="false">377221dbca69bbc78a49</guid>
-      <pubDate>Thu, 22 Oct 2026 19:27:28 +0000</pubDate>
-      <source><![CDATA[La Tribuna (México)]]></source>
-      <dc:creator><![CDATA[Jorge Mendivil]]></dc:creator>
-      <description><![CDATA[Ciudad Obregón, Sonora.- Yaquis de Obregón puso fin a una racha de cuatro derrotas consecutivas y recuperó terreno en el arranque de la Liga Mexicana del Pacífico 2026-2027. Ahora, la novena cajemense tendrá una tercera oportunidad frente a Venados de Mazatlán para buscar otra victoria y asegurar su primera serie de la temporada.
-¿Cómo fue la victoria de Yaquis?
-El segundo encuentro de la serie volvió a estar marcado por el dominio de los lanzado…]]></description>
-      <content:encoded><![CDATA[<p>Ciudad Obregón, Sonora.- Yaquis de Obregón puso fin a una racha de cuatro derrotas consecutivas y recuperó terreno en el arranque de la Liga Mexicana del Pacífico 2026-2027. Ahora, la novena cajemense tendrá una tercera oportunidad frente a Venados de Mazatlán para buscar otra victoria y asegurar su primera serie de la temporada.<br>¿Cómo fue la victoria de Yaquis?<br>El segundo encuentro de la serie volvió a estar marcado por el dominio de los lanzadores y un marcador cerrado. ‘La Tribu‘ resistió los intentos de reacción de Mazatlán y aprovechó una pifia defensiva en la novena entrada para dejar tendidos a los visitantes con una victoria por 3-2.<br>Venados tomó la ventaja en la apertura del cuarto episodio, pero los locales respondieron en el sexto rollo con un cuadrangular de Sebastián Elizalde que emparejó la pizarra. Una entrada más tarde, Obregón volvió a ponerse al frente, aunque la novena mazatleca encontró la forma de igualar el encuentro en el octavo inning y mandarlo a una definición dramática.<br>¿Cómo selló Yaquis el triunfo ante Venados?<br>Kevin Villavicencio comenzó la parte baja de la novena entrada con un sencillo que lo colocó en circulación. Después, un toque de sacrificio de Víctor Márquez provocó un error defensivo de los visitantes, situación que permitió a Villavicencio recorrer las bases y llegar hasta el plato con la carrera que aseguró el triunfo para los cajemenses.<br>Aunque no consiguió la decisión, Odrisamer Despaigne fue una de las figuras del encuentro gracias a su destacada labor desde la lomita. El cubano mantuvo a Venados sin conectar imparable hasta el octavo episodio y completó una salida de 7.1 entradas, en las que además recetó cinco ponches.<br>¿Quién abrirá el tercer juego de la serie?<br>José Mosquera ya tiene definido a su abridor para el último compromiso frente a Mazatlán: Finneas del Bonta-Smith será el encargado de subir al montículo con la misión de darle a Yaquis su segunda victoria consecutiva y asegurar la primera serie ganada de la campaña.<br>Por parte de Venados, todavía no se ha anunciado quién tomará la pelota como inicialista. La rotación del conjunto sinaloense ha sufrido modificaciones durante los últimos días, por lo que la novena visitante deberá confirmar quién será el encargado de enfrentar a los bateadores de Obregón en el cierre de la serie.<br>Horarios del Yaquis de Obregón vs Venados de Mazatlán<br>- Sede: Estadio Yaquis, Ciudad Obregón, Sonora<br>- Fecha: Jueves, 22 de octubre<br>- Horario: 20:10 horas (tiempo del centro de México)<br>- Dónde ver: MegaSports/ YouTube: Liga Mexicana del Pacífico Banamex<br>Fuente: Tribuna del Yaqui</p>]]></content:encoded>
-      <category>LMP</category>
-      <category>Venados de Mazatlán</category>
-      <category>Yaquis de Obregón</category>
     </item>
   </channel>
 </rss>
