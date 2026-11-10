@@ -6,8 +6,27 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Tue, 10 Nov 2026 03:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:25:51 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Sueña Mateo Gil con tricampeonato en Charros y llegar a MLB]]></title>
+      <link>https://www.mural.com.mx/suena-mateo-gil-con-tricampeonato-en-charros-y-llegar-a-mlb/ar3311462</link>
+      <guid isPermaLink="false">9bcb7b41d660d8537315</guid>
+      <pubDate>Tue, 10 Nov 2026 11:04:05 +0000</pubDate>
+      <source><![CDATA[MURAL | Periodismo independiente]]></source>
+      <dc:creator><![CDATA[Raúl Luna]]></dc:creator>
+      <description><![CDATA[Sueña Mateo Gil con tricampeonato en Charros y llegar a MLB
+05 MIN 00 SEG
+Raúl Luna
+Guadalajara, México (10 noviembre 2026) .-05:00 hrs
+Mateo Gil se ha caracterizado por aparecer en momentos importantes para los Charros de Jalisco. Crédito: Cortesía
+Tras conquistar dos títulos de LMP y una Serie del Caribe, Mateo Gil quiere permanecer en Jalisco pese a la salida de su padre a Diablos. Crédito: Cortesía
+La historia de Mateo Gil con los Charros de…]]></description>
+      <content:encoded><![CDATA[<p>Sueña Mateo Gil con tricampeonato en Charros y llegar a MLB<br>05 MIN 00 SEG<br>Raúl Luna<br>Guadalajara, México (10 noviembre 2026) .-05:00 hrs<br>Mateo Gil se ha caracterizado por aparecer en momentos importantes para los Charros de Jalisco. Crédito: Cortesía<br>Tras conquistar dos títulos de LMP y una Serie del Caribe, Mateo Gil quiere permanecer en Jalisco pese a la salida de su padre a Diablos. Crédito: Cortesía<br>La historia de Mateo Gil con los Charros de Jalisco todavía tiene capítulos por escribir.</p>]]></content:encoded>
+      <category>Liga Mexicana de Béisbol</category>
+      <category>LMP</category>
+      <category>Charros de Jalisco</category>
+    </item>
     <item>
       <title><![CDATA[Sultanes Rising Stars 2026: Cuándo debutan y contra quién juegan]]></title>
       <link>https://www.telediario.mx/beisbol/sultanes/sultanes-rising-stars-2026-cuando-debutan-y-contra-quien-juegan</link>
@@ -2163,29 +2182,6 @@ Empezó su carrera en la organización mexicalense en 1979 como recepcionista a 
       <content:encoded><![CDATA[<p>MEXICALI.- Juanita Pérez Valenzuela quien hizo historia al convertirse en la primera mujer en estar al frente de un club de beisbol de la Liga Mexicana del Pacifico con Águilas de Mexicali, es ya una leyenda emplumada.<br>Empezó su carrera en la organización mexicalense en 1979 como recepcionista a invitación del entonces gerente Arnulfo Rodríguez quien provenía de la ciudad de México y quien tenía poco tiempo de ser contratado por la organización emplumada.<br>Para la década del 80, la importancia de Juanita dentro de la oficina empezó a ser más requerida no sólo por directivos, también por patrocinadores, aficionados y medios de comunicación.<br>Debido a su gentileza en el trato, también se ganó el afecto y la confianza de jugadores y managers que no dudaban en confiarle asuntos particulares, además de ser la portavoz de muchos de sus encargos, no importando la jerarquía del jugador.<br>Para principios de la década de los 90, Pérez Valenzuela era parte fundamental en la conexión que tenía el Club Águilas de Mexicali con la Liga Mexicana del Pacífico, Liga Mexicana de Beisbol, Confederación del Caribe, Salón de la Fama de Monterrey y hasta contactos con las organizaciones de Grandes Ligas.<br>Debido a su profesionalismo y entrega, pasó a convertirse en la mujer más reconocida en el beisbol mexicano. En agosto del 2003 alcanzó su más alto honor al ser designada para ocupar la gerencia general.<br>De esta manera se resumen miles de horas, cientos de días, meses y años que Juanita Pérez Valenzuela (1944-2026) le entregó de manera efectiva a sus queridos Águilas de Mexicali.</p>]]></content:encoded>
       <category>Liga Mexicana de Béisbol</category>
       <category>Águilas de Mexicali</category>
-    </item>
-    <item>
-      <title><![CDATA[Pilotos de la Fórmula 1 batean en el Diamante de Fuego]]></title>
-      <link>https://lmb.com.mx/noticias/pilotos-de-la-formula-1-batean-en-el-diamante-de-fuego</link>
-      <guid isPermaLink="false">9a8cd92ec7f076bb710a</guid>
-      <pubDate>Fri, 30 Oct 2026 01:16:03 +0000</pubDate>
-      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
-      <description><![CDATA[| Equipo | G | P | % | GB | 
-|---|---|---|---|---|
-| Toros | 60 | 31 | .659 | - | 
-| Caliente  | 51 | 42 | .548 | 10.0 | 
-| Sultanes | 49 | 44 | .527 | 12.0 | 
-| Charros | 48 | 45 | .516 | 13.0 | 
-| Acereros | 48 | 45 | .516 | 13.0 | 
-| Algodoneros | 46 | 47 | .495 | 15.0 | 
-| Rieleros | 42 | 47 | .472 | 17.0 | 
-| Saraperos | 38 | 55 | .409 | 23.0 | 
-| Tecos | 36 | 57 | .387 | 25.0 | 
-| Dorados | 35 | 58 | .376 | 26.0 |]]></description>
-      <content:encoded><![CDATA[<p>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
-      <category>Liga Mexicana de Béisbol</category>
-      <category>LMB</category>
-      <category>Diablos Rojos del México</category>
     </item>
   </channel>
 </rss>
