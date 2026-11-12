@@ -6,8 +6,20 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Thu, 12 Nov 2026 10:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:30:07 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[El Águila de Veracruz firma a estrella del softbol colegial en Estados Unidos]]></title>
+      <link>https://www.xeudeportes.mx/beisbol/1440076/el-aguila-de-veracruz-firma-a-estrella-del-softbol-colegial-en-estados-unidos</link>
+      <guid isPermaLink="false">72299d5a743f001904be</guid>
+      <pubDate>Thu, 12 Nov 2026 18:08:40 +0000</pubDate>
+      <source><![CDATA[www.xeudeportes.mx]]></source>
+      <dc:creator><![CDATA[Diego San Román]]></dc:creator>
+      <description><![CDATA[Las Gloriosas de Veracruz continúan conformando su roster para la temporada 2027 y anunciaron la incorporación de la infielder mexicana Tori Vidales, quien cuenta con experiencia internacional y formó parte de la histórica selección nacional que consiguió por primera vez su clasificación a unos Juegos Olímpicos, en Tokio 2020.
+Vidales se desempeña como primera y tercera base, y destaca por su capacidad para conectar batazos de largo alcance, prod…]]></description>
+      <content:encoded><![CDATA[<p>Las Gloriosas de Veracruz continúan conformando su roster para la temporada 2027 y anunciaron la incorporación de la infielder mexicana Tori Vidales, quien cuenta con experiencia internacional y formó parte de la histórica selección nacional que consiguió por primera vez su clasificación a unos Juegos Olímpicos, en Tokio 2020.<br>Vidales se desempeña como primera y tercera base, y destaca por su capacidad para conectar batazos de largo alcance, producir carreras y responder en momentos importantes.<br>Precisamente, tuvo una participación clave durante el partido ante Australia en Tokio 2020, donde produjo la cuarta carrera de México, resultado que contribuyó a que el equipo avanzara y posteriormente disputara la medalla de bronce frente a Canadá.<br>En el softbol colegial estadounidense brilló con Texas A&amp;M entre 2015 y 2018, periodo en el que disputó 240 encuentros, registró un promedio de bateo de .355, conectó 65 jonrones e impulsó 219 carreras.<br>Además, es la líder histórica de esa universidad en carreras anotadas, con 198; bases totales, con 480, y carreras producidas, con 219. También fue seleccionada dos veces al equipo All-America de la NFCA.<br>Durante 2026 participó con Portland Cascade en la AUSL, donde en 24 partidos consiguió 12 imparables, tres cuadrangulares, 12 carreras impulsadas y ocho anotadas.<br>Entre sus logros también destaca el campeonato obtenido con Talons en la AUSL 2025. Con su llegada, Las Gloriosas suman experiencia olímpica y poder ofensivo a su proyecto para la campaña 2027.<br>Foto: El Águila de Veracruz</p>]]></content:encoded>
+      <category>El Águila de Veracruz</category>
+    </item>
     <item>
       <title><![CDATA[Charros vienen de atrás y vencen a Mayos en extras en la LMP]]></title>
       <link>https://www.mlb.com/es/news/charros-vienen-de-atras-y-vencen-a-mayos-en-extras-en-la-lmp</link>
@@ -2146,25 +2158,6 @@ Y con este objetivo en mente, la escuadra cajemense recibirá a sus vecinos Mayo
       <content:encoded><![CDATA[<p>Ciudad Obregón, Sonora.- Después de su nada agradable visita a Guasave donde enfrentaron a los Algodoneros el pasado fin de semana, los Yaquis de Obregón regresan a casa para sanar sus heridas y buscar quién se las pague, después de ser barridos por los sinaloenses.<br>Guerra de Tribus<br>Y con este objetivo en mente, la escuadra cajemense recibirá a sus vecinos Mayos de Navojoa en la primera edición oficial de la llamada ‘Guerra de tribus’, a partir de este martes 3 de noviembre de 2026 al reanudarse las hostilidades en la campaña 2026-27 de la Liga Mexicana del Pacífico (LMP).<br>Yaquis buscará aprovechar de nueva cuenta su localía, la cual le ha permitido ganar las tres series que ha disputado en su madriguera, además de los dos primeros desafíos de la campaña ante los mismos Mayos.<br>Para este enfrentamiento, los de la Perla del Mayo anunciaron a Dalton Rodríguez, Nick Horvat y Elián Leyva, mientras que los cajemenses no dieron a conocer su rotación abridora para los tres encuentros.<br>Revancha en puerta<br>De igual manera, la oportunidad de cobrar revancha llegará muy pronto para Obregón, ya que durante el fin de semana (viernes a domingo), recibirá a los Algodoneros, por lo que buscará aprovechar esta dos visitas que tendrá.<br>De poder a poder<br>Por su parte, el otro equipo sonorense, los Naranjeros de Hermosillo, también tendrán un duelo de sumo cuidado, cuando reciban a los Tomateros de Culiacán en el Estadio ‘Fernando Valenzuela’.<br>Los de la capital del estado regresan a casa después de dividir el par de encuentros que pudieron disputar ante los Cañeros en Los Mochis, mientras que los ‘guindas’ aprovecharon muy bien su estadía en la capital sinaloense para apuntarse la serie ante los Charros de Jalisco.<br>Ambas escuadras han tenido un buen comienzo, más los de ‘Cheo’ Moreno, que se mantienen entre los primeros lugares en la tabla de posiciones, seguidos por los sinaloenses a un solo juego.<br>Más series<br>En rel esto de los compromisos que arrancan este martes, los Algodoneros estarán de visita en la Perla de Occidente para medirse a los Charros, mientras que los Cañeros se meterán al Coloso del Pacífico para enfrentar a los Jaguares de Nayarit y los Venados de Mazatlán viajan a la frontera de Baja California, donde tratarán de frenar el paso triunfal de los Águilas de Mexicali.<br>Fuente: Tribuna del Yaqui</p>]]></content:encoded>
       <category>Yaquis de Obregón</category>
       <category>Algodoneros de Guasave</category>
-    </item>
-    <item>
-      <title><![CDATA[Sultanes de Monterrey incorpora a Alen Hanson para 2027 de la LMB]]></title>
-      <link>https://www.xevt.com/deportes/sultanes-de-monterrey-incorpora-a-alen-hanson-para-2027-de-la-lmb/449913</link>
-      <guid isPermaLink="false">3e1822c4052a81b8937f</guid>
-      <pubDate>Tue, 03 Nov 2026 02:59:00 +0000</pubDate>
-      <source><![CDATA[XEVT]]></source>
-      <dc:creator><![CDATA[Juan Pablo Sibilla]]></dc:creator>
-      <description><![CDATA[Sultanes de Monterrey incorpora a Alen Hanson para 2027 de la LMB
-Intercambio incluye la salida de Sebastián Elizalde y Luis Santos hacia la novena queretana
-- Juan Pablo Sibilla
-- Noviembre 02, 2026 - 07:59 p.m.
-- DEPORTES
-Los Sultanes de Monterrey anunciaron la contratación del pelotero dominicano Alen Hanson, quien llegará procedente de los Conspiradores de Querétaro para reforzar al equipo durante la temporada 2027 de la Liga Mexicana de Béis…]]></description>
-      <content:encoded><![CDATA[<p>Sultanes de Monterrey incorpora a Alen Hanson para 2027 de la LMB<br>Intercambio incluye la salida de Sebastián Elizalde y Luis Santos hacia la novena queretana<br>- Juan Pablo Sibilla<br>- Noviembre 02, 2026 - 07:59 p.m.<br>- DEPORTES<br>Los Sultanes de Monterrey anunciaron la contratación del pelotero dominicano Alen Hanson, quien llegará procedente de los Conspiradores de Querétaro para reforzar al equipo durante la temporada 2027 de la Liga Mexicana de Béisbol.<br>El bateador de 34 años se incorporará a la novena dirigida por Henry Blanco, mientras que Sultanes enviará a los mexicanos Sebastián Elizalde y Luis Santos al conjunto queretano.<br>Hanson disputó tres temporadas con los Conspiradores, en las que registró un promedio de bateo de .315, con 297 imparables, 48 cuadrangulares, 147 carreras producidas y 20 bases robadas, y puede desempeñarse como segunda base, parador en corto y jardinero central.<br>El dominicano también cuenta con experiencia de cuatro temporadas en Grandes Ligas, entre 2016 y 2019, cuando jugó para Pittsburgh Pirates, Chicago White Sox, San Francisco Giants y Toronto Blue Jays, además de que durante 2023 participó en el béisbol japonés con los Hokkaido Nippon-Ham Fighters.<br>Short Link: https://is.gd/eJWb7i</p>]]></content:encoded>
-      <category>Liga Mexicana de Béisbol</category>
-      <category>LMB</category>
-      <category>Sultanes de Monterrey</category>
-      <category>Conspiradores de Querétaro</category>
     </item>
   </channel>
 </rss>
