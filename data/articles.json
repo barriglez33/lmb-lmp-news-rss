@@ -1,5 +1,43 @@
 [
   {
+    "id": "07c960fb82c30c0940ee",
+    "title": "Juegos y posiciones en la LMP",
+    "source": "PSN Noticias",
+    "author": "Rene Mora",
+    "published_iso": "2026-11-14T15:09:37+00:00",
+    "published_rfc2822": "Sat, 14 Nov 2026 15:09:37 +0000",
+    "published_display": "2026-11-14 15:09 UTC",
+    "url": "https://psn.si/lmp-juegos-posiciones-rm-30/2026/11/14/",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVbzJBMmhSaEZ3Q2tHbHhaODQtbmh1bGs0ektaajhrQ0NFSENHMThKOGYtejdnVjlHOUIyeW52SkpwbVFhSnYwS3FvSGFneGRHbzkzN0tBa3NxS2hrZDMwSGozSkw?oc=5",
+    "body": "MEXICALI, Baja California.- En la Liga Mexicana del Pacífico (LMP), Algodoneros volvió a perder y solamente tiene ya un juego de ventaja sobre Naranjeros de Hermosilo y dos sobre Yaquis, Aguilas y Tomateros.\nPOSICIONES\nGuasave 17-10\nHermosillo 16-11\nCd. Obregón 15-12\nMexicali 15-12\nCuliacán 15-12\nJalisco 13-14\nLos Mochis 13-14\nNayarit 13-14\nMazatlán 11-16\nNavojoa 8-19\nRESULTADOS DE AYER\nAguilas 4-2 Algodoneros\nTomateros 16-1 Venados\nYaquis 6-2 Jaguares\nCañeros 5-3 Mayos\nNaranjeros 4-1 Charros\nJUEGOS PARA HOY\nCharros en Hermosillo\nMayos en Los Mochis\nJaguares en Cd. Obregón\nVenados en Culiacán\nRM/PSN.SI",
+    "article_date": "2026-11-14",
+    "matched_queries": [
+      "LMP",
+      "Posiciones LMP",
+      "Yaquis de Obregón",
+      "Algodoneros de Guasave"
+    ],
+    "collected_iso": "2026-11-14T15:22:28.334382+00:00"
+  },
+  {
+    "id": "a30902aa39238ac1a797",
+    "title": "Mickey Dean llega a las Leonas de Yucatán para liderar como manager sus rugidos",
+    "source": "Liga Mexicana de Beisbol",
+    "author": "",
+    "published_iso": "2026-11-14T14:27:31+00:00",
+    "published_rfc2822": "Sat, 14 Nov 2026 14:27:31 +0000",
+    "published_display": "2026-11-14 14:27 UTC",
+    "url": "https://lmb.com.mx/noticias/mickey-dean-llega-las-leonas-de-yucatan-para-liderar-como-manager-sus-rugidos",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVl5N0k0enNsTXkyRUo0cGs5VDNEZUItXzNiTXhRSXRqT2x5eGoxSXIzM3ZONjI3WnVNU2gxc0wydFpOYzFsVC1iWWV4YlFJb2VnWnBHemNiWlVfNzlVd1JBX0NvRFJJZzJteWJkNzRPVkVOY25IUk1iNmY1OXUxX3Y3WGlFWFJ4QWlLSE43OWE4Rm9kTV9fV2FYQTAxZjlyU0lzY1BteHU?oc=5",
+    "body": "Últimas Noticias\n| Equipo | G | P | % | GB | \n|---|---|---|---|---|\n| Toros | 60 | 31 | .659 | - | \n| Caliente  | 51 | 42 | .548 | 10.0 | \n| Sultanes | 49 | 44 | .527 | 12.0 | \n| Charros | 48 | 45 | .516 | 13.0 | \n| Acereros | 48 | 45 | .516 | 13.0 | \n| Algodoneros | 46 | 47 | .495 | 15.0 | \n| Rieleros | 42 | 47 | .472 | 17.0 | \n| Saraperos | 38 | 55 | .409 | 23.0 | \n| Tecos | 36 | 57 | .387 | 25.0 | \n| Dorados | 35 | 58 | .376 | 26.0 |",
+    "article_date": "2026-11-12",
+    "matched_queries": [
+      "Liga Mexicana de Béisbol",
+      "LMB"
+    ],
+    "collected_iso": "2026-11-14T15:22:23.496527+00:00"
+  },
+  {
     "id": "975299a3217787582f62",
     "title": "Mickey Dean es presentado como el primer manager en la historia de las Leonas de Yucatán",
     "source": "Liga Mexicana de Beisbol",
@@ -17448,40 +17486,5 @@
     "duplicate_sources": [
       "Tomateros"
     ]
-  },
-  {
-    "id": "3d1f5cfcbcc7a901caef",
-    "title": "Anuncia DIF juego con causa entre Algodoneros y Cañeros | Noticiero Altavoz",
-    "source": "Noticiero Altavoz",
-    "author": "Cecilia Rivera",
-    "published_iso": "2026-09-22T00:32:25+00:00",
-    "published_rfc2822": "Tue, 22 Sep 2026 00:32:25 +0000",
-    "published_display": "2026-09-22 00:32 UTC",
-    "url": "https://noticieroaltavoz.com/anuncia-dif-juego-con-causa-entre-algodoneros-y-caneros/",
-    "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTNBcDY4OEl3elRHZ2RKeWNGX3c0TndadmI4R1gyNWcwM2V1WWtGdTN2alRwb3hkdEItbFBZZDI0b3gtNEhCaFNYNzJKNmotQi1oNjdhU3RXN3ZGR3lQUjZPLUE4ejlhdTRCRXRSUFJRTlZPeUhWbGZkY3NxdS13d2ExMEdMbFltSTBXTlhB?oc=5",
-    "body": "Guasave, Sin.- El Sistema DIF Guasave realizará el próximo domingo 11 de octubre, a las 7:00 de la tarde, el Juego de Béisbol con Causa en el estadio Kuroda Park, entre Algodoneros de Guasave y Cañeros de Los Mochis para apoyar programas como la atención integral de niñas, niños y adolescentes, hijos de jornaleros agrícolas en Ruiz Cortines, a los que se brindan servicios de salud, alimentación, educación y otros cuidados especiales.\nLa presidenta municipal, Cecilia Ramírez Montoya, destacó que Guasave siempre responde a las causas nobles y que será una gran oportunidad para ayudar a DIF municipal.\nFernando García director general de Algodoneros de Guasave, destacó que la meta es llenar el estadio durante este encuentro y aclaró que la capacidad del estadio es de 8 mil 200 butacas, pero que lo más importante es ayudar a la población más vulnerable.\nLa tesorera municipal, Fernanda Rodríguez, comentó que el municipio aplicó una inversión de 800 mil pesos en la temporada anterior durante la operación diaria del CAI de niños jornaleros, que incluye la contratación de personal, en dos turnos, todos los servicios, traslados y apoyos para hospitalización.\nFinalmente los jugadores asistentes hicieron la invitación de asistir y apoyar comprando el boleto con valor de 100 pesos que estará disponible en DIF Guasave y en las cámaras de comercio.",
-    "matched_queries": [
-      "Algodoneros de Guasave"
-    ],
-    "collected_iso": "2026-09-22T05:25:45.269346+00:00"
-  },
-  {
-    "id": "2b8227e1f645ff418324",
-    "title": "Luis F. Miranda se perfila como abridor de Cañeros de Los Mochis para inauguración de LMP",
-    "source": "lineadirectaportal.com",
-    "author": "Armando Baldenebro",
-    "published_iso": "2026-09-22T00:15:02+00:00",
-    "published_rfc2822": "Tue, 22 Sep 2026 00:15:02 +0000",
-    "published_display": "2026-09-22 00:15 UTC",
-    "url": "https://lineadirectaportal.com/deportes/luis-f-miranda-se-perfila-como-abridor-de-caneros-de-los-mochis-para-inauguracion-de-lmp-2026-09-21__1706018",
-    "google_news_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVTAwTG82Z1lyWFdIZ2VGUEZlRzBudmQtNTl1WUZGZGxFSTlBWmtybXRnWDZSb3pnNFh1OEhGNVliMGRRTHJsTzc1TkxYa1NKcW1xa25BYnRkdFluTmdyMlkxYXZFYzd5QXE5R0pkMU9rVGN2bW1RRnZiNXkwWUNsNmlVNFByY20tVVZUbVZDQTRRTGhibUl0cmhYLTkwZW9SeTNLd3VMc0hQWThoSVFnNlJyakR5MnJRangxLWZPTkc0c29KaUVXSnJyYTBtbUhXRGdkbmhKWTMtOHZEbXZRSmF3?oc=5",
-    "body": "Los Mochis, Sinaloa. De acuerdo con el coach de pitcheo de Cañeros de Los Mochis, Jesús Manso González, el pitcher derecho Luis Fernando Miranda se perfila como el probable abridor del día inaugural el próximo 14 de octubre en Chevron Park.\nEn entrevista, este lunes 21 de septiembre de 2026 en el programa Por la Ruta de los Cañeros en La Mejor 90.9 FM y 540 AM, el coach de lanzadores aseguró que, por la calidad de Luis Fernando Miranda, debería ser el pitcher abridor del juego de apertura ante los Algodoneros de Guasave.\n“Para mí, Miranda es el abridor del juego inaugural”: Jesús Manso, coach de pitcheo\nEn la plática con el coach cubano durante el Clásico Mágico del Pacífico en El Fuerte, Sinaloa, Jesús Manso declaró que, en su opinión y experiencia, el derecho sonorense Luis Fernando Miranda debe ser el abridor del juego inaugural.\n“Para mí, Miranda es el abridor del juego inaugural”, mencionó en la entrevista, mientras hablaba de lanzadores abridores posibles para el resto de la rotación, como lo son Omar Araujo y Konnor Ash, entre otros.\nLea ahora: “Dispuestos a todo para ganar el campeonato”: Luis Fernando Miranda sobre Cañeros de Los Mochis\nCañeros de Los Mochis volverá de La Paz con el pitcheo al 80%\nManso González indicó que después de los primeros juegos de pretemporada en El Fuerte, el pitcheo de Cañeros está al 60 %; sin embargo, posterior a los encuentros que disputarán en este cierre de septiembre en La Paz y en Los Cabos, Baja California Sur, volverán aproximadamente al 80% de avance rumbo al inicio de temporada de la Liga Mexicana del Pacífico.\n“Haciendo un diagnóstico para lo que viene, que ya nos vamos el miércoles para La Paz, entonces, ya nos vamos a ir con los que más adelantados están. Hemos ido cada día avanzando más; podemos decir que estamos ya en un 60% de lo que debemos tener para la temporada. Yo digo que regresando de La Paz ya podemos estar en un 75-80% y ya terminando la Copa Gobernador ya debemos estar al 100% con todos los muchachos que nos hacen falta, ya sean los abridores y los relevistas”, comentó.\nRelevo mexicano de los Cañeros es de lo mejor de la LMP: Manso\nJesús Manso fue abordado sobre el tema del relevo mexicano y señaló que esa parte del picheo nacional de Cañeros de Los Mochis es de lo mejor en la liga, con varios elementos de probada calidad.\n“El relevo mexicano, tú sabes que la base nacional de nosotros es de las mejores de la liga, tenemos muchos muchachos que están bien y con mucha responsabilidad, con la anuencia del mánager, Irvin Machuca tendrá la responsabilidad de un octavo inning, a Lupe Chávez un séptimo, los demás muchachos que vienen también están bien”, comentó, al mencionar también los casos de posibles abridores mexicanos jóvenes como Francisco Pazos, Irving Cota, Heriberto Sánchez y más.\nLea también: “Poderles dar una victoria sería una gran satisfacción”: Luis Fernando Miranda en Serie del Caribe\nAdemás, Manso destacó que la llegada de Yoan López a Chevron Park este mismo 21 de septiembre les da la seguridad de tener cerrador, a la espera de otros velocistas como Danis Correa y Daysbel Hernández.\nEn el tema de los abridores, nombró los casos de los cubanos Luis Miguel Romero y Brander Guevara, así como a Konnor Ash, para completar una posible rotación abridora junto a Luis Fernando Miranda y Omar Araujo.\nSiga toda la información de LMP en la sección especial Línea Directa.",
-    "matched_queries": [
-      "LMP",
-      "Cañeros de Los Mochis",
-      "Luis Fernando Miranda",
-      "Algodoneros de Guasave"
-    ],
-    "collected_iso": "2026-09-22T01:22:27.178166+00:00"
   }
 ]

@@ -6,8 +6,60 @@
     <title><![CDATA[Monitor de Noticias LMB y LMP]]></title>
     <link>http://localhost:8000/</link>
     <description><![CDATA[Noticias de LMB, LMP, equipos, jugadores y béisbol mexicano descubiertas mediante búsquedas de Google News.]]></description>
-    <lastBuildDate>Sat, 14 Nov 2026 08:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:22:53 +0000</lastBuildDate>
     <generator>Free Python News RSS Bot</generator>
+    <item>
+      <title><![CDATA[Juegos y posiciones en la LMP]]></title>
+      <link>https://psn.si/lmp-juegos-posiciones-rm-30/2026/11/14/</link>
+      <guid isPermaLink="false">07c960fb82c30c0940ee</guid>
+      <pubDate>Sat, 14 Nov 2026 15:09:37 +0000</pubDate>
+      <source><![CDATA[PSN Noticias]]></source>
+      <dc:creator><![CDATA[Rene Mora]]></dc:creator>
+      <description><![CDATA[MEXICALI, Baja California.- En la Liga Mexicana del Pacífico (LMP), Algodoneros volvió a perder y solamente tiene ya un juego de ventaja sobre Naranjeros de Hermosilo y dos sobre Yaquis, Aguilas y Tomateros.
+POSICIONES
+Guasave 17-10
+Hermosillo 16-11
+Cd. Obregón 15-12
+Mexicali 15-12
+Culiacán 15-12
+Jalisco 13-14
+Los Mochis 13-14
+Nayarit 13-14
+Mazatlán 11-16
+Navojoa 8-19
+RESULTADOS DE AYER
+Aguilas 4-2 Algodoneros
+Tomateros 16-1 Venados
+Yaquis 6-2 Ja…]]></description>
+      <content:encoded><![CDATA[<p>MEXICALI, Baja California.- En la Liga Mexicana del Pacífico (LMP), Algodoneros volvió a perder y solamente tiene ya un juego de ventaja sobre Naranjeros de Hermosilo y dos sobre Yaquis, Aguilas y Tomateros.<br>POSICIONES<br>Guasave 17-10<br>Hermosillo 16-11<br>Cd. Obregón 15-12<br>Mexicali 15-12<br>Culiacán 15-12<br>Jalisco 13-14<br>Los Mochis 13-14<br>Nayarit 13-14<br>Mazatlán 11-16<br>Navojoa 8-19<br>RESULTADOS DE AYER<br>Aguilas 4-2 Algodoneros<br>Tomateros 16-1 Venados<br>Yaquis 6-2 Jaguares<br>Cañeros 5-3 Mayos<br>Naranjeros 4-1 Charros<br>JUEGOS PARA HOY<br>Charros en Hermosillo<br>Mayos en Los Mochis<br>Jaguares en Cd. Obregón<br>Venados en Culiacán<br>RM/PSN.SI</p>]]></content:encoded>
+      <category>LMP</category>
+      <category>Posiciones LMP</category>
+      <category>Yaquis de Obregón</category>
+      <category>Algodoneros de Guasave</category>
+    </item>
+    <item>
+      <title><![CDATA[Mickey Dean llega a las Leonas de Yucatán para liderar como manager sus rugidos]]></title>
+      <link>https://lmb.com.mx/noticias/mickey-dean-llega-las-leonas-de-yucatan-para-liderar-como-manager-sus-rugidos</link>
+      <guid isPermaLink="false">a30902aa39238ac1a797</guid>
+      <pubDate>Sat, 14 Nov 2026 14:27:31 +0000</pubDate>
+      <source><![CDATA[Liga Mexicana de Beisbol]]></source>
+      <description><![CDATA[Últimas Noticias
+| Equipo | G | P | % | GB | 
+|---|---|---|---|---|
+| Toros | 60 | 31 | .659 | - | 
+| Caliente  | 51 | 42 | .548 | 10.0 | 
+| Sultanes | 49 | 44 | .527 | 12.0 | 
+| Charros | 48 | 45 | .516 | 13.0 | 
+| Acereros | 48 | 45 | .516 | 13.0 | 
+| Algodoneros | 46 | 47 | .495 | 15.0 | 
+| Rieleros | 42 | 47 | .472 | 17.0 | 
+| Saraperos | 38 | 55 | .409 | 23.0 | 
+| Tecos | 36 | 57 | .387 | 25.0 | 
+| Dorados | 35 | 58 | .376 | 26.0 |]]></description>
+      <content:encoded><![CDATA[<p>Últimas Noticias<br>| Equipo | G | P | % | GB | <br>|---|---|---|---|---|<br>| Toros | 60 | 31 | .659 | - | <br>| Caliente  | 51 | 42 | .548 | 10.0 | <br>| Sultanes | 49 | 44 | .527 | 12.0 | <br>| Charros | 48 | 45 | .516 | 13.0 | <br>| Acereros | 48 | 45 | .516 | 13.0 | <br>| Algodoneros | 46 | 47 | .495 | 15.0 | <br>| Rieleros | 42 | 47 | .472 | 17.0 | <br>| Saraperos | 38 | 55 | .409 | 23.0 | <br>| Tecos | 36 | 57 | .387 | 25.0 | <br>| Dorados | 35 | 58 | .376 | 26.0 |</p>]]></content:encoded>
+      <category>Liga Mexicana de Béisbol</category>
+      <category>LMB</category>
+    </item>
     <item>
       <title><![CDATA[Mickey Dean es presentado como el primer manager en la historia de las Leonas de Yucatán]]></title>
       <link>https://lmb.com.mx/noticias/mickey-dean-es-presentado-como-el-primer-manager-en-la-historia-de-las-leonas-de-yucatan</link>
@@ -2130,32 +2182,6 @@ El equipo de Culiacán se impuso en el primer juego de la serie celebrada en el 
 Los Naranjeros de Hermosillo empataron el juego en la novena baja y mandaron el mismo a extra innings, pero los Tomateros de Culiacán resistieron el ataque de los locales en la décima entrada y se llevaron un sufrido triunfo por 5-4 este martes en el primer duelo de la serie.
 Después de armar u…]]></description>
       <content:encoded><![CDATA[<p>Caen Naranjeros en extra innings ante Tomateros<br>El equipo de Culiacán se impuso en el primer juego de la serie celebrada en el Estadio Fernando Valenzuela<br>Los Naranjeros de Hermosillo empataron el juego en la novena baja y mandaron el mismo a extra innings, pero los Tomateros de Culiacán resistieron el ataque de los locales en la décima entrada y se llevaron un sufrido triunfo por 5-4 este martes en el primer duelo de la serie.<br>Después de armar un rally de tres anotaciones y ponerse en ventaja de 5-2 en la décima alta, Seth Shuman salió a sellar el triunfo de los sinaloenses en el cierre del mismo episodio dominando a Nick Solak; no sin antes admitir un par de carreras producidas por Jasson Atondo y Reivaj García.<br>La escuadra local se puso adelante (1-0) en la primera entrada gracias a un sencillo de Víctor Mendoza que remolcó a Luis Durango desde la intermedia, aunque el pitcher Luis Cessa logró salir del aprieto con un doble play tras dominar a Rubén Ibarra.<br>Los visitantes empataron las cosas en la segunda alta, una vez que Orlando Martínez le conectó un doblete a Wílmer Ríos y luego fue mandado al plato con otro extrabase de Luis Verdugo.<br>Este último volvió a hacerle daño al abridor de Naranjeros en el cuarto rollo, cuando le sacó la bola del parque por el jardín izquierdo y puso el marcador a favor de Tomateros (2-1).<br>Cuando los guindas estaban a dos outs de ganar el juego, Robert Gsellman admitió sencillos consecutivos de Solak, Mendoza e Ibarra, lo que empató el marcador y obligó a entradas extras.<br>Ambas escuadras volverán a enfrentarse mañana miércoles a partir de las 19:30 horas en el segundo juego de la serie. Rolando Mora (1-0) está programado para abrir por Hermosillo, Edgar Arredondo (1-0) por Culiacán.<br>Te puede interesar: Curt Schilling lanzó el único juego sin hit ni carrera de su carrera con Naranjeros en 1988 y fue contra Tomateros, antes de convertirse en tricampeón de Serie Mundial</p>]]></content:encoded>
-      <category>Tomateros de Culiacán</category>
-      <category>Naranjeros de Hermosillo</category>
-    </item>
-    <item>
-      <title><![CDATA[El torneo Rising Stars arranca el próximo martes 10 en el Kukulcán; los Leones tendrán un plantel fuerte]]></title>
-      <link>https://www.lajornadamaya.mx/yucatan/270349/el-torneo-rising-stars-arranca-el-proximo-martes-10-en-el-kukulcan-los-leones-tendran-un-plantel-fuerte</link>
-      <guid isPermaLink="false">92935f8b3ac7306064a6</guid>
-      <pubDate>Wed, 04 Nov 2026 06:24:16 +0000</pubDate>
-      <source><![CDATA[La Jornada Maya]]></source>
-      <dc:creator><![CDATA[Antonio Bargas Cicero]]></dc:creator>
-      <description><![CDATA[La sangre joven de los Leones de Yucatán buscará su segundo título del año en el torneo Rising Stars, que tendrá como sede el Parque Kukulcán. La competencia, organizada por la Liga Mexicana de Beisbol y las Grandes Ligas, fue presentada este martes en la sala de medios de la casa de los melenudos; se llevará a cabo del próximo martes 10 al 5 o 6 de diciembre y contará con la participación de seis equipos, entre ellos dos que incluyen a prospecto…]]></description>
-      <content:encoded><![CDATA[<p>La sangre joven de los Leones de Yucatán buscará su segundo título del año en el torneo Rising Stars, que tendrá como sede el Parque Kukulcán. La competencia, organizada por la Liga Mexicana de Beisbol y las Grandes Ligas, fue presentada este martes en la sala de medios de la casa de los melenudos; se llevará a cabo del próximo martes 10 al 5 o 6 de diciembre y contará con la participación de seis equipos, entre ellos dos que incluyen a prospectos de diferentes clubes del circuito veraniego. Los selváticos, cuya sucursal en Los Cabos conquistó la Liga Norte de México este verano, así como los Diablos, Acereros y Sultanes volverán a competir; Monterrey tratará de defender la corona que ganó en la primera edición el año pasado en Cancún. Los dos nuevos conjuntos son LMB Rojo (Charros de Jalisco, Saraperos de Saltillo, El Águila de Veracruz y Caliente de Durango) y LMB Verde (Pericos de Puebla, Algodoneros de Unión Laguna, Tigres de Quintana Roo, Dorados de Chihuahua y Bravos de León). “Estamos muy contentos, seguimos con el beisbol luego de la Copa Mundial Sub-15. Gracias por confiar en Yucatán”, expresó Erick Arellano Hernández, presidente ejecutivo de los rugidores.  En el evento también estuvieron presentes, Rodrigo Fernández Fernández, managing director de MLB Latinoamérica; Mauro Armín Lizama Córdova, director general del Instituto del Deporte del Estado de Yucatán y Horacio de la Vega Flores, presidente ejecutivo de la Liga Mexicana. El Idey igualmente organiza el certamen, que tiene como objetivo principal desarrollar a las futuras estrellas de la pelota nacional. Cada equipo disputará 15 partidos de rol regular (del 10 al 28 próximos). Los cuatro mejores con base en el porcentaje de ganados y perdidos del standing general avanzarán a las semifinales (del próximo día 30 al 2 de diciembre), series a ganar dos de un máximo de tres choques. Los finalistas se enfrentarán del 4 al 6 de diciembre en una serie al mejor de tres. En los días de juego se realizarán tres desafíos en el Kukulcán, a las 10 de la mañana, 14 horas y 19 horas. Los duelos de las 10 de la mañana y de las 14 horas serán a puerta cerrada, mientras que los de la noche serán a puerta abierta y con acceso gratuito para el público. La LMB producirá un encuentro por día (el de las 19 horas) durante el rol regular, así como todos los de semifinales y la final. Otra importante experiencia como mánager para Luis Juárez Luis Juárez, quien en su primera experiencia como timonel condujo a la filial de los felinos al título de la Norte de México, estará al frente del conjunto melenudo.  “Se le da continuidad a Luis, que es alguien de casa que se está preparando”, dijo Arellano. “Cayó con el pie derecho como mánager al ser campeón en la Norte y luego llevó a la selección sub-15 a un histórico cuarto lugar mundial. Hay que llevarlo poco a poco, él seguramente puede tener como uno de sus sueños dirigir a los Leones y para nosotros es una opción real, pero hay que irlo preparando poco a poco”.  Los pilotos de los otros equipos son Hernando Arredondo (Acereros), Héctor Hurtado (Diablos Rojos), José Martínez (Sultanes), Diego Villalobos (LMB Verde) y David Domínguez (LMB Rojo). El debut de los “reyes de la selva” será ante los Acereros, a partir de las 19 horas. También en la jornada inaugural del próximo martes 10, los Sultanes se enfrentarán a LMB Verde, a las 10 de la mañana, y los Diablos a LMB Rojo, a las 14 horas. Las fieras tendrán un plantel fuerte, candidato a la corona. Lleva dos semanas entrenando en la Academia del Pacífico y lo integran campeones de la Norte de México, seleccionados nacionales sub-15 y algunos muchachos que fueron parte del Tricolor que recientemente compitió en el Campeonato Panamericano Sub-18. Igualmente cuenta con elementos que ya debutaron en la Liga Mexicana. El lanzador Daniel Burciaga y el “infielder” Francisco Coronado, quienes vieron acción en las organizaciones de los Padres de San Diego y Vigilantes de Texas, respectivamente, estarían en el róster, al igual que los yucatecos Emiliano Ambrosio, Francisco Briceño y Fabrizio Ramírez, lanzadores, y Enrique Betancourt, jardinero. Ambrosio, Briceño, Betancourt y el patrullero Miguel Castellano, de Cancún, otro candidato a estar en el conjunto, se preparan en el campamento de otoño que comanda el scout yucateco Raúl Ortega en el Kukulcán. Alex Tolosa, integrante del Tri sub-18 y cuyo futuro está en una organización de las Ligas Mayores, y el jugador de cuadro Gustavo Vargas brillaron con la majagua en el Rising Stars de 2025, donde los selváticos terminaron el rol regular en segundo lugar, les quitaron el invicto a los Diablos y perdieron en semifinales tras dos cerrados choques con los Sultanes.   “Yucatán se incorpora de tiempo completo al mundo del beisbol y del softbol con este torneo y con la llegada de las Leonas de Yucatán a la Liga Mexicana de Softbol”, manifestó De la Vega. “Rising Stars pretende desarrollar el talento de los jóvenes peloteros mexicanos. Les deseamos a todos los equipos participantes el mayor de los éxitos”. García, en la novena ideal de la LMP Reivaj García, jugador de cuadro de los Leones, fue incluido en la novena ideal de la semana en la Liga Mexicana del Pacífico. Con los Naranjeros de Hermosillo, bateó .444 y produjo tres carreras en cinco duelos.<br>Luis Juárez dirigirá al conjunto de prospectos tras conquistar la Liga Norte de México<br>Antonio Bargas Cicero<br>El Gobierno de Yucatán explicó que no puede realizar pago en un caso no resuelto<br>La Jornada Maya<br>Destacan la urgencia de dinamizar la competitividad del turismo mexicano<br>Ana Ramírez</p>]]></content:encoded>
-      <category>Liga Mexicana de Béisbol</category>
-      <category>LMB</category>
-      <category>Leones de Yucatán</category>
-    </item>
-    <item>
-      <title><![CDATA[Tomateros supera a Naranjeros en extrainnings y se lleva el primero de la serie]]></title>
-      <link>https://tribuna.com.mx/deportes/2026/11/03/tomateros-supera-a-naranjeros-en-extrainnings-y-se-lleva-el-primero-de-la-serie_710553/</link>
-      <guid isPermaLink="false">9388d93120b9f48e3d43</guid>
-      <pubDate>Wed, 04 Nov 2026 06:22:15 +0000</pubDate>
-      <source><![CDATA[La Tribuna (México)]]></source>
-      <dc:creator><![CDATA[Moisés Mendoza Contreras]]></dc:creator>
-      <description><![CDATA[Hermosillo, Sonora.–Tomateros de Culiacán anotó tres carreras en la décima entrada y resistió la reacción de Naranjeros de Hermosillo para imponerse 5-4 en el primer juego de la serie, disputado este martes en el Estadio Fernando Valenzuela.
-Hermosillo tomó ventaja en la primera entrada con el sencillo productor de Víctor Mendoza, que llevó al plato a Luis Durango. Culiacán respondió en la segunda con doblete de Luis Verdugo, quien impulsó a Orla…]]></description>
-      <content:encoded><![CDATA[<p>Hermosillo, Sonora.–Tomateros de Culiacán anotó tres carreras en la décima entrada y resistió la reacción de Naranjeros de Hermosillo para imponerse 5-4 en el primer juego de la serie, disputado este martes en el Estadio Fernando Valenzuela.<br>Hermosillo tomó ventaja en la primera entrada con el sencillo productor de Víctor Mendoza, que llevó al plato a Luis Durango. Culiacán respondió en la segunda con doblete de Luis Verdugo, quien impulsó a Orlando Martínez, y el propio Verdugo puso adelante a los visitantes 2-1 con cuadrangular solitario en la cuarta.<br>Acciones<br>Luis Cessa mantuvo controlada a la ofensiva local durante seis entradas, en las que permitió una carrera y tres imparables, con tres ponches y una base por bolas. Wilmer Ríos trabajó cinco episodios por Naranjeros, con dos carreras y seis hits admitidos; en la quinta salió de una amenaza con las bases llenas.<br>La ventaja visitante se mantuvo hasta la novena, cuando Nick Solak y Mendoza conectaron sencillos consecutivos con un out ante Robert Gsellman. Rubén Ibarra siguió con imparable al jardín izquierdo para remolcar a Solak y empatar 2-2, aunque Hermosillo no consiguió completar la remontada.<br>En la décima, con Alí Solís como corredor automático, J.P. Martínez abrió con sencillo y Ramiro Peña produjo la carrera de la ventaja mediante elevado de sacrificio. Más adelante, con las bases llenas, Fabricio Macías entró como emergente y pegó doblete de dos carreras para ampliar la diferencia a 5-2.<br>Naranjeros respondió en el cierre: Jasson Atondo impulsó a Dylan Jasso con sencillo y avanzó a segunda por error del jardinero. Un pelotazo a Sergio Burruel y un pasaporte a Durango llenaron las bases; Reivaj García produjo otra carrera con rodado para out forzado. Sin embargo, Nick Solak elevó al jardín derecho para el último out, con el empate en tercera.<br>Gsellman (2-0) se acreditó la victoria, Jimmy Burnette (3-1) cargó con la derrota y Seth Shuman consiguió su tercer salvamento.<br>Para el segundo juego de la serie este miércoles, están anunciados como pitchers abridores Edgar Arredondo por Culiacán y Rolando Mora por Hermosillo.<br>Fuente: Tribuna del Yaqui</p>]]></content:encoded>
       <category>Tomateros de Culiacán</category>
       <category>Naranjeros de Hermosillo</category>
     </item>
